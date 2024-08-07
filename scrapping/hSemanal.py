@@ -28,7 +28,7 @@ def save_weekly_horoscope(horoscope_data):
     horoscope_data['valid_from'] = next_sunday.isoformat()
     horoscope_data['valid_until'] = (next_sunday + timedelta(days=6)).isoformat()
 
-    # Guardar los datos en un archivo JSON
+    # Guardar los datos en un archivo JSON !
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(horoscope_data, f, ensure_ascii=False, indent=4)
 

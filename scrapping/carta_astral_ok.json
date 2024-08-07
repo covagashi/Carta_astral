@@ -1,0 +1,249 @@
+{
+    "nombre": "Ejemplo Nombre",
+    "fecha_nacimiento": "Viernes 23 Diciembre 1994",
+    "lugar_nacimiento": "Abrera - Barcelona España",
+    "signo_lunar": "Virgo",
+    "coordenadas": {
+        "longitud": "01E54",
+        "latitud": "41N31"
+    },
+    "hora_nacimiento": "11:40",
+    "tiempo_universal": "10:40",
+    "signo_solar": "Capricornio",
+    "signo_ascendente": "Piscis",
+    "posiciones_planetarias": {
+        "Sol": {
+            "grados": "1°22'",
+            "signo": "Capricornio",
+            "casa": "10"
+        },
+        "Luna": {
+            "grados": "2°30'",
+            "signo": "Virgo",
+            "casa": "7"
+        },
+        "Mercurio": {
+            "grados": "6°38'",
+            "signo": "Capricornio",
+            "casa": "11"
+        },
+        "Venus": {
+            "grados": "16°28'",
+            "signo": "Escorpio",
+            "casa": "8"
+        },
+        "Marte": {
+            "grados": "1°59'",
+            "signo": "Virgo",
+            "casa": "7"
+        },
+        "Jupiter": {
+            "grados": "2°58'",
+            "signo": "Sagitario",
+            "casa": "9"
+        },
+        "Saturno": {
+            "grados": "7°19'",
+            "signo": "Piscis",
+            "casa": "1"
+        },
+        "Urano": {
+            "grados": "24°59'",
+            "signo": "Capricornio",
+            "casa": "11"
+        },
+        "Neptuno": {
+            "grados": "22°15'",
+            "signo": "Capricornio",
+            "casa": "11"
+        },
+        "Pluton": {
+            "grados": "29°14'",
+            "signo": "Escorpio",
+            "casa": "9"
+        },
+        "Ascendente": {
+            "grados": "1°56'",
+            "signo": "Piscis",
+            "casa": null
+        },
+        "Medio Cielo": {
+            "grados": "14°55'",
+            "signo": "Sagitario",
+            "casa": null
+        }
+    },
+    "tablas_casas": {
+        "Casa 1": {
+            "grados": "1°56'",
+            "signo": "Piscis"
+        },
+        "Casa 2": {
+            "grados": "19°45'",
+            "signo": "Aries"
+        },
+        "Casa 3": {
+            "grados": "21°42'",
+            "signo": "Tauro"
+        },
+        "Casa 4": {
+            "grados": "14°55'",
+            "signo": "Geminis"
+        },
+        "Casa 5": {
+            "grados": "5°39'",
+            "signo": "Cancer"
+        },
+        "Casa 6": {
+            "grados": "28°41'",
+            "signo": "Cancer"
+        },
+        "Casa 7": {
+            "grados": "1°56'",
+            "signo": "Virgo"
+        },
+        "Casa 8": {
+            "grados": "19°45'",
+            "signo": "Libra"
+        },
+        "Casa 9": {
+            "grados": "21°42'",
+            "signo": "Escorpio"
+        },
+        "Casa 10": {
+            "grados": "14°55'",
+            "signo": "Sagitario"
+        },
+        "Casa 11": {
+            "grados": "5°39'",
+            "signo": "Capricornio"
+        },
+        "Casa 12": {
+            "grados": "28°41'",
+            "signo": "Capricornio"
+        }
+    },
+    "aspectos": [
+        {
+            "planeta1": "Sol",
+            "aspecto": "Trígono",
+            "planeta2": "Luna"
+        },
+        {
+            "planeta1": "Luna",
+            "aspecto": "Conjunción",
+            "planeta2": "Marte"
+        },
+        {
+            "planeta1": "Luna",
+            "aspecto": "Cuadratura",
+            "planeta2": "Jupiter"
+        },
+        {
+            "planeta1": "Luna",
+            "aspecto": "Oposición",
+            "planeta2": "Saturno"
+        },
+        {
+            "planeta1": "Luna",
+            "aspecto": "Cuadratura",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Luna",
+            "aspecto": "Oposición",
+            "planeta2": "Ascendente"
+        },
+        {
+            "planeta1": "Mercurio",
+            "aspecto": "Trígono",
+            "planeta2": "Marte"
+        },
+        {
+            "planeta1": "Mercurio",
+            "aspecto": "Sextil",
+            "planeta2": "Saturno"
+        },
+        {
+            "planeta1": "Mercurio",
+            "aspecto": "Sextil",
+            "planeta2": "Ascendente"
+        },
+        {
+            "planeta1": "Venus",
+            "aspecto": "Trígono",
+            "planeta2": "Saturno"
+        },
+        {
+            "planeta1": "Venus",
+            "aspecto": "Sextil",
+            "planeta2": "Urano"
+        },
+        {
+            "planeta1": "Marte",
+            "aspecto": "Cuadratura",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Marte",
+            "aspecto": "Oposición",
+            "planeta2": "Ascendente"
+        },
+        {
+            "planeta1": "Jupiter",
+            "aspecto": "Cuadratura",
+            "planeta2": "Saturno"
+        },
+        {
+            "planeta1": "Jupiter",
+            "aspecto": "Sextil",
+            "planeta2": "Urano"
+        },
+        {
+            "planeta1": "Jupiter",
+            "aspecto": "Conjunción",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Jupiter",
+            "aspecto": "Cuadratura",
+            "planeta2": "Ascendente"
+        },
+        {
+            "planeta1": "Saturno",
+            "aspecto": "Cuadratura",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Saturno",
+            "aspecto": "Conjunción",
+            "planeta2": "Ascendente"
+        },
+        {
+            "planeta1": "Saturno",
+            "aspecto": "Cuadratura",
+            "planeta2": "Mediocielo"
+        },
+        {
+            "planeta1": "Urano",
+            "aspecto": "Conjunción",
+            "planeta2": "Neptuno"
+        },
+        {
+            "planeta1": "Urano",
+            "aspecto": "Sextil",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Neptuno",
+            "aspecto": "Sextil",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Pluton",
+            "aspecto": "Cuadratura",
+            "planeta2": "Ascendente"
+        }
+    ],
+    "fecha_generacion": "2024-08-07T20:32:20.959774"
+}

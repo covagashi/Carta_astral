@@ -13,8 +13,8 @@ url = "https://www.losarcanos.com/carta-astral-pdf.php"
 # Datos del formulario
 data = {
     "nombre": "Ejemplo Nombre",
-    "dia": "23",
-    "mes": "12",
+    "dia": "04",
+    "mes": "05",
     "ano": "1994",
     "hora": "11",
     "minutos": "40",
@@ -37,7 +37,7 @@ try:
         
         
         
-        with open("carta_astraal.pdf", "wb") as f:
+        with open("carta_astral.pdf", "wb") as f:
             f.write(response.content)
         logger.info("PDF guardado como 'carta_astral.pdf'")
         

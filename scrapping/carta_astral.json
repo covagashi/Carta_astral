@@ -1,0 +1,287 @@
+{
+    "nombre": "Ejemplo Nombre",
+    "fecha_nacimiento": "rcoles 04 Mayo 1994",
+    "lugar_nacimiento": "Abrera - Barcelona España",
+    "signo_lunar": "Piscis",
+    "coordenadas": {
+        "longitud": "01E54",
+        "latitud": "41N31"
+    },
+    "hora_nacimiento": "11:40",
+    "tiempo_universal": "09:40",
+    "signo_solar": "Tauro",
+    "signo_ascendente": "Cancer",
+    "posiciones_planetarias": {
+        "Sol": {
+            "grados": "13°41'",
+            "signo": "Tauro",
+            "casa": "10"
+        },
+        "Luna": {
+            "grados": "4°35'",
+            "signo": "Piscis",
+            "casa": "8"
+        },
+        "Mercurio": {
+            "grados": "18°24'",
+            "signo": "Tauro",
+            "casa": "11"
+        },
+        "Venus": {
+            "grados": "9°53'",
+            "signo": "Geminis",
+            "casa": "11"
+        },
+        "Marte": {
+            "grados": "15°10'",
+            "signo": "Aries",
+            "casa": "10"
+        },
+        "Jupiter": {
+            "grados": "9°16'",
+            "signo": "Escorpio",
+            "casa": "4"
+        },
+        "Saturno": {
+            "grados": "10°26'",
+            "signo": "Piscis",
+            "casa": "9"
+        },
+        "Urano": {
+            "grados": "26°20'",
+            "signo": "Capricornio",
+            "casa": "7"
+        },
+        "Neptuno": {
+            "grados": "23°19'",
+            "signo": "Capricornio",
+            "casa": "6"
+        },
+        "Pluton": {
+            "grados": "27°0'",
+            "signo": "Escorpio",
+            "casa": "5"
+        },
+        "Ascendente": {
+            "grados": "26°36'",
+            "signo": "Cancer",
+            "casa": null
+        },
+        "Medio Cielo": {
+            "grados": "9°44'",
+            "signo": "Aries",
+            "casa": null
+        }
+    },
+    "tablas_casas": {
+        "Casa 1": {
+            "grados": "26°36'",
+            "signo": "Cancer"
+        },
+        "Casa 2": {
+            "grados": "16°16'",
+            "signo": "Leo"
+        },
+        "Casa 3": {
+            "grados": "9°45'",
+            "signo": "Virgo"
+        },
+        "Casa 4": {
+            "grados": "9°44'",
+            "signo": "Libra"
+        },
+        "Casa 5": {
+            "grados": "16°34'",
+            "signo": "Escorpio"
+        },
+        "Casa 6": {
+            "grados": "24°24'",
+            "signo": "Sagitario"
+        },
+        "Casa 7": {
+            "grados": "26°36'",
+            "signo": "Capricornio"
+        },
+        "Casa 8": {
+            "grados": "16°16'",
+            "signo": "Acuario"
+        },
+        "Casa 9": {
+            "grados": "9°45'",
+            "signo": "Piscis"
+        },
+        "Casa 10": {
+            "grados": "9°44'",
+            "signo": "Aries"
+        },
+        "Casa 11": {
+            "grados": "16°34'",
+            "signo": "Tauro"
+        },
+        "Casa 12": {
+            "grados": "24°24'",
+            "signo": "Geminis"
+        }
+    },
+    "aspectos": [
+        {
+            "planeta1": "Luna",
+            "aspecto": "Cuadratura",
+            "planeta2": "Venus"
+        },
+        {
+            "planeta1": "Luna",
+            "aspecto": "Trígono",
+            "planeta2": "Jupiter"
+        },
+        {
+            "planeta1": "Luna",
+            "aspecto": "Conjunción",
+            "planeta2": "Saturno"
+        },
+        {
+            "planeta1": "Luna",
+            "aspecto": "Cuadratura",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Mercurio",
+            "aspecto": "Oposición",
+            "planeta2": "Jupiter"
+        },
+        {
+            "planeta1": "Mercurio",
+            "aspecto": "Sextil",
+            "planeta2": "Saturno"
+        },
+        {
+            "planeta1": "Mercurio",
+            "aspecto": "Trígono",
+            "planeta2": "Urano"
+        },
+        {
+            "planeta1": "Mercurio",
+            "aspecto": "Trígono",
+            "planeta2": "Neptuno"
+        },
+        {
+            "planeta1": "Mercurio",
+            "aspecto": "Oposición",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Venus",
+            "aspecto": "Sextil",
+            "planeta2": "Mediocielo"
+        },
+        {
+            "planeta1": "Marte",
+            "aspecto": "Cuadratura",
+            "planeta2": "Neptuno"
+        },
+        {
+            "planeta1": "Marte",
+            "aspecto": "Conjunción",
+            "planeta2": "Mediocielo"
+        },
+        {
+            "planeta1": "Jupiter",
+            "aspecto": "Trígono",
+            "planeta2": "Saturno"
+        },
+        {
+            "planeta1": "Urano",
+            "aspecto": "Conjunción",
+            "planeta2": "Neptuno"
+        },
+        {
+            "planeta1": "Urano",
+            "aspecto": "Sextil",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Urano",
+            "aspecto": "Oposición",
+            "planeta2": "Ascendente"
+        },
+        {
+            "planeta1": "Neptuno",
+            "aspecto": "Sextil",
+            "planeta2": "Pluton"
+        },
+        {
+            "planeta1": "Neptuno",
+            "aspecto": "Oposición",
+            "planeta2": "Ascendente"
+        },
+        {
+            "planeta1": "Pluton",
+            "aspecto": "Trígono",
+            "planeta2": "Ascendente"
+        }
+    ],
+    "aspectario": [
+        "Sol Conjunción 0",
+        "Sol Conjunción 1",
+        "Sol wt 2",
+        "Sol Trígono 3",
+        "Luna Oposición 0",
+        "Luna Cuadratura 1",
+        "Luna eq 2",
+        "Luna Cuadratura 3",
+        "Mercurio Trígono 0",
+        "Mercurio wteewt 1",
+        "Venus Cuadratura 0",
+        "Venus Sextil 1",
+        "Venus Cuadratura 2",
+        "Venus Sextil 3",
+        "Marte Sextil 0",
+        "Marte Cuadratura 1",
+        "Marte Conjunción 2",
+        "Jupiter Y 0",
+        "Jupiter Trígono 1",
+        "Saturno U 0",
+        "Urano I 0",
+        "Urano qtw 1",
+        "Neptuno O 0",
+        "Neptuno tw 1",
+        "Pluton … 0",
+        "Pluton Trígono 1"
+    ],
+    "distribucion_planetas": {
+        "modalidades": {
+            "Cardinales": [
+                "5TIOZX"
+            ],
+            "Fijos": [
+                "4QEY…"
+            ],
+            "Mutables": [
+                "3WRU"
+            ]
+        },
+        "elementos": {
+            "Fuego": [
+                "2TX"
+            ],
+            "Tierra": [
+                "4QEIO"
+            ],
+            "Aire": [
+                "1R"
+            ],
+            "Agua": [
+                "5WYU…Z"
+            ]
+        },
+        "temperamento": {
+            "Masculino": [
+                "3RTX"
+            ],
+            "Femenino": [
+                "9QWEYUIO…Z"
+            ]
+        }
+    },
+    "fecha_generacion": "2024-08-07T23:25:33.268123"
+}
