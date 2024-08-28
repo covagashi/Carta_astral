@@ -1,0 +1,61 @@
+{
+  "name": "ICELAND",
+  "code": "50",
+  "provinces": [
+    {
+      "name": "Akureyri",
+      "code": "4016",
+      "cities": []
+    },
+    {
+      "name": "Akurnes",
+      "code": "4017",
+      "cities": []
+    },
+    {
+      "name": "Dalatangi",
+      "code": "4022",
+      "cities": []
+    },
+    {
+      "name": "Egilsstadir",
+      "code": "4018",
+      "cities": []
+    },
+    {
+      "name": "Grimsey",
+      "code": "4019",
+      "cities": []
+    },
+    {
+      "name": "Keflavikurflugvollur",
+      "code": "4013",
+      "cities": []
+    },
+    {
+      "name": "Kirkjubaejarklaustur",
+      "code": "4021",
+      "cities": []
+    },
+    {
+      "name": "Raufarhofn",
+      "code": "4023",
+      "cities": []
+    },
+    {
+      "name": "Reykjavik",
+      "code": "4014",
+      "cities": []
+    },
+    {
+      "name": "Stykkisholmur",
+      "code": "4020",
+      "cities": []
+    },
+    {
+      "name": "Vestmannaeyjar",
+      "code": "4015",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ESTONIA",
+  "code": "32",
+  "provinces": [
+    {
+      "name": "PARNU",
+      "code": "2667",
+      "cities": []
+    },
+    {
+      "name": "TALLINN",
+      "code": "3429",
+      "cities": []
+    },
+    {
+      "name": "TARTU",
+      "code": "3450",
+      "cities": []
+    }
+  ]
+}

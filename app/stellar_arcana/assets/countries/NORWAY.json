@@ -1,0 +1,51 @@
+{
+  "name": "NORWAY",
+  "code": "84",
+  "provinces": [
+    {
+      "name": "BERGEN",
+      "code": "348",
+      "cities": []
+    },
+    {
+      "name": "DRAMMEN",
+      "code": "973",
+      "cities": []
+    },
+    {
+      "name": "FREDRIKSTAD",
+      "code": "1207",
+      "cities": []
+    },
+    {
+      "name": "HAUGESUND",
+      "code": "1461",
+      "cities": []
+    },
+    {
+      "name": "KRISTIANSAND",
+      "code": "1825",
+      "cities": []
+    },
+    {
+      "name": "OSLO",
+      "code": "2596",
+      "cities": []
+    },
+    {
+      "name": "SKIEN",
+      "code": "3241",
+      "cities": []
+    },
+    {
+      "name": "STAVENGER",
+      "code": "3339",
+      "cities": []
+    },
+    {
+      "name": "TRONDHEIM",
+      "code": "3561",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "name": "AUSTRIA",
+  "code": "8",
+  "provinces": [
+    {
+      "name": "BADEN",
+      "code": "212",
+      "cities": []
+    },
+    {
+      "name": "BERNDORF",
+      "code": "355",
+      "cities": []
+    },
+    {
+      "name": "BISCHOFSHOFEN",
+      "code": "386",
+      "cities": []
+    },
+    {
+      "name": "BLUDENZ",
+      "code": "405",
+      "cities": []
+    },
+    {
+      "name": "BRAUNAU",
+      "code": "464",
+      "cities": []
+    },
+    {
+      "name": "BREGENZ",
+      "code": "470",
+      "cities": []
+    },
+    {
+      "name": "BRUCK",
+      "code": "509",
+      "cities": []
+    },
+    {
+      "name": "DORNBIRN",
+      "code": "963",
+      "cities": []
+    },
+    {
+      "name": "EFERDING",
+      "code": "1042",
+      "cities": []
+    },
+    {
+      "name": "EGGENBURG",
+      "code": "1044",
+      "cities": []
+    },
+    {
+      "name": "ENNS",
+      "code": "1089",
+      "cities": []
+    },
+    {
+      "name": "FELDKIRCH",
+      "code": "1154",
+      "cities": []
+    },
+    {
+      "name": "GRAZ",
+      "code": "1341",
+      "cities": []
+    },
+    {
+      "name": "GREIN",
+      "code": "1361",
+      "cities": []
+    },
+    {
+      "name": "HALLEIN",
+      "code": "1413",
+      "cities": []
+    },
+    {
+      "name": "INNSBRUCK",
+      "code": "1591",
+      "cities": []
+    },
+    {
+      "name": "KAPFENBURG",
+      "code": "1703",
+      "cities": []
+    },
+    {
+      "name": "KLAGENFURT",
+      "code": "1785",
+      "cities": []
+    },
+    {
+      "name": "KLAGENFURT",
+      "code": "1786",
+      "cities": []
+    },
+    {
+      "name": "KREMS",
+      "code": "1824",
+      "cities": []
+    },
+    {
+      "name": "KUFSTEIN",
+      "code": "1829",
+      "cities": []
+    },
+    {
+      "name": "LEOBEN",
+      "code": "1942",
+      "cities": []
+    },
+    {
+      "name": "LIENZ",
+      "code": "1971",
+      "cities": []
+    },
+    {
+      "name": "LIESING",
+      "code": "1973",
+      "cities": []
+    },
+    {
+      "name": "LINZ",
+      "code": "1987",
+      "cities": []
+    },
+    {
+      "name": "PASSAU",
+      "code": "2673",
+      "cities": []
+    },
+    {
+      "name": "RIED",
+      "code": "2958",
+      "cities": []
+    },
+    {
+      "name": "SALZBURG",
+      "code": "3065",
+      "cities": []
+    },
+    {
+      "name": "SCHWAZ",
+      "code": "3167",
+      "cities": []
+    },
+    {
+      "name": "ST. POLTEN",
+      "code": "3325",
+      "cities": []
+    },
+    {
+      "name": "STEYR",
+      "code": "3349",
+      "cities": []
+    },
+    {
+      "name": "TULIN",
+      "code": "3575",
+      "cities": []
+    },
+    {
+      "name": "URFAHR",
+      "code": "3625",
+      "cities": []
+    },
+    {
+      "name": "VIENNA",
+      "code": "3680",
+      "cities": []
+    },
+    {
+      "name": "VILLACH",
+      "code": "3687",
+      "cities": []
+    },
+    {
+      "name": "WEIS",
+      "code": "3777",
+      "cities": []
+    },
+    {
+      "name": "WIENER NEUSTADT",
+      "code": "3825",
+      "cities": []
+    }
+  ]
+}

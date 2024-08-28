@@ -1,0 +1,100 @@
+{
+  "name": "ALGERIA",
+  "code": "3",
+  "provinces": [
+    {
+      "name": "ALGIERS",
+      "code": "64",
+      "cities": [
+        {
+          "name": "ALGIERS",
+          "code": "64"
+        },
+        {
+          "name": "ANNABA",
+          "code": "119"
+        },
+        {
+          "name": "BECHAR",
+          "code": "293"
+        },
+        {
+          "name": "BEJAIA",
+          "code": "302"
+        },
+        {
+          "name": "BLIDA",
+          "code": "398"
+        },
+        {
+          "name": "CONSTANTINE",
+          "code": "819"
+        },
+        {
+          "name": "GHARDAIA",
+          "code": "1277"
+        },
+        {
+          "name": "GUELMA",
+          "code": "1379"
+        },
+        {
+          "name": "MASCARA",
+          "code": "2166"
+        },
+        {
+          "name": "MONDOVI",
+          "code": "2292"
+        },
+        {
+          "name": "MOSTAGANEM",
+          "code": "2333"
+        },
+        {
+          "name": "MOSTAGANEM",
+          "code": "2334"
+        },
+        {
+          "name": "ORAN",
+          "code": "2571"
+        },
+        {
+          "name": "ORLEANSVILLE",
+          "code": "2587"
+        },
+        {
+          "name": "PHILIPPEVILLE",
+          "code": "2722"
+        },
+        {
+          "name": "RELIZANE",
+          "code": "2921"
+        },
+        {
+          "name": "SETIF",
+          "code": "3188"
+        },
+        {
+          "name": "SIDI-BEL-ABES",
+          "code": "3224"
+        },
+        {
+          "name": "SKIKDA",
+          "code": "3242"
+        },
+        {
+          "name": "TBESSA",
+          "code": "3457"
+        },
+        {
+          "name": "TIEMCEN",
+          "code": "3495"
+        },
+        {
+          "name": "TIZI-OUZOU",
+          "code": "3509"
+        }
+      ]
+    }
+  ]
+}

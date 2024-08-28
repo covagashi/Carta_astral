@@ -1,0 +1,36 @@
+{
+  "name": "MACEDONIA",
+  "code": "74",
+  "provinces": [
+    {
+      "name": "BITOLA",
+      "code": "388",
+      "cities": []
+    },
+    {
+      "name": "KUMANOVO",
+      "code": "1831",
+      "cities": []
+    },
+    {
+      "name": "PRILEP",
+      "code": "2832",
+      "cities": []
+    },
+    {
+      "name": "SKOPJE",
+      "code": "3245",
+      "cities": []
+    },
+    {
+      "name": "TETOVO",
+      "code": "3476",
+      "cities": []
+    },
+    {
+      "name": "TITOV VELES",
+      "code": "3507",
+      "cities": []
+    }
+  ]
+}

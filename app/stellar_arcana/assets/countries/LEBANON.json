@@ -1,0 +1,21 @@
+{
+  "name": "LEBANON",
+  "code": "68",
+  "provinces": [
+    {
+      "name": "BEIRUT",
+      "code": "300",
+      "cities": []
+    },
+    {
+      "name": "TARABULUS",
+      "code": "3443",
+      "cities": []
+    },
+    {
+      "name": "TRIPOLI",
+      "code": "3555",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "name": "GREECE",
+  "code": "44",
+  "provinces": [
+    {
+      "name": "AGRINION",
+      "code": "26",
+      "cities": []
+    },
+    {
+      "name": "AIYION",
+      "code": "35",
+      "cities": []
+    },
+    {
+      "name": "ALEXANDROUPOLIS",
+      "code": "62",
+      "cities": []
+    },
+    {
+      "name": "AMALIAS",
+      "code": "90",
+      "cities": []
+    },
+    {
+      "name": "ARGOS",
+      "code": "146",
+      "cities": []
+    },
+    {
+      "name": "ARTA",
+      "code": "157",
+      "cities": []
+    },
+    {
+      "name": "ATHENS",
+      "code": "180",
+      "cities": []
+    },
+    {
+      "name": "CORINTH",
+      "code": "834",
+      "cities": []
+    },
+    {
+      "name": "DRAMA",
+      "code": "972",
+      "cities": []
+    },
+    {
+      "name": "EDHESSA",
+      "code": "1034",
+      "cities": []
+    },
+    {
+      "name": "FLORINA",
+      "code": "1170",
+      "cities": []
+    },
+    {
+      "name": "IOANNINA",
+      "code": "1595",
+      "cities": []
+    },
+    {
+      "name": "IRAKLION",
+      "code": "1601",
+      "cities": []
+    },
+    {
+      "name": "KALAMAI",
+      "code": "1681",
+      "cities": []
+    },
+    {
+      "name": "KARDHITSA",
+      "code": "1708",
+      "cities": []
+    },
+    {
+      "name": "KASTORIA",
+      "code": "1716",
+      "cities": []
+    },
+    {
+      "name": "KATERINI",
+      "code": "1717",
+      "cities": []
+    },
+    {
+      "name": "KAVALLA",
+      "code": "1721",
+      "cities": []
+    },
+    {
+      "name": "KERKIRA",
+      "code": "1745",
+      "cities": []
+    },
+    {
+      "name": "KHALKIS",
+      "code": "1752",
+      "cities": []
+    },
+    {
+      "name": "KHALKIS",
+      "code": "1753",
+      "cities": []
+    },
+    {
+      "name": "KHANIA",
+      "code": "1754",
+      "cities": []
+    },
+    {
+      "name": "KHIOS",
+      "code": "1758",
+      "cities": []
+    },
+    {
+      "name": "KILKIS",
+      "code": "1764",
+      "cities": []
+    },
+    {
+      "name": "KOMOTINI",
+      "code": "1802",
+      "cities": []
+    },
+    {
+      "name": "KORINTHOS",
+      "code": "1806",
+      "cities": []
+    },
+    {
+      "name": "KOZANI",
+      "code": "1816",
+      "cities": []
+    },
+    {
+      "name": "LAMIA",
+      "code": "1884",
+      "cities": []
+    },
+    {
+      "name": "LARISA",
+      "code": "1896",
+      "cities": []
+    },
+    {
+      "name": "LEVADHIA",
+      "code": "1952",
+      "cities": []
+    },
+    {
+      "name": "MEGARA",
+      "code": "2200",
+      "cities": []
+    },
+    {
+      "name": "MESOLONGION",
+      "code": "2231",
+      "cities": []
+    },
+    {
+      "name": "MITILINI",
+      "code": "2280",
+      "cities": []
+    },
+    {
+      "name": "NAOUSA",
+      "code": "2392",
+      "cities": []
+    },
+    {
+      "name": "PATRAI",
+      "code": "2678",
+      "cities": []
+    },
+    {
+      "name": "PATRAS",
+      "code": "2679",
+      "cities": []
+    },
+    {
+      "name": "PIRAEUS",
+      "code": "2741",
+      "cities": []
+    },
+    {
+      "name": "PIRGOS",
+      "code": "2742",
+      "cities": []
+    },
+    {
+      "name": "RETHIMNON",
+      "code": "2931",
+      "cities": []
+    },
+    {
+      "name": "RHODES",
+      "code": "2941",
+      "cities": []
+    },
+    {
+      "name": "RODHOS",
+      "code": "2988",
+      "cities": []
+    },
+    {
+      "name": "SALAMIS",
+      "code": "3047",
+      "cities": []
+    },
+    {
+      "name": "SALONIKA",
+      "code": "3060",
+      "cities": []
+    },
+    {
+      "name": "SERRAI",
+      "code": "3186",
+      "cities": []
+    },
+    {
+      "name": "SPARTA",
+      "code": "3285",
+      "cities": []
+    },
+    {
+      "name": "SPARTI",
+      "code": "3287",
+      "cities": []
+    },
+    {
+      "name": "THEBES",
+      "code": "3483",
+      "cities": []
+    },
+    {
+      "name": "THESSALONIKI",
+      "code": "3484",
+      "cities": []
+    },
+    {
+      "name": "THIVAI",
+      "code": "3486",
+      "cities": []
+    },
+    {
+      "name": "TIRNAVOS",
+      "code": "3506",
+      "cities": []
+    },
+    {
+      "name": "TRIKKALA",
+      "code": "3553",
+      "cities": []
+    },
+    {
+      "name": "TRIPOLIS",
+      "code": "3557",
+      "cities": []
+    },
+    {
+      "name": "VEROIA",
+      "code": "3668",
+      "cities": []
+    },
+    {
+      "name": "VOLOS",
+      "code": "3710",
+      "cities": []
+    },
+    {
+      "name": "XANTHI",
+      "code": "3884",
+      "cities": []
+    },
+    {
+      "name": "YANNINA",
+      "code": "3891",
+      "cities": []
+    },
+    {
+      "name": "YIANNITSA",
+      "code": "3898",
+      "cities": []
+    },
+    {
+      "name": "ZAKINTHOS",
+      "code": "3919",
+      "cities": []
+    }
+  ]
+}

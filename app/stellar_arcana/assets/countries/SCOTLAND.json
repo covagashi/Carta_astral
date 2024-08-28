@@ -1,0 +1,116 @@
+{
+  "name": "SCOTLAND",
+  "code": "94",
+  "provinces": [
+    {
+      "name": "ABERDEEN",
+      "code": "8",
+      "cities": []
+    },
+    {
+      "name": "AIRDRIE",
+      "code": "33",
+      "cities": []
+    },
+    {
+      "name": "AYR",
+      "code": "206",
+      "cities": []
+    },
+    {
+      "name": "CLYDEBANK",
+      "code": "778",
+      "cities": []
+    },
+    {
+      "name": "COATBRIDGE",
+      "code": "779",
+      "cities": []
+    },
+    {
+      "name": "CUMBERNAULD",
+      "code": "879",
+      "cities": []
+    },
+    {
+      "name": "DUMFRIES",
+      "code": "987",
+      "cities": []
+    },
+    {
+      "name": "DUNDEE",
+      "code": "996",
+      "cities": []
+    },
+    {
+      "name": "DUNFERMLINE",
+      "code": "999",
+      "cities": []
+    },
+    {
+      "name": "EAST KILBRIDE",
+      "code": "1019",
+      "cities": []
+    },
+    {
+      "name": "EDINBURGH",
+      "code": "1037",
+      "cities": []
+    },
+    {
+      "name": "GLASGOW",
+      "code": "1288",
+      "cities": []
+    },
+    {
+      "name": "GREENOCK",
+      "code": "1348",
+      "cities": []
+    },
+    {
+      "name": "HAMILTON",
+      "code": "1424",
+      "cities": []
+    },
+    {
+      "name": "INVERNESS",
+      "code": "1594",
+      "cities": []
+    },
+    {
+      "name": "IRVINE",
+      "code": "1604",
+      "cities": []
+    },
+    {
+      "name": "KIRKCALDY",
+      "code": "1775",
+      "cities": []
+    },
+    {
+      "name": "MOTHERWELL",
+      "code": "2337",
+      "cities": []
+    },
+    {
+      "name": "PAISLEY",
+      "code": "2626",
+      "cities": []
+    },
+    {
+      "name": "PERTH",
+      "code": "2706",
+      "cities": []
+    },
+    {
+      "name": "STIRLING",
+      "code": "3351",
+      "cities": []
+    },
+    {
+      "name": "WISHAW",
+      "code": "3857",
+      "cities": []
+    }
+  ]
+}

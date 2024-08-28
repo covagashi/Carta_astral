@@ -1,0 +1,26 @@
+{
+  "name": "LATVIA",
+  "code": "67",
+  "provinces": [
+    {
+      "name": "DAUGAVPILS",
+      "code": "909",
+      "cities": []
+    },
+    {
+      "name": "JELGAVA",
+      "code": "1650",
+      "cities": []
+    },
+    {
+      "name": "LIEPAJA",
+      "code": "1972",
+      "cities": []
+    },
+    {
+      "name": "RIGA",
+      "code": "2959",
+      "cities": []
+    }
+  ]
+}

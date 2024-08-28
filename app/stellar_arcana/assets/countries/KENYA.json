@@ -1,0 +1,16 @@
+{
+  "name": "KENYA",
+  "code": "62",
+  "provinces": [
+    {
+      "name": "MOMBASA",
+      "code": "2289",
+      "cities": []
+    },
+    {
+      "name": "NAIROBI",
+      "code": "2381",
+      "cities": []
+    }
+  ]
+}

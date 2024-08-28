@@ -1,0 +1,91 @@
+{
+  "name": "BULGARIA",
+  "code": "14",
+  "provinces": [
+    {
+      "name": "Blagóevgrad",
+      "code": "4049",
+      "cities": []
+    },
+    {
+      "name": "BURGAS",
+      "code": "529",
+      "cities": []
+    },
+    {
+      "name": "GABROVO",
+      "code": "1234",
+      "cities": []
+    },
+    {
+      "name": "KAZANIUK",
+      "code": "1726",
+      "cities": []
+    },
+    {
+      "name": "KHASKOVO",
+      "code": "1756",
+      "cities": []
+    },
+    {
+      "name": "PAZARDZHIK",
+      "code": "2683",
+      "cities": []
+    },
+    {
+      "name": "PERNIK",
+      "code": "2703",
+      "cities": []
+    },
+    {
+      "name": "PLEVEN",
+      "code": "2762",
+      "cities": []
+    },
+    {
+      "name": "PLOVDIV",
+      "code": "2765",
+      "cities": []
+    },
+    {
+      "name": "RUSE",
+      "code": "3017",
+      "cities": []
+    },
+    {
+      "name": "SHUMEN",
+      "code": "3222",
+      "cities": []
+    },
+    {
+      "name": "SLIVEN",
+      "code": "3248",
+      "cities": []
+    },
+    {
+      "name": "SOFIA",
+      "code": "3258",
+      "cities": []
+    },
+    {
+      "name": "STARA ZAGORA",
+      "code": "3334",
+      "cities": []
+    },
+    {
+      "name": "VARNA",
+      "code": "3654",
+      "cities": []
+    },
+    {
+      "name": "VRATSA",
+      "code": "3714",
+      "cities": []
+    },
+    {
+      "name": "YAMBOL",
+      "code": "3890",
+      "cities": []
+    }
+  ]
+}

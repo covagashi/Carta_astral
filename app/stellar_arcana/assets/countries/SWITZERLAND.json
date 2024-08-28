@@ -1,0 +1,106 @@
+{
+  "name": "SWITZERLAND",
+  "code": "103",
+  "provinces": [
+    {
+      "name": "AARAU",
+      "code": "4",
+      "cities": []
+    },
+    {
+      "name": "BADEN",
+      "code": "213",
+      "cities": []
+    },
+    {
+      "name": "BASEL",
+      "code": "264",
+      "cities": []
+    },
+    {
+      "name": "BERN",
+      "code": "353",
+      "cities": []
+    },
+    {
+      "name": "BIEL",
+      "code": "372",
+      "cities": []
+    },
+    {
+      "name": "CHUR",
+      "code": "744",
+      "cities": []
+    },
+    {
+      "name": "FRIBOURG",
+      "code": "1218",
+      "cities": []
+    },
+    {
+      "name": "GENEVA",
+      "code": "1266",
+      "cities": []
+    },
+    {
+      "name": "LAUZANNE",
+      "code": "1904",
+      "cities": []
+    },
+    {
+      "name": "LUCERNE",
+      "code": "2048",
+      "cities": []
+    },
+    {
+      "name": "LUGANO",
+      "code": "2055",
+      "cities": []
+    },
+    {
+      "name": "LUZERN",
+      "code": "2067",
+      "cities": []
+    },
+    {
+      "name": "NEUCHATEL",
+      "code": "2415",
+      "cities": []
+    },
+    {
+      "name": "OLTEN",
+      "code": "2556",
+      "cities": []
+    },
+    {
+      "name": "SANKTGALLEN",
+      "code": "3111",
+      "cities": []
+    },
+    {
+      "name": "SCHAFFHAUSEN",
+      "code": "3161",
+      "cities": []
+    },
+    {
+      "name": "THUN",
+      "code": "3492",
+      "cities": []
+    },
+    {
+      "name": "VEVEY",
+      "code": "3672",
+      "cities": []
+    },
+    {
+      "name": "WINTERTHUR",
+      "code": "3856",
+      "cities": []
+    },
+    {
+      "name": "ZURICH",
+      "code": "3934",
+      "cities": []
+    }
+  ]
+}

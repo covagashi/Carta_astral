@@ -1,0 +1,104 @@
+{
+  "name": "PUERTO RICO",
+  "code": "126",
+  "provinces": [
+    {
+      "name": "AGUADILLA",
+      "code": "3943",
+      "cities": [
+        {
+          "name": "AGUADILLA",
+          "code": "3943"
+        },
+        {
+          "name": "ARECIBO",
+          "code": "3944"
+        },
+        {
+          "name": "BAYAMON",
+          "code": "4025"
+        },
+        {
+          "name": "CABO ROJO",
+          "code": "4035"
+        },
+        {
+          "name": "CAGUAS",
+          "code": "4027"
+        },
+        {
+          "name": "CANOVANAS",
+          "code": "4039"
+        },
+        {
+          "name": "CAROLINA",
+          "code": "4026"
+        },
+        {
+          "name": "CAYEY",
+          "code": "4040"
+        },
+        {
+          "name": "CIDRA",
+          "code": "4042"
+        },
+        {
+          "name": "GUAYNABO",
+          "code": "4028"
+        },
+        {
+          "name": "GURABO",
+          "code": "4041"
+        },
+        {
+          "name": "HUMACAO",
+          "code": "4034"
+        },
+        {
+          "name": "ISABELA",
+          "code": "4038"
+        },
+        {
+          "name": "JUANA DIAS",
+          "code": "4037"
+        },
+        {
+          "name": "MANATI",
+          "code": "4043"
+        },
+        {
+          "name": "MAYAGUEZ",
+          "code": "4030"
+        },
+        {
+          "name": "PONCE",
+          "code": "3945"
+        },
+        {
+          "name": "RIO GRANDE",
+          "code": "4036"
+        },
+        {
+          "name": "SAN JUAN",
+          "code": "3946"
+        },
+        {
+          "name": "TOA ALTA",
+          "code": "4032"
+        },
+        {
+          "name": "TOA BAJA",
+          "code": "4029"
+        },
+        {
+          "name": "TRUJILLO ALTO",
+          "code": "4031"
+        },
+        {
+          "name": "VEGA BAJA",
+          "code": "4033"
+        }
+      ]
+    }
+  ]
+}

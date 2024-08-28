@@ -1,0 +1,41 @@
+{
+  "name": "SOUTH KOREA",
+  "code": "64",
+  "provinces": [
+    {
+      "name": "CHON'JU",
+      "code": "740",
+      "cities": []
+    },
+    {
+      "name": "INCH'ON",
+      "code": "1582",
+      "cities": []
+    },
+    {
+      "name": "KWANGJU",
+      "code": "1840",
+      "cities": []
+    },
+    {
+      "name": "PUSAN",
+      "code": "2853",
+      "cities": []
+    },
+    {
+      "name": "SEOUL",
+      "code": "3184",
+      "cities": []
+    },
+    {
+      "name": "TAEGU",
+      "code": "3421",
+      "cities": []
+    },
+    {
+      "name": "TAEJON",
+      "code": "3422",
+      "cities": []
+    }
+  ]
+}

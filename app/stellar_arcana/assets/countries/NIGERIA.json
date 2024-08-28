@@ -1,0 +1,64 @@
+{
+  "name": "NIGERIA",
+  "code": "83",
+  "provinces": [
+    {
+      "name": "ABEOKUTA",
+      "code": "7",
+      "cities": [
+        {
+          "name": "ABEOKUTA",
+          "code": "7"
+        },
+        {
+          "name": "BENIN",
+          "code": "334"
+        },
+        {
+          "name": "ENUGU",
+          "code": "1092"
+        },
+        {
+          "name": "IBADAN",
+          "code": "1573"
+        },
+        {
+          "name": "ILORIN",
+          "code": "1578"
+        },
+        {
+          "name": "KADUNA",
+          "code": "1677"
+        },
+        {
+          "name": "KANO",
+          "code": "1697"
+        },
+        {
+          "name": "LAGOS",
+          "code": "1871"
+        },
+        {
+          "name": "OGBOMOSHO",
+          "code": "2539"
+        },
+        {
+          "name": "ONITSHA",
+          "code": "2563"
+        },
+        {
+          "name": "OSHOGBO",
+          "code": "2594"
+        },
+        {
+          "name": "PORT HARCOURT",
+          "code": "2795"
+        },
+        {
+          "name": "ZARIA",
+          "code": "3926"
+        }
+      ]
+    }
+  ]
+}

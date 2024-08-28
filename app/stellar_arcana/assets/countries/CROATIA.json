@@ -1,0 +1,66 @@
+{
+  "name": "CROATIA",
+  "code": "23",
+  "provinces": [
+    {
+      "name": "BJELOVAR",
+      "code": "390",
+      "cities": []
+    },
+    {
+      "name": "DUBROVNIK",
+      "code": "982",
+      "cities": []
+    },
+    {
+      "name": "KARLOVAC",
+      "code": "1710",
+      "cities": []
+    },
+    {
+      "name": "KOPRIVNICA",
+      "code": "1804",
+      "cities": []
+    },
+    {
+      "name": "OSIJEK",
+      "code": "2595",
+      "cities": []
+    },
+    {
+      "name": "RIJEKA",
+      "code": "2960",
+      "cities": []
+    },
+    {
+      "name": "SIBENIK",
+      "code": "3223",
+      "cities": []
+    },
+    {
+      "name": "SISAK",
+      "code": "3238",
+      "cities": []
+    },
+    {
+      "name": "SPLIT",
+      "code": "3290",
+      "cities": []
+    },
+    {
+      "name": "VARAZDIN",
+      "code": "3652",
+      "cities": []
+    },
+    {
+      "name": "ZADAR",
+      "code": "3915",
+      "cities": []
+    },
+    {
+      "name": "ZAGREB",
+      "code": "3918",
+      "cities": []
+    }
+  ]
+}

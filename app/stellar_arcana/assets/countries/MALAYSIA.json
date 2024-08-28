@@ -1,0 +1,20 @@
+{
+  "name": "MALAYSIA",
+  "code": "75",
+  "provinces": [
+    {
+      "name": "KUALA LAMPOUR",
+      "code": "1828",
+      "cities": [
+        {
+          "name": "KUALA LAMPOUR",
+          "code": "1828"
+        },
+        {
+          "name": "PINANG",
+          "code": "2731"
+        }
+      ]
+    }
+  ]
+}

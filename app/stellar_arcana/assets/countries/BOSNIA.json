@@ -1,0 +1,32 @@
+{
+  "name": "BOSNIA",
+  "code": "12",
+  "provinces": [
+    {
+      "name": "BANJA LUKA",
+      "code": "239",
+      "cities": [
+        {
+          "name": "BANJA LUKA",
+          "code": "239"
+        },
+        {
+          "name": "MOSTAR",
+          "code": "2335"
+        },
+        {
+          "name": "SARAJEVO",
+          "code": "3141"
+        },
+        {
+          "name": "TUZLA",
+          "code": "3591"
+        },
+        {
+          "name": "ZENICA",
+          "code": "3928"
+        }
+      ]
+    }
+  ]
+}

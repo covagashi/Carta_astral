@@ -1,0 +1,48 @@
+{
+  "name": "PHILIPPINES",
+  "code": "88",
+  "provinces": [
+    {
+      "name": "BACOLOD",
+      "code": "210",
+      "cities": [
+        {
+          "name": "BACOLOD",
+          "code": "210"
+        },
+        {
+          "name": "BATANGAS",
+          "code": "271"
+        },
+        {
+          "name": "BUTUAN",
+          "code": "548"
+        },
+        {
+          "name": "CEBU",
+          "code": "650"
+        },
+        {
+          "name": "DAVAO",
+          "code": "911"
+        },
+        {
+          "name": "ILOILO",
+          "code": "1577"
+        },
+        {
+          "name": "MANILLA",
+          "code": "2122"
+        },
+        {
+          "name": "TARLAC",
+          "code": "3445"
+        },
+        {
+          "name": "ZAMBOANGA",
+          "code": "3921"
+        }
+      ]
+    }
+  ]
+}

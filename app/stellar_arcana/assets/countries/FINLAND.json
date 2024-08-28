@@ -1,0 +1,52 @@
+{
+  "name": "FINLAND",
+  "code": "34",
+  "provinces": [
+    {
+      "name": "BJORNEBORG",
+      "code": "391",
+      "cities": [
+        {
+          "name": "BJORNEBORG",
+          "code": "391"
+        },
+        {
+          "name": "HELSINKI",
+          "code": "1484"
+        },
+        {
+          "name": "JYVASKYLA",
+          "code": "1674"
+        },
+        {
+          "name": "KUOPIO",
+          "code": "1834"
+        },
+        {
+          "name": "OULU",
+          "code": "2604"
+        },
+        {
+          "name": "PORI",
+          "code": "2786"
+        },
+        {
+          "name": "TAMMERFORS",
+          "code": "3431"
+        },
+        {
+          "name": "TAMPERE",
+          "code": "3433"
+        },
+        {
+          "name": "TURKU",
+          "code": "3584"
+        },
+        {
+          "name": "ULEABORG",
+          "code": "3606"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "name": "COLOMBIA",
+  "code": "21",
+  "provinces": [
+    {
+      "name": "ARMENIA",
+      "code": "4045",
+      "cities": []
+    },
+    {
+      "name": "BARRANQUILLA",
+      "code": "257",
+      "cities": []
+    },
+    {
+      "name": "BOGOTA",
+      "code": "416",
+      "cities": []
+    },
+    {
+      "name": "BUCARAMANGA",
+      "code": "517",
+      "cities": []
+    },
+    {
+      "name": "BUENAVENTURA",
+      "code": "522",
+      "cities": []
+    },
+    {
+      "name": "BUGA",
+      "code": "525",
+      "cities": []
+    },
+    {
+      "name": "CALI",
+      "code": "566",
+      "cities": []
+    },
+    {
+      "name": "CARTAGENA",
+      "code": "624",
+      "cities": []
+    },
+    {
+      "name": "CIENAGA",
+      "code": "747",
+      "cities": []
+    },
+    {
+      "name": "CUCUTA",
+      "code": "870",
+      "cities": []
+    },
+    {
+      "name": "GENOVA (QUINDIO)",
+      "code": "4046",
+      "cities": []
+    },
+    {
+      "name": "IBAQUE",
+      "code": "1574",
+      "cities": []
+    },
+    {
+      "name": "MAGANGUE",
+      "code": "2093",
+      "cities": []
+    },
+    {
+      "name": "MANIZALES",
+      "code": "2124",
+      "cities": []
+    },
+    {
+      "name": "MEDELLIN",
+      "code": "2195",
+      "cities": []
+    },
+    {
+      "name": "MONTERIA",
+      "code": "2305",
+      "cities": []
+    },
+    {
+      "name": "NEIVA",
+      "code": "2411",
+      "cities": []
+    },
+    {
+      "name": "PALMIRA",
+      "code": "2637",
+      "cities": []
+    },
+    {
+      "name": "PAMPLONA",
+      "code": "4048",
+      "cities": []
+    },
+    {
+      "name": "PASTO",
+      "code": "2674",
+      "cities": []
+    },
+    {
+      "name": "PEREIRA",
+      "code": "2699",
+      "cities": []
+    },
+    {
+      "name": "POPAYAN",
+      "code": "2784",
+      "cities": []
+    },
+    {
+      "name": "SANTA MARTA",
+      "code": "3123",
+      "cities": []
+    },
+    {
+      "name": "SINCELEJO",
+      "code": "3232",
+      "cities": []
+    },
+    {
+      "name": "SOGAMOSO",
+      "code": "3259",
+      "cities": []
+    },
+    {
+      "name": "TULUA",
+      "code": "3578",
+      "cities": []
+    },
+    {
+      "name": "TUNJA",
+      "code": "3581",
+      "cities": []
+    },
+    {
+      "name": "VILLAVICENCIO",
+      "code": "3689",
+      "cities": []
+    }
+  ]
+}

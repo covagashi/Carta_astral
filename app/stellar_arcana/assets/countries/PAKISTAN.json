@@ -1,0 +1,61 @@
+{
+  "name": "PAKISTAN",
+  "code": "85",
+  "provinces": [
+    {
+      "name": "GUJRANWALA",
+      "code": "1384",
+      "cities": []
+    },
+    {
+      "name": "HYDERABAD",
+      "code": "1571",
+      "cities": []
+    },
+    {
+      "name": "ISLAMABAD",
+      "code": "1611",
+      "cities": []
+    },
+    {
+      "name": "KARACHI",
+      "code": "1705",
+      "cities": []
+    },
+    {
+      "name": "LAHORE",
+      "code": "1873",
+      "cities": []
+    },
+    {
+      "name": "LYALLPUR",
+      "code": "2069",
+      "cities": []
+    },
+    {
+      "name": "MULTAN",
+      "code": "2353",
+      "cities": []
+    },
+    {
+      "name": "PESHAWAR",
+      "code": "2712",
+      "cities": []
+    },
+    {
+      "name": "RAWALPINDI",
+      "code": "2895",
+      "cities": []
+    },
+    {
+      "name": "SARGODHA",
+      "code": "3146",
+      "cities": []
+    },
+    {
+      "name": "SUKKUR",
+      "code": "3376",
+      "cities": []
+    }
+  ]
+}

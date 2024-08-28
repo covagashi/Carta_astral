@@ -1,0 +1,76 @@
+{
+  "name": "CZECH REP.",
+  "code": "26",
+  "provinces": [
+    {
+      "name": "CESKE BUDEJOVIC",
+      "code": "661",
+      "cities": [
+        {
+          "name": "CESKE BUDEJOVIC",
+          "code": "661"
+        },
+        {
+          "name": "CHEB",
+          "code": "692"
+        },
+        {
+          "name": "DECIN",
+          "code": "922"
+        },
+        {
+          "name": "HRADEC KRALOVE",
+          "code": "1552"
+        },
+        {
+          "name": "JABLONEC N.N.",
+          "code": "1625"
+        },
+        {
+          "name": "KARLOVY VARY",
+          "code": "1712"
+        },
+        {
+          "name": "KOLIN",
+          "code": "1797"
+        },
+        {
+          "name": "LIBEREC",
+          "code": "1965"
+        },
+        {
+          "name": "MOST",
+          "code": "2332"
+        },
+        {
+          "name": "PARDUBICE",
+          "code": "2654"
+        },
+        {
+          "name": "PISEK",
+          "code": "2746"
+        },
+        {
+          "name": "PLZEN",
+          "code": "2769"
+        },
+        {
+          "name": "PRAGUE",
+          "code": "2825"
+        },
+        {
+          "name": "TABOR",
+          "code": "3418"
+        },
+        {
+          "name": "TRUTNOV",
+          "code": "3568"
+        },
+        {
+          "name": "USTI NAD LABEM",
+          "code": "3629"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "ALBANIA",
+  "code": "2",
+  "provinces": [
+    {
+      "name": "BERAT",
+      "code": "341",
+      "cities": [
+        
+      ]
+    },
+    {
+      "name": "DURRES",
+      "code": "1009",
+      "cities": [
+        
+      ]
+    },
+    {
+      "name": "ELBASAN",
+      "code": "1061",
+      "cities": [
+        
+      ]
+    },
+    {
+      "name": "KORCE",
+      "code": "1805",
+      "cities": [
+        
+      ]
+    },
+    {
+      "name": "SHKODER",
+      "code": "3217",
+      "cities": [
+        
+      ]
+    },
+    {
+      "name": "TIRANE",
+      "code": "3504",
+      "cities": [
+        
+      ]
+    },
+    {
+      "name": "VLORE",
+      "code": "3706",
+      "cities": [
+        
+      ]
+    }
+  ]
+}
+

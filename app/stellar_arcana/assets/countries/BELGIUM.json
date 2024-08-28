@@ -1,0 +1,156 @@
+{
+  "name": "BELGIUM",
+  "code": "10",
+  "provinces": [
+    {
+      "name": "AALST",
+      "code": "3",
+      "cities": []
+    },
+    {
+      "name": "ANDERLECHT",
+      "code": "109",
+      "cities": []
+    },
+    {
+      "name": "ANTWERP",
+      "code": "133",
+      "cities": []
+    },
+    {
+      "name": "BERCHEM",
+      "code": "342",
+      "cities": []
+    },
+    {
+      "name": "BORGERHOUT",
+      "code": "428",
+      "cities": []
+    },
+    {
+      "name": "BRUGES",
+      "code": "510",
+      "cities": []
+    },
+    {
+      "name": "BRUSSELS",
+      "code": "514",
+      "cities": []
+    },
+    {
+      "name": "CHARLEROIS",
+      "code": "675",
+      "cities": []
+    },
+    {
+      "name": "COURTRAI",
+      "code": "849",
+      "cities": []
+    },
+    {
+      "name": "DEURNE",
+      "code": "942",
+      "cities": []
+    },
+    {
+      "name": "ETTERBEEK",
+      "code": "1116",
+      "cities": []
+    },
+    {
+      "name": "GENT",
+      "code": "1269",
+      "cities": []
+    },
+    {
+      "name": "HASSELT",
+      "code": "1455",
+      "cities": []
+    },
+    {
+      "name": "IXELLES",
+      "code": "1620",
+      "cities": []
+    },
+    {
+      "name": "KORTRIJK",
+      "code": "1809",
+      "cities": []
+    },
+    {
+      "name": "LA LOUVIERE",
+      "code": "1854",
+      "cities": []
+    },
+    {
+      "name": "LEUVEN",
+      "code": "1951",
+      "cities": []
+    },
+    {
+      "name": "LIEGE",
+      "code": "1970",
+      "cities": []
+    },
+    {
+      "name": "LOUVAIN",
+      "code": "2037",
+      "cities": []
+    },
+    {
+      "name": "LUIK",
+      "code": "2057",
+      "cities": []
+    },
+    {
+      "name": "MECHELEN",
+      "code": "2192",
+      "cities": []
+    },
+    {
+      "name": "MERKSEM",
+      "code": "2224",
+      "cities": []
+    },
+    {
+      "name": "OOSTENDE",
+      "code": "2565",
+      "cities": []
+    },
+    {
+      "name": "ROESELARE",
+      "code": "2989",
+      "cities": []
+    },
+    {
+      "name": "SCHAERBEEK",
+      "code": "3160",
+      "cities": []
+    },
+    {
+      "name": "SERAING",
+      "code": "3185",
+      "cities": []
+    },
+    {
+      "name": "SINT-NIKLAAS",
+      "code": "3234",
+      "cities": []
+    },
+    {
+      "name": "TURNHOUT",
+      "code": "3586",
+      "cities": []
+    },
+    {
+      "name": "UCCLE",
+      "code": "3599",
+      "cities": []
+    },
+    {
+      "name": "WILRIJK",
+      "code": "3840",
+      "cities": []
+    }
+  ]
+}

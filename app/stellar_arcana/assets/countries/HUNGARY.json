@@ -1,0 +1,220 @@
+{
+  "name": "HUNGARY",
+  "code": "49",
+  "provinces": [
+    {
+      "name": "ABONY",
+      "code": "12",
+      "cities": [
+        {
+          "name": "ABONY",
+          "code": "12"
+        },
+        {
+          "name": "BAJA",
+          "code": "221"
+        },
+        {
+          "name": "BEKES",
+          "code": "303"
+        },
+        {
+          "name": "BESCSABA",
+          "code": "358"
+        },
+        {
+          "name": "BUDAFOK",
+          "code": "519"
+        },
+        {
+          "name": "BUDAPEST",
+          "code": "520"
+        },
+        {
+          "name": "CEGLED",
+          "code": "653"
+        },
+        {
+          "name": "CSEPEL",
+          "code": "867"
+        },
+        {
+          "name": "CSONGRAD",
+          "code": "868"
+        },
+        {
+          "name": "DEBRECEN",
+          "code": "918"
+        },
+        {
+          "name": "DOMBOVAR",
+          "code": "958"
+        },
+        {
+          "name": "DUNAUJVAROS",
+          "code": "990"
+        },
+        {
+          "name": "EGER",
+          "code": "1043"
+        },
+        {
+          "name": "ESZTERGOM",
+          "code": "1115"
+        },
+        {
+          "name": "GYONGYOS",
+          "code": "1390"
+        },
+        {
+          "name": "GYOR",
+          "code": "1391"
+        },
+        {
+          "name": "GYULA",
+          "code": "1392"
+        },
+        {
+          "name": "HATVAN",
+          "code": "1460"
+        },
+        {
+          "name": "HODMEZOVASARHEL",
+          "code": "1525"
+        },
+        {
+          "name": "JASZBERENY",
+          "code": "1645"
+        },
+        {
+          "name": "KAPOSVAR",
+          "code": "1704"
+        },
+        {
+          "name": "KARCAG",
+          "code": "1707"
+        },
+        {
+          "name": "KAZINCBARCIKA",
+          "code": "1728"
+        },
+        {
+          "name": "KECSKEMET",
+          "code": "1730"
+        },
+        {
+          "name": "KISKUNHALAS",
+          "code": "1781"
+        },
+        {
+          "name": "KISPEST",
+          "code": "1782"
+        },
+        {
+          "name": "MAKO",
+          "code": "2103"
+        },
+        {
+          "name": "MEZOTUR",
+          "code": "2241"
+        },
+        {
+          "name": "MISKOLC",
+          "code": "2274"
+        },
+        {
+          "name": "NAGYKANIZSA",
+          "code": "2378"
+        },
+        {
+          "name": "NAGYKOROS",
+          "code": "2379"
+        },
+        {
+          "name": "NYIREGYHAZA",
+          "code": "2515"
+        },
+        {
+          "name": "OROSHAZA",
+          "code": "2588"
+        },
+        {
+          "name": "OZD",
+          "code": "2613"
+        },
+        {
+          "name": "PAPA",
+          "code": "2644"
+        },
+        {
+          "name": "PECS",
+          "code": "2688"
+        },
+        {
+          "name": "RAKOSPALOTA",
+          "code": "2877"
+        },
+        {
+          "name": "SALGOTARJAN",
+          "code": "3055"
+        },
+        {
+          "name": "SOPRON",
+          "code": "3267"
+        },
+        {
+          "name": "SZARVAS",
+          "code": "3407"
+        },
+        {
+          "name": "SZEGED",
+          "code": "3409"
+        },
+        {
+          "name": "SZEKESFEHERVAR",
+          "code": "3410"
+        },
+        {
+          "name": "SZEKSZARD",
+          "code": "3411"
+        },
+        {
+          "name": "SZENTES",
+          "code": "3412"
+        },
+        {
+          "name": "SZOLNOK",
+          "code": "3413"
+        },
+        {
+          "name": "SZOMBATHELY",
+          "code": "3414"
+        },
+        {
+          "name": "TATABANYA",
+          "code": "3452"
+        },
+        {
+          "name": "UJPEST",
+          "code": "3603"
+        },
+        {
+          "name": "VAC",
+          "code": "3635"
+        },
+        {
+          "name": "VARPALOTA",
+          "code": "3655"
+        },
+        {
+          "name": "VESZPREM",
+          "code": "3671"
+        },
+        {
+          "name": "ZALAEGERSZEG",
+          "code": "3920"
+        }
+      ]
+    }
+  ]
+}

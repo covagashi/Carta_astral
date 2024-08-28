@@ -1,0 +1,21 @@
+{
+  "name": "VIETNAM",
+  "code": "120",
+  "provinces": [
+    {
+      "name": "HAIPHONG",
+      "code": "1406",
+      "cities": []
+    },
+    {
+      "name": "HANOI",
+      "code": "1437",
+      "cities": []
+    },
+    {
+      "name": "SAIGON",
+      "code": "3036",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "IRELAND",
+  "code": "55",
+  "provinces": [
+    {
+      "name": "ARMAGH",
+      "code": "154",
+      "cities": []
+    },
+    {
+      "name": "BALLYMENA",
+      "code": "230",
+      "cities": []
+    },
+    {
+      "name": "BANGOR",
+      "code": "236",
+      "cities": []
+    },
+    {
+      "name": "BELFAST",
+      "code": "305",
+      "cities": []
+    },
+    {
+      "name": "BRAY",
+      "code": "466",
+      "cities": []
+    },
+    {
+      "name": "CARRICKFERGUS",
+      "code": "619",
+      "cities": []
+    },
+    {
+      "name": "COLERAINE",
+      "code": "789",
+      "cities": []
+    },
+    {
+      "name": "CORK",
+      "code": "835",
+      "cities": []
+    },
+    {
+      "name": "DROGHEDA",
+      "code": "975",
+      "cities": []
+    },
+    {
+      "name": "DUBLIN",
+      "code": "980",
+      "cities": []
+    },
+    {
+      "name": "DUN LAOGHAIRE",
+      "code": "989",
+      "cities": []
+    },
+    {
+      "name": "DUNDALK",
+      "code": "993",
+      "cities": []
+    },
+    {
+      "name": "ENNIS",
+      "code": "1088",
+      "cities": []
+    },
+    {
+      "name": "GALWAY",
+      "code": "1244",
+      "cities": []
+    },
+    {
+      "name": "KILKENNY",
+      "code": "1763",
+      "cities": []
+    },
+    {
+      "name": "KINGSTOWN",
+      "code": "1771",
+      "cities": []
+    },
+    {
+      "name": "LARNE",
+      "code": "1897",
+      "cities": []
+    },
+    {
+      "name": "LIMERICK",
+      "code": "1978",
+      "cities": []
+    },
+    {
+      "name": "LISBURN",
+      "code": "1990",
+      "cities": []
+    },
+    {
+      "name": "LONDONDERRY",
+      "code": "2018",
+      "cities": []
+    },
+    {
+      "name": "NEWRY",
+      "code": "2456",
+      "cities": []
+    },
+    {
+      "name": "NEWTOWNABBEY",
+      "code": "2459",
+      "cities": []
+    },
+    {
+      "name": "NEWTOWNARDS",
+      "code": "2460",
+      "cities": []
+    },
+    {
+      "name": "OMAGH",
+      "code": "2559",
+      "cities": []
+    },
+    {
+      "name": "TRALEE",
+      "code": "3541",
+      "cities": []
+    },
+    {
+      "name": "WATEFORD",
+      "code": "3754",
+      "cities": []
+    },
+    {
+      "name": "WEXFORD",
+      "code": "3808",
+      "cities": []
+    }
+  ]
+}

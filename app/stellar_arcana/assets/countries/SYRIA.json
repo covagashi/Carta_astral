@@ -1,0 +1,26 @@
+{
+  "name": "SYRIA",
+  "code": "104",
+  "provinces": [
+    {
+      "name": "ALEPPO",
+      "code": "57",
+      "cities": []
+    },
+    {
+      "name": "ANTIOCH",
+      "code": "129",
+      "cities": []
+    },
+    {
+      "name": "DAMASCUS",
+      "code": "891",
+      "cities": []
+    },
+    {
+      "name": "HAMA",
+      "code": "1417",
+      "cities": []
+    }
+  ]
+}

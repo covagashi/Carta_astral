@@ -1,0 +1,96 @@
+{
+  "name": "SLOVAKIA",
+  "code": "97",
+  "provinces": [
+    {
+      "name": "BANSKA BYSTRICA",
+      "code": "242",
+      "cities": []
+    },
+    {
+      "name": "BRATISLAVA",
+      "code": "462",
+      "cities": []
+    },
+    {
+      "name": "KOMARNO",
+      "code": "1800",
+      "cities": []
+    },
+    {
+      "name": "KOSICE",
+      "code": "1810",
+      "cities": []
+    },
+    {
+      "name": "LEVICE",
+      "code": "1954",
+      "cities": []
+    },
+    {
+      "name": "LUCENEC",
+      "code": "2047",
+      "cities": []
+    },
+    {
+      "name": "MARTIN",
+      "code": "2161",
+      "cities": []
+    },
+    {
+      "name": "MICHALOVCE",
+      "code": "2244",
+      "cities": []
+    },
+    {
+      "name": "NITRA",
+      "code": "2475",
+      "cities": []
+    },
+    {
+      "name": "NOVE ZAMKY",
+      "code": "2507",
+      "cities": []
+    },
+    {
+      "name": "PIESTANY",
+      "code": "2730",
+      "cities": []
+    },
+    {
+      "name": "PRESOV",
+      "code": "2828",
+      "cities": []
+    },
+    {
+      "name": "RUZOMBEROK",
+      "code": "3021",
+      "cities": []
+    },
+    {
+      "name": "SPISSKA NOVA",
+      "code": "3289",
+      "cities": []
+    },
+    {
+      "name": "TRENCIN",
+      "code": "3545",
+      "cities": []
+    },
+    {
+      "name": "TRNAVA",
+      "code": "3559",
+      "cities": []
+    },
+    {
+      "name": "ZILINA",
+      "code": "3933",
+      "cities": []
+    },
+    {
+      "name": "ZVOLEN",
+      "code": "3935",
+      "cities": []
+    }
+  ]
+}

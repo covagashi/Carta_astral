@@ -1,0 +1,21 @@
+{
+  "name": "LITHUANIA",
+  "code": "72",
+  "provinces": [
+    {
+      "name": "KAUNAS",
+      "code": "1720",
+      "cities": []
+    },
+    {
+      "name": "KLAIPAEDA",
+      "code": "1787",
+      "cities": []
+    },
+    {
+      "name": "VILNIUS",
+      "code": "3691",
+      "cities": []
+    }
+  ]
+}

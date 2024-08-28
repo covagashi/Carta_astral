@@ -1,0 +1,68 @@
+{
+  "name": "TURKEY",
+  "code": "110",
+  "provinces": [
+    {
+      "name": "ADALIA",
+      "code": "16",
+      "cities": [
+        {
+          "name": "ADALIA",
+          "code": "16"
+        },
+        {
+          "name": "ADANA",
+          "code": "17"
+        },
+        {
+          "name": "ANKARA",
+          "code": "117"
+        },
+        {
+          "name": "BURSA",
+          "code": "540"
+        },
+        {
+          "name": "CANKAYA",
+          "code": "590"
+        },
+        {
+          "name": "DIYARBAKIR",
+          "code": "951"
+        },
+        {
+          "name": "ISKENDERUN",
+          "code": "1610"
+        },
+        {
+          "name": "ISTANBUL",
+          "code": "1614"
+        },
+        {
+          "name": "IZMIR",
+          "code": "1623"
+        },
+        {
+          "name": "KEYSERI",
+          "code": "1750"
+        },
+        {
+          "name": "MALATYA",
+          "code": "2106"
+        },
+        {
+          "name": "SAMSUN",
+          "code": "3067"
+        },
+        {
+          "name": "SIVAS",
+          "code": "3239"
+        },
+        {
+          "name": "SMYRNA",
+          "code": "3254"
+        }
+      ]
+    }
+  ]
+}

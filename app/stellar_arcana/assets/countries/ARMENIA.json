@@ -1,0 +1,24 @@
+{
+  "name": "ARMENIA",
+  "code": "6",
+  "provinces": [
+    {
+      "name": "GYUMRI",
+      "code": "1393",
+      "cities": [
+        {
+          "name": "GYUMRI",
+          "code": "1393"
+        },
+        {
+          "name": "LENINAKAN",
+          "code": "1935"
+        },
+        {
+          "name": "YEREVAN",
+          "code": "3896"
+        }
+      ]
+    }
+  ]
+}

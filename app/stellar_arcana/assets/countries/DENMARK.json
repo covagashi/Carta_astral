@@ -1,0 +1,161 @@
+{
+  "name": "DENMARK",
+  "code": "27",
+  "provinces": [
+    {
+      "name": "ALBORG",
+      "code": "49",
+      "cities": []
+    },
+    {
+      "name": "ARHUS",
+      "code": "147",
+      "cities": []
+    },
+    {
+      "name": "COPENHAGEN",
+      "code": "823",
+      "cities": []
+    },
+    {
+      "name": "ESBJERG",
+      "code": "1100",
+      "cities": []
+    },
+    {
+      "name": "FREDERICIA",
+      "code": "1201",
+      "cities": []
+    },
+    {
+      "name": "FREDERIKSBORG",
+      "code": "1205",
+      "cities": []
+    },
+    {
+      "name": "FREDERIKSHAVN",
+      "code": "1206",
+      "cities": []
+    },
+    {
+      "name": "GENTOFTE",
+      "code": "1270",
+      "cities": []
+    },
+    {
+      "name": "HADERSLEV",
+      "code": "1401",
+      "cities": []
+    },
+    {
+      "name": "HELSINGOR",
+      "code": "1483",
+      "cities": []
+    },
+    {
+      "name": "HERNING",
+      "code": "1500",
+      "cities": []
+    },
+    {
+      "name": "HILLEROD",
+      "code": "1513",
+      "cities": []
+    },
+    {
+      "name": "HJORRING",
+      "code": "1522",
+      "cities": []
+    },
+    {
+      "name": "HOLBAEK",
+      "code": "1527",
+      "cities": []
+    },
+    {
+      "name": "HOLSTEBRO",
+      "code": "1534",
+      "cities": []
+    },
+    {
+      "name": "HORSENS",
+      "code": "1544",
+      "cities": []
+    },
+    {
+      "name": "KOLDING",
+      "code": "1795",
+      "cities": []
+    },
+    {
+      "name": "KORSOR",
+      "code": "1808",
+      "cities": []
+    },
+    {
+      "name": "LYNGBY",
+      "code": "2073",
+      "cities": []
+    },
+    {
+      "name": "NAEVSTVED",
+      "code": "2373",
+      "cities": []
+    },
+    {
+      "name": "NAKSKOV",
+      "code": "2382",
+      "cities": []
+    },
+    {
+      "name": "ODENSE",
+      "code": "2534",
+      "cities": []
+    },
+    {
+      "name": "RANDERS",
+      "code": "2886",
+      "cities": []
+    },
+    {
+      "name": "SILKEBORG",
+      "code": "3228",
+      "cities": []
+    },
+    {
+      "name": "SKIVE",
+      "code": "3243",
+      "cities": []
+    },
+    {
+      "name": "SLAGESE",
+      "code": "3247",
+      "cities": []
+    },
+    {
+      "name": "SONDERBORG",
+      "code": "3264",
+      "cities": []
+    },
+    {
+      "name": "SVENDBORG",
+      "code": "3398",
+      "cities": []
+    },
+    {
+      "name": "TARNBY",
+      "code": "3446",
+      "cities": []
+    },
+    {
+      "name": "TASTRUP",
+      "code": "3451",
+      "cities": []
+    },
+    {
+      "name": "VEJLE",
+      "code": "3659",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": "ISRAEL",
+  "code": "56",
+  "provinces": [
+    {
+      "name": "ACRE",
+      "code": "15",
+      "cities": []
+    },
+    {
+      "name": "AKKO",
+      "code": "38",
+      "cities": []
+    },
+    {
+      "name": "ASHQELON",
+      "code": "169",
+      "cities": []
+    },
+    {
+      "name": "BAT YAM",
+      "code": "270",
+      "cities": []
+    },
+    {
+      "name": "BE'ER SHEVA'",
+      "code": "285",
+      "cities": []
+    },
+    {
+      "name": "BEERSHEBA",
+      "code": "297",
+      "cities": []
+    },
+    {
+      "name": "ER RAMLE",
+      "code": "1094",
+      "cities": []
+    },
+    {
+      "name": "GIV'ATAYIM",
+      "code": "1285",
+      "cities": []
+    },
+    {
+      "name": "HADERA",
+      "code": "1400",
+      "cities": []
+    },
+    {
+      "name": "HAIFA",
+      "code": "1405",
+      "cities": []
+    },
+    {
+      "name": "HERZELIYYA",
+      "code": "1501",
+      "cities": []
+    },
+    {
+      "name": "HOLON",
+      "code": "1533",
+      "cities": []
+    },
+    {
+      "name": "JAFFA",
+      "code": "1634",
+      "cities": []
+    },
+    {
+      "name": "JERUSALEM",
+      "code": "1654",
+      "cities": []
+    },
+    {
+      "name": "LOD",
+      "code": "2006",
+      "cities": []
+    },
+    {
+      "name": "LYDDA",
+      "code": "2070",
+      "cities": []
+    },
+    {
+      "name": "NAZARETH",
+      "code": "2406",
+      "cities": []
+    },
+    {
+      "name": "NETANYA",
+      "code": "2414",
+      "cities": []
+    },
+    {
+      "name": "PETAH TIQWA",
+      "code": "2713",
+      "cities": []
+    },
+    {
+      "name": "RAMAT GAN",
+      "code": "2879",
+      "cities": []
+    },
+    {
+      "name": "RAMLA",
+      "code": "2881",
+      "cities": []
+    },
+    {
+      "name": "REHOVOT",
+      "code": "2918",
+      "cities": []
+    },
+    {
+      "name": "RISHON L.Z.",
+      "code": "2967",
+      "cities": []
+    },
+    {
+      "name": "TEL AVIV",
+      "code": "3462",
+      "cities": []
+    }
+  ]
+}

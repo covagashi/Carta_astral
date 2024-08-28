@@ -1,0 +1,56 @@
+{
+  "name": "IRAQ",
+  "code": "54",
+  "provinces": [
+    {
+      "name": "AN NAJAF",
+      "code": "103",
+      "cities": []
+    },
+    {
+      "name": "ARBELA",
+      "code": "140",
+      "cities": []
+    },
+    {
+      "name": "BAGHDAD",
+      "code": "215",
+      "cities": []
+    },
+    {
+      "name": "BASRA",
+      "code": "267",
+      "cities": []
+    },
+    {
+      "name": "ERBIL",
+      "code": "1095",
+      "cities": []
+    },
+    {
+      "name": "HILLA",
+      "code": "1512",
+      "cities": []
+    },
+    {
+      "name": "KARBALA",
+      "code": "1706",
+      "cities": []
+    },
+    {
+      "name": "KIRKUK",
+      "code": "1776",
+      "cities": []
+    },
+    {
+      "name": "MOSUL",
+      "code": "2336",
+      "cities": []
+    },
+    {
+      "name": "SULAIMANIYA",
+      "code": "3377",
+      "cities": []
+    }
+  ]
+}

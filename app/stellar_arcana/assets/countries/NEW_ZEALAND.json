@@ -1,0 +1,96 @@
+{
+  "name": "NEW ZEALAND",
+  "code": "81",
+  "provinces": [
+    {
+      "name": "AUCKLAND",
+      "code": "192",
+      "cities": []
+    },
+    {
+      "name": "CHRISTCHURCH",
+      "code": "742",
+      "cities": []
+    },
+    {
+      "name": "DUNEDIN",
+      "code": "997",
+      "cities": []
+    },
+    {
+      "name": "GISBORNE",
+      "code": "1284",
+      "cities": []
+    },
+    {
+      "name": "HAMILTON",
+      "code": "1423",
+      "cities": []
+    },
+    {
+      "name": "HASTINGS",
+      "code": "1457",
+      "cities": []
+    },
+    {
+      "name": "INVERCARGILL",
+      "code": "1593",
+      "cities": []
+    },
+    {
+      "name": "LOWER HUTT",
+      "code": "2040",
+      "cities": []
+    },
+    {
+      "name": "NAPIER",
+      "code": "2395",
+      "cities": []
+    },
+    {
+      "name": "NELSON",
+      "code": "2412",
+      "cities": []
+    },
+    {
+      "name": "NEW PLYMOUTH",
+      "code": "2434",
+      "cities": []
+    },
+    {
+      "name": "PALMERSTON N.",
+      "code": "2636",
+      "cities": []
+    },
+    {
+      "name": "ROTORUA",
+      "code": "3006",
+      "cities": []
+    },
+    {
+      "name": "TAURANGA",
+      "code": "3455",
+      "cities": []
+    },
+    {
+      "name": "TIMARU",
+      "code": "3500",
+      "cities": []
+    },
+    {
+      "name": "WANGANUI",
+      "code": "3738",
+      "cities": []
+    },
+    {
+      "name": "WELLINGTON",
+      "code": "3782",
+      "cities": []
+    },
+    {
+      "name": "WHANGAREI",
+      "code": "3813",
+      "cities": []
+    }
+  ]
+}

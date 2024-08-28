@@ -1,0 +1,261 @@
+{
+  "name": "POLAND",
+  "code": "89",
+  "provinces": [
+    {
+      "name": "BEDZIN",
+      "code": "296",
+      "cities": []
+    },
+    {
+      "name": "BIALYSTOK",
+      "code": "370",
+      "cities": []
+    },
+    {
+      "name": "BYDGOSZCZ",
+      "code": "549",
+      "cities": []
+    },
+    {
+      "name": "BYTOM",
+      "code": "550",
+      "cities": []
+    },
+    {
+      "name": "CHELM",
+      "code": "695",
+      "cities": []
+    },
+    {
+      "name": "CHORZOW",
+      "code": "741",
+      "cities": []
+    },
+    {
+      "name": "CRACOW",
+      "code": "856",
+      "cities": []
+    },
+    {
+      "name": "DANZIG",
+      "code": "901",
+      "cities": []
+    },
+    {
+      "name": "GDANSK",
+      "code": "1261",
+      "cities": []
+    },
+    {
+      "name": "GDYNIA",
+      "code": "1262",
+      "cities": []
+    },
+    {
+      "name": "GLIWICE",
+      "code": "1298",
+      "cities": []
+    },
+    {
+      "name": "GNIEZNO",
+      "code": "1302",
+      "cities": []
+    },
+    {
+      "name": "GRUDZIADZ",
+      "code": "1371",
+      "cities": []
+    },
+    {
+      "name": "INOWROCLAW",
+      "code": "1592",
+      "cities": []
+    },
+    {
+      "name": "JAROSLAW",
+      "code": "1644",
+      "cities": []
+    },
+    {
+      "name": "JAWORZNO",
+      "code": "1646",
+      "cities": []
+    },
+    {
+      "name": "JELENIA GORA",
+      "code": "1649",
+      "cities": []
+    },
+    {
+      "name": "KATOWICE",
+      "code": "1718",
+      "cities": []
+    },
+    {
+      "name": "KIELCE",
+      "code": "1762",
+      "cities": []
+    },
+    {
+      "name": "KOSZALIN",
+      "code": "1812",
+      "cities": []
+    },
+    {
+      "name": "KRAKOW",
+      "code": "1818",
+      "cities": []
+    },
+    {
+      "name": "LEGNICA",
+      "code": "1928",
+      "cities": []
+    },
+    {
+      "name": "LODZ",
+      "code": "2010",
+      "cities": []
+    },
+    {
+      "name": "LUBLIN",
+      "code": "2045",
+      "cities": []
+    },
+    {
+      "name": "OLSZTYN",
+      "code": "2555",
+      "cities": []
+    },
+    {
+      "name": "OPOLE",
+      "code": "2567",
+      "cities": []
+    },
+    {
+      "name": "PABIANICE",
+      "code": "2617",
+      "cities": []
+    },
+    {
+      "name": "PABJANICE",
+      "code": "2618",
+      "cities": []
+    },
+    {
+      "name": "PLOCK",
+      "code": "2763",
+      "cities": []
+    },
+    {
+      "name": "POZNAN",
+      "code": "2823",
+      "cities": []
+    },
+    {
+      "name": "PRZEMJSL",
+      "code": "2839",
+      "cities": []
+    },
+    {
+      "name": "RADOM",
+      "code": "2871",
+      "cities": []
+    },
+    {
+      "name": "RUDA SLASKA",
+      "code": "3014",
+      "cities": []
+    },
+    {
+      "name": "RYBNIK",
+      "code": "3024",
+      "cities": []
+    },
+    {
+      "name": "RZESZOV",
+      "code": "3026",
+      "cities": []
+    },
+    {
+      "name": "SLUPSK",
+      "code": "3250",
+      "cities": []
+    },
+    {
+      "name": "SOPOT",
+      "code": "3266",
+      "cities": []
+    },
+    {
+      "name": "SOSNOWIEC",
+      "code": "3270",
+      "cities": []
+    },
+    {
+      "name": "STARACHOWICE",
+      "code": "3335",
+      "cities": []
+    },
+    {
+      "name": "STETTIN",
+      "code": "3345",
+      "cities": []
+    },
+    {
+      "name": "SWIDNICA",
+      "code": "3400",
+      "cities": []
+    },
+    {
+      "name": "SZCZECIN",
+      "code": "3408",
+      "cities": []
+    },
+    {
+      "name": "TARNOW",
+      "code": "3447",
+      "cities": []
+    },
+    {
+      "name": "TORUN",
+      "code": "3531",
+      "cities": []
+    },
+    {
+      "name": "TYCHY",
+      "code": "3593",
+      "cities": []
+    },
+    {
+      "name": "WALBRZYCH",
+      "code": "3726",
+      "cities": []
+    },
+    {
+      "name": "WARSAW",
+      "code": "3748",
+      "cities": []
+    },
+    {
+      "name": "WLOCLAWEK",
+      "code": "3861",
+      "cities": []
+    },
+    {
+      "name": "WROCLAW",
+      "code": "3879",
+      "cities": []
+    },
+    {
+      "name": "ZABRZE",
+      "code": "3914",
+      "cities": []
+    },
+    {
+      "name": "ZIELONA GORA",
+      "code": "3932",
+      "cities": []
+    }
+  ]
+}

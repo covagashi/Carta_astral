@@ -1,0 +1,106 @@
+{
+  "name": "INDONESIA",
+  "code": "52",
+  "provinces": [
+    {
+      "name": "BANDUNG",
+      "code": "233",
+      "cities": []
+    },
+    {
+      "name": "BATAVIA",
+      "code": "272",
+      "cities": []
+    },
+    {
+      "name": "BOGOR",
+      "code": "415",
+      "cities": []
+    },
+    {
+      "name": "DJAKARTA",
+      "code": "952",
+      "cities": []
+    },
+    {
+      "name": "JAKARTA",
+      "code": "1636",
+      "cities": []
+    },
+    {
+      "name": "KEDIRI",
+      "code": "1731",
+      "cities": []
+    },
+    {
+      "name": "MADIUN",
+      "code": "2089",
+      "cities": []
+    },
+    {
+      "name": "MAKASSAR",
+      "code": "2101",
+      "cities": []
+    },
+    {
+      "name": "MALANG",
+      "code": "2105",
+      "cities": []
+    },
+    {
+      "name": "MANADO",
+      "code": "2110",
+      "cities": []
+    },
+    {
+      "name": "MEDAN",
+      "code": "2193",
+      "cities": []
+    },
+    {
+      "name": "PADANG",
+      "code": "2621",
+      "cities": []
+    },
+    {
+      "name": "PALEMBANG",
+      "code": "2628",
+      "cities": []
+    },
+    {
+      "name": "PONTIANAK",
+      "code": "2781",
+      "cities": []
+    },
+    {
+      "name": "SEMARANG",
+      "code": "3182",
+      "cities": []
+    },
+    {
+      "name": "SURABAJA",
+      "code": "3390",
+      "cities": []
+    },
+    {
+      "name": "SURAKARTA",
+      "code": "3391",
+      "cities": []
+    },
+    {
+      "name": "TANJUNGPRIOK",
+      "code": "3440",
+      "cities": []
+    },
+    {
+      "name": "TJIREBON",
+      "code": "3510",
+      "cities": []
+    },
+    {
+      "name": "UJUNG PANDANG",
+      "code": "3604",
+      "cities": []
+    }
+  ]
+}

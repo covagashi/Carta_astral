@@ -1,0 +1,252 @@
+{
+  "name": "UKRAINE",
+  "code": "111",
+  "provinces": [
+    {
+      "name": "BERDICHIV",
+      "code": "343",
+      "cities": [
+        {
+          "name": "BERDICHIV",
+          "code": "343"
+        },
+        {
+          "name": "BEREHOVO",
+          "code": "345"
+        },
+        {
+          "name": "BORISLAV",
+          "code": "429"
+        },
+        {
+          "name": "CHERKASSY",
+          "code": "705"
+        },
+        {
+          "name": "CHERNEHIV",
+          "code": "706"
+        },
+        {
+          "name": "CHERNEVITSY",
+          "code": "707"
+        },
+        {
+          "name": "DNEPRODZERZINSK",
+          "code": "954"
+        },
+        {
+          "name": "DNEPROPETROVSK",
+          "code": "955"
+        },
+        {
+          "name": "DONETSKE",
+          "code": "960"
+        },
+        {
+          "name": "DROHOBYCH",
+          "code": "976"
+        },
+        {
+          "name": "DUBNO",
+          "code": "981"
+        },
+        {
+          "name": "FASTOV",
+          "code": "1150"
+        },
+        {
+          "name": "IVANO-FRANKIVSK",
+          "code": "1617"
+        },
+        {
+          "name": "KADIYEVKA",
+          "code": "1676"
+        },
+        {
+          "name": "KAMANETZ-PODOL.",
+          "code": "1690"
+        },
+        {
+          "name": "KAZATIN",
+          "code": "1727"
+        },
+        {
+          "name": "KHARKIV",
+          "code": "1755"
+        },
+        {
+          "name": "KHERSON",
+          "code": "1757"
+        },
+        {
+          "name": "KHMELNITSKIY",
+          "code": "1759"
+        },
+        {
+          "name": "KIROVOHRAD",
+          "code": "1778"
+        },
+        {
+          "name": "KISHINIV",
+          "code": "1780"
+        },
+        {
+          "name": "KOMMUNARSK",
+          "code": "1801"
+        },
+        {
+          "name": "KOROSTEN",
+          "code": "1807"
+        },
+        {
+          "name": "KOVEL",
+          "code": "1814"
+        },
+        {
+          "name": "KREMENCHUG",
+          "code": "1822"
+        },
+        {
+          "name": "KREMENETS",
+          "code": "1823"
+        },
+        {
+          "name": "KRYVYJ RIH",
+          "code": "1827"
+        },
+        {
+          "name": "KYIV",
+          "code": "1841"
+        },
+        {
+          "name": "LUTSK",
+          "code": "2064"
+        },
+        {
+          "name": "LVIV",
+          "code": "2068"
+        },
+        {
+          "name": "MAKEYEVKA",
+          "code": "2102"
+        },
+        {
+          "name": "MELITOPOL",
+          "code": "2206"
+        },
+        {
+          "name": "MERETA",
+          "code": "2219"
+        },
+        {
+          "name": "MIKOLAJIV",
+          "code": "2254"
+        },
+        {
+          "name": "MIRHOROD",
+          "code": "2272"
+        },
+        {
+          "name": "MUKACHEVO",
+          "code": "2350"
+        },
+        {
+          "name": "NEZHIN",
+          "code": "2461"
+        },
+        {
+          "name": "NIKOPOL",
+          "code": "2467"
+        },
+        {
+          "name": "NIZHIN",
+          "code": "2476"
+        },
+        {
+          "name": "NOVOHRAD-VOLIN.",
+          "code": "2510"
+        },
+        {
+          "name": "ODESSA",
+          "code": "2535"
+        },
+        {
+          "name": "PERVOMAYSK",
+          "code": "2709"
+        },
+        {
+          "name": "POLTAVA",
+          "code": "2775"
+        },
+        {
+          "name": "RIVNE",
+          "code": "2971"
+        },
+        {
+          "name": "SAMBOR",
+          "code": "3066"
+        },
+        {
+          "name": "SEVASTOPOL",
+          "code": "3190"
+        },
+        {
+          "name": "SHEPETIVKA",
+          "code": "3208"
+        },
+        {
+          "name": "SIMFEROPOL",
+          "code": "3230"
+        },
+        {
+          "name": "SMELA",
+          "code": "3252"
+        },
+        {
+          "name": "STRYJ",
+          "code": "3369"
+        },
+        {
+          "name": "TERNOPIL",
+          "code": "3473"
+        },
+        {
+          "name": "UMAN",
+          "code": "3608"
+        },
+        {
+          "name": "UZH'HOROD",
+          "code": "3634"
+        },
+        {
+          "name": "VINNITSA",
+          "code": "3695"
+        },
+        {
+          "name": "VOROSHILOVHRAD",
+          "code": "3713"
+        },
+        {
+          "name": "YALTA",
+          "code": "3888"
+        },
+        {
+          "name": "ZAPORIZHJA",
+          "code": "3924"
+        },
+        {
+          "name": "ZHDANOV",
+          "code": "3929"
+        },
+        {
+          "name": "ZHITOMIR",
+          "code": "3930"
+        },
+        {
+          "name": "ZHMERINKA",
+          "code": "3931"
+        }
+      ]
+    }
+  ]
+}

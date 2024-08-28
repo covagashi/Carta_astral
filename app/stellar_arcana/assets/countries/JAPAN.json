@@ -1,0 +1,321 @@
+{
+  "name": "JAPAN",
+  "code": "59",
+  "provinces": [
+    {
+      "name": "AKITA",
+      "code": "37",
+      "cities": []
+    },
+    {
+      "name": "AMAGASAKI",
+      "code": "89",
+      "cities": []
+    },
+    {
+      "name": "AOMORI",
+      "code": "134",
+      "cities": []
+    },
+    {
+      "name": "ASAHIKAWA",
+      "code": "161",
+      "cities": []
+    },
+    {
+      "name": "CHIBA",
+      "code": "721",
+      "cities": []
+    },
+    {
+      "name": "FUKUI",
+      "code": "1226",
+      "cities": []
+    },
+    {
+      "name": "FUKUOKA",
+      "code": "1227",
+      "cities": []
+    },
+    {
+      "name": "FUKUSHIMA",
+      "code": "1228",
+      "cities": []
+    },
+    {
+      "name": "FUKUYAMA",
+      "code": "1229",
+      "cities": []
+    },
+    {
+      "name": "FUNABASHI",
+      "code": "1231",
+      "cities": []
+    },
+    {
+      "name": "GIFU",
+      "code": "1281",
+      "cities": []
+    },
+    {
+      "name": "HACHINOHE",
+      "code": "1395",
+      "cities": []
+    },
+    {
+      "name": "HAKODATE",
+      "code": "1407",
+      "cities": []
+    },
+    {
+      "name": "HAMAMATSU",
+      "code": "1419",
+      "cities": []
+    },
+    {
+      "name": "HIGASHIOSAKA",
+      "code": "1505",
+      "cities": []
+    },
+    {
+      "name": "HIROSHIMA",
+      "code": "1521",
+      "cities": []
+    },
+    {
+      "name": "ICHIKAWA",
+      "code": "1575",
+      "cities": []
+    },
+    {
+      "name": "IWAKI",
+      "code": "1619",
+      "cities": []
+    },
+    {
+      "name": "KAGOSHIMA",
+      "code": "1678",
+      "cities": []
+    },
+    {
+      "name": "KANAZAWA",
+      "code": "1692",
+      "cities": []
+    },
+    {
+      "name": "KAWAGUCHI",
+      "code": "1722",
+      "cities": []
+    },
+    {
+      "name": "KAWASAKI",
+      "code": "1723",
+      "cities": []
+    },
+    {
+      "name": "KITAKYUSHO",
+      "code": "1783",
+      "cities": []
+    },
+    {
+      "name": "KOBE",
+      "code": "1791",
+      "cities": []
+    },
+    {
+      "name": "KOCHI",
+      "code": "1793",
+      "cities": []
+    },
+    {
+      "name": "KUMAMOTO",
+      "code": "1830",
+      "cities": []
+    },
+    {
+      "name": "KURASHIKI",
+      "code": "1835",
+      "cities": []
+    },
+    {
+      "name": "KURE",
+      "code": "1836",
+      "cities": []
+    },
+    {
+      "name": "KUSHIRO",
+      "code": "1838",
+      "cities": []
+    },
+    {
+      "name": "KYOTO",
+      "code": "1842",
+      "cities": []
+    },
+    {
+      "name": "MIYAZAKI",
+      "code": "2281",
+      "cities": []
+    },
+    {
+      "name": "MORIOKA",
+      "code": "2325",
+      "cities": []
+    },
+    {
+      "name": "MURORAN",
+      "code": "2361",
+      "cities": []
+    },
+    {
+      "name": "NAGANO",
+      "code": "2374",
+      "cities": []
+    },
+    {
+      "name": "NAGASAKI",
+      "code": "2375",
+      "cities": []
+    },
+    {
+      "name": "NAGOYA",
+      "code": "2376",
+      "cities": []
+    },
+    {
+      "name": "NAHA",
+      "code": "2380",
+      "cities": []
+    },
+    {
+      "name": "NIIGATA",
+      "code": "2465",
+      "cities": []
+    },
+    {
+      "name": "NISHINOMIYA",
+      "code": "2473",
+      "cities": []
+    },
+    {
+      "name": "OKAYAMA",
+      "code": "2543",
+      "cities": []
+    },
+    {
+      "name": "OKAZAKI",
+      "code": "2544",
+      "cities": []
+    },
+    {
+      "name": "OMIYA",
+      "code": "2561",
+      "cities": []
+    },
+    {
+      "name": "OMUTA",
+      "code": "2562",
+      "cities": []
+    },
+    {
+      "name": "OSAKA",
+      "code": "2591",
+      "cities": []
+    },
+    {
+      "name": "OTARU",
+      "code": "2601",
+      "cities": []
+    },
+    {
+      "name": "SAPPORO",
+      "code": "3139",
+      "cities": []
+    },
+    {
+      "name": "SASEBO",
+      "code": "3148",
+      "cities": []
+    },
+    {
+      "name": "SENDAI",
+      "code": "3183",
+      "cities": []
+    },
+    {
+      "name": "SHIMIZU",
+      "code": "3214",
+      "cities": []
+    },
+    {
+      "name": "SHIZUOKA",
+      "code": "3216",
+      "cities": []
+    },
+    {
+      "name": "SUITA",
+      "code": "3375",
+      "cities": []
+    },
+    {
+      "name": "TOKUSHIMA",
+      "code": "3514",
+      "cities": []
+    },
+    {
+      "name": "TOKYO",
+      "code": "3515",
+      "cities": []
+    },
+    {
+      "name": "TOYAMA",
+      "code": "3537",
+      "cities": []
+    },
+    {
+      "name": "TOYOHASHI",
+      "code": "3538",
+      "cities": []
+    },
+    {
+      "name": "TOYONAKA",
+      "code": "3539",
+      "cities": []
+    },
+    {
+      "name": "URAWA",
+      "code": "3622",
+      "cities": []
+    },
+    {
+      "name": "UTSUNOMIYA",
+      "code": "3633",
+      "cities": []
+    },
+    {
+      "name": "WAKAYAMA",
+      "code": "3722",
+      "cities": []
+    },
+    {
+      "name": "YAMAGATA",
+      "code": "3889",
+      "cities": []
+    },
+    {
+      "name": "YAO",
+      "code": "3892",
+      "cities": []
+    },
+    {
+      "name": "YOKOHAMA",
+      "code": "3899",
+      "cities": []
+    },
+    {
+      "name": "YOKOSUKA",
+      "code": "3900",
+      "cities": []
+    }
+  ]
+}

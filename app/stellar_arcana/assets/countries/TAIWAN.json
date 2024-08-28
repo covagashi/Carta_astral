@@ -1,0 +1,46 @@
+{
+  "name": "TAIWAN",
+  "code": "105",
+  "provinces": [
+    {
+      "name": "CHI'LUNG",
+      "code": "719",
+      "cities": []
+    },
+    {
+      "name": "CHIAI",
+      "code": "720",
+      "cities": []
+    },
+    {
+      "name": "HSINCHU",
+      "code": "1553",
+      "cities": []
+    },
+    {
+      "name": "KAOHSIUNG",
+      "code": "1702",
+      "cities": []
+    },
+    {
+      "name": "P'INGTUNG",
+      "code": "2614",
+      "cities": []
+    },
+    {
+      "name": "T'AICHUNG",
+      "code": "3415",
+      "cities": []
+    },
+    {
+      "name": "T'AIPEI",
+      "code": "3416",
+      "cities": []
+    },
+    {
+      "name": "TAINAN",
+      "code": "3423",
+      "cities": []
+    }
+  ]
+}

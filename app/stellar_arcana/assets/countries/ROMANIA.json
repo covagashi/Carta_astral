@@ -1,0 +1,76 @@
+{
+  "name": "ROMANIA",
+  "code": "91",
+  "provinces": [
+    {
+      "name": "ARAD",
+      "code": "139",
+      "cities": []
+    },
+    {
+      "name": "BAIA MARE",
+      "code": "219",
+      "cities": []
+    },
+    {
+      "name": "BRAILA",
+      "code": "452",
+      "cities": []
+    },
+    {
+      "name": "BRASOV",
+      "code": "461",
+      "cities": []
+    },
+    {
+      "name": "BUCHAREST",
+      "code": "518",
+      "cities": []
+    },
+    {
+      "name": "CLUJ-NAPOCA",
+      "code": "777",
+      "cities": []
+    },
+    {
+      "name": "CONSTANTA",
+      "code": "818",
+      "cities": []
+    },
+    {
+      "name": "CRAIOVA",
+      "code": "857",
+      "cities": []
+    },
+    {
+      "name": "GALATI",
+      "code": "1239",
+      "cities": []
+    },
+    {
+      "name": "IASI",
+      "code": "1572",
+      "cities": []
+    },
+    {
+      "name": "ORADEA",
+      "code": "2570",
+      "cities": []
+    },
+    {
+      "name": "PLOIESTI",
+      "code": "2764",
+      "cities": []
+    },
+    {
+      "name": "TIMISOARA",
+      "code": "3501",
+      "cities": []
+    },
+    {
+      "name": "TIRGU MUREZ",
+      "code": "3505",
+      "cities": []
+    }
+  ]
+}

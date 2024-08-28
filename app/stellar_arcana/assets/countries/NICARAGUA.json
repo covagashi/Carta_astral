@@ -1,0 +1,9188 @@
+{
+  "name": "NICARAGUA",
+  "code": "82",
+  "provinces": [
+    {
+      "name": "Atlántico Norte",
+      "code": "468",
+      "cities": [
+        {
+          "name": "Agua Clara",
+          "code": "240297"
+        },
+        {
+          "name": "Alamikamba",
+          "code": "240304"
+        },
+        {
+          "name": "Aló",
+          "code": "240306"
+        },
+        {
+          "name": "Amaki",
+          "code": "240311"
+        },
+        {
+          "name": "Amparo",
+          "code": "240320"
+        },
+        {
+          "name": "Anris",
+          "code": "240321"
+        },
+        {
+          "name": "Ariswatla",
+          "code": "240337"
+        },
+        {
+          "name": "Asang",
+          "code": "240341"
+        },
+        {
+          "name": "Aserradero Sanders",
+          "code": "240342"
+        },
+        {
+          "name": "Aserrío Wiwás",
+          "code": "240343"
+        },
+        {
+          "name": "Auas Tingni",
+          "code": "240349"
+        },
+        {
+          "name": "Auastara",
+          "code": "240350"
+        },
+        {
+          "name": "Auya Pihni",
+          "code": "240353"
+        },
+        {
+          "name": "Auyapura",
+          "code": "240355"
+        },
+        {
+          "name": "Auyatara",
+          "code": "240356"
+        },
+        {
+          "name": "Bachilaya",
+          "code": "240360"
+        },
+        {
+          "name": "Baká",
+          "code": "240363"
+        },
+        {
+          "name": "Barra de Wawa",
+          "code": "240367"
+        },
+        {
+          "name": "Betil",
+          "code": "240394"
+        },
+        {
+          "name": "Bilwaskarma",
+          "code": "240399"
+        },
+        {
+          "name": "Bismuna Tara",
+          "code": "240400"
+        },
+        {
+          "name": "Boca del Toro",
+          "code": "240406"
+        },
+        {
+          "name": "Bonanza",
+          "code": "240410"
+        },
+        {
+          "name": "Buena Vista",
+          "code": "240420"
+        },
+        {
+          "name": "Bum",
+          "code": "240432"
+        },
+        {
+          "name": "Bum Sirpi",
+          "code": "240433"
+        },
+        {
+          "name": "But Tara",
+          "code": "240434"
+        },
+        {
+          "name": "Cabo Gracias a Dios",
+          "code": "240437"
+        },
+        {
+          "name": "Cabo Viejo",
+          "code": "240438"
+        },
+        {
+          "name": "Campamento Omega",
+          "code": "240446"
+        },
+        {
+          "name": "Carrizal",
+          "code": "240471"
+        },
+        {
+          "name": "Casa Sola",
+          "code": "240478"
+        },
+        {
+          "name": "Casulí",
+          "code": "240484"
+        },
+        {
+          "name": "Coco Mine",
+          "code": "240516"
+        },
+        {
+          "name": "Cocoland",
+          "code": "240517"
+        },
+        {
+          "name": "Coperna",
+          "code": "240544"
+        },
+        {
+          "name": "Cuarenta y Tres",
+          "code": "240555"
+        },
+        {
+          "name": "Dakban",
+          "code": "240572"
+        },
+        {
+          "name": "Dákura",
+          "code": "240573"
+        },
+        {
+          "name": "Danlí",
+          "code": "240574"
+        },
+        {
+          "name": "Ebaniso Tasbapauni",
+          "code": "240586"
+        },
+        {
+          "name": "El Bosque",
+          "code": "240629"
+        },
+        {
+          "name": "El Carao",
+          "code": "240654"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240658"
+        },
+        {
+          "name": "El Cocal",
+          "code": "240693"
+        },
+        {
+          "name": "El Dorado",
+          "code": "240725"
+        },
+        {
+          "name": "El Dos",
+          "code": "240727"
+        },
+        {
+          "name": "El Empalme",
+          "code": "240732"
+        },
+        {
+          "name": "El Porvenir",
+          "code": "240892"
+        },
+        {
+          "name": "El Salto",
+          "code": "240941"
+        },
+        {
+          "name": "El Zapote",
+          "code": "241006"
+        },
+        {
+          "name": "Esquipulas",
+          "code": "241028"
+        },
+        {
+          "name": "Fruta de Pan",
+          "code": "241039"
+        },
+        {
+          "name": "Greystown",
+          "code": "241048"
+        },
+        {
+          "name": "Haulover",
+          "code": "241077"
+        },
+        {
+          "name": "Iskri",
+          "code": "241092"
+        },
+        {
+          "name": "Isnawás",
+          "code": "241093"
+        },
+        {
+          "name": "Kakaubila",
+          "code": "241117"
+        },
+        {
+          "name": "Kambla",
+          "code": "241119"
+        },
+        {
+          "name": "Karatá",
+          "code": "241124"
+        },
+        {
+          "name": "Kaska",
+          "code": "241126"
+        },
+        {
+          "name": "Kauru Tingni",
+          "code": "241127"
+        },
+        {
+          "name": "Kisalaya",
+          "code": "241130"
+        },
+        {
+          "name": "Kitaski",
+          "code": "241132"
+        },
+        {
+          "name": "Kiwás Tara",
+          "code": "241133"
+        },
+        {
+          "name": "Klam",
+          "code": "241134"
+        },
+        {
+          "name": "Klark",
+          "code": "241135"
+        },
+        {
+          "name": "Kligna",
+          "code": "241136"
+        },
+        {
+          "name": "Krasa",
+          "code": "241138"
+        },
+        {
+          "name": "Krukira",
+          "code": "241140"
+        },
+        {
+          "name": "Kuakuil",
+          "code": "241141"
+        },
+        {
+          "name": "Kuanwatla",
+          "code": "241142"
+        },
+        {
+          "name": "Kugna",
+          "code": "241143"
+        },
+        {
+          "name": "Kuikuina",
+          "code": "241144"
+        },
+        {
+          "name": "Kukalaya",
+          "code": "241145"
+        },
+        {
+          "name": "Kum",
+          "code": "241147"
+        },
+        {
+          "name": "Kuri",
+          "code": "241149"
+        },
+        {
+          "name": "Kurin Dan",
+          "code": "241150"
+        },
+        {
+          "name": "Kuyu Tingni",
+          "code": "241152"
+        },
+        {
+          "name": "La Constancia",
+          "code": "241224"
+        },
+        {
+          "name": "La Luz",
+          "code": "241303"
+        },
+        {
+          "name": "La Rosa Grande",
+          "code": "241370"
+        },
+        {
+          "name": "La Rosita",
+          "code": "241371"
+        },
+        {
+          "name": "La Unión",
+          "code": "241385"
+        },
+        {
+          "name": "Labú",
+          "code": "241403"
+        },
+        {
+          "name": "Lamlaya",
+          "code": "241406"
+        },
+        {
+          "name": "Lapan",
+          "code": "241407"
+        },
+        {
+          "name": "Las Brisas",
+          "code": "241414"
+        },
+        {
+          "name": "Lawa Place",
+          "code": "241540"
+        },
+        {
+          "name": "Layasiksa",
+          "code": "241541"
+        },
+        {
+          "name": "Leimus",
+          "code": "241542"
+        },
+        {
+          "name": "Li-Dákura",
+          "code": "241546"
+        },
+        {
+          "name": "Limbaica",
+          "code": "241550"
+        },
+        {
+          "name": "Lisawé",
+          "code": "241555"
+        },
+        {
+          "name": "Living Creek",
+          "code": "241556"
+        },
+        {
+          "name": "Liwa Sirpe",
+          "code": "241557"
+        },
+        {
+          "name": "Luciana",
+          "code": "241667"
+        },
+        {
+          "name": "Lukú",
+          "code": "241668"
+        },
+        {
+          "name": "Makantaca",
+          "code": "241674"
+        },
+        {
+          "name": "Maniwatla",
+          "code": "241683"
+        },
+        {
+          "name": "Miguel Bikan",
+          "code": "241711"
+        },
+        {
+          "name": "Mina Columbus",
+          "code": "241713"
+        },
+        {
+          "name": "Murubila",
+          "code": "241756"
+        },
+        {
+          "name": "Nasma Almuk",
+          "code": "241770"
+        },
+        {
+          "name": "Neblina",
+          "code": "241772"
+        },
+        {
+          "name": "Ninayeri",
+          "code": "241773"
+        },
+        {
+          "name": "Páhara",
+          "code": "241799"
+        },
+        {
+          "name": "Palmera",
+          "code": "241805"
+        },
+        {
+          "name": "Paloyumpa",
+          "code": "241814"
+        },
+        {
+          "name": "Pilpilia",
+          "code": "241848"
+        },
+        {
+          "name": "Pispayeri",
+          "code": "241851"
+        },
+        {
+          "name": "Plankira",
+          "code": "241852"
+        },
+        {
+          "name": "Portalupi",
+          "code": "241858"
+        },
+        {
+          "name": "Prinzapolka",
+          "code": "241872"
+        },
+        {
+          "name": "Puerto Cabezas",
+          "code": "241881"
+        },
+        {
+          "name": "Puerto Isabel",
+          "code": "241885"
+        },
+        {
+          "name": "Puerto Viejo",
+          "code": "241891"
+        },
+        {
+          "name": "Rayapura",
+          "code": "241916"
+        },
+        {
+          "name": "Riska",
+          "code": "241927"
+        },
+        {
+          "name": "Roskaya",
+          "code": "241931"
+        },
+        {
+          "name": "Sagua",
+          "code": "241941"
+        },
+        {
+          "name": "Sainica",
+          "code": "241943"
+        },
+        {
+          "name": "Saklin",
+          "code": "241945"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241961"
+        },
+        {
+          "name": "San Carlos",
+          "code": "241986"
+        },
+        {
+          "name": "San Jerónimo",
+          "code": "242049"
+        },
+        {
+          "name": "San Luis",
+          "code": "242110"
+        },
+        {
+          "name": "San Pedro del Norte",
+          "code": "242157"
+        },
+        {
+          "name": "Sang Sang",
+          "code": "242192"
+        },
+        {
+          "name": "Sannilaya Lakus",
+          "code": "242193"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "242199"
+        },
+        {
+          "name": "Santa Fe",
+          "code": "242241"
+        },
+        {
+          "name": "Santa Inés",
+          "code": "242246"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "242253"
+        },
+        {
+          "name": "Santa Marta",
+          "code": "242279"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242303"
+        },
+        {
+          "name": "Sáupuka",
+          "code": "242333"
+        },
+        {
+          "name": "Sausa",
+          "code": "242334"
+        },
+        {
+          "name": "Saw Mill",
+          "code": "242335"
+        },
+        {
+          "name": "Seven Benk",
+          "code": "242339"
+        },
+        {
+          "name": "Siempreviva",
+          "code": "242341"
+        },
+        {
+          "name": "Sih",
+          "code": "242342"
+        },
+        {
+          "name": "Siksayali",
+          "code": "242343"
+        },
+        {
+          "name": "Sinsin",
+          "code": "242346"
+        },
+        {
+          "name": "Sisinata",
+          "code": "242349"
+        },
+        {
+          "name": "Siuna",
+          "code": "242351"
+        },
+        {
+          "name": "Skruwarban",
+          "code": "242352"
+        },
+        {
+          "name": "Slilmasía",
+          "code": "242353"
+        },
+        {
+          "name": "Suak Suakia",
+          "code": "242362"
+        },
+        {
+          "name": "Tadasna",
+          "code": "242369"
+        },
+        {
+          "name": "Tasbaraya",
+          "code": "242383"
+        },
+        {
+          "name": "Tawantara",
+          "code": "242385"
+        },
+        {
+          "name": "Tawasakia",
+          "code": "242386"
+        },
+        {
+          "name": "Tee Kamp",
+          "code": "242393"
+        },
+        {
+          "name": "Tichán",
+          "code": "242406"
+        },
+        {
+          "name": "Torre Cinco",
+          "code": "242427"
+        },
+        {
+          "name": "Torre Dos",
+          "code": "242428"
+        },
+        {
+          "name": "Truskusirpi",
+          "code": "242433"
+        },
+        {
+          "name": "Truskutara",
+          "code": "242434"
+        },
+        {
+          "name": "Tuapí",
+          "code": "242435"
+        },
+        {
+          "name": "Tuara",
+          "code": "242436"
+        },
+        {
+          "name": "Tulimbila",
+          "code": "242437"
+        },
+        {
+          "name": "Tum Tum",
+          "code": "242438"
+        },
+        {
+          "name": "Tungla",
+          "code": "242441"
+        },
+        {
+          "name": "Tuskru Sirpi",
+          "code": "242443"
+        },
+        {
+          "name": "Tuskru Tara",
+          "code": "242444"
+        },
+        {
+          "name": "Uhran",
+          "code": "242445"
+        },
+        {
+          "name": "Uhri",
+          "code": "242446"
+        },
+        {
+          "name": "Ukunni",
+          "code": "242447"
+        },
+        {
+          "name": "Ulwás",
+          "code": "242448"
+        },
+        {
+          "name": "Umbra Sumal",
+          "code": "242449"
+        },
+        {
+          "name": "Uskira",
+          "code": "242453"
+        },
+        {
+          "name": "Utlamasta",
+          "code": "242455"
+        },
+        {
+          "name": "Valle Kuikuinita",
+          "code": "242476"
+        },
+        {
+          "name": "Waingka Laya",
+          "code": "242520"
+        },
+        {
+          "name": "Wakaban",
+          "code": "242521"
+        },
+        {
+          "name": "Walpasiksa",
+          "code": "242524"
+        },
+        {
+          "name": "Waní",
+          "code": "242526"
+        },
+        {
+          "name": "Wankluma",
+          "code": "242527"
+        },
+        {
+          "name": "Warnata",
+          "code": "242528"
+        },
+        {
+          "name": "Wasla",
+          "code": "242530"
+        },
+        {
+          "name": "Waslala",
+          "code": "242531"
+        },
+        {
+          "name": "Waspado",
+          "code": "242532"
+        },
+        {
+          "name": "Waspam",
+          "code": "242533"
+        },
+        {
+          "name": "Waspuk",
+          "code": "242534"
+        },
+        {
+          "name": "Wirapahani",
+          "code": "242541"
+        },
+        {
+          "name": "Wiwinak",
+          "code": "242543"
+        },
+        {
+          "name": "Wounta",
+          "code": "242544"
+        },
+        {
+          "name": "Yabaltara",
+          "code": "242545"
+        },
+        {
+          "name": "Yablis",
+          "code": "242546"
+        },
+        {
+          "name": "Yulú",
+          "code": "242556"
+        },
+        {
+          "name": "Yulu Tingni",
+          "code": "242557"
+        }
+      ]
+    },
+    {
+      "name": "Boaco",
+      "code": "469",
+      "cities": [
+        {
+          "name": "Agua Caliente",
+          "code": "240296"
+        },
+        {
+          "name": "Aguas Calientes",
+          "code": "240300"
+        },
+        {
+          "name": "Ahuehuito",
+          "code": "240303"
+        },
+        {
+          "name": "Alta Mira",
+          "code": "240308"
+        },
+        {
+          "name": "Asunción",
+          "code": "240346"
+        },
+        {
+          "name": "Aurora",
+          "code": "240351"
+        },
+        {
+          "name": "Ayoja",
+          "code": "240358"
+        },
+        {
+          "name": "Bacoas",
+          "code": "240361"
+        },
+        {
+          "name": "Bajos de Tomatoya",
+          "code": "240362"
+        },
+        {
+          "name": "Belén",
+          "code": "240386"
+        },
+        {
+          "name": "Boaco",
+          "code": "240402"
+        },
+        {
+          "name": "Boaco Viejo",
+          "code": "240403"
+        },
+        {
+          "name": "Boaquito",
+          "code": "240404"
+        },
+        {
+          "name": "Buena Vista",
+          "code": "240417"
+        },
+        {
+          "name": "Buenos Aires",
+          "code": "240427"
+        },
+        {
+          "name": "Cacaguapa",
+          "code": "240439"
+        },
+        {
+          "name": "Camoapa",
+          "code": "240444"
+        },
+        {
+          "name": "Caña de Castilla",
+          "code": "240456"
+        },
+        {
+          "name": "Candelaria",
+          "code": "240452"
+        },
+        {
+          "name": "Caño de la Laja",
+          "code": "240464"
+        },
+        {
+          "name": "Catarina",
+          "code": "240486"
+        },
+        {
+          "name": "Cerro Colorado",
+          "code": "240493"
+        },
+        {
+          "name": "Comarca Arriba",
+          "code": "240531"
+        },
+        {
+          "name": "Cuesta Parda",
+          "code": "240562"
+        },
+        {
+          "name": "Cusirina",
+          "code": "240568"
+        },
+        {
+          "name": "El Abra",
+          "code": "240589"
+        },
+        {
+          "name": "El Alto",
+          "code": "240599"
+        },
+        {
+          "name": "El Bálsamo",
+          "code": "240615"
+        },
+        {
+          "name": "El Bejuco",
+          "code": "240620"
+        },
+        {
+          "name": "El Bonete",
+          "code": "240623"
+        },
+        {
+          "name": "El Cacao de Los Chavarrías",
+          "code": "240639"
+        },
+        {
+          "name": "El Cacao de Los Duarte",
+          "code": "240640"
+        },
+        {
+          "name": "El Capitán",
+          "code": "240647"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240661"
+        },
+        {
+          "name": "El Cebollín",
+          "code": "240675"
+        },
+        {
+          "name": "El Cedral",
+          "code": "240676"
+        },
+        {
+          "name": "El Corozo",
+          "code": "240701"
+        },
+        {
+          "name": "El Coyol",
+          "code": "240708"
+        },
+        {
+          "name": "El Coyolar",
+          "code": "240711"
+        },
+        {
+          "name": "El Embudo",
+          "code": "240729"
+        },
+        {
+          "name": "El Guabo",
+          "code": "240758"
+        },
+        {
+          "name": "El Guanacaste",
+          "code": "240760"
+        },
+        {
+          "name": "El Jícaro",
+          "code": "240789"
+        },
+        {
+          "name": "El Llanito",
+          "code": "240808"
+        },
+        {
+          "name": "El Mojón",
+          "code": "240816"
+        },
+        {
+          "name": "El Mulero",
+          "code": "240823"
+        },
+        {
+          "name": "El Palmar",
+          "code": "240849"
+        },
+        {
+          "name": "El Paraíso",
+          "code": "240860"
+        },
+        {
+          "name": "El Pedernal",
+          "code": "240870"
+        },
+        {
+          "name": "El Pochote",
+          "code": "240886"
+        },
+        {
+          "name": "El Porvenir",
+          "code": "240894"
+        },
+        {
+          "name": "El Potrero",
+          "code": "240898"
+        },
+        {
+          "name": "El Recreo",
+          "code": "240914"
+        },
+        {
+          "name": "El Riego",
+          "code": "240919"
+        },
+        {
+          "name": "El Roblar",
+          "code": "240921"
+        },
+        {
+          "name": "El Rodeo",
+          "code": "240926"
+        },
+        {
+          "name": "El Silencio",
+          "code": "240947"
+        },
+        {
+          "name": "El Tabacal",
+          "code": "240956"
+        },
+        {
+          "name": "El Tábano",
+          "code": "240957"
+        },
+        {
+          "name": "El Trapiche",
+          "code": "240981"
+        },
+        {
+          "name": "El Trapichito",
+          "code": "240984"
+        },
+        {
+          "name": "El Tule",
+          "code": "240989"
+        },
+        {
+          "name": "El Verde",
+          "code": "241000"
+        },
+        {
+          "name": "El Zapote",
+          "code": "241009"
+        },
+        {
+          "name": "Espíritu Santo",
+          "code": "241022"
+        },
+        {
+          "name": "Guirruca",
+          "code": "241063"
+        },
+        {
+          "name": "Güiscoyol",
+          "code": "241064"
+        },
+        {
+          "name": "La Avellana",
+          "code": "241162"
+        },
+        {
+          "name": "La Calamidad",
+          "code": "241179"
+        },
+        {
+          "name": "La Ceiba",
+          "code": "241199"
+        },
+        {
+          "name": "La Concepción",
+          "code": "241216"
+        },
+        {
+          "name": "La Concha",
+          "code": "241221"
+        },
+        {
+          "name": "La Cruz",
+          "code": "241228"
+        },
+        {
+          "name": "La Esperanza",
+          "code": "241244"
+        },
+        {
+          "name": "La Estrella",
+          "code": "241250"
+        },
+        {
+          "name": "La Guayaba",
+          "code": "241279"
+        },
+        {
+          "name": "La Joya",
+          "code": "241289"
+        },
+        {
+          "name": "La Montañita",
+          "code": "241317"
+        },
+        {
+          "name": "La Palma",
+          "code": "241323"
+        },
+        {
+          "name": "La Peñita",
+          "code": "241336"
+        },
+        {
+          "name": "La Pita",
+          "code": "241345"
+        },
+        {
+          "name": "La Rejoya",
+          "code": "241363"
+        },
+        {
+          "name": "La Unión",
+          "code": "241386"
+        },
+        {
+          "name": "Las Guabas",
+          "code": "241457"
+        },
+        {
+          "name": "Las Lagunas",
+          "code": "241461"
+        },
+        {
+          "name": "Las Lajas",
+          "code": "241464"
+        },
+        {
+          "name": "Las Masís",
+          "code": "241480"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "241487"
+        },
+        {
+          "name": "Las Nubes",
+          "code": "241501"
+        },
+        {
+          "name": "Las Pencas",
+          "code": "241509"
+        },
+        {
+          "name": "Las Pilas",
+          "code": "241518"
+        },
+        {
+          "name": "Llano Grande",
+          "code": "241563"
+        },
+        {
+          "name": "Los Cerritos",
+          "code": "241594"
+        },
+        {
+          "name": "Los Chocoyitos",
+          "code": "241599"
+        },
+        {
+          "name": "Los Cimientos",
+          "code": "241600"
+        },
+        {
+          "name": "Los Negritos",
+          "code": "241627"
+        },
+        {
+          "name": "Los Portillos",
+          "code": "241637"
+        },
+        {
+          "name": "Los Potrerillos",
+          "code": "241641"
+        },
+        {
+          "name": "Maderas",
+          "code": "241671"
+        },
+        {
+          "name": "Malacatoya",
+          "code": "241677"
+        },
+        {
+          "name": "Masapía",
+          "code": "241689"
+        },
+        {
+          "name": "Miramontes",
+          "code": "241721"
+        },
+        {
+          "name": "Mollejones",
+          "code": "241725"
+        },
+        {
+          "name": "Monte Grande",
+          "code": "241734"
+        },
+        {
+          "name": "Paso Hondo",
+          "code": "241827"
+        },
+        {
+          "name": "Peñas Blancas",
+          "code": "241837"
+        },
+        {
+          "name": "Potrerillos",
+          "code": "241866"
+        },
+        {
+          "name": "Río Negro",
+          "code": "241924"
+        },
+        {
+          "name": "Saguatepe",
+          "code": "241942"
+        },
+        {
+          "name": "San Agustín",
+          "code": "241954"
+        },
+        {
+          "name": "San Andrés",
+          "code": "241959"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241964"
+        },
+        {
+          "name": "San Diego",
+          "code": "241999"
+        },
+        {
+          "name": "San Francisco",
+          "code": "242018"
+        },
+        {
+          "name": "San Gregorio",
+          "code": "242029"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242043"
+        },
+        {
+          "name": "San José de los Remates",
+          "code": "242075"
+        },
+        {
+          "name": "San José de Torres",
+          "code": "242078"
+        },
+        {
+          "name": "San Juan",
+          "code": "242085"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "242103"
+        },
+        {
+          "name": "San Patricio",
+          "code": "242146"
+        },
+        {
+          "name": "San Rafael",
+          "code": "242159"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242217"
+        },
+        {
+          "name": "Santa Fe",
+          "code": "242238"
+        },
+        {
+          "name": "Santa Inés",
+          "code": "242247"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "242252"
+        },
+        {
+          "name": "Santa Lucía",
+          "code": "242265"
+        },
+        {
+          "name": "Santa María",
+          "code": "242276"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242289"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242298"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "242321"
+        },
+        {
+          "name": "Sitio Viejo",
+          "code": "242350"
+        },
+        {
+          "name": "Sonzapote",
+          "code": "242360"
+        },
+        {
+          "name": "Tagua",
+          "code": "242370"
+        },
+        {
+          "name": "Talnites",
+          "code": "242371"
+        },
+        {
+          "name": "Talolinga",
+          "code": "242372"
+        },
+        {
+          "name": "Talpetate",
+          "code": "242374"
+        },
+        {
+          "name": "Tecolostote",
+          "code": "242388"
+        },
+        {
+          "name": "Tepalón",
+          "code": "242401"
+        },
+        {
+          "name": "Teustepe",
+          "code": "242405"
+        },
+        {
+          "name": "Tierra Azul",
+          "code": "242409"
+        },
+        {
+          "name": "Tierra Blanca",
+          "code": "242412"
+        },
+        {
+          "name": "Tomatollita",
+          "code": "242422"
+        },
+        {
+          "name": "Tuncar",
+          "code": "242440"
+        },
+        {
+          "name": "Veracruz",
+          "code": "242503"
+        },
+        {
+          "name": "Wiliwa",
+          "code": "242539"
+        },
+        {
+          "name": "Yucapuca",
+          "code": "242554"
+        }
+      ]
+    },
+    {
+      "name": "Carazo",
+      "code": "470",
+      "cities": [
+        {
+          "name": "Aguas Calientes de Acayo",
+          "code": "240302"
+        },
+        {
+          "name": "Amayito",
+          "code": "240314"
+        },
+        {
+          "name": "Amayo",
+          "code": "240316"
+        },
+        {
+          "name": "Apompuá",
+          "code": "240331"
+        },
+        {
+          "name": "Barranco",
+          "code": "240369"
+        },
+        {
+          "name": "Barranco Bayo",
+          "code": "240370"
+        },
+        {
+          "name": "Barrio Nuevo",
+          "code": "240381"
+        },
+        {
+          "name": "Brasil Grande",
+          "code": "240412"
+        },
+        {
+          "name": "Brasilito",
+          "code": "240413"
+        },
+        {
+          "name": "Buena Vista",
+          "code": "240418"
+        },
+        {
+          "name": "Buenavista de Apompuá",
+          "code": "240425"
+        },
+        {
+          "name": "Buenavista del Socorro",
+          "code": "240426"
+        },
+        {
+          "name": "Casares",
+          "code": "240479"
+        },
+        {
+          "name": "Cicaya Grande",
+          "code": "240507"
+        },
+        {
+          "name": "Comalcalpa",
+          "code": "240530"
+        },
+        {
+          "name": "Diriamba",
+          "code": "240581"
+        },
+        {
+          "name": "Dolores",
+          "code": "240583"
+        },
+        {
+          "name": "Dulce Nombre",
+          "code": "240585"
+        },
+        {
+          "name": "El Abra",
+          "code": "240588"
+        },
+        {
+          "name": "El Aguacate",
+          "code": "240593"
+        },
+        {
+          "name": "El Asilo",
+          "code": "240608"
+        },
+        {
+          "name": "El Bosque",
+          "code": "240625"
+        },
+        {
+          "name": "El Brasil",
+          "code": "240631"
+        },
+        {
+          "name": "El Cacao",
+          "code": "240634"
+        },
+        {
+          "name": "El Caimito",
+          "code": "240641"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240664"
+        },
+        {
+          "name": "El Carrizal",
+          "code": "240666"
+        },
+        {
+          "name": "El Encierro",
+          "code": "240735"
+        },
+        {
+          "name": "El Golfo",
+          "code": "240754"
+        },
+        {
+          "name": "El Guabillito",
+          "code": "240756"
+        },
+        {
+          "name": "El Guabillo",
+          "code": "240757"
+        },
+        {
+          "name": "El Guanacaste",
+          "code": "240761"
+        },
+        {
+          "name": "El Ingenio",
+          "code": "240784"
+        },
+        {
+          "name": "El Molina",
+          "code": "240819"
+        },
+        {
+          "name": "El Naranjo",
+          "code": "240827"
+        },
+        {
+          "name": "El Ojochal",
+          "code": "240839"
+        },
+        {
+          "name": "El Panamá",
+          "code": "240851"
+        },
+        {
+          "name": "El Paraíso",
+          "code": "240864"
+        },
+        {
+          "name": "El Pedernal",
+          "code": "240869"
+        },
+        {
+          "name": "El Portón",
+          "code": "240891"
+        },
+        {
+          "name": "El Porvenir",
+          "code": "240895"
+        },
+        {
+          "name": "El Quinal",
+          "code": "240908"
+        },
+        {
+          "name": "El Rosario",
+          "code": "240930"
+        },
+        {
+          "name": "El Rosario Manila",
+          "code": "240934"
+        },
+        {
+          "name": "El Sol",
+          "code": "240954"
+        },
+        {
+          "name": "El Tigre",
+          "code": "240974"
+        },
+        {
+          "name": "Emperatriz",
+          "code": "241016"
+        },
+        {
+          "name": "Esquipulas",
+          "code": "241026"
+        },
+        {
+          "name": "Fátima",
+          "code": "241035"
+        },
+        {
+          "name": "Gómez",
+          "code": "241045"
+        },
+        {
+          "name": "Güiquiliapa",
+          "code": "241062"
+        },
+        {
+          "name": "Huehuete",
+          "code": "241078"
+        },
+        {
+          "name": "Huiste",
+          "code": "241079"
+        },
+        {
+          "name": "Jinotepe",
+          "code": "241104"
+        },
+        {
+          "name": "La Barranca",
+          "code": "241169"
+        },
+        {
+          "name": "La Boquita",
+          "code": "241177"
+        },
+        {
+          "name": "La Cholpa",
+          "code": "241208"
+        },
+        {
+          "name": "La Conquista",
+          "code": "241223"
+        },
+        {
+          "name": "La Cruz",
+          "code": "241229"
+        },
+        {
+          "name": "La Grandeza",
+          "code": "241272"
+        },
+        {
+          "name": "La Hormiga",
+          "code": "241284"
+        },
+        {
+          "name": "La Marcheneña",
+          "code": "241307"
+        },
+        {
+          "name": "La Moca",
+          "code": "241312"
+        },
+        {
+          "name": "La Mohosa",
+          "code": "241313"
+        },
+        {
+          "name": "La Natividad",
+          "code": "241319"
+        },
+        {
+          "name": "La Paz de Oriente",
+          "code": "241332"
+        },
+        {
+          "name": "La Piedra Pintada",
+          "code": "241339"
+        },
+        {
+          "name": "La Piñuela",
+          "code": "241344"
+        },
+        {
+          "name": "La Pita",
+          "code": "241348"
+        },
+        {
+          "name": "La Pitilla",
+          "code": "241351"
+        },
+        {
+          "name": "La Reserva",
+          "code": "241367"
+        },
+        {
+          "name": "La Trinidad",
+          "code": "241379"
+        },
+        {
+          "name": "Las Cañas",
+          "code": "241420"
+        },
+        {
+          "name": "Las Cuchillas de Apompuá",
+          "code": "241442"
+        },
+        {
+          "name": "Las Enramadas",
+          "code": "241451"
+        },
+        {
+          "name": "Las Esquinas",
+          "code": "241454"
+        },
+        {
+          "name": "Las Marías",
+          "code": "241479"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "241483"
+        },
+        {
+          "name": "Las Nilas",
+          "code": "241497"
+        },
+        {
+          "name": "Las Tablas",
+          "code": "241535"
+        },
+        {
+          "name": "Loma Alegre",
+          "code": "241568"
+        },
+        {
+          "name": "Los Ángeles",
+          "code": "241574"
+        },
+        {
+          "name": "Los Baltodanos",
+          "code": "241580"
+        },
+        {
+          "name": "Los Cruces",
+          "code": "241602"
+        },
+        {
+          "name": "Los Encuentros",
+          "code": "241605"
+        },
+        {
+          "name": "Los Gagos",
+          "code": "241608"
+        },
+        {
+          "name": "Los Gutiérrez",
+          "code": "241610"
+        },
+        {
+          "name": "Los Narváez",
+          "code": "241625"
+        },
+        {
+          "name": "Los Navarrete",
+          "code": "241626"
+        },
+        {
+          "name": "Los Potrerillos",
+          "code": "241642"
+        },
+        {
+          "name": "Los Rivera",
+          "code": "241650"
+        },
+        {
+          "name": "Los Sánchez",
+          "code": "241653"
+        },
+        {
+          "name": "Los Velásquez",
+          "code": "241660"
+        },
+        {
+          "name": "Monte Fresco",
+          "code": "241732"
+        },
+        {
+          "name": "Montecristo",
+          "code": "241743"
+        },
+        {
+          "name": "Nancite Dulce",
+          "code": "241763"
+        },
+        {
+          "name": "Panamá",
+          "code": "241816"
+        },
+        {
+          "name": "Paso La Solera",
+          "code": "241828"
+        },
+        {
+          "name": "Pochomil",
+          "code": "241855"
+        },
+        {
+          "name": "Puerta Negra",
+          "code": "241877"
+        },
+        {
+          "name": "Río Seco",
+          "code": "241926"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241968"
+        },
+        {
+          "name": "San Antonio de Arriba",
+          "code": "241972"
+        },
+        {
+          "name": "San Cristóbal",
+          "code": "241996"
+        },
+        {
+          "name": "San Francisco",
+          "code": "242019"
+        },
+        {
+          "name": "San Francisco de La Unión",
+          "code": "242022"
+        },
+        {
+          "name": "San Gregorio de Las Cañas",
+          "code": "242031"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242038"
+        },
+        {
+          "name": "San José",
+          "code": "242067"
+        },
+        {
+          "name": "San José de Monte Redondo",
+          "code": "242076"
+        },
+        {
+          "name": "San José de Tepano",
+          "code": "242077"
+        },
+        {
+          "name": "San Marcos",
+          "code": "242120"
+        },
+        {
+          "name": "San Miguel",
+          "code": "242128"
+        },
+        {
+          "name": "San Pablo",
+          "code": "242142"
+        },
+        {
+          "name": "San Pedro",
+          "code": "242151"
+        },
+        {
+          "name": "San Vicente",
+          "code": "242187"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "242200"
+        },
+        {
+          "name": "Santa Cecilia",
+          "code": "242210"
+        },
+        {
+          "name": "Santa Elvira",
+          "code": "242230"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "242250"
+        },
+        {
+          "name": "Santa Lucía",
+          "code": "242263"
+        },
+        {
+          "name": "Santa María",
+          "code": "242277"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242286"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242299"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "242313"
+        },
+        {
+          "name": "Tecomapa",
+          "code": "242390"
+        },
+        {
+          "name": "Tecomapita",
+          "code": "242391"
+        },
+        {
+          "name": "Tupilapa",
+          "code": "242442"
+        },
+        {
+          "name": "Veracruz",
+          "code": "242507"
+        }
+      ]
+    },
+    {
+      "name": "Chinandega",
+      "code": "471",
+      "cities": [
+        {
+          "name": "Alaska",
+          "code": "240305"
+        },
+        {
+          "name": "Alsacia",
+          "code": "240307"
+        },
+        {
+          "name": "Apante",
+          "code": "240327"
+        },
+        {
+          "name": "Apastate",
+          "code": "240328"
+        },
+        {
+          "name": "Aposentillo",
+          "code": "240333"
+        },
+        {
+          "name": "Argelia",
+          "code": "240336"
+        },
+        {
+          "name": "Barrio Chiquito",
+          "code": "240372"
+        },
+        {
+          "name": "Bellavista",
+          "code": "240391"
+        },
+        {
+          "name": "Benito Montalbán",
+          "code": "240392"
+        },
+        {
+          "name": "Buena Vista",
+          "code": "240416"
+        },
+        {
+          "name": "Campuzano",
+          "code": "240448"
+        },
+        {
+          "name": "Cañafístula",
+          "code": "240460"
+        },
+        {
+          "name": "Candelaria",
+          "code": "240451"
+        },
+        {
+          "name": "Canta Gallito",
+          "code": "240453"
+        },
+        {
+          "name": "Cayanlipe",
+          "code": "240487"
+        },
+        {
+          "name": "Ceilán",
+          "code": "240492"
+        },
+        {
+          "name": "Cerro Colorado",
+          "code": "240494"
+        },
+        {
+          "name": "Chichigalpa",
+          "code": "240502"
+        },
+        {
+          "name": "Chinandega",
+          "code": "240503"
+        },
+        {
+          "name": "Chorrera",
+          "code": "240505"
+        },
+        {
+          "name": "Cinco Pinos",
+          "code": "240508"
+        },
+        {
+          "name": "Colonia Adela",
+          "code": "240522"
+        },
+        {
+          "name": "Colonia Cristo Rey",
+          "code": "240523"
+        },
+        {
+          "name": "Colonia La Esperanza Grande",
+          "code": "240524"
+        },
+        {
+          "name": "Colonia Porvenir Viejo",
+          "code": "240527"
+        },
+        {
+          "name": "Concepción",
+          "code": "240542"
+        },
+        {
+          "name": "Corinto",
+          "code": "240547"
+        },
+        {
+          "name": "Cosigüina",
+          "code": "240551"
+        },
+        {
+          "name": "Cosmapa",
+          "code": "240552"
+        },
+        {
+          "name": "El Algodón",
+          "code": "240596"
+        },
+        {
+          "name": "El Aradito",
+          "code": "240605"
+        },
+        {
+          "name": "El Bálsamo",
+          "code": "240613"
+        },
+        {
+          "name": "El Cacao",
+          "code": "240636"
+        },
+        {
+          "name": "El Capulín",
+          "code": "240649"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240659"
+        },
+        {
+          "name": "El Clavel",
+          "code": "240692"
+        },
+        {
+          "name": "El Congo",
+          "code": "240695"
+        },
+        {
+          "name": "El Fortín",
+          "code": "240748"
+        },
+        {
+          "name": "El Garcero",
+          "code": "240752"
+        },
+        {
+          "name": "El Higueral",
+          "code": "240778"
+        },
+        {
+          "name": "El Hoyero",
+          "code": "240782"
+        },
+        {
+          "name": "El Obraje",
+          "code": "240831"
+        },
+        {
+          "name": "El Palacio",
+          "code": "240843"
+        },
+        {
+          "name": "El Paraíso",
+          "code": "240859"
+        },
+        {
+          "name": "El Pegón",
+          "code": "240873"
+        },
+        {
+          "name": "El Pellisco",
+          "code": "240874"
+        },
+        {
+          "name": "El Portillo",
+          "code": "240890"
+        },
+        {
+          "name": "El Pozo",
+          "code": "240899"
+        },
+        {
+          "name": "El Puente",
+          "code": "240904"
+        },
+        {
+          "name": "El Realejo",
+          "code": "240911"
+        },
+        {
+          "name": "El Regate",
+          "code": "240916"
+        },
+        {
+          "name": "El Rosario",
+          "code": "240933"
+        },
+        {
+          "name": "El Salvador",
+          "code": "240943"
+        },
+        {
+          "name": "El Torreón",
+          "code": "240979"
+        },
+        {
+          "name": "El Trianón",
+          "code": "240986"
+        },
+        {
+          "name": "El Tunalito",
+          "code": "240993"
+        },
+        {
+          "name": "El Viejo",
+          "code": "241001"
+        },
+        {
+          "name": "El Zanate",
+          "code": "241003"
+        },
+        {
+          "name": "El Zapote",
+          "code": "241007"
+        },
+        {
+          "name": "Esquipulas",
+          "code": "241023"
+        },
+        {
+          "name": "Fátima",
+          "code": "241036"
+        },
+        {
+          "name": "Filadelfia",
+          "code": "241038"
+        },
+        {
+          "name": "Gemastepe",
+          "code": "241043"
+        },
+        {
+          "name": "Genízaro",
+          "code": "241044"
+        },
+        {
+          "name": "Hato de La Virgen",
+          "code": "241068"
+        },
+        {
+          "name": "Hato Grande",
+          "code": "241069"
+        },
+        {
+          "name": "Hato Nuevo",
+          "code": "241073"
+        },
+        {
+          "name": "Ingenio Bélgica",
+          "code": "241084"
+        },
+        {
+          "name": "Ingenio San Antonio",
+          "code": "241085"
+        },
+        {
+          "name": "Israel",
+          "code": "241094"
+        },
+        {
+          "name": "Jesús María",
+          "code": "241101"
+        },
+        {
+          "name": "Jiquilillo",
+          "code": "241106"
+        },
+        {
+          "name": "Joaquín Zavala",
+          "code": "241107"
+        },
+        {
+          "name": "Jocomico",
+          "code": "241110"
+        },
+        {
+          "name": "Juan Bautista Peguero",
+          "code": "241111"
+        },
+        {
+          "name": "Juan Romero",
+          "code": "241112"
+        },
+        {
+          "name": "La Alemania",
+          "code": "241154"
+        },
+        {
+          "name": "La Bandera",
+          "code": "241166"
+        },
+        {
+          "name": "La Calera",
+          "code": "241181"
+        },
+        {
+          "name": "La Canoa",
+          "code": "241194"
+        },
+        {
+          "name": "La Chácara",
+          "code": "241203"
+        },
+        {
+          "name": "La Chilamita",
+          "code": "241204"
+        },
+        {
+          "name": "La Chuscada",
+          "code": "241210"
+        },
+        {
+          "name": "La Concepción",
+          "code": "241215"
+        },
+        {
+          "name": "La Escuadra",
+          "code": "241238"
+        },
+        {
+          "name": "La Española",
+          "code": "241240"
+        },
+        {
+          "name": "La Esperanza",
+          "code": "241241"
+        },
+        {
+          "name": "La Estrella",
+          "code": "241251"
+        },
+        {
+          "name": "La Gaveta",
+          "code": "241268"
+        },
+        {
+          "name": "La Laguna",
+          "code": "241292"
+        },
+        {
+          "name": "La Lanza",
+          "code": "241295"
+        },
+        {
+          "name": "La Palmera",
+          "code": "241326"
+        },
+        {
+          "name": "La Palmira",
+          "code": "241327"
+        },
+        {
+          "name": "La Pelona",
+          "code": "241334"
+        },
+        {
+          "name": "La Pita",
+          "code": "241347"
+        },
+        {
+          "name": "La Polvosa",
+          "code": "241353"
+        },
+        {
+          "name": "La República",
+          "code": "241365"
+        },
+        {
+          "name": "La Vaca",
+          "code": "241389"
+        },
+        {
+          "name": "La Virgen del Camino",
+          "code": "241400"
+        },
+        {
+          "name": "Las Brisas",
+          "code": "241413"
+        },
+        {
+          "name": "Las Costillas",
+          "code": "241433"
+        },
+        {
+          "name": "Las Cuatro Esquinas de la Mora",
+          "code": "241439"
+        },
+        {
+          "name": "Las Delicias",
+          "code": "241449"
+        },
+        {
+          "name": "Las Enramadas",
+          "code": "241452"
+        },
+        {
+          "name": "Las Grietas",
+          "code": "241456"
+        },
+        {
+          "name": "Las Lajas",
+          "code": "241463"
+        },
+        {
+          "name": "Las Marías",
+          "code": "241477"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "241486"
+        },
+        {
+          "name": "Las Mesas",
+          "code": "241490"
+        },
+        {
+          "name": "Las Nubes",
+          "code": "241502"
+        },
+        {
+          "name": "Las Pilas",
+          "code": "241515"
+        },
+        {
+          "name": "Las Pozas",
+          "code": "241524"
+        },
+        {
+          "name": "Las Soleras",
+          "code": "241532"
+        },
+        {
+          "name": "Leytón",
+          "code": "241545"
+        },
+        {
+          "name": "Limas de Belén",
+          "code": "241548"
+        },
+        {
+          "name": "Los Ángeles",
+          "code": "241571"
+        },
+        {
+          "name": "Los Arados",
+          "code": "241578"
+        },
+        {
+          "name": "Los Camarones",
+          "code": "241587"
+        },
+        {
+          "name": "Los Diamantes",
+          "code": "241603"
+        },
+        {
+          "name": "Los Lirios",
+          "code": "241616"
+        },
+        {
+          "name": "Los Placeres",
+          "code": "241634"
+        },
+        {
+          "name": "Los Portillos",
+          "code": "241638"
+        },
+        {
+          "name": "Los Reyes",
+          "code": "241648"
+        },
+        {
+          "name": "Los Valdivia",
+          "code": "241659"
+        },
+        {
+          "name": "Los Velásquez",
+          "code": "241661"
+        },
+        {
+          "name": "Maderas Negras",
+          "code": "241672"
+        },
+        {
+          "name": "Mangle Alto",
+          "code": "241682"
+        },
+        {
+          "name": "María Magdalena",
+          "code": "241685"
+        },
+        {
+          "name": "Mérida",
+          "code": "241709"
+        },
+        {
+          "name": "Mokorón",
+          "code": "241723"
+        },
+        {
+          "name": "Monte Cristo",
+          "code": "241730"
+        },
+        {
+          "name": "Monte de Los Olivos",
+          "code": "241731"
+        },
+        {
+          "name": "Monte Grande",
+          "code": "241736"
+        },
+        {
+          "name": "Monte Rosa",
+          "code": "241741"
+        },
+        {
+          "name": "Palermo",
+          "code": "241803"
+        },
+        {
+          "name": "Palo Grande",
+          "code": "241811"
+        },
+        {
+          "name": "Paredones",
+          "code": "241822"
+        },
+        {
+          "name": "Paso Hondo",
+          "code": "241826"
+        },
+        {
+          "name": "Pasocaballos",
+          "code": "241833"
+        },
+        {
+          "name": "Petacaltepe",
+          "code": "241840"
+        },
+        {
+          "name": "Posoltega",
+          "code": "241862"
+        },
+        {
+          "name": "Potosí",
+          "code": "241863"
+        },
+        {
+          "name": "Puerto Arturo",
+          "code": "241880"
+        },
+        {
+          "name": "Puerto el Barquito",
+          "code": "241883"
+        },
+        {
+          "name": "Puerto Esparta",
+          "code": "241884"
+        },
+        {
+          "name": "Puerto Limón",
+          "code": "241886"
+        },
+        {
+          "name": "Puerto Morazán",
+          "code": "241888"
+        },
+        {
+          "name": "Puerto Zapote",
+          "code": "241892"
+        },
+        {
+          "name": "Punta Ñata",
+          "code": "241897"
+        },
+        {
+          "name": "Quesera Playa Grande",
+          "code": "241902"
+        },
+        {
+          "name": "Río Escondido",
+          "code": "241920"
+        },
+        {
+          "name": "Rodeo Grande",
+          "code": "241929"
+        },
+        {
+          "name": "Sabana Grande",
+          "code": "241936"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241963"
+        },
+        {
+          "name": "San Antonio del Bosque",
+          "code": "241974"
+        },
+        {
+          "name": "San Benito",
+          "code": "241979"
+        },
+        {
+          "name": "San Cayetano",
+          "code": "241989"
+        },
+        {
+          "name": "San Eduardo",
+          "code": "242002"
+        },
+        {
+          "name": "San Fernando",
+          "code": "242012"
+        },
+        {
+          "name": "San Francisco",
+          "code": "242016"
+        },
+        {
+          "name": "San Francisco del Norte",
+          "code": "242023"
+        },
+        {
+          "name": "San Ignacio",
+          "code": "242032"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242044"
+        },
+        {
+          "name": "San Jerónimo",
+          "code": "242050"
+        },
+        {
+          "name": "San José",
+          "code": "242062"
+        },
+        {
+          "name": "San José de Agua Fría",
+          "code": "242070"
+        },
+        {
+          "name": "San José de Cuasompa",
+          "code": "242073"
+        },
+        {
+          "name": "San José del Obraje",
+          "code": "242082"
+        },
+        {
+          "name": "San Josecito",
+          "code": "242084"
+        },
+        {
+          "name": "San Juan de Las Pencas",
+          "code": "242091"
+        },
+        {
+          "name": "San Juancito",
+          "code": "242098"
+        },
+        {
+          "name": "San Lucas",
+          "code": "242108"
+        },
+        {
+          "name": "San Luis",
+          "code": "242111"
+        },
+        {
+          "name": "San Marcos",
+          "code": "242118"
+        },
+        {
+          "name": "San Miguel",
+          "code": "242127"
+        },
+        {
+          "name": "San Miguelito",
+          "code": "242134"
+        },
+        {
+          "name": "San Nicolás",
+          "code": "242135"
+        },
+        {
+          "name": "San Pablo",
+          "code": "242140"
+        },
+        {
+          "name": "San Pedro",
+          "code": "242149"
+        },
+        {
+          "name": "San Pedro del Norte",
+          "code": "242158"
+        },
+        {
+          "name": "San Ramón",
+          "code": "242169"
+        },
+        {
+          "name": "San Ubaldo",
+          "code": "242183"
+        },
+        {
+          "name": "San Vicente",
+          "code": "242185"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "242194"
+        },
+        {
+          "name": "Santa Bárbara",
+          "code": "242205"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242224"
+        },
+        {
+          "name": "Santa Elena",
+          "code": "242227"
+        },
+        {
+          "name": "Santa Ernestina",
+          "code": "242234"
+        },
+        {
+          "name": "Santa Julia",
+          "code": "242260"
+        },
+        {
+          "name": "Santa Lucía",
+          "code": "242266"
+        },
+        {
+          "name": "Santa María",
+          "code": "242273"
+        },
+        {
+          "name": "Santa Nalisa",
+          "code": "242283"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242302"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "242309"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "242324"
+        },
+        {
+          "name": "Santo Tomás",
+          "code": "242327"
+        },
+        {
+          "name": "Santo Tomás del Norte",
+          "code": "242329"
+        },
+        {
+          "name": "Sasama",
+          "code": "242332"
+        },
+        {
+          "name": "Sicantal",
+          "code": "242340"
+        },
+        {
+          "name": "Somotillo",
+          "code": "242357"
+        },
+        {
+          "name": "Talpetate",
+          "code": "242375"
+        },
+        {
+          "name": "Tempisquiapa",
+          "code": "242399"
+        },
+        {
+          "name": "Tomvalle",
+          "code": "242424"
+        },
+        {
+          "name": "Tonalá",
+          "code": "242425"
+        },
+        {
+          "name": "Toro Blanco",
+          "code": "242426"
+        },
+        {
+          "name": "Trujillo",
+          "code": "242432"
+        },
+        {
+          "name": "Valle El Danto",
+          "code": "242464"
+        },
+        {
+          "name": "Valle Las Pilas",
+          "code": "242480"
+        },
+        {
+          "name": "Venecia",
+          "code": "242502"
+        },
+        {
+          "name": "Veracruz",
+          "code": "242504"
+        },
+        {
+          "name": "Villa Quince de Julio",
+          "code": "242514"
+        },
+        {
+          "name": "Villanueva",
+          "code": "242516"
+        },
+        {
+          "name": "Voy y Vengo",
+          "code": "242519"
+        }
+      ]
+    },
+    {
+      "name": "Chontales",
+      "code": "472",
+      "cities": [
+        {
+          "name": "Acoyapa",
+          "code": "240293"
+        },
+        {
+          "name": "Aguas Calientes",
+          "code": "240301"
+        },
+        {
+          "name": "Auxiliadora",
+          "code": "240352"
+        },
+        {
+          "name": "Betulia",
+          "code": "240395"
+        },
+        {
+          "name": "Bulún",
+          "code": "240431"
+        },
+        {
+          "name": "Cañas Gordas",
+          "code": "240463"
+        },
+        {
+          "name": "Comalapa",
+          "code": "240529"
+        },
+        {
+          "name": "Cuapa",
+          "code": "240554"
+        },
+        {
+          "name": "El Acetunal",
+          "code": "240591"
+        },
+        {
+          "name": "El Ayote",
+          "code": "240610"
+        },
+        {
+          "name": "El Buey Negro",
+          "code": "240633"
+        },
+        {
+          "name": "El Cacao",
+          "code": "240635"
+        },
+        {
+          "name": "El Chile",
+          "code": "240689"
+        },
+        {
+          "name": "El Cilindro",
+          "code": "240691"
+        },
+        {
+          "name": "El Coquital",
+          "code": "240698"
+        },
+        {
+          "name": "El Corozo",
+          "code": "240703"
+        },
+        {
+          "name": "El Escándalo",
+          "code": "240736"
+        },
+        {
+          "name": "El Gallo",
+          "code": "240749"
+        },
+        {
+          "name": "El Hatillo",
+          "code": "240773"
+        },
+        {
+          "name": "El Jocote",
+          "code": "240795"
+        },
+        {
+          "name": "El Matadero",
+          "code": "240814"
+        },
+        {
+          "name": "El Morán",
+          "code": "240821"
+        },
+        {
+          "name": "El Naranjal",
+          "code": "240825"
+        },
+        {
+          "name": "El Porvenir",
+          "code": "240896"
+        },
+        {
+          "name": "El Rayo",
+          "code": "240910"
+        },
+        {
+          "name": "El Salto",
+          "code": "240939"
+        },
+        {
+          "name": "El Tule",
+          "code": "240988"
+        },
+        {
+          "name": "Fruta de Pan",
+          "code": "241041"
+        },
+        {
+          "name": "Hamacas",
+          "code": "241066"
+        },
+        {
+          "name": "Hato Grande",
+          "code": "241072"
+        },
+        {
+          "name": "Juigalpa",
+          "code": "241115"
+        },
+        {
+          "name": "La Calera",
+          "code": "241183"
+        },
+        {
+          "name": "La Cicaya",
+          "code": "241211"
+        },
+        {
+          "name": "La Cusuca",
+          "code": "241236"
+        },
+        {
+          "name": "La Gateada",
+          "code": "241267"
+        },
+        {
+          "name": "La Horqueta",
+          "code": "241285"
+        },
+        {
+          "name": "La Libertad",
+          "code": "241298"
+        },
+        {
+          "name": "La Manga",
+          "code": "241306"
+        },
+        {
+          "name": "La Palma",
+          "code": "241324"
+        },
+        {
+          "name": "La Pelona",
+          "code": "241335"
+        },
+        {
+          "name": "La Pila del Guásimo",
+          "code": "241340"
+        },
+        {
+          "name": "La Puerta",
+          "code": "241359"
+        },
+        {
+          "name": "La Vainilla",
+          "code": "241390"
+        },
+        {
+          "name": "Las Labores",
+          "code": "241460"
+        },
+        {
+          "name": "Las Lajitas",
+          "code": "241465"
+        },
+        {
+          "name": "Las Ñocas",
+          "code": "241503"
+        },
+        {
+          "name": "Las Pozas",
+          "code": "241525"
+        },
+        {
+          "name": "Las Puertas",
+          "code": "241528"
+        },
+        {
+          "name": "Llano Grande",
+          "code": "241562"
+        },
+        {
+          "name": "Los Bueyes",
+          "code": "241584"
+        },
+        {
+          "name": "Los Cerritos",
+          "code": "241595"
+        },
+        {
+          "name": "Los Millones",
+          "code": "241622"
+        },
+        {
+          "name": "Los Morenos",
+          "code": "241624"
+        },
+        {
+          "name": "Lóvago",
+          "code": "241666"
+        },
+        {
+          "name": "Muhan",
+          "code": "241752"
+        },
+        {
+          "name": "Palmira",
+          "code": "241807"
+        },
+        {
+          "name": "Paso de Lajas",
+          "code": "241824"
+        },
+        {
+          "name": "Puertas de París",
+          "code": "241878"
+        },
+        {
+          "name": "Puerto Díaz",
+          "code": "241882"
+        },
+        {
+          "name": "Punta de Suela",
+          "code": "241893"
+        },
+        {
+          "name": "Quimichapa",
+          "code": "241906"
+        },
+        {
+          "name": "Quinama",
+          "code": "241907"
+        },
+        {
+          "name": "Quintana",
+          "code": "241908"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241970"
+        },
+        {
+          "name": "San Bartolo",
+          "code": "241977"
+        },
+        {
+          "name": "San Esteban",
+          "code": "242006"
+        },
+        {
+          "name": "San Felipe",
+          "code": "242010"
+        },
+        {
+          "name": "San Gregorio",
+          "code": "242028"
+        },
+        {
+          "name": "San Jerónimo",
+          "code": "242053"
+        },
+        {
+          "name": "San José",
+          "code": "242069"
+        },
+        {
+          "name": "San Juan de Dios",
+          "code": "242089"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "242102"
+        },
+        {
+          "name": "San Lucas",
+          "code": "242107"
+        },
+        {
+          "name": "San Luis",
+          "code": "242113"
+        },
+        {
+          "name": "San Manuel",
+          "code": "242116"
+        },
+        {
+          "name": "San Pancho",
+          "code": "242144"
+        },
+        {
+          "name": "San Pedro",
+          "code": "242147"
+        },
+        {
+          "name": "San Pedro de Lóvago",
+          "code": "242156"
+        },
+        {
+          "name": "San Ubaldo",
+          "code": "242184"
+        },
+        {
+          "name": "Santa Fe",
+          "code": "242237"
+        },
+        {
+          "name": "Santa María",
+          "code": "242270"
+        },
+        {
+          "name": "Santa Marta",
+          "code": "242281"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242290"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "242320"
+        },
+        {
+          "name": "Santo Tomás",
+          "code": "242328"
+        },
+        {
+          "name": "Tapalwás",
+          "code": "242379"
+        },
+        {
+          "name": "Valparaíso",
+          "code": "242499"
+        },
+        {
+          "name": "Villa Sandino",
+          "code": "242515"
+        }
+      ]
+    },
+    {
+      "name": "Estelí",
+      "code": "473",
+      "cities": [
+        {
+          "name": "Condega",
+          "code": "240543"
+        },
+        {
+          "name": "El Aguacate",
+          "code": "240594"
+        },
+        {
+          "name": "El Barro",
+          "code": "240618"
+        },
+        {
+          "name": "El Cacao",
+          "code": "240637"
+        },
+        {
+          "name": "El Carao",
+          "code": "240653"
+        },
+        {
+          "name": "El Espinal",
+          "code": "240743"
+        },
+        {
+          "name": "El Horno",
+          "code": "240780"
+        },
+        {
+          "name": "El Jícaro",
+          "code": "240790"
+        },
+        {
+          "name": "El Lajero",
+          "code": "240800"
+        },
+        {
+          "name": "El Limón",
+          "code": "240804"
+        },
+        {
+          "name": "El Morado",
+          "code": "240820"
+        },
+        {
+          "name": "El Ocotillo",
+          "code": "240838"
+        },
+        {
+          "name": "El Pastoreo",
+          "code": "240867"
+        },
+        {
+          "name": "El Pital",
+          "code": "240883"
+        },
+        {
+          "name": "El Potrerillo",
+          "code": "240897"
+        },
+        {
+          "name": "El Rodeo",
+          "code": "240923"
+        },
+        {
+          "name": "Estanzuela",
+          "code": "241030"
+        },
+        {
+          "name": "Estelí",
+          "code": "241031"
+        },
+        {
+          "name": "Isidrillo",
+          "code": "241090"
+        },
+        {
+          "name": "Isiquí",
+          "code": "241091"
+        },
+        {
+          "name": "La Campana",
+          "code": "241191"
+        },
+        {
+          "name": "La Cañada",
+          "code": "241195"
+        },
+        {
+          "name": "La Grecia",
+          "code": "241276"
+        },
+        {
+          "name": "La Lagunillas",
+          "code": "241294"
+        },
+        {
+          "name": "La Pintada",
+          "code": "241343"
+        },
+        {
+          "name": "La Sirena",
+          "code": "241375"
+        },
+        {
+          "name": "La Trinidad",
+          "code": "241381"
+        },
+        {
+          "name": "Las Camaras",
+          "code": "241417"
+        },
+        {
+          "name": "Las Lajitas",
+          "code": "241468"
+        },
+        {
+          "name": "Las Pencas",
+          "code": "241508"
+        },
+        {
+          "name": "Las Rinconadas",
+          "code": "241529"
+        },
+        {
+          "name": "Las Tablas",
+          "code": "241533"
+        },
+        {
+          "name": "Llano Redondo",
+          "code": "241566"
+        },
+        {
+          "name": "Los Calpules",
+          "code": "241585"
+        },
+        {
+          "name": "Los Chilamates",
+          "code": "241598"
+        },
+        {
+          "name": "Los Llanos",
+          "code": "241618"
+        },
+        {
+          "name": "Mechapa",
+          "code": "241706"
+        },
+        {
+          "name": "Monte Oscuro",
+          "code": "241739"
+        },
+        {
+          "name": "Moropotente",
+          "code": "241745"
+        },
+        {
+          "name": "Pueblo Nuevo",
+          "code": "241876"
+        },
+        {
+          "name": "Río Abajo",
+          "code": "241918"
+        },
+        {
+          "name": "Rodeo Grande",
+          "code": "241930"
+        },
+        {
+          "name": "Sabana Grande",
+          "code": "241933"
+        },
+        {
+          "name": "San Diego",
+          "code": "241998"
+        },
+        {
+          "name": "San Juan de Limay",
+          "code": "242092"
+        },
+        {
+          "name": "San Pedro",
+          "code": "242150"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242223"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242285"
+        },
+        {
+          "name": "Santa Teresa de Guasuyuca",
+          "code": "242316"
+        },
+        {
+          "name": "Valle El Jocote",
+          "code": "242465"
+        },
+        {
+          "name": "Valle Guayucalí",
+          "code": "242475"
+        },
+        {
+          "name": "Valle San José",
+          "code": "242491"
+        }
+      ]
+    },
+    {
+      "name": "Granada",
+      "code": "474",
+      "cities": [
+        {
+          "name": "Caña de Castilla",
+          "code": "240457"
+        },
+        {
+          "name": "Charco Muerto",
+          "code": "240500"
+        },
+        {
+          "name": "Colama",
+          "code": "240519"
+        },
+        {
+          "name": "Cutirre",
+          "code": "240569"
+        },
+        {
+          "name": "Diriá",
+          "code": "240580"
+        },
+        {
+          "name": "Diriomo",
+          "code": "240582"
+        },
+        {
+          "name": "El Agua Agria",
+          "code": "240592"
+        },
+        {
+          "name": "El Capulín",
+          "code": "240650"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240663"
+        },
+        {
+          "name": "El Carrizal",
+          "code": "240667"
+        },
+        {
+          "name": "El Coyolar",
+          "code": "240714"
+        },
+        {
+          "name": "El Cráter",
+          "code": "240717"
+        },
+        {
+          "name": "El Edén",
+          "code": "240728"
+        },
+        {
+          "name": "El Encanto",
+          "code": "240733"
+        },
+        {
+          "name": "El Eslabón",
+          "code": "240740"
+        },
+        {
+          "name": "El Guanacaste",
+          "code": "240762"
+        },
+        {
+          "name": "El Guarumo",
+          "code": "240768"
+        },
+        {
+          "name": "El Hato",
+          "code": "240775"
+        },
+        {
+          "name": "El Jabillito",
+          "code": "240785"
+        },
+        {
+          "name": "El Jabillo",
+          "code": "240787"
+        },
+        {
+          "name": "El Mojón de Veracruz",
+          "code": "240818"
+        },
+        {
+          "name": "El Níspero",
+          "code": "240830"
+        },
+        {
+          "name": "El Pital",
+          "code": "240881"
+        },
+        {
+          "name": "El Rayo",
+          "code": "240909"
+        },
+        {
+          "name": "El Rodeo",
+          "code": "240927"
+        },
+        {
+          "name": "El Sitio",
+          "code": "240949"
+        },
+        {
+          "name": "El Tieso",
+          "code": "240972"
+        },
+        {
+          "name": "El Torovenado",
+          "code": "240978"
+        },
+        {
+          "name": "El Valle",
+          "code": "240995"
+        },
+        {
+          "name": "El Varillal",
+          "code": "240997"
+        },
+        {
+          "name": "El Volcán",
+          "code": "241002"
+        },
+        {
+          "name": "Fátima",
+          "code": "241034"
+        },
+        {
+          "name": "Granada",
+          "code": "241046"
+        },
+        {
+          "name": "Guachipilín",
+          "code": "241049"
+        },
+        {
+          "name": "Guapinolapa",
+          "code": "241057"
+        },
+        {
+          "name": "Ingenio Amalia",
+          "code": "241083"
+        },
+        {
+          "name": "Jesús María",
+          "code": "241099"
+        },
+        {
+          "name": "La Asunción",
+          "code": "241160"
+        },
+        {
+          "name": "La Barranca",
+          "code": "241168"
+        },
+        {
+          "name": "La Breña",
+          "code": "241178"
+        },
+        {
+          "name": "La Calera",
+          "code": "241182"
+        },
+        {
+          "name": "La Calzada",
+          "code": "241187"
+        },
+        {
+          "name": "La Camarona",
+          "code": "241188"
+        },
+        {
+          "name": "La Camaroncita",
+          "code": "241189"
+        },
+        {
+          "name": "La Carbonera",
+          "code": "241196"
+        },
+        {
+          "name": "La Chuscada",
+          "code": "241209"
+        },
+        {
+          "name": "La Concepción",
+          "code": "241213"
+        },
+        {
+          "name": "La Danta",
+          "code": "241237"
+        },
+        {
+          "name": "La Esmeralda",
+          "code": "241239"
+        },
+        {
+          "name": "La Esperanza",
+          "code": "241247"
+        },
+        {
+          "name": "La Fuente",
+          "code": "241262"
+        },
+        {
+          "name": "La Gorriona",
+          "code": "241270"
+        },
+        {
+          "name": "La Granadilla",
+          "code": "241271"
+        },
+        {
+          "name": "La Granja",
+          "code": "241275"
+        },
+        {
+          "name": "La Guinea",
+          "code": "241282"
+        },
+        {
+          "name": "La Luz",
+          "code": "241302"
+        },
+        {
+          "name": "La Orilla",
+          "code": "241320"
+        },
+        {
+          "name": "La Palanca",
+          "code": "241321"
+        },
+        {
+          "name": "La Pintada",
+          "code": "241342"
+        },
+        {
+          "name": "La Victoria",
+          "code": "241393"
+        },
+        {
+          "name": "La Virgen",
+          "code": "241399"
+        },
+        {
+          "name": "Las Brisas",
+          "code": "241412"
+        },
+        {
+          "name": "Las Carolinas",
+          "code": "241424"
+        },
+        {
+          "name": "Las Conchitas",
+          "code": "241430"
+        },
+        {
+          "name": "Las Delicias",
+          "code": "241446"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "241481"
+        },
+        {
+          "name": "Las Piedras Cagadas",
+          "code": "241514"
+        },
+        {
+          "name": "Las Postreras",
+          "code": "241523"
+        },
+        {
+          "name": "Los Ángeles",
+          "code": "241575"
+        },
+        {
+          "name": "Los Brasiles",
+          "code": "241582"
+        },
+        {
+          "name": "Los Cocos",
+          "code": "241601"
+        },
+        {
+          "name": "Los Mollejones",
+          "code": "241623"
+        },
+        {
+          "name": "Los Puentes",
+          "code": "241643"
+        },
+        {
+          "name": "Los Ranchones",
+          "code": "241645"
+        },
+        {
+          "name": "Malacatoya",
+          "code": "241678"
+        },
+        {
+          "name": "Mata de Tule",
+          "code": "241695"
+        },
+        {
+          "name": "Mecatepe",
+          "code": "241704"
+        },
+        {
+          "name": "Mecatepillo",
+          "code": "241705"
+        },
+        {
+          "name": "Medio Mundo",
+          "code": "241707"
+        },
+        {
+          "name": "Monte Grande Oriental",
+          "code": "241737"
+        },
+        {
+          "name": "Nandaime",
+          "code": "241766"
+        },
+        {
+          "name": "Nandarola",
+          "code": "241767"
+        },
+        {
+          "name": "Obregón",
+          "code": "241780"
+        },
+        {
+          "name": "Palo Bonito",
+          "code": "241810"
+        },
+        {
+          "name": "Paso de Panaloya",
+          "code": "241825"
+        },
+        {
+          "name": "Río Grande",
+          "code": "241922"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241969"
+        },
+        {
+          "name": "San Blas",
+          "code": "241982"
+        },
+        {
+          "name": "San Caralampio",
+          "code": "241985"
+        },
+        {
+          "name": "San Felipe",
+          "code": "242009"
+        },
+        {
+          "name": "San Fernando",
+          "code": "242011"
+        },
+        {
+          "name": "San Ignacio",
+          "code": "242034"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242039"
+        },
+        {
+          "name": "San Jacinto",
+          "code": "242046"
+        },
+        {
+          "name": "San Joaquín",
+          "code": "242056"
+        },
+        {
+          "name": "San José del Mombacho",
+          "code": "242081"
+        },
+        {
+          "name": "San Juan",
+          "code": "242087"
+        },
+        {
+          "name": "San Luis",
+          "code": "242114"
+        },
+        {
+          "name": "San Miguel",
+          "code": "242129"
+        },
+        {
+          "name": "San Pablo",
+          "code": "242141"
+        },
+        {
+          "name": "San Pancho",
+          "code": "242145"
+        },
+        {
+          "name": "San Rafael",
+          "code": "242163"
+        },
+        {
+          "name": "San Ramón",
+          "code": "242172"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "242195"
+        },
+        {
+          "name": "Santa Clara",
+          "code": "242215"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242220"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "242249"
+        },
+        {
+          "name": "Santa Jorna",
+          "code": "242255"
+        },
+        {
+          "name": "Santa Julia",
+          "code": "242259"
+        },
+        {
+          "name": "Santa Margarita",
+          "code": "242269"
+        },
+        {
+          "name": "Santa María",
+          "code": "242275"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242295"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "242314"
+        },
+        {
+          "name": "Tarca",
+          "code": "242381"
+        },
+        {
+          "name": "Tayguay",
+          "code": "242387"
+        },
+        {
+          "name": "Tepetate Granada",
+          "code": "242402"
+        },
+        {
+          "name": "Vallemenier",
+          "code": "242498"
+        },
+        {
+          "name": "Veracruz",
+          "code": "242506"
+        }
+      ]
+    },
+    {
+      "name": "Jinotega",
+      "code": "475",
+      "cities": [
+        {
+          "name": "Amaka",
+          "code": "240310"
+        },
+        {
+          "name": "Anris Tara",
+          "code": "240322"
+        },
+        {
+          "name": "Arandak",
+          "code": "240334"
+        },
+        {
+          "name": "Asabalbali",
+          "code": "240339"
+        },
+        {
+          "name": "Asturias",
+          "code": "240345"
+        },
+        {
+          "name": "Auanay",
+          "code": "240348"
+        },
+        {
+          "name": "Auya Yari",
+          "code": "240354"
+        },
+        {
+          "name": "Ayapal",
+          "code": "240357"
+        },
+        {
+          "name": "Bocay",
+          "code": "240409"
+        },
+        {
+          "name": "Colón",
+          "code": "240521"
+        },
+        {
+          "name": "Comarca Tomayunca",
+          "code": "240540"
+        },
+        {
+          "name": "Cuyalí",
+          "code": "240570"
+        },
+        {
+          "name": "El Coyolar",
+          "code": "240713"
+        },
+        {
+          "name": "El Gamalote",
+          "code": "240751"
+        },
+        {
+          "name": "El Horno",
+          "code": "240781"
+        },
+        {
+          "name": "El Lirio",
+          "code": "240807"
+        },
+        {
+          "name": "El Llano de La Cruz",
+          "code": "240809"
+        },
+        {
+          "name": "El Mojón",
+          "code": "240817"
+        },
+        {
+          "name": "El Palacio",
+          "code": "240844"
+        },
+        {
+          "name": "El Salto",
+          "code": "240940"
+        },
+        {
+          "name": "El Tanque",
+          "code": "240966"
+        },
+        {
+          "name": "El Tule",
+          "code": "240991"
+        },
+        {
+          "name": "Inipuwás",
+          "code": "241088"
+        },
+        {
+          "name": "Jinotega",
+          "code": "241103"
+        },
+        {
+          "name": "Jocomico",
+          "code": "241108"
+        },
+        {
+          "name": "Kilambé",
+          "code": "241129"
+        },
+        {
+          "name": "Kisiksik",
+          "code": "241131"
+        },
+        {
+          "name": "Kung Kung Tingni",
+          "code": "241148"
+        },
+        {
+          "name": "La Concordia",
+          "code": "241222"
+        },
+        {
+          "name": "La Esperanza",
+          "code": "241242"
+        },
+        {
+          "name": "La Estancia",
+          "code": "241249"
+        },
+        {
+          "name": "La Fundadora",
+          "code": "241264"
+        },
+        {
+          "name": "La Guanábana",
+          "code": "241278"
+        },
+        {
+          "name": "La Marrana",
+          "code": "241309"
+        },
+        {
+          "name": "La Palestina",
+          "code": "241322"
+        },
+        {
+          "name": "La Rica",
+          "code": "241368"
+        },
+        {
+          "name": "La Virgen",
+          "code": "241395"
+        },
+        {
+          "name": "Las Camelias",
+          "code": "241418"
+        },
+        {
+          "name": "Las Lajas",
+          "code": "241462"
+        },
+        {
+          "name": "Las Mesitas",
+          "code": "241493"
+        },
+        {
+          "name": "Las Puertas",
+          "code": "241527"
+        },
+        {
+          "name": "Las Vegas",
+          "code": "241538"
+        },
+        {
+          "name": "Licoroy",
+          "code": "241547"
+        },
+        {
+          "name": "Llano Largo",
+          "code": "241565"
+        },
+        {
+          "name": "Los Bañaderos",
+          "code": "241581"
+        },
+        {
+          "name": "Los Capules",
+          "code": "241588"
+        },
+        {
+          "name": "Los Chagüites",
+          "code": "241597"
+        },
+        {
+          "name": "Los Tendidos del Carbonal",
+          "code": "241656"
+        },
+        {
+          "name": "Los Walices",
+          "code": "241663"
+        },
+        {
+          "name": "Matasanos",
+          "code": "241699"
+        },
+        {
+          "name": "Monte Grande",
+          "code": "241733"
+        },
+        {
+          "name": "Mukuwás",
+          "code": "241753"
+        },
+        {
+          "name": "Mulakrai",
+          "code": "241754"
+        },
+        {
+          "name": "Oculí",
+          "code": "241786"
+        },
+        {
+          "name": "Panka Dákura",
+          "code": "241819"
+        },
+        {
+          "name": "Pankawás",
+          "code": "241820"
+        },
+        {
+          "name": "Paso Real de Cuá",
+          "code": "241831"
+        },
+        {
+          "name": "Plis",
+          "code": "241854"
+        },
+        {
+          "name": "Quebrada Arriba",
+          "code": "241898"
+        },
+        {
+          "name": "Raití",
+          "code": "241910"
+        },
+        {
+          "name": "Sabana Grande",
+          "code": "241934"
+        },
+        {
+          "name": "Sacalis",
+          "code": "241939"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241962"
+        },
+        {
+          "name": "San Antonio de Las Cuchillas",
+          "code": "241973"
+        },
+        {
+          "name": "San Esteban",
+          "code": "242007"
+        },
+        {
+          "name": "San Gabriel",
+          "code": "242027"
+        },
+        {
+          "name": "San José de Bocay",
+          "code": "242072"
+        },
+        {
+          "name": "San Marcos",
+          "code": "242117"
+        },
+        {
+          "name": "San Pedro de Buculmay",
+          "code": "242155"
+        },
+        {
+          "name": "San Rafael del Norte",
+          "code": "242165"
+        },
+        {
+          "name": "San Sebastián de Yalí",
+          "code": "242180"
+        },
+        {
+          "name": "San Vicente del Coyolito",
+          "code": "242188"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242222"
+        },
+        {
+          "name": "Santa Fe",
+          "code": "242240"
+        },
+        {
+          "name": "Santa María de Loma Azul",
+          "code": "242278"
+        },
+        {
+          "name": "Santa Maura",
+          "code": "242282"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242293"
+        },
+        {
+          "name": "Suní",
+          "code": "242364"
+        },
+        {
+          "name": "Suti Tingni",
+          "code": "242367"
+        },
+        {
+          "name": "Tomatoya",
+          "code": "242423"
+        },
+        {
+          "name": "Upla Pruan",
+          "code": "242451"
+        },
+        {
+          "name": "Valle Dantalí",
+          "code": "242458"
+        },
+        {
+          "name": "Valle La Tejera",
+          "code": "242478"
+        },
+        {
+          "name": "Valle Los Robles",
+          "code": "242483"
+        },
+        {
+          "name": "Valle Mancotal Abajo",
+          "code": "242484"
+        },
+        {
+          "name": "Walakitan",
+          "code": "242522"
+        },
+        {
+          "name": "Wanblán",
+          "code": "242525"
+        },
+        {
+          "name": "Wayawás",
+          "code": "242537"
+        },
+        {
+          "name": "Waylaska",
+          "code": "242538"
+        },
+        {
+          "name": "Wina",
+          "code": "242540"
+        },
+        {
+          "name": "Yagualica",
+          "code": "242547"
+        },
+        {
+          "name": "Yakalpanani",
+          "code": "242548"
+        },
+        {
+          "name": "Yucapuca",
+          "code": "242555"
+        }
+      ]
+    },
+    {
+      "name": "León",
+      "code": "476",
+      "cities": [
+        {
+          "name": "Abra Vieja",
+          "code": "240291"
+        },
+        {
+          "name": "Achuapa",
+          "code": "240292"
+        },
+        {
+          "name": "Agua Caliente",
+          "code": "240295"
+        },
+        {
+          "name": "Amatitán",
+          "code": "240312"
+        },
+        {
+          "name": "Amatitán Viejo",
+          "code": "240313"
+        },
+        {
+          "name": "Aranjuez",
+          "code": "240335"
+        },
+        {
+          "name": "Asososca",
+          "code": "240344"
+        },
+        {
+          "name": "Barrio Copaltepe",
+          "code": "240373"
+        },
+        {
+          "name": "Barrio El Terrero",
+          "code": "240377"
+        },
+        {
+          "name": "Belén",
+          "code": "240385"
+        },
+        {
+          "name": "Bordo Las Tinajas",
+          "code": "240411"
+        },
+        {
+          "name": "Buenavista",
+          "code": "240422"
+        },
+        {
+          "name": "Buenos Aires",
+          "code": "240430"
+        },
+        {
+          "name": "Calderas",
+          "code": "240441"
+        },
+        {
+          "name": "Calle Real de Tolapa",
+          "code": "240442"
+        },
+        {
+          "name": "Campamento",
+          "code": "240445"
+        },
+        {
+          "name": "Candelaria",
+          "code": "240449"
+        },
+        {
+          "name": "Carreta Quemada",
+          "code": "240470"
+        },
+        {
+          "name": "Casa Nueva",
+          "code": "240476"
+        },
+        {
+          "name": "Castillo",
+          "code": "240483"
+        },
+        {
+          "name": "Ceiba Mocha",
+          "code": "240491"
+        },
+        {
+          "name": "Chagüite Grande",
+          "code": "240497"
+        },
+        {
+          "name": "Comarca Ceiba Chachagua",
+          "code": "240532"
+        },
+        {
+          "name": "Comarca El Jicarito",
+          "code": "240534"
+        },
+        {
+          "name": "Comarca El Platanar",
+          "code": "240535"
+        },
+        {
+          "name": "Comarca El Tololar",
+          "code": "240536"
+        },
+        {
+          "name": "Comarca La Cruz",
+          "code": "240537"
+        },
+        {
+          "name": "Corcuera",
+          "code": "240545"
+        },
+        {
+          "name": "Corre Viento",
+          "code": "240550"
+        },
+        {
+          "name": "Cuajiniquil",
+          "code": "240553"
+        },
+        {
+          "name": "Cuatro Palos",
+          "code": "240560"
+        },
+        {
+          "name": "El Aguatal",
+          "code": "240595"
+        },
+        {
+          "name": "El Almendro",
+          "code": "240597"
+        },
+        {
+          "name": "El Amparo",
+          "code": "240602"
+        },
+        {
+          "name": "El Barro",
+          "code": "240617"
+        },
+        {
+          "name": "El Bosque",
+          "code": "240627"
+        },
+        {
+          "name": "El Cardón",
+          "code": "240656"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240657"
+        },
+        {
+          "name": "El Carrizal",
+          "code": "240668"
+        },
+        {
+          "name": "El Carrizo",
+          "code": "240671"
+        },
+        {
+          "name": "El Castillo",
+          "code": "240673"
+        },
+        {
+          "name": "El Censo",
+          "code": "240677"
+        },
+        {
+          "name": "El Cerrito",
+          "code": "240678"
+        },
+        {
+          "name": "El Chague",
+          "code": "240680"
+        },
+        {
+          "name": "El Chaparral",
+          "code": "240683"
+        },
+        {
+          "name": "El Charco de Los Bueyes",
+          "code": "240685"
+        },
+        {
+          "name": "El Coco",
+          "code": "240694"
+        },
+        {
+          "name": "El Convento",
+          "code": "240697"
+        },
+        {
+          "name": "El Cortesal",
+          "code": "240705"
+        },
+        {
+          "name": "El Coyol",
+          "code": "240710"
+        },
+        {
+          "name": "El Coyolito",
+          "code": "240715"
+        },
+        {
+          "name": "El Empalme",
+          "code": "240731"
+        },
+        {
+          "name": "El Escobillo",
+          "code": "240737"
+        },
+        {
+          "name": "El Espino",
+          "code": "240744"
+        },
+        {
+          "name": "El Estero",
+          "code": "240747"
+        },
+        {
+          "name": "El Guapinol",
+          "code": "240763"
+        },
+        {
+          "name": "El Guapote",
+          "code": "240766"
+        },
+        {
+          "name": "El Guásimo",
+          "code": "240769"
+        },
+        {
+          "name": "El Guayabal",
+          "code": "240770"
+        },
+        {
+          "name": "El Guayabalito",
+          "code": "240771"
+        },
+        {
+          "name": "El Infiernito",
+          "code": "240783"
+        },
+        {
+          "name": "El Jicote",
+          "code": "240792"
+        },
+        {
+          "name": "El Jote",
+          "code": "240798"
+        },
+        {
+          "name": "El Lagartillo",
+          "code": "240799"
+        },
+        {
+          "name": "El Moroñoso",
+          "code": "240822"
+        },
+        {
+          "name": "El Ocotal",
+          "code": "240834"
+        },
+        {
+          "name": "El Ocotillo",
+          "code": "240837"
+        },
+        {
+          "name": "El Ojoche",
+          "code": "240840"
+        },
+        {
+          "name": "El Ojochito",
+          "code": "240841"
+        },
+        {
+          "name": "El Pallal",
+          "code": "240847"
+        },
+        {
+          "name": "El Papalonal",
+          "code": "240855"
+        },
+        {
+          "name": "El Papalote",
+          "code": "240856"
+        },
+        {
+          "name": "El Paraíso",
+          "code": "240861"
+        },
+        {
+          "name": "El Pavón",
+          "code": "240868"
+        },
+        {
+          "name": "El Piñuelar",
+          "code": "240879"
+        },
+        {
+          "name": "El Polvón",
+          "code": "240887"
+        },
+        {
+          "name": "El Porvenir",
+          "code": "240893"
+        },
+        {
+          "name": "El Progreso",
+          "code": "240902"
+        },
+        {
+          "name": "El Queso",
+          "code": "240907"
+        },
+        {
+          "name": "El Recreo",
+          "code": "240915"
+        },
+        {
+          "name": "El Retiro",
+          "code": "240918"
+        },
+        {
+          "name": "El Roble",
+          "code": "240922"
+        },
+        {
+          "name": "El Rodeo",
+          "code": "240924"
+        },
+        {
+          "name": "El Rosario",
+          "code": "240932"
+        },
+        {
+          "name": "El Salitre",
+          "code": "240937"
+        },
+        {
+          "name": "El Sauce",
+          "code": "240946"
+        },
+        {
+          "name": "El Socorro",
+          "code": "240951"
+        },
+        {
+          "name": "El Tachote",
+          "code": "240959"
+        },
+        {
+          "name": "El Tamarindo",
+          "code": "240962"
+        },
+        {
+          "name": "El Tanque",
+          "code": "240965"
+        },
+        {
+          "name": "El Tempate",
+          "code": "240967"
+        },
+        {
+          "name": "El Tinco",
+          "code": "240975"
+        },
+        {
+          "name": "El Tránsito",
+          "code": "240980"
+        },
+        {
+          "name": "El Trapiche",
+          "code": "240982"
+        },
+        {
+          "name": "El Trapichito",
+          "code": "240985"
+        },
+        {
+          "name": "El Tule",
+          "code": "240990"
+        },
+        {
+          "name": "El Valle",
+          "code": "240996"
+        },
+        {
+          "name": "Felix Ernesto Lopez Toruño",
+          "code": "241037"
+        },
+        {
+          "name": "Guadalupe",
+          "code": "241051"
+        },
+        {
+          "name": "Guanacaste",
+          "code": "241054"
+        },
+        {
+          "name": "Guanacastillo",
+          "code": "241055"
+        },
+        {
+          "name": "Hato Grande",
+          "code": "241070"
+        },
+        {
+          "name": "Hato Nuevo",
+          "code": "241074"
+        },
+        {
+          "name": "Hato Viejo",
+          "code": "241075"
+        },
+        {
+          "name": "Ingenio San Pedro",
+          "code": "241086"
+        },
+        {
+          "name": "Izapa",
+          "code": "241096"
+        },
+        {
+          "name": "Jesús María",
+          "code": "241100"
+        },
+        {
+          "name": "Jiñocuabo",
+          "code": "241105"
+        },
+        {
+          "name": "La Argolla",
+          "code": "241159"
+        },
+        {
+          "name": "La Bacinica",
+          "code": "241165"
+        },
+        {
+          "name": "La Bomba",
+          "code": "241176"
+        },
+        {
+          "name": "La Calera",
+          "code": "241184"
+        },
+        {
+          "name": "La Ceiba",
+          "code": "241198"
+        },
+        {
+          "name": "La Chácara",
+          "code": "241202"
+        },
+        {
+          "name": "La Coyotera",
+          "code": "241226"
+        },
+        {
+          "name": "La Cruz de La India",
+          "code": "241230"
+        },
+        {
+          "name": "La Esperanza",
+          "code": "241245"
+        },
+        {
+          "name": "La Fuente",
+          "code": "241261"
+        },
+        {
+          "name": "La Granja",
+          "code": "241273"
+        },
+        {
+          "name": "La Guanábana",
+          "code": "241277"
+        },
+        {
+          "name": "La Jabilla",
+          "code": "241286"
+        },
+        {
+          "name": "La Jicaral",
+          "code": "241288"
+        },
+        {
+          "name": "La Laguna",
+          "code": "241293"
+        },
+        {
+          "name": "La Lorena",
+          "code": "241301"
+        },
+        {
+          "name": "La Marimba",
+          "code": "241308"
+        },
+        {
+          "name": "La Milpa",
+          "code": "241311"
+        },
+        {
+          "name": "La Montaña",
+          "code": "241316"
+        },
+        {
+          "name": "La Morada",
+          "code": "241318"
+        },
+        {
+          "name": "La Palmera",
+          "code": "241325"
+        },
+        {
+          "name": "La Paloma",
+          "code": "241328"
+        },
+        {
+          "name": "La Pampa",
+          "code": "241329"
+        },
+        {
+          "name": "La Paz Centro",
+          "code": "241331"
+        },
+        {
+          "name": "La Paz Vieja",
+          "code": "241333"
+        },
+        {
+          "name": "La Pitahaya",
+          "code": "241350"
+        },
+        {
+          "name": "La Presa",
+          "code": "241356"
+        },
+        {
+          "name": "La Quesera",
+          "code": "241361"
+        },
+        {
+          "name": "La Reseda",
+          "code": "241366"
+        },
+        {
+          "name": "La Sabana",
+          "code": "241372"
+        },
+        {
+          "name": "La Sabaneta",
+          "code": "241373"
+        },
+        {
+          "name": "La Sirena",
+          "code": "241374"
+        },
+        {
+          "name": "La Suiza",
+          "code": "241376"
+        },
+        {
+          "name": "La Tejera",
+          "code": "241377"
+        },
+        {
+          "name": "La Veranera",
+          "code": "241391"
+        },
+        {
+          "name": "La Zopilota",
+          "code": "241402"
+        },
+        {
+          "name": "Larreynaga",
+          "code": "241409"
+        },
+        {
+          "name": "Las Brisas",
+          "code": "241415"
+        },
+        {
+          "name": "Las Cañas",
+          "code": "241421"
+        },
+        {
+          "name": "Las Castillos",
+          "code": "241426"
+        },
+        {
+          "name": "Las Colinas",
+          "code": "241427"
+        },
+        {
+          "name": "Las Cruces",
+          "code": "241434"
+        },
+        {
+          "name": "Las Cuchillas",
+          "code": "241440"
+        },
+        {
+          "name": "Las Delicias",
+          "code": "241448"
+        },
+        {
+          "name": "Las Enramadas",
+          "code": "241453"
+        },
+        {
+          "name": "Las Lajitas",
+          "code": "241466"
+        },
+        {
+          "name": "Las Lomas",
+          "code": "241472"
+        },
+        {
+          "name": "Las Marías",
+          "code": "241478"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "241488"
+        },
+        {
+          "name": "Las Palancas",
+          "code": "241504"
+        },
+        {
+          "name": "Las Peñitas",
+          "code": "241511"
+        },
+        {
+          "name": "Las Peraltas",
+          "code": "241512"
+        },
+        {
+          "name": "Las Pilas",
+          "code": "241517"
+        },
+        {
+          "name": "Las Tablas",
+          "code": "241534"
+        },
+        {
+          "name": "León",
+          "code": "241543"
+        },
+        {
+          "name": "Limay",
+          "code": "241549"
+        },
+        {
+          "name": "Linda Vista",
+          "code": "241553"
+        },
+        {
+          "name": "Lodo Podrido",
+          "code": "241567"
+        },
+        {
+          "name": "Los Ángeles",
+          "code": "241572"
+        },
+        {
+          "name": "Los Arcos",
+          "code": "241579"
+        },
+        {
+          "name": "Los Caracoles",
+          "code": "241589"
+        },
+        {
+          "name": "Los Caraos",
+          "code": "241590"
+        },
+        {
+          "name": "Los Cerritos",
+          "code": "241593"
+        },
+        {
+          "name": "Los Frijoles",
+          "code": "241607"
+        },
+        {
+          "name": "Los Larios",
+          "code": "241612"
+        },
+        {
+          "name": "Los Limones",
+          "code": "241615"
+        },
+        {
+          "name": "Los Llanos",
+          "code": "241617"
+        },
+        {
+          "name": "Los Loras",
+          "code": "241619"
+        },
+        {
+          "name": "Los Mangles",
+          "code": "241620"
+        },
+        {
+          "name": "Los Peroles",
+          "code": "241631"
+        },
+        {
+          "name": "Los Pocitos",
+          "code": "241636"
+        },
+        {
+          "name": "Los Ranchos de Sinecapa",
+          "code": "241647"
+        },
+        {
+          "name": "Los Riitos",
+          "code": "241649"
+        },
+        {
+          "name": "Los Tololos",
+          "code": "241657"
+        },
+        {
+          "name": "Los Toruños",
+          "code": "241658"
+        },
+        {
+          "name": "Los Zarzales",
+          "code": "241664"
+        },
+        {
+          "name": "Lourdes",
+          "code": "241665"
+        },
+        {
+          "name": "Malpaisillo",
+          "code": "241679"
+        },
+        {
+          "name": "María Cristina",
+          "code": "241684"
+        },
+        {
+          "name": "Masa Pala",
+          "code": "241687"
+        },
+        {
+          "name": "Mata de Caña",
+          "code": "241694"
+        },
+        {
+          "name": "Mil Pays",
+          "code": "241712"
+        },
+        {
+          "name": "Mina El Limón",
+          "code": "241714"
+        },
+        {
+          "name": "Mina Santa Pancha",
+          "code": "241715"
+        },
+        {
+          "name": "Mira Lago",
+          "code": "241717"
+        },
+        {
+          "name": "Miramar",
+          "code": "241720"
+        },
+        {
+          "name": "Nacascolo",
+          "code": "241759"
+        },
+        {
+          "name": "Nagarote",
+          "code": "241761"
+        },
+        {
+          "name": "Obraje",
+          "code": "241779"
+        },
+        {
+          "name": "Ocotón",
+          "code": "241785"
+        },
+        {
+          "name": "Ojoche",
+          "code": "241787"
+        },
+        {
+          "name": "Olomega",
+          "code": "241790"
+        },
+        {
+          "name": "Omar Torrijos",
+          "code": "241791"
+        },
+        {
+          "name": "Palermo",
+          "code": "241804"
+        },
+        {
+          "name": "Palo Blanco",
+          "code": "241809"
+        },
+        {
+          "name": "Paso Picado",
+          "code": "241829"
+        },
+        {
+          "name": "Penjamõn",
+          "code": "241836"
+        },
+        {
+          "name": "Picacho",
+          "code": "241842"
+        },
+        {
+          "name": "Playa Grande",
+          "code": "241853"
+        },
+        {
+          "name": "Poneloya",
+          "code": "241856"
+        },
+        {
+          "name": "Portobanco",
+          "code": "241860"
+        },
+        {
+          "name": "Potrero Grande",
+          "code": "241868"
+        },
+        {
+          "name": "Puerto Momotombo",
+          "code": "241887"
+        },
+        {
+          "name": "Puerto Sandino",
+          "code": "241890"
+        },
+        {
+          "name": "Quebrada Seca",
+          "code": "241901"
+        },
+        {
+          "name": "Quezalguaque",
+          "code": "241903"
+        },
+        {
+          "name": "Rancherías",
+          "code": "241915"
+        },
+        {
+          "name": "Rincón Escondido",
+          "code": "241917"
+        },
+        {
+          "name": "Río Grande",
+          "code": "241923"
+        },
+        {
+          "name": "Rota",
+          "code": "241932"
+        },
+        {
+          "name": "Sabana Grande",
+          "code": "241937"
+        },
+        {
+          "name": "Salale",
+          "code": "241946"
+        },
+        {
+          "name": "Salinas Grandes",
+          "code": "241949"
+        },
+        {
+          "name": "San Agustín",
+          "code": "241955"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241965"
+        },
+        {
+          "name": "San Antonio del Condadillo",
+          "code": "241975"
+        },
+        {
+          "name": "San Carlos",
+          "code": "241987"
+        },
+        {
+          "name": "San Cayetano",
+          "code": "241990"
+        },
+        {
+          "name": "San Claudio",
+          "code": "241992"
+        },
+        {
+          "name": "San Clemente",
+          "code": "241993"
+        },
+        {
+          "name": "San Cristóbal",
+          "code": "241994"
+        },
+        {
+          "name": "San Francisco",
+          "code": "242017"
+        },
+        {
+          "name": "San Gabriel",
+          "code": "242026"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242042"
+        },
+        {
+          "name": "San Jacinto",
+          "code": "242048"
+        },
+        {
+          "name": "San Joaquín",
+          "code": "242055"
+        },
+        {
+          "name": "San José",
+          "code": "242064"
+        },
+        {
+          "name": "San Julián",
+          "code": "242100"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "242104"
+        },
+        {
+          "name": "San Luis",
+          "code": "242112"
+        },
+        {
+          "name": "San Martín",
+          "code": "242124"
+        },
+        {
+          "name": "San Miguelito",
+          "code": "242132"
+        },
+        {
+          "name": "San Nicolás",
+          "code": "242136"
+        },
+        {
+          "name": "San Pedro",
+          "code": "242148"
+        },
+        {
+          "name": "San Rafael",
+          "code": "242162"
+        },
+        {
+          "name": "San Ramón",
+          "code": "242171"
+        },
+        {
+          "name": "San Ramón de la Uva",
+          "code": "242175"
+        },
+        {
+          "name": "San Roque",
+          "code": "242177"
+        },
+        {
+          "name": "San Silvestre",
+          "code": "242181"
+        },
+        {
+          "name": "San Victor",
+          "code": "242189"
+        },
+        {
+          "name": "Santa Bárbara",
+          "code": "242206"
+        },
+        {
+          "name": "Santa Casimira",
+          "code": "242209"
+        },
+        {
+          "name": "Santa Clara",
+          "code": "242213"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242219"
+        },
+        {
+          "name": "Santa Elena",
+          "code": "242226"
+        },
+        {
+          "name": "Santa Emilia",
+          "code": "242232"
+        },
+        {
+          "name": "Santa Gertrudis",
+          "code": "242243"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "242254"
+        },
+        {
+          "name": "Santa Lucía",
+          "code": "242264"
+        },
+        {
+          "name": "Santa Marta",
+          "code": "242280"
+        },
+        {
+          "name": "Santa Patricia",
+          "code": "242284"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242291"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242296"
+        },
+        {
+          "name": "Santa Rosa del Peñón",
+          "code": "242305"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "242310"
+        },
+        {
+          "name": "Santa Teresa de Apatague",
+          "code": "242315"
+        },
+        {
+          "name": "Santiago",
+          "code": "242318"
+        },
+        {
+          "name": "Talolinga",
+          "code": "242373"
+        },
+        {
+          "name": "Tecuaname",
+          "code": "242392"
+        },
+        {
+          "name": "Telica",
+          "code": "242395"
+        },
+        {
+          "name": "Tempisque Negro",
+          "code": "242398"
+        },
+        {
+          "name": "Terranova",
+          "code": "242404"
+        },
+        {
+          "name": "Tierra Colorada",
+          "code": "242413"
+        },
+        {
+          "name": "Tolapa",
+          "code": "242420"
+        },
+        {
+          "name": "Valle el Ojochal",
+          "code": "242468"
+        },
+        {
+          "name": "Valle El Tablón",
+          "code": "242470"
+        },
+        {
+          "name": "Valle Las Zapatas",
+          "code": "242481"
+        },
+        {
+          "name": "Vigía del Río Grande",
+          "code": "242511"
+        },
+        {
+          "name": "Vigías",
+          "code": "242512"
+        },
+        {
+          "name": "Viscaíno",
+          "code": "242517"
+        }
+      ]
+    },
+    {
+      "name": "Madriz",
+      "code": "477",
+      "cities": [
+        {
+          "name": "El Carbonal",
+          "code": "240655"
+        },
+        {
+          "name": "El Espino",
+          "code": "240745"
+        },
+        {
+          "name": "El Gualiqueme",
+          "code": "240759"
+        },
+        {
+          "name": "El Jocote",
+          "code": "240797"
+        },
+        {
+          "name": "El Limón",
+          "code": "240805"
+        },
+        {
+          "name": "El Matasano",
+          "code": "240815"
+        },
+        {
+          "name": "El Trapichito",
+          "code": "240983"
+        },
+        {
+          "name": "El Zapote",
+          "code": "241005"
+        },
+        {
+          "name": "Icalupe",
+          "code": "241081"
+        },
+        {
+          "name": "La Concepción",
+          "code": "241219"
+        },
+        {
+          "name": "Las Sabanas",
+          "code": "241530"
+        },
+        {
+          "name": "Los Encuentros",
+          "code": "241606"
+        },
+        {
+          "name": "Los Potrerillos",
+          "code": "241640"
+        },
+        {
+          "name": "Palacagüina",
+          "code": "241802"
+        },
+        {
+          "name": "Quibuto",
+          "code": "241904"
+        },
+        {
+          "name": "San José de Amucayán",
+          "code": "242071"
+        },
+        {
+          "name": "San José de Cusmapa",
+          "code": "242074"
+        },
+        {
+          "name": "San Juan de Río Coco",
+          "code": "242094"
+        },
+        {
+          "name": "San Lucas",
+          "code": "242109"
+        },
+        {
+          "name": "San Ramón",
+          "code": "242168"
+        },
+        {
+          "name": "Santa Bárbara",
+          "code": "242204"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "242323"
+        },
+        {
+          "name": "Somoto",
+          "code": "242358"
+        },
+        {
+          "name": "Telpaneca",
+          "code": "242396"
+        },
+        {
+          "name": "Totogalpa",
+          "code": "242430"
+        },
+        {
+          "name": "Valle Ducualí",
+          "code": "242460"
+        },
+        {
+          "name": "Valle El Ángel",
+          "code": "242461"
+        },
+        {
+          "name": "Valle La Plazuela",
+          "code": "242477"
+        },
+        {
+          "name": "Valle San Andrés",
+          "code": "242486"
+        },
+        {
+          "name": "Valle San Antonio",
+          "code": "242487"
+        },
+        {
+          "name": "Valle San Francisco",
+          "code": "242489"
+        },
+        {
+          "name": "Valle San Juan de Somoto",
+          "code": "242493"
+        },
+        {
+          "name": "Valle Santa Isabel",
+          "code": "242494"
+        },
+        {
+          "name": "Valle Santa Teresa",
+          "code": "242495"
+        },
+        {
+          "name": "Valle Santo Domingo",
+          "code": "242496"
+        },
+        {
+          "name": "Verapaz",
+          "code": "242510"
+        },
+        {
+          "name": "Yalagüina",
+          "code": "242549"
+        }
+      ]
+    },
+    {
+      "name": "Managua",
+      "code": "478",
+      "cities": [
+        {
+          "name": "Agua Dulce",
+          "code": "240298"
+        },
+        {
+          "name": "América",
+          "code": "240318"
+        },
+        {
+          "name": "Azacualpa",
+          "code": "240359"
+        },
+        {
+          "name": "Barba de Tigre",
+          "code": "240366"
+        },
+        {
+          "name": "Barrio El Nacascolo",
+          "code": "240376"
+        },
+        {
+          "name": "Barrio Los Hidalgos",
+          "code": "240379"
+        },
+        {
+          "name": "Barrio San Lorenzo",
+          "code": "240383"
+        },
+        {
+          "name": "Bella Cruz",
+          "code": "240388"
+        },
+        {
+          "name": "Buenavista",
+          "code": "240423"
+        },
+        {
+          "name": "Carlos Fonseca Amador",
+          "code": "240469"
+        },
+        {
+          "name": "Casa Colorada",
+          "code": "240473"
+        },
+        {
+          "name": "Casa de Teja",
+          "code": "240475"
+        },
+        {
+          "name": "Casa Sola",
+          "code": "240477"
+        },
+        {
+          "name": "Caserío Las Ranas",
+          "code": "240481"
+        },
+        {
+          "name": "Chocoyo",
+          "code": "240504"
+        },
+        {
+          "name": "Cirama",
+          "code": "240509"
+        },
+        {
+          "name": "Citalapa",
+          "code": "240510"
+        },
+        {
+          "name": "Ciudad Sandino",
+          "code": "240514"
+        },
+        {
+          "name": "Cofradía",
+          "code": "240518"
+        },
+        {
+          "name": "Colonia Los Laureles",
+          "code": "240525"
+        },
+        {
+          "name": "Colonia Molina",
+          "code": "240526"
+        },
+        {
+          "name": "Comarca de La Aduana",
+          "code": "240533"
+        },
+        {
+          "name": "Comarca Las Jaguitas",
+          "code": "240538"
+        },
+        {
+          "name": "Corinto",
+          "code": "240546"
+        },
+        {
+          "name": "Corpus Cristi",
+          "code": "240549"
+        },
+        {
+          "name": "Cundinamarca",
+          "code": "240566"
+        },
+        {
+          "name": "Desmotadora Las Brasiles",
+          "code": "240576"
+        },
+        {
+          "name": "El Acento",
+          "code": "240590"
+        },
+        {
+          "name": "El Apante",
+          "code": "240603"
+        },
+        {
+          "name": "El Boquerón",
+          "code": "240624"
+        },
+        {
+          "name": "El Bosque",
+          "code": "240626"
+        },
+        {
+          "name": "El Buen Suceso",
+          "code": "240632"
+        },
+        {
+          "name": "El Canal",
+          "code": "240645"
+        },
+        {
+          "name": "El Cantón",
+          "code": "240646"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240665"
+        },
+        {
+          "name": "El Cerro",
+          "code": "240679"
+        },
+        {
+          "name": "El Chaparro",
+          "code": "240684"
+        },
+        {
+          "name": "El Chilamatillo",
+          "code": "240687"
+        },
+        {
+          "name": "El Corozo",
+          "code": "240704"
+        },
+        {
+          "name": "El Crucero",
+          "code": "240719"
+        },
+        {
+          "name": "El Delirio",
+          "code": "240720"
+        },
+        {
+          "name": "El Descanso",
+          "code": "240722"
+        },
+        {
+          "name": "El Empalme",
+          "code": "240730"
+        },
+        {
+          "name": "El Escobillo",
+          "code": "240738"
+        },
+        {
+          "name": "El Esfuerzo",
+          "code": "240739"
+        },
+        {
+          "name": "El Espadillo",
+          "code": "240742"
+        },
+        {
+          "name": "El Guapinolar",
+          "code": "240765"
+        },
+        {
+          "name": "El Hatillo",
+          "code": "240774"
+        },
+        {
+          "name": "El Laurel Galán",
+          "code": "240802"
+        },
+        {
+          "name": "El Madroño",
+          "code": "240810"
+        },
+        {
+          "name": "El Mango",
+          "code": "240811"
+        },
+        {
+          "name": "El Martillo",
+          "code": "240812"
+        },
+        {
+          "name": "El Naranjo",
+          "code": "240828"
+        },
+        {
+          "name": "El Obraje",
+          "code": "240833"
+        },
+        {
+          "name": "El Panamá",
+          "code": "240852"
+        },
+        {
+          "name": "El Panorama",
+          "code": "240854"
+        },
+        {
+          "name": "El Papalote",
+          "code": "240857"
+        },
+        {
+          "name": "El Paraíso",
+          "code": "240863"
+        },
+        {
+          "name": "El Pastor",
+          "code": "240866"
+        },
+        {
+          "name": "El Pital",
+          "code": "240882"
+        },
+        {
+          "name": "El Platanal",
+          "code": "240885"
+        },
+        {
+          "name": "El Prado",
+          "code": "240901"
+        },
+        {
+          "name": "El Rosal",
+          "code": "240928"
+        },
+        {
+          "name": "El Rosario",
+          "code": "240931"
+        },
+        {
+          "name": "El Salto",
+          "code": "240938"
+        },
+        {
+          "name": "El Socorro",
+          "code": "240952"
+        },
+        {
+          "name": "El Tamagás",
+          "code": "240960"
+        },
+        {
+          "name": "El Tamarindo",
+          "code": "240961"
+        },
+        {
+          "name": "El Tempisque",
+          "code": "240969"
+        },
+        {
+          "name": "El Terrero",
+          "code": "240970"
+        },
+        {
+          "name": "El Tizate",
+          "code": "240976"
+        },
+        {
+          "name": "El Zapotal",
+          "code": "241004"
+        },
+        {
+          "name": "El Zapote",
+          "code": "241010"
+        },
+        {
+          "name": "Empalme San Benito",
+          "code": "241015"
+        },
+        {
+          "name": "Esquipulas",
+          "code": "241025"
+        },
+        {
+          "name": "Guapinol",
+          "code": "241056"
+        },
+        {
+          "name": "Ingenio Santa Rita",
+          "code": "241087"
+        },
+        {
+          "name": "Isabel Grande",
+          "code": "241089"
+        },
+        {
+          "name": "La Amistad",
+          "code": "241156"
+        },
+        {
+          "name": "La Argentina",
+          "code": "241157"
+        },
+        {
+          "name": "La Aurora",
+          "code": "241161"
+        },
+        {
+          "name": "La Avellana",
+          "code": "241163"
+        },
+        {
+          "name": "La Bocana",
+          "code": "241174"
+        },
+        {
+          "name": "La California",
+          "code": "241185"
+        },
+        {
+          "name": "La Calle de Los Besos",
+          "code": "241186"
+        },
+        {
+          "name": "La Campana",
+          "code": "241190"
+        },
+        {
+          "name": "La Ceiba",
+          "code": "241200"
+        },
+        {
+          "name": "La Chinampa",
+          "code": "241206"
+        },
+        {
+          "name": "La Compañía",
+          "code": "241212"
+        },
+        {
+          "name": "La Crisálida",
+          "code": "241227"
+        },
+        {
+          "name": "La Flor",
+          "code": "241256"
+        },
+        {
+          "name": "La Fundadora",
+          "code": "241263"
+        },
+        {
+          "name": "La Granja",
+          "code": "241274"
+        },
+        {
+          "name": "La Historia",
+          "code": "241283"
+        },
+        {
+          "name": "La Mojarra",
+          "code": "241314"
+        },
+        {
+          "name": "La Presita",
+          "code": "241357"
+        },
+        {
+          "name": "La Providencia",
+          "code": "241358"
+        },
+        {
+          "name": "La Trinidad",
+          "code": "241380"
+        },
+        {
+          "name": "La Unión",
+          "code": "241383"
+        },
+        {
+          "name": "La Uva",
+          "code": "241387"
+        },
+        {
+          "name": "La Virgen",
+          "code": "241397"
+        },
+        {
+          "name": "La Zopilota",
+          "code": "241401"
+        },
+        {
+          "name": "Las Banderas",
+          "code": "241411"
+        },
+        {
+          "name": "Las Canoas",
+          "code": "241419"
+        },
+        {
+          "name": "Las Colinas",
+          "code": "241428"
+        },
+        {
+          "name": "Las Cruces",
+          "code": "241436"
+        },
+        {
+          "name": "Las Cumbres",
+          "code": "241443"
+        },
+        {
+          "name": "Las Delicias",
+          "code": "241447"
+        },
+        {
+          "name": "Las Guanacastes",
+          "code": "241458"
+        },
+        {
+          "name": "Las Jagüitas",
+          "code": "241459"
+        },
+        {
+          "name": "Las Lajitas",
+          "code": "241467"
+        },
+        {
+          "name": "Las Lapas",
+          "code": "241469"
+        },
+        {
+          "name": "Las Maderas",
+          "code": "241473"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "241484"
+        },
+        {
+          "name": "Las Mesas de Acicaya",
+          "code": "241492"
+        },
+        {
+          "name": "Las Nambiras",
+          "code": "241496"
+        },
+        {
+          "name": "Las Peñitas",
+          "code": "241510"
+        },
+        {
+          "name": "Las Pilas",
+          "code": "241519"
+        },
+        {
+          "name": "Las Playitas",
+          "code": "241522"
+        },
+        {
+          "name": "Las Tinajas",
+          "code": "241537"
+        },
+        {
+          "name": "Leonardo",
+          "code": "241544"
+        },
+        {
+          "name": "Los Ángeles",
+          "code": "241577"
+        },
+        {
+          "name": "Los Brasiles",
+          "code": "241583"
+        },
+        {
+          "name": "Los Cedros",
+          "code": "241592"
+        },
+        {
+          "name": "Los Gutiérrez del Sur",
+          "code": "241611"
+        },
+        {
+          "name": "Los Menas",
+          "code": "241621"
+        },
+        {
+          "name": "Los Novios",
+          "code": "241628"
+        },
+        {
+          "name": "Los Placeres",
+          "code": "241633"
+        },
+        {
+          "name": "Los Ranchos",
+          "code": "241646"
+        },
+        {
+          "name": "Los Sánchez",
+          "code": "241652"
+        },
+        {
+          "name": "Managua",
+          "code": "241680"
+        },
+        {
+          "name": "Masachapa",
+          "code": "241688"
+        },
+        {
+          "name": "Mateare",
+          "code": "241700"
+        },
+        {
+          "name": "Mazatlán",
+          "code": "241703"
+        },
+        {
+          "name": "Miraflores",
+          "code": "241718"
+        },
+        {
+          "name": "Momotombito",
+          "code": "241726"
+        },
+        {
+          "name": "Montelimar",
+          "code": "241744"
+        },
+        {
+          "name": "Nandayosi",
+          "code": "241769"
+        },
+        {
+          "name": "Olimpo",
+          "code": "241789"
+        },
+        {
+          "name": "Ostocal",
+          "code": "241794"
+        },
+        {
+          "name": "Pacora",
+          "code": "241798"
+        },
+        {
+          "name": "Peor Es Nada",
+          "code": "241839"
+        },
+        {
+          "name": "Prinzapolka",
+          "code": "241873"
+        },
+        {
+          "name": "Puerto Nuevo",
+          "code": "241889"
+        },
+        {
+          "name": "Quebrada Honda",
+          "code": "241899"
+        },
+        {
+          "name": "Sabana Grande",
+          "code": "241938"
+        },
+        {
+          "name": "Salamina",
+          "code": "241947"
+        },
+        {
+          "name": "Samaria",
+          "code": "241952"
+        },
+        {
+          "name": "San Andrés",
+          "code": "241958"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241971"
+        },
+        {
+          "name": "San Bartolo",
+          "code": "241976"
+        },
+        {
+          "name": "San Benito",
+          "code": "241980"
+        },
+        {
+          "name": "San Blas",
+          "code": "241984"
+        },
+        {
+          "name": "San Cayetano",
+          "code": "241991"
+        },
+        {
+          "name": "San Cristóbal",
+          "code": "241995"
+        },
+        {
+          "name": "San Emilio",
+          "code": "242004"
+        },
+        {
+          "name": "San Ernesto",
+          "code": "242005"
+        },
+        {
+          "name": "San Francisco",
+          "code": "242021"
+        },
+        {
+          "name": "San Francisco del Peñón",
+          "code": "242024"
+        },
+        {
+          "name": "San Francisco Libre",
+          "code": "242025"
+        },
+        {
+          "name": "San Gregorio",
+          "code": "242030"
+        },
+        {
+          "name": "San Ildefonso",
+          "code": "242036"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242040"
+        },
+        {
+          "name": "San Jacinto",
+          "code": "242047"
+        },
+        {
+          "name": "San Jorge",
+          "code": "242059"
+        },
+        {
+          "name": "San José",
+          "code": "242065"
+        },
+        {
+          "name": "San José del Cardón",
+          "code": "242080"
+        },
+        {
+          "name": "San Juan",
+          "code": "242088"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "242105"
+        },
+        {
+          "name": "San Luis",
+          "code": "242115"
+        },
+        {
+          "name": "San Martín",
+          "code": "242125"
+        },
+        {
+          "name": "San Miguel",
+          "code": "242126"
+        },
+        {
+          "name": "San Pablo",
+          "code": "242143"
+        },
+        {
+          "name": "San Pedro",
+          "code": "242152"
+        },
+        {
+          "name": "San Rafael",
+          "code": "242160"
+        },
+        {
+          "name": "San Rafael del Sur",
+          "code": "242166"
+        },
+        {
+          "name": "San Rafaelito",
+          "code": "242167"
+        },
+        {
+          "name": "San Ramón",
+          "code": "242173"
+        },
+        {
+          "name": "San Roque",
+          "code": "242176"
+        },
+        {
+          "name": "San Sebastián",
+          "code": "242179"
+        },
+        {
+          "name": "San Vicente",
+          "code": "242186"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "242196"
+        },
+        {
+          "name": "Santa Bethania",
+          "code": "242208"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242218"
+        },
+        {
+          "name": "Santa Elena",
+          "code": "242228"
+        },
+        {
+          "name": "Santa Elisa",
+          "code": "242229"
+        },
+        {
+          "name": "Santa Fe",
+          "code": "242236"
+        },
+        {
+          "name": "Santa Gertrudis",
+          "code": "242244"
+        },
+        {
+          "name": "Santa Graciela",
+          "code": "242245"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "242251"
+        },
+        {
+          "name": "Santa Lucía",
+          "code": "242262"
+        },
+        {
+          "name": "Santa Luisa",
+          "code": "242268"
+        },
+        {
+          "name": "Santa María",
+          "code": "242274"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242288"
+        },
+        {
+          "name": "Santa Rita de Plata",
+          "code": "242294"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242301"
+        },
+        {
+          "name": "Santa Tecla",
+          "code": "242306"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "242311"
+        },
+        {
+          "name": "Santiago",
+          "code": "242319"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "242325"
+        },
+        {
+          "name": "Santo Domingo de Guzmán",
+          "code": "242326"
+        },
+        {
+          "name": "Soledad",
+          "code": "242355"
+        },
+        {
+          "name": "Tacaniste",
+          "code": "242368"
+        },
+        {
+          "name": "Talpetate",
+          "code": "242376"
+        },
+        {
+          "name": "Tecomajoche",
+          "code": "242389"
+        },
+        {
+          "name": "Tipitapa",
+          "code": "242416"
+        },
+        {
+          "name": "Todo Obrero",
+          "code": "242418"
+        },
+        {
+          "name": "Utila",
+          "code": "242454"
+        },
+        {
+          "name": "Valencia",
+          "code": "242456"
+        },
+        {
+          "name": "Valle Gottel",
+          "code": "242473"
+        },
+        {
+          "name": "Valle Los Aburtos",
+          "code": "242482"
+        },
+        {
+          "name": "Valle San Francisco",
+          "code": "242490"
+        },
+        {
+          "name": "Valle Telpochapa",
+          "code": "242497"
+        },
+        {
+          "name": "Venecia",
+          "code": "242501"
+        },
+        {
+          "name": "Zambrano",
+          "code": "242558"
+        }
+      ]
+    },
+    {
+      "name": "Masaya",
+      "code": "479",
+      "cities": [
+        {
+          "name": "Barrio de San Francisco",
+          "code": "240374"
+        },
+        {
+          "name": "Barrio Los Bustos",
+          "code": "240378"
+        },
+        {
+          "name": "Barrio Momotombo",
+          "code": "240380"
+        },
+        {
+          "name": "Barrio Pío XII",
+          "code": "240382"
+        },
+        {
+          "name": "Barrio San Miguel",
+          "code": "240384"
+        },
+        {
+          "name": "Campuzano",
+          "code": "240447"
+        },
+        {
+          "name": "Caserío Veinticuatro",
+          "code": "240482"
+        },
+        {
+          "name": "Catarina",
+          "code": "240485"
+        },
+        {
+          "name": "Comarca Los Madrigales",
+          "code": "240539"
+        },
+        {
+          "name": "El Bálsamo",
+          "code": "240614"
+        },
+        {
+          "name": "El Cielo",
+          "code": "240690"
+        },
+        {
+          "name": "El Costillo",
+          "code": "240706"
+        },
+        {
+          "name": "El Dorado",
+          "code": "240726"
+        },
+        {
+          "name": "El Palaíso",
+          "code": "240845"
+        },
+        {
+          "name": "El Palenque",
+          "code": "240846"
+        },
+        {
+          "name": "El Panorama",
+          "code": "240853"
+        },
+        {
+          "name": "El Picacho",
+          "code": "240877"
+        },
+        {
+          "name": "El Portillo",
+          "code": "240888"
+        },
+        {
+          "name": "El Recreo",
+          "code": "240912"
+        },
+        {
+          "name": "Hato Grande",
+          "code": "241071"
+        },
+        {
+          "name": "La Bolsa",
+          "code": "241175"
+        },
+        {
+          "name": "La Carbonera",
+          "code": "241197"
+        },
+        {
+          "name": "La Ceibita",
+          "code": "241201"
+        },
+        {
+          "name": "La Concepción",
+          "code": "241217"
+        },
+        {
+          "name": "La Menuda",
+          "code": "241310"
+        },
+        {
+          "name": "La Piedra",
+          "code": "241338"
+        },
+        {
+          "name": "Las Conchitas",
+          "code": "241431"
+        },
+        {
+          "name": "Las Crucitas",
+          "code": "241437"
+        },
+        {
+          "name": "Las Flores",
+          "code": "241455"
+        },
+        {
+          "name": "Las Nubes",
+          "code": "241499"
+        },
+        {
+          "name": "Las Pilas Occidentales",
+          "code": "241521"
+        },
+        {
+          "name": "Las Sabanas",
+          "code": "241531"
+        },
+        {
+          "name": "Llano Grande",
+          "code": "241561"
+        },
+        {
+          "name": "Los Altos del Guanacastillo",
+          "code": "241570"
+        },
+        {
+          "name": "Los Ortiz",
+          "code": "241630"
+        },
+        {
+          "name": "Masatepe",
+          "code": "241690"
+        },
+        {
+          "name": "Masaya",
+          "code": "241691"
+        },
+        {
+          "name": "Masaya City",
+          "code": "241692"
+        },
+        {
+          "name": "Miralagos",
+          "code": "241719"
+        },
+        {
+          "name": "Miravalle",
+          "code": "241722"
+        },
+        {
+          "name": "Nandasmo",
+          "code": "241768"
+        },
+        {
+          "name": "Nindirí",
+          "code": "241774"
+        },
+        {
+          "name": "Niquinohomo",
+          "code": "241775"
+        },
+        {
+          "name": "Pacaya",
+          "code": "241796"
+        },
+        {
+          "name": "Pacayita",
+          "code": "241797"
+        },
+        {
+          "name": "Palmira",
+          "code": "241806"
+        },
+        {
+          "name": "San Alejandro",
+          "code": "241957"
+        },
+        {
+          "name": "San Bernabé",
+          "code": "241981"
+        },
+        {
+          "name": "San Ignacio",
+          "code": "242033"
+        },
+        {
+          "name": "San Jerónimo",
+          "code": "242052"
+        },
+        {
+          "name": "San José",
+          "code": "242066"
+        },
+        {
+          "name": "San Juan de La Concepción",
+          "code": "242090"
+        },
+        {
+          "name": "San Juan de Oriente",
+          "code": "242093"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242225"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242287"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242300"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "242307"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "242322"
+        },
+        {
+          "name": "Temoa",
+          "code": "242397"
+        },
+        {
+          "name": "Ticuantepe",
+          "code": "242408"
+        },
+        {
+          "name": "Tisma",
+          "code": "242417"
+        },
+        {
+          "name": "Venecia",
+          "code": "242500"
+        },
+        {
+          "name": "Veracruz",
+          "code": "242505"
+        },
+        {
+          "name": "Vista Alegre",
+          "code": "242518"
+        }
+      ]
+    },
+    {
+      "name": "Matagalpa",
+      "code": "480",
+      "cities": [
+        {
+          "name": "Agua Amarilla",
+          "code": "240294"
+        },
+        {
+          "name": "Agua Frìa",
+          "code": "240299"
+        },
+        {
+          "name": "Apalilí",
+          "code": "240325"
+        },
+        {
+          "name": "Apamico",
+          "code": "240326"
+        },
+        {
+          "name": "Apatus",
+          "code": "240329"
+        },
+        {
+          "name": "Apompuá",
+          "code": "240332"
+        },
+        {
+          "name": "Asancor",
+          "code": "240340"
+        },
+        {
+          "name": "Bella Vista",
+          "code": "240390"
+        },
+        {
+          "name": "Bilwás",
+          "code": "240397"
+        },
+        {
+          "name": "Bilwaska",
+          "code": "240398"
+        },
+        {
+          "name": "Bocana Las Limas",
+          "code": "240408"
+        },
+        {
+          "name": "Buenavista",
+          "code": "240421"
+        },
+        {
+          "name": "Calabaza",
+          "code": "240440"
+        },
+        {
+          "name": "Calpules",
+          "code": "240443"
+        },
+        {
+          "name": "Caña de Castilla",
+          "code": "240455"
+        },
+        {
+          "name": "Caña de Oro",
+          "code": "240458"
+        },
+        {
+          "name": "Cañada Grande",
+          "code": "240459"
+        },
+        {
+          "name": "Candelaria",
+          "code": "240450"
+        },
+        {
+          "name": "Caratera",
+          "code": "240467"
+        },
+        {
+          "name": "Caserío Abra Vieja",
+          "code": "240480"
+        },
+        {
+          "name": "Cebadía",
+          "code": "240488"
+        },
+        {
+          "name": "Chagüite Grande",
+          "code": "240496"
+        },
+        {
+          "name": "Chagüitillo",
+          "code": "240498"
+        },
+        {
+          "name": "Ciudad Darío",
+          "code": "240512"
+        },
+        {
+          "name": "Cuatro Esquinas",
+          "code": "240559"
+        },
+        {
+          "name": "Cumaica",
+          "code": "240564"
+        },
+        {
+          "name": "Cunagua",
+          "code": "240565"
+        },
+        {
+          "name": "Cusile",
+          "code": "240567"
+        },
+        {
+          "name": "Devonia",
+          "code": "240577"
+        },
+        {
+          "name": "Dos Montes",
+          "code": "240584"
+        },
+        {
+          "name": "El Arenal",
+          "code": "240606"
+        },
+        {
+          "name": "El Bálsamo",
+          "code": "240612"
+        },
+        {
+          "name": "El Barro",
+          "code": "240619"
+        },
+        {
+          "name": "El Bijague",
+          "code": "240621"
+        },
+        {
+          "name": "El Bosque",
+          "code": "240628"
+        },
+        {
+          "name": "El Bote",
+          "code": "240630"
+        },
+        {
+          "name": "El Cacao",
+          "code": "240638"
+        },
+        {
+          "name": "El Caracol",
+          "code": "240651"
+        },
+        {
+          "name": "El Carao",
+          "code": "240652"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240660"
+        },
+        {
+          "name": "El Carrizal",
+          "code": "240669"
+        },
+        {
+          "name": "El Carrizo",
+          "code": "240670"
+        },
+        {
+          "name": "El Castillo",
+          "code": "240672"
+        },
+        {
+          "name": "El Chagüite",
+          "code": "240681"
+        },
+        {
+          "name": "El Chile",
+          "code": "240688"
+        },
+        {
+          "name": "El Corozo",
+          "code": "240700"
+        },
+        {
+          "name": "El Coyol",
+          "code": "240709"
+        },
+        {
+          "name": "El Coyolito",
+          "code": "240716"
+        },
+        {
+          "name": "El Cristal",
+          "code": "240718"
+        },
+        {
+          "name": "El Esquirín",
+          "code": "240746"
+        },
+        {
+          "name": "El Gorrión",
+          "code": "240755"
+        },
+        {
+          "name": "El Guapinol",
+          "code": "240764"
+        },
+        {
+          "name": "El Guapote",
+          "code": "240767"
+        },
+        {
+          "name": "El Guiscánal",
+          "code": "240772"
+        },
+        {
+          "name": "El Hato de La Virgen",
+          "code": "240776"
+        },
+        {
+          "name": "El Horno",
+          "code": "240779"
+        },
+        {
+          "name": "El Jícaro",
+          "code": "240791"
+        },
+        {
+          "name": "El Jobo",
+          "code": "240793"
+        },
+        {
+          "name": "El Jocote",
+          "code": "240796"
+        },
+        {
+          "name": "El Martillo",
+          "code": "240813"
+        },
+        {
+          "name": "El Nancital",
+          "code": "240824"
+        },
+        {
+          "name": "El Naranjo",
+          "code": "240829"
+        },
+        {
+          "name": "El Obraje",
+          "code": "240832"
+        },
+        {
+          "name": "El Ocotal",
+          "code": "240835"
+        },
+        {
+          "name": "El Ocote",
+          "code": "240836"
+        },
+        {
+          "name": "El Paraíso",
+          "code": "240858"
+        },
+        {
+          "name": "El Paso Real",
+          "code": "240865"
+        },
+        {
+          "name": "El Portillo",
+          "code": "240889"
+        },
+        {
+          "name": "El Pozo Público",
+          "code": "240900"
+        },
+        {
+          "name": "El Quebrachal",
+          "code": "240905"
+        },
+        {
+          "name": "El Quebradón",
+          "code": "240906"
+        },
+        {
+          "name": "El Río",
+          "code": "240920"
+        },
+        {
+          "name": "El Rodeo",
+          "code": "240925"
+        },
+        {
+          "name": "El Sabalar",
+          "code": "240935"
+        },
+        {
+          "name": "El Salto",
+          "code": "240942"
+        },
+        {
+          "name": "El Sardinal",
+          "code": "240945"
+        },
+        {
+          "name": "El Socorro",
+          "code": "240950"
+        },
+        {
+          "name": "El Tábano",
+          "code": "240958"
+        },
+        {
+          "name": "El Tamarindo",
+          "code": "240963"
+        },
+        {
+          "name": "El Tempisque",
+          "code": "240968"
+        },
+        {
+          "name": "El Terrero",
+          "code": "240971"
+        },
+        {
+          "name": "El Tuma",
+          "code": "240992"
+        },
+        {
+          "name": "El Venado",
+          "code": "240998"
+        },
+        {
+          "name": "El Zapote",
+          "code": "241008"
+        },
+        {
+          "name": "El Zarzal",
+          "code": "241013"
+        },
+        {
+          "name": "El Zonto",
+          "code": "241014"
+        },
+        {
+          "name": "Escocia",
+          "code": "241021"
+        },
+        {
+          "name": "Esquipulas",
+          "code": "241024"
+        },
+        {
+          "name": "Esquipulín",
+          "code": "241029"
+        },
+        {
+          "name": "Guadalupe",
+          "code": "241052"
+        },
+        {
+          "name": "Guapotal",
+          "code": "241058"
+        },
+        {
+          "name": "Guasimón",
+          "code": "241059"
+        },
+        {
+          "name": "Hatillo",
+          "code": "241067"
+        },
+        {
+          "name": "Ilapo",
+          "code": "241082"
+        },
+        {
+          "name": "Iyás",
+          "code": "241095"
+        },
+        {
+          "name": "Jerónimo",
+          "code": "241098"
+        },
+        {
+          "name": "Jucuapa Abajo",
+          "code": "241113"
+        },
+        {
+          "name": "Jucuapa Arriba",
+          "code": "241114"
+        },
+        {
+          "name": "Kangrina",
+          "code": "241121"
+        },
+        {
+          "name": "Kokomo",
+          "code": "241137"
+        },
+        {
+          "name": "Kurinwacito",
+          "code": "241151"
+        },
+        {
+          "name": "La Alianza",
+          "code": "241155"
+        },
+        {
+          "name": "La Bocana",
+          "code": "241173"
+        },
+        {
+          "name": "La Caldera",
+          "code": "241180"
+        },
+        {
+          "name": "La China",
+          "code": "241205"
+        },
+        {
+          "name": "La Concepción",
+          "code": "241214"
+        },
+        {
+          "name": "La Corneta",
+          "code": "241225"
+        },
+        {
+          "name": "La Cuesta de Apatite",
+          "code": "241234"
+        },
+        {
+          "name": "La Cumplida",
+          "code": "241235"
+        },
+        {
+          "name": "La Esperanza",
+          "code": "241243"
+        },
+        {
+          "name": "La Estrella",
+          "code": "241253"
+        },
+        {
+          "name": "La Fortuna",
+          "code": "241260"
+        },
+        {
+          "name": "La Garita",
+          "code": "241266"
+        },
+        {
+          "name": "La Guayaba",
+          "code": "241281"
+        },
+        {
+          "name": "La Jagua",
+          "code": "241287"
+        },
+        {
+          "name": "La Leonesa",
+          "code": "241297"
+        },
+        {
+          "name": "La Lima",
+          "code": "241299"
+        },
+        {
+          "name": "La Limosna",
+          "code": "241300"
+        },
+        {
+          "name": "La Luz",
+          "code": "241305"
+        },
+        {
+          "name": "La Patriota",
+          "code": "241330"
+        },
+        {
+          "name": "La Perla",
+          "code": "241337"
+        },
+        {
+          "name": "La Pita",
+          "code": "241346"
+        },
+        {
+          "name": "La Pitahaya",
+          "code": "241349"
+        },
+        {
+          "name": "La Ponzoña",
+          "code": "241354"
+        },
+        {
+          "name": "La Ponzoñita",
+          "code": "241355"
+        },
+        {
+          "name": "La Reina",
+          "code": "241362"
+        },
+        {
+          "name": "La Remonta",
+          "code": "241364"
+        },
+        {
+          "name": "La Rosa",
+          "code": "241369"
+        },
+        {
+          "name": "La Unión",
+          "code": "241384"
+        },
+        {
+          "name": "La Uva",
+          "code": "241388"
+        },
+        {
+          "name": "Laguna Seca",
+          "code": "241405"
+        },
+        {
+          "name": "Las Ánimas",
+          "code": "241410"
+        },
+        {
+          "name": "Las Casas Viejas",
+          "code": "241425"
+        },
+        {
+          "name": "Las Conchitas",
+          "code": "241432"
+        },
+        {
+          "name": "Las Cuatro Esquinas",
+          "code": "241438"
+        },
+        {
+          "name": "Las Delicias",
+          "code": "241445"
+        },
+        {
+          "name": "Las Limas",
+          "code": "241470"
+        },
+        {
+          "name": "Las Maderas",
+          "code": "241474"
+        },
+        {
+          "name": "Las Mangas",
+          "code": "241475"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "241485"
+        },
+        {
+          "name": "Las Mesas",
+          "code": "241491"
+        },
+        {
+          "name": "Las Minas",
+          "code": "241494"
+        },
+        {
+          "name": "Las Minitas",
+          "code": "241495"
+        },
+        {
+          "name": "Las Nubes",
+          "code": "241498"
+        },
+        {
+          "name": "Las Palomas",
+          "code": "241505"
+        },
+        {
+          "name": "Las Pavas",
+          "code": "241507"
+        },
+        {
+          "name": "Las Pilas",
+          "code": "241516"
+        },
+        {
+          "name": "Las Pozas",
+          "code": "241526"
+        },
+        {
+          "name": "Las Tejas",
+          "code": "241536"
+        },
+        {
+          "name": "Lizarco",
+          "code": "241558"
+        },
+        {
+          "name": "Llano de Las Mesas",
+          "code": "241559"
+        },
+        {
+          "name": "Llano El Boquerón",
+          "code": "241560"
+        },
+        {
+          "name": "Llano Grande",
+          "code": "241564"
+        },
+        {
+          "name": "Los Calpules",
+          "code": "241586"
+        },
+        {
+          "name": "Los Cardones",
+          "code": "241591"
+        },
+        {
+          "name": "Los Guidos",
+          "code": "241609"
+        },
+        {
+          "name": "Los Ojos de Agua",
+          "code": "241629"
+        },
+        {
+          "name": "Los Placeres",
+          "code": "241632"
+        },
+        {
+          "name": "Los Portillos",
+          "code": "241639"
+        },
+        {
+          "name": "Macuelís",
+          "code": "241669"
+        },
+        {
+          "name": "Mal Paso",
+          "code": "241675"
+        },
+        {
+          "name": "Mario Soza",
+          "code": "241686"
+        },
+        {
+          "name": "Matagalpa",
+          "code": "241696"
+        },
+        {
+          "name": "Matasanos",
+          "code": "241698"
+        },
+        {
+          "name": "Matiguás",
+          "code": "241701"
+        },
+        {
+          "name": "Maunica",
+          "code": "241702"
+        },
+        {
+          "name": "Mina Verde",
+          "code": "241716"
+        },
+        {
+          "name": "Molino Norte",
+          "code": "241724"
+        },
+        {
+          "name": "Montaña Grande",
+          "code": "241728"
+        },
+        {
+          "name": "Monte Grande",
+          "code": "241735"
+        },
+        {
+          "name": "Monte Líbano",
+          "code": "241738"
+        },
+        {
+          "name": "Monte Oscuro",
+          "code": "241740"
+        },
+        {
+          "name": "Muy Muy",
+          "code": "241757"
+        },
+        {
+          "name": "Muy Muy Viejo",
+          "code": "241758"
+        },
+        {
+          "name": "Nombre de Jesús",
+          "code": "241776"
+        },
+        {
+          "name": "Obregones",
+          "code": "241781"
+        },
+        {
+          "name": "Ocote de Abajo",
+          "code": "241784"
+        },
+        {
+          "name": "Olama",
+          "code": "241788"
+        },
+        {
+          "name": "Paiwás",
+          "code": "241800"
+        },
+        {
+          "name": "Paiwitas",
+          "code": "241801"
+        },
+        {
+          "name": "Palo Alto",
+          "code": "241808"
+        },
+        {
+          "name": "Pancasán",
+          "code": "241818"
+        },
+        {
+          "name": "Paso de Carreta",
+          "code": "241823"
+        },
+        {
+          "name": "Paso Real",
+          "code": "241830"
+        },
+        {
+          "name": "Payacuca",
+          "code": "241835"
+        },
+        {
+          "name": "Piedra Colorada",
+          "code": "241843"
+        },
+        {
+          "name": "Piedra de Agua",
+          "code": "241844"
+        },
+        {
+          "name": "Piedra Larga",
+          "code": "241845"
+        },
+        {
+          "name": "Pineda",
+          "code": "241849"
+        },
+        {
+          "name": "Portillo del Jícaro",
+          "code": "241859"
+        },
+        {
+          "name": "Potrero Grande",
+          "code": "241867"
+        },
+        {
+          "name": "Puertas Viejas",
+          "code": "241879"
+        },
+        {
+          "name": "Quebrada Honda",
+          "code": "241900"
+        },
+        {
+          "name": "Rancherías",
+          "code": "241914"
+        },
+        {
+          "name": "Río Blanco",
+          "code": "241919"
+        },
+        {
+          "name": "Río Nuevo",
+          "code": "241925"
+        },
+        {
+          "name": "Sabana Grande",
+          "code": "241935"
+        },
+        {
+          "name": "Saíz",
+          "code": "241944"
+        },
+        {
+          "name": "Salónica",
+          "code": "241950"
+        },
+        {
+          "name": "Samulali",
+          "code": "241953"
+        },
+        {
+          "name": "San Andrés",
+          "code": "241960"
+        },
+        {
+          "name": "San Cristóbal",
+          "code": "241997"
+        },
+        {
+          "name": "San Dionisio",
+          "code": "242001"
+        },
+        {
+          "name": "San Esteban",
+          "code": "242008"
+        },
+        {
+          "name": "San Francisco",
+          "code": "242015"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242045"
+        },
+        {
+          "name": "San José",
+          "code": "242061"
+        },
+        {
+          "name": "San José de Umure",
+          "code": "242079"
+        },
+        {
+          "name": "San Juanillo",
+          "code": "242099"
+        },
+        {
+          "name": "San Marcos",
+          "code": "242119"
+        },
+        {
+          "name": "San Miguelito",
+          "code": "242133"
+        },
+        {
+          "name": "San Nicolás",
+          "code": "242137"
+        },
+        {
+          "name": "San Pablo",
+          "code": "242139"
+        },
+        {
+          "name": "San Pedro",
+          "code": "242154"
+        },
+        {
+          "name": "San Rafael",
+          "code": "242161"
+        },
+        {
+          "name": "San Ramón",
+          "code": "242170"
+        },
+        {
+          "name": "San Salvador",
+          "code": "242178"
+        },
+        {
+          "name": "San Simón de Palcila",
+          "code": "242182"
+        },
+        {
+          "name": "Santa Celia",
+          "code": "242211"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242216"
+        },
+        {
+          "name": "Santa Emilia",
+          "code": "242231"
+        },
+        {
+          "name": "Santa Fe",
+          "code": "242239"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "242248"
+        },
+        {
+          "name": "Santa Josefina",
+          "code": "242256"
+        },
+        {
+          "name": "Santa Juana",
+          "code": "242257"
+        },
+        {
+          "name": "Santa Lucía",
+          "code": "242267"
+        },
+        {
+          "name": "Santa María",
+          "code": "242272"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "242292"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "242297"
+        },
+        {
+          "name": "Santa Rosa de Lima",
+          "code": "242304"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "242308"
+        },
+        {
+          "name": "Sébaco",
+          "code": "242336"
+        },
+        {
+          "name": "Sébaco Viejo",
+          "code": "242337"
+        },
+        {
+          "name": "Sonzapote",
+          "code": "242359"
+        },
+        {
+          "name": "Susuli",
+          "code": "242366"
+        },
+        {
+          "name": "Tapasle",
+          "code": "242380"
+        },
+        {
+          "name": "Tejerina",
+          "code": "242394"
+        },
+        {
+          "name": "Terrabona",
+          "code": "242403"
+        },
+        {
+          "name": "Tierra Blanca",
+          "code": "242410"
+        },
+        {
+          "name": "Tierras Blancas",
+          "code": "242415"
+        },
+        {
+          "name": "Tomalapa",
+          "code": "242421"
+        },
+        {
+          "name": "Totumblita",
+          "code": "242431"
+        },
+        {
+          "name": "Upá",
+          "code": "242450"
+        },
+        {
+          "name": "Valle de Trujillo",
+          "code": "242459"
+        },
+        {
+          "name": "Valle El Brasil",
+          "code": "242462"
+        },
+        {
+          "name": "Valle El Charco",
+          "code": "242463"
+        },
+        {
+          "name": "Valle El Nisperal",
+          "code": "242467"
+        },
+        {
+          "name": "Valle El Orégano",
+          "code": "242469"
+        },
+        {
+          "name": "Valle El Tempisque",
+          "code": "242472"
+        },
+        {
+          "name": "Valle Las Calabazas",
+          "code": "242479"
+        },
+        {
+          "name": "Valle San Antonio",
+          "code": "242488"
+        },
+        {
+          "name": "Verapaz",
+          "code": "242509"
+        },
+        {
+          "name": "Villa Nazaret",
+          "code": "242513"
+        },
+        {
+          "name": "Washington",
+          "code": "242529"
+        },
+        {
+          "name": "Waswalí Abajo",
+          "code": "242535"
+        },
+        {
+          "name": "Yasica Norte",
+          "code": "242550"
+        },
+        {
+          "name": "Yasica Sur",
+          "code": "242551"
+        },
+        {
+          "name": "Yaule Abajo",
+          "code": "242552"
+        },
+        {
+          "name": "Yayule",
+          "code": "242553"
+        }
+      ]
+    },
+    {
+      "name": "Nueva Segovia",
+      "code": "481",
+      "cities": [
+        {
+          "name": "Apají",
+          "code": "240323"
+        },
+        {
+          "name": "Apalí",
+          "code": "240324"
+        },
+        {
+          "name": "Buenavista",
+          "code": "240424"
+        },
+        {
+          "name": "Chuslí",
+          "code": "240506"
+        },
+        {
+          "name": "Ciudad Antigua",
+          "code": "240511"
+        },
+        {
+          "name": "Ciudad Sandino",
+          "code": "240513"
+        },
+        {
+          "name": "Dipilto",
+          "code": "240578"
+        },
+        {
+          "name": "Dipilto Viejo",
+          "code": "240579"
+        },
+        {
+          "name": "El Amatillo",
+          "code": "240600"
+        },
+        {
+          "name": "El Arrayán",
+          "code": "240607"
+        },
+        {
+          "name": "El Bálsamo",
+          "code": "240611"
+        },
+        {
+          "name": "El Coyolar",
+          "code": "240712"
+        },
+        {
+          "name": "El Silencio",
+          "code": "240948"
+        },
+        {
+          "name": "El Zapotillal",
+          "code": "241012"
+        },
+        {
+          "name": "Guana",
+          "code": "241053"
+        },
+        {
+          "name": "Hula",
+          "code": "241080"
+        },
+        {
+          "name": "Jalapa",
+          "code": "241097"
+        },
+        {
+          "name": "Jicarito",
+          "code": "241102"
+        },
+        {
+          "name": "La Jumuyca",
+          "code": "241290"
+        },
+        {
+          "name": "La Luz",
+          "code": "241304"
+        },
+        {
+          "name": "La Vigía",
+          "code": "241394"
+        },
+        {
+          "name": "Las Conchitas",
+          "code": "241429"
+        },
+        {
+          "name": "Las Cruces",
+          "code": "241435"
+        },
+        {
+          "name": "Las Manos",
+          "code": "241476"
+        },
+        {
+          "name": "Las Vueltas",
+          "code": "241539"
+        },
+        {
+          "name": "Los Encinos",
+          "code": "241604"
+        },
+        {
+          "name": "Los Planes",
+          "code": "241635"
+        },
+        {
+          "name": "Los Puntalitos",
+          "code": "241644"
+        },
+        {
+          "name": "Los Robles",
+          "code": "241651"
+        },
+        {
+          "name": "Macuelizo",
+          "code": "241670"
+        },
+        {
+          "name": "Mesas Alcayán",
+          "code": "241710"
+        },
+        {
+          "name": "Mozonte",
+          "code": "241749"
+        },
+        {
+          "name": "Murra",
+          "code": "241755"
+        },
+        {
+          "name": "Ococona",
+          "code": "241782"
+        },
+        {
+          "name": "Ocotal",
+          "code": "241783"
+        },
+        {
+          "name": "Oyoto",
+          "code": "241795"
+        },
+        {
+          "name": "Quilalí",
+          "code": "241905"
+        },
+        {
+          "name": "Quisulí",
+          "code": "241909"
+        },
+        {
+          "name": "San Albino",
+          "code": "241956"
+        },
+        {
+          "name": "San Bartolo",
+          "code": "241978"
+        },
+        {
+          "name": "San Fernando",
+          "code": "242013"
+        },
+        {
+          "name": "San José",
+          "code": "242060"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "242198"
+        },
+        {
+          "name": "Santa Bárbara",
+          "code": "242203"
+        },
+        {
+          "name": "Santa Clara",
+          "code": "242212"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "242221"
+        },
+        {
+          "name": "Santa María",
+          "code": "242271"
+        },
+        {
+          "name": "Susucayán",
+          "code": "242365"
+        },
+        {
+          "name": "Tastaslí",
+          "code": "242384"
+        },
+        {
+          "name": "Teotecacinte",
+          "code": "242400"
+        },
+        {
+          "name": "Totecacinte",
+          "code": "242429"
+        },
+        {
+          "name": "Valle Congojas",
+          "code": "242457"
+        },
+        {
+          "name": "Valle El Limón",
+          "code": "242466"
+        },
+        {
+          "name": "Valle El Tamarindo",
+          "code": "242471"
+        },
+        {
+          "name": "Valle Sabana Larga",
+          "code": "242485"
+        },
+        {
+          "name": "Valle San Juan de Sabana Grand",
+          "code": "242492"
+        },
+        {
+          "name": "Wiwilí",
+          "code": "242542"
+        },
+        {
+          "name": "Zapotal",
+          "code": "242559"
+        }
+      ]
+    },
+    {
+      "name": "Región Autónoma Atlántico Sur",
+      "code": "482",
+      "cities": [
+        {
+          "name": "Amerisco",
+          "code": "240319"
+        },
+        {
+          "name": "Arlen Siu",
+          "code": "240338"
+        },
+        {
+          "name": "Atlanta",
+          "code": "240347"
+        },
+        {
+          "name": "Banco Brown Abajo",
+          "code": "240365"
+        },
+        {
+          "name": "Barra del Río Maíz",
+          "code": "240368"
+        },
+        {
+          "name": "Barrera",
+          "code": "240371"
+        },
+        {
+          "name": "Bella Vista",
+          "code": "240389"
+        },
+        {
+          "name": "Bilampí",
+          "code": "240396"
+        },
+        {
+          "name": "Bluefields",
+          "code": "240401"
+        },
+        {
+          "name": "Bocana de Paiwas",
+          "code": "240407"
+        },
+        {
+          "name": "Brown Bank",
+          "code": "240415"
+        },
+        {
+          "name": "Buena Vista",
+          "code": "240419"
+        },
+        {
+          "name": "Buenos Aires",
+          "code": "240428"
+        },
+        {
+          "name": "Cabecera Las Iguanas",
+          "code": "240435"
+        },
+        {
+          "name": "Cabo de Horno",
+          "code": "240436"
+        },
+        {
+          "name": "Caño Mocho",
+          "code": "240465"
+        },
+        {
+          "name": "Cara de Mono",
+          "code": "240466"
+        },
+        {
+          "name": "Casa de Alto",
+          "code": "240474"
+        },
+        {
+          "name": "Cedro Macho",
+          "code": "240490"
+        },
+        {
+          "name": "Chalmeca",
+          "code": "240499"
+        },
+        {
+          "name": "Chicago",
+          "code": "240501"
+        },
+        {
+          "name": "Clemente Canales",
+          "code": "240515"
+        },
+        {
+          "name": "Colonia Verdún",
+          "code": "240528"
+        },
+        {
+          "name": "Comatingny",
+          "code": "240541"
+        },
+        {
+          "name": "Corn Island",
+          "code": "240548"
+        },
+        {
+          "name": "Cukra",
+          "code": "240563"
+        },
+        {
+          "name": "Cuyamel",
+          "code": "240571"
+        },
+        {
+          "name": "El Aparejo",
+          "code": "240604"
+        },
+        {
+          "name": "El Banco",
+          "code": "240616"
+        },
+        {
+          "name": "El Bluff",
+          "code": "240622"
+        },
+        {
+          "name": "El Caimito",
+          "code": "240642"
+        },
+        {
+          "name": "El Chamarro",
+          "code": "240682"
+        },
+        {
+          "name": "El Chilamate",
+          "code": "240686"
+        },
+        {
+          "name": "El Consuelo",
+          "code": "240696"
+        },
+        {
+          "name": "El Coralí",
+          "code": "240699"
+        },
+        {
+          "name": "El Corozo",
+          "code": "240702"
+        },
+        {
+          "name": "El Despacho",
+          "code": "240723"
+        },
+        {
+          "name": "El Encanto",
+          "code": "240734"
+        },
+        {
+          "name": "El Espabel",
+          "code": "240741"
+        },
+        {
+          "name": "El Gallo",
+          "code": "240750"
+        },
+        {
+          "name": "El Lanchón",
+          "code": "240801"
+        },
+        {
+          "name": "El Paraíso",
+          "code": "240862"
+        },
+        {
+          "name": "El Perro",
+          "code": "240875"
+        },
+        {
+          "name": "El Pijibay",
+          "code": "240878"
+        },
+        {
+          "name": "El Recreo",
+          "code": "240913"
+        },
+        {
+          "name": "El Toro",
+          "code": "240977"
+        },
+        {
+          "name": "El Trompillo",
+          "code": "240987"
+        },
+        {
+          "name": "El Venado",
+          "code": "240999"
+        },
+        {
+          "name": "Ermita El Castillo",
+          "code": "241017"
+        },
+        {
+          "name": "Facundo",
+          "code": "241032"
+        },
+        {
+          "name": "Falso Bluff",
+          "code": "241033"
+        },
+        {
+          "name": "Fruta de Pan",
+          "code": "241040"
+        },
+        {
+          "name": "Greenville",
+          "code": "241047"
+        },
+        {
+          "name": "Guadalupe",
+          "code": "241050"
+        },
+        {
+          "name": "Güilique",
+          "code": "241061"
+        },
+        {
+          "name": "Haulover",
+          "code": "241076"
+        },
+        {
+          "name": "Kakabila",
+          "code": "241116"
+        },
+        {
+          "name": "Kama",
+          "code": "241118"
+        },
+        {
+          "name": "Kamusasca",
+          "code": "241120"
+        },
+        {
+          "name": "Kansas City",
+          "code": "241122"
+        },
+        {
+          "name": "Kara",
+          "code": "241123"
+        },
+        {
+          "name": "Karawala",
+          "code": "241125"
+        },
+        {
+          "name": "Kiawás",
+          "code": "241128"
+        },
+        {
+          "name": "Krisimbila",
+          "code": "241139"
+        },
+        {
+          "name": "Kukra Hill",
+          "code": "241146"
+        },
+        {
+          "name": "La Barra",
+          "code": "241167"
+        },
+        {
+          "name": "La Batea",
+          "code": "241170"
+        },
+        {
+          "name": "La Cándida",
+          "code": "241193"
+        },
+        {
+          "name": "La Concha",
+          "code": "241220"
+        },
+        {
+          "name": "La Cruz de Río Grande",
+          "code": "241231"
+        },
+        {
+          "name": "La Esperanza",
+          "code": "241246"
+        },
+        {
+          "name": "La Estrella",
+          "code": "241252"
+        },
+        {
+          "name": "La Fe",
+          "code": "241255"
+        },
+        {
+          "name": "La Florida",
+          "code": "241259"
+        },
+        {
+          "name": "La Gorra",
+          "code": "241269"
+        },
+        {
+          "name": "La Guayaba",
+          "code": "241280"
+        },
+        {
+          "name": "La Plegaria",
+          "code": "241352"
+        },
+        {
+          "name": "La Tortuga",
+          "code": "241378"
+        },
+        {
+          "name": "La Virgen",
+          "code": "241396"
+        },
+        {
+          "name": "Laguna de Perlas",
+          "code": "241404"
+        },
+        {
+          "name": "Larga Vista",
+          "code": "241408"
+        },
+        {
+          "name": "Las Limas",
+          "code": "241471"
+        },
+        {
+          "name": "Las Nubes",
+          "code": "241500"
+        },
+        {
+          "name": "Las Pavas",
+          "code": "241506"
+        },
+        {
+          "name": "Limsiwita",
+          "code": "241552"
+        },
+        {
+          "name": "Linsikita",
+          "code": "241554"
+        },
+        {
+          "name": "Loma de Mico",
+          "code": "241569"
+        },
+        {
+          "name": "Los Ángeles",
+          "code": "241573"
+        },
+        {
+          "name": "Los Leiva",
+          "code": "241613"
+        },
+        {
+          "name": "Los Limones",
+          "code": "241614"
+        },
+        {
+          "name": "Los Solano",
+          "code": "241654"
+        },
+        {
+          "name": "Los Tacanistes",
+          "code": "241655"
+        },
+        {
+          "name": "Mahogany",
+          "code": "241673"
+        },
+        {
+          "name": "Malacaguás",
+          "code": "241676"
+        },
+        {
+          "name": "Mataka",
+          "code": "241697"
+        },
+        {
+          "name": "Monkey Point",
+          "code": "241727"
+        },
+        {
+          "name": "Monte Cristo",
+          "code": "241729"
+        },
+        {
+          "name": "Muelle de los Bueyes",
+          "code": "241750"
+        },
+        {
+          "name": "Muelle Real de Siquia",
+          "code": "241751"
+        },
+        {
+          "name": "Nauawás",
+          "code": "241771"
+        },
+        {
+          "name": "Nueva Guinea",
+          "code": "241777"
+        },
+        {
+          "name": "Nuevo Amanecer",
+          "code": "241778"
+        },
+        {
+          "name": "Orinoco",
+          "code": "241792"
+        },
+        {
+          "name": "Palsagua",
+          "code": "241815"
+        },
+        {
+          "name": "Panamérican",
+          "code": "241817"
+        },
+        {
+          "name": "Pauta Dimon",
+          "code": "241834"
+        },
+        {
+          "name": "Pijibay",
+          "code": "241846"
+        },
+        {
+          "name": "Pijibaye",
+          "code": "241847"
+        },
+        {
+          "name": "Pipilwas",
+          "code": "241850"
+        },
+        {
+          "name": "Poza Redonda",
+          "code": "241870"
+        },
+        {
+          "name": "Presillitas",
+          "code": "241871"
+        },
+        {
+          "name": "Providencia",
+          "code": "241874"
+        },
+        {
+          "name": "Punta Gorda",
+          "code": "241895"
+        },
+        {
+          "name": "Punta Marshall",
+          "code": "241896"
+        },
+        {
+          "name": "Raitipura",
+          "code": "241911"
+        },
+        {
+          "name": "Rama",
+          "code": "241912"
+        },
+        {
+          "name": "Rama Cay",
+          "code": "241913"
+        },
+        {
+          "name": "Salto Grande",
+          "code": "241951"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241966"
+        },
+        {
+          "name": "San Blas",
+          "code": "241983"
+        },
+        {
+          "name": "San Dionisio",
+          "code": "242000"
+        },
+        {
+          "name": "San Francisco",
+          "code": "242014"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242041"
+        },
+        {
+          "name": "San Jerónimo",
+          "code": "242051"
+        },
+        {
+          "name": "San José",
+          "code": "242063"
+        },
+        {
+          "name": "San Juan",
+          "code": "242086"
+        },
+        {
+          "name": "San Martín",
+          "code": "242122"
+        },
+        {
+          "name": "San Nicolás",
+          "code": "242138"
+        },
+        {
+          "name": "Sandy Bay Sirpi",
+          "code": "242191"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "242197"
+        },
+        {
+          "name": "Santa Julia",
+          "code": "242258"
+        },
+        {
+          "name": "Set Net",
+          "code": "242338"
+        },
+        {
+          "name": "Silvandera",
+          "code": "242344"
+        },
+        {
+          "name": "Sinkita",
+          "code": "242345"
+        },
+        {
+          "name": "Siquia",
+          "code": "242347"
+        },
+        {
+          "name": "Sisi",
+          "code": "242348"
+        },
+        {
+          "name": "Soledad",
+          "code": "242356"
+        },
+        {
+          "name": "Tamarín",
+          "code": "242377"
+        },
+        {
+          "name": "Tapales",
+          "code": "242378"
+        },
+        {
+          "name": "Tasbapauni",
+          "code": "242382"
+        },
+        {
+          "name": "Tierra Dorada",
+          "code": "242414"
+        },
+        {
+          "name": "Tumarín",
+          "code": "242439"
+        },
+        {
+          "name": "Walpa",
+          "code": "242523"
+        },
+        {
+          "name": "Wawasang",
+          "code": "242536"
+        }
+      ]
+    },
+    {
+      "name": "Río San Juan",
+      "code": "483",
+      "cities": [
+        {
+          "name": "América",
+          "code": "240317"
+        },
+        {
+          "name": "Boca de Sábalos",
+          "code": "240405"
+        },
+        {
+          "name": "Delta del San Juan",
+          "code": "240575"
+        },
+        {
+          "name": "El Almendro",
+          "code": "240598"
+        },
+        {
+          "name": "El Cairo",
+          "code": "240644"
+        },
+        {
+          "name": "El Castillo de La Concepción",
+          "code": "240674"
+        },
+        {
+          "name": "El Delirio",
+          "code": "240721"
+        },
+        {
+          "name": "El Pedernal",
+          "code": "240871"
+        },
+        {
+          "name": "Fruta de Pan",
+          "code": "241042"
+        },
+        {
+          "name": "La Azucena",
+          "code": "241164"
+        },
+        {
+          "name": "La Fe",
+          "code": "241254"
+        },
+        {
+          "name": "La Flor",
+          "code": "241258"
+        },
+        {
+          "name": "Los Cerritos",
+          "code": "241596"
+        },
+        {
+          "name": "Morrillo",
+          "code": "241746"
+        },
+        {
+          "name": "Morrito",
+          "code": "241747"
+        },
+        {
+          "name": "Palo Verde",
+          "code": "241812"
+        },
+        {
+          "name": "San Carlos",
+          "code": "241988"
+        },
+        {
+          "name": "San Juan del Norte",
+          "code": "242095"
+        },
+        {
+          "name": "San Miguelito",
+          "code": "242131"
+        },
+        {
+          "name": "Valle Guadalupe",
+          "code": "242474"
+        }
+      ]
+    },
+    {
+      "name": "Rivas",
+      "code": "484",
+      "cities": [
+        {
+          "name": "Altagracia",
+          "code": "240309"
+        },
+        {
+          "name": "Amayo",
+          "code": "240315"
+        },
+        {
+          "name": "Apompuá",
+          "code": "240330"
+        },
+        {
+          "name": "Balque",
+          "code": "240364"
+        },
+        {
+          "name": "Barrio de Zaragoza",
+          "code": "240375"
+        },
+        {
+          "name": "Belén",
+          "code": "240387"
+        },
+        {
+          "name": "Berlín",
+          "code": "240393"
+        },
+        {
+          "name": "Brito",
+          "code": "240414"
+        },
+        {
+          "name": "Buenos Aires",
+          "code": "240429"
+        },
+        {
+          "name": "Cañas",
+          "code": "240461"
+        },
+        {
+          "name": "Cañas Gordas",
+          "code": "240462"
+        },
+        {
+          "name": "Cantimplora",
+          "code": "240454"
+        },
+        {
+          "name": "Cárdenas",
+          "code": "240468"
+        },
+        {
+          "name": "Casa Blanca",
+          "code": "240472"
+        },
+        {
+          "name": "Cebadilla",
+          "code": "240489"
+        },
+        {
+          "name": "Chacalapa",
+          "code": "240495"
+        },
+        {
+          "name": "Colón",
+          "code": "240520"
+        },
+        {
+          "name": "Cuascoto",
+          "code": "240556"
+        },
+        {
+          "name": "Cuatro Caminos",
+          "code": "240557"
+        },
+        {
+          "name": "Cuatro Esquinas",
+          "code": "240558"
+        },
+        {
+          "name": "Cuatro Tubos",
+          "code": "240561"
+        },
+        {
+          "name": "El Abejonal",
+          "code": "240587"
+        },
+        {
+          "name": "El Amparo",
+          "code": "240601"
+        },
+        {
+          "name": "El Astillero",
+          "code": "240609"
+        },
+        {
+          "name": "El Caimito",
+          "code": "240643"
+        },
+        {
+          "name": "El Capulín",
+          "code": "240648"
+        },
+        {
+          "name": "El Carmen",
+          "code": "240662"
+        },
+        {
+          "name": "El Coyol",
+          "code": "240707"
+        },
+        {
+          "name": "El Disparate",
+          "code": "240724"
+        },
+        {
+          "name": "El Gigante",
+          "code": "240753"
+        },
+        {
+          "name": "El Higueral",
+          "code": "240777"
+        },
+        {
+          "name": "El Jabillo",
+          "code": "240786"
+        },
+        {
+          "name": "El Jícaro",
+          "code": "240788"
+        },
+        {
+          "name": "El Jocote",
+          "code": "240794"
+        },
+        {
+          "name": "El Limón",
+          "code": "240803"
+        },
+        {
+          "name": "El Limonal",
+          "code": "240806"
+        },
+        {
+          "name": "El Naranjo",
+          "code": "240826"
+        },
+        {
+          "name": "El Ostional",
+          "code": "240842"
+        },
+        {
+          "name": "El Palmar",
+          "code": "240848"
+        },
+        {
+          "name": "El Palmarcito",
+          "code": "240850"
+        },
+        {
+          "name": "El Pegón",
+          "code": "240872"
+        },
+        {
+          "name": "El Perú",
+          "code": "240876"
+        },
+        {
+          "name": "El Pital",
+          "code": "240880"
+        },
+        {
+          "name": "El Plantel",
+          "code": "240884"
+        },
+        {
+          "name": "El Progreso",
+          "code": "240903"
+        },
+        {
+          "name": "El Remate",
+          "code": "240917"
+        },
+        {
+          "name": "El Rosario",
+          "code": "240929"
+        },
+        {
+          "name": "El Sábalo",
+          "code": "240936"
+        },
+        {
+          "name": "El Sapoá",
+          "code": "240944"
+        },
+        {
+          "name": "El Socorro",
+          "code": "240953"
+        },
+        {
+          "name": "El Sucio",
+          "code": "240955"
+        },
+        {
+          "name": "El Tambor",
+          "code": "240964"
+        },
+        {
+          "name": "El Tigre",
+          "code": "240973"
+        },
+        {
+          "name": "El Valle",
+          "code": "240994"
+        },
+        {
+          "name": "El Zapote",
+          "code": "241011"
+        },
+        {
+          "name": "Escalante",
+          "code": "241018"
+        },
+        {
+          "name": "Escameca",
+          "code": "241019"
+        },
+        {
+          "name": "Escamequita",
+          "code": "241020"
+        },
+        {
+          "name": "Esquipulas",
+          "code": "241027"
+        },
+        {
+          "name": "Guastomate",
+          "code": "241060"
+        },
+        {
+          "name": "Güiscoyol",
+          "code": "241065"
+        },
+        {
+          "name": "Jocomico",
+          "code": "241109"
+        },
+        {
+          "name": "La Albina",
+          "code": "241153"
+        },
+        {
+          "name": "La Argentina",
+          "code": "241158"
+        },
+        {
+          "name": "La Boca de La Montaña",
+          "code": "241171"
+        },
+        {
+          "name": "La Bocana",
+          "code": "241172"
+        },
+        {
+          "name": "La Campana",
+          "code": "241192"
+        },
+        {
+          "name": "La Chocolata",
+          "code": "241207"
+        },
+        {
+          "name": "La Concepción",
+          "code": "241218"
+        },
+        {
+          "name": "La Cruz Verde",
+          "code": "241232"
+        },
+        {
+          "name": "La Cuesta",
+          "code": "241233"
+        },
+        {
+          "name": "La Esperanza",
+          "code": "241248"
+        },
+        {
+          "name": "La Flor",
+          "code": "241257"
+        },
+        {
+          "name": "La Galpa",
+          "code": "241265"
+        },
+        {
+          "name": "La Lagarta",
+          "code": "241291"
+        },
+        {
+          "name": "La Leona",
+          "code": "241296"
+        },
+        {
+          "name": "La Montaña",
+          "code": "241315"
+        },
+        {
+          "name": "La Pinganilla",
+          "code": "241341"
+        },
+        {
+          "name": "La Punta",
+          "code": "241360"
+        },
+        {
+          "name": "La Trinidad",
+          "code": "241382"
+        },
+        {
+          "name": "La Victoria",
+          "code": "241392"
+        },
+        {
+          "name": "La Virgen",
+          "code": "241398"
+        },
+        {
+          "name": "Las Cabras",
+          "code": "241416"
+        },
+        {
+          "name": "Las Cañas",
+          "code": "241422"
+        },
+        {
+          "name": "Las Cañas de Arriba",
+          "code": "241423"
+        },
+        {
+          "name": "Las Cuchillas",
+          "code": "241441"
+        },
+        {
+          "name": "Las Delicias",
+          "code": "241444"
+        },
+        {
+          "name": "Las Enramadas",
+          "code": "241450"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "241482"
+        },
+        {
+          "name": "Las Mesas",
+          "code": "241489"
+        },
+        {
+          "name": "Las Piedras",
+          "code": "241513"
+        },
+        {
+          "name": "Las Pilas",
+          "code": "241520"
+        },
+        {
+          "name": "Limón",
+          "code": "241551"
+        },
+        {
+          "name": "Los Ángeles",
+          "code": "241576"
+        },
+        {
+          "name": "Los Viejitos",
+          "code": "241662"
+        },
+        {
+          "name": "Mancarrón",
+          "code": "241681"
+        },
+        {
+          "name": "Mata de Caña",
+          "code": "241693"
+        },
+        {
+          "name": "Mérida",
+          "code": "241708"
+        },
+        {
+          "name": "Monte Verde",
+          "code": "241742"
+        },
+        {
+          "name": "Moyogalpa",
+          "code": "241748"
+        },
+        {
+          "name": "Nacascolo",
+          "code": "241760"
+        },
+        {
+          "name": "Nancimí",
+          "code": "241762"
+        },
+        {
+          "name": "Nancite Dulce",
+          "code": "241764"
+        },
+        {
+          "name": "Nandaime",
+          "code": "241765"
+        },
+        {
+          "name": "Orosí",
+          "code": "241793"
+        },
+        {
+          "name": "Palos Negros",
+          "code": "241813"
+        },
+        {
+          "name": "Pansuaca",
+          "code": "241821"
+        },
+        {
+          "name": "Paso Real de Ochomogo",
+          "code": "241832"
+        },
+        {
+          "name": "Peñas Blancas",
+          "code": "241838"
+        },
+        {
+          "name": "Pica Pica",
+          "code": "241841"
+        },
+        {
+          "name": "Popoyuapa",
+          "code": "241857"
+        },
+        {
+          "name": "Portugal",
+          "code": "241861"
+        },
+        {
+          "name": "Potosí",
+          "code": "241864"
+        },
+        {
+          "name": "Potrerillos",
+          "code": "241865"
+        },
+        {
+          "name": "Poza Azul",
+          "code": "241869"
+        },
+        {
+          "name": "Pueblo Nuevo",
+          "code": "241875"
+        },
+        {
+          "name": "Punta Gorda",
+          "code": "241894"
+        },
+        {
+          "name": "Río Grande",
+          "code": "241921"
+        },
+        {
+          "name": "Rivas",
+          "code": "241928"
+        },
+        {
+          "name": "Sacramento",
+          "code": "241940"
+        },
+        {
+          "name": "Salinas",
+          "code": "241948"
+        },
+        {
+          "name": "San Antonio",
+          "code": "241967"
+        },
+        {
+          "name": "San Emilio",
+          "code": "242003"
+        },
+        {
+          "name": "San Francisco",
+          "code": "242020"
+        },
+        {
+          "name": "San Ignacio",
+          "code": "242035"
+        },
+        {
+          "name": "San Isidro",
+          "code": "242037"
+        },
+        {
+          "name": "San Jerónimo",
+          "code": "242054"
+        },
+        {
+          "name": "San Joaquín",
+          "code": "242057"
+        },
+        {
+          "name": "San Jorge",
+          "code": "242058"
+        },
+        {
+          "name": "San José",
+          "code": "242068"
+        },
+        {
+          "name": "San José del Sur",
+          "code": "242083"
+        },
+        {
+          "name": "San Juan del Sur",
+          "code": "242096"
+        },
+        {
+          "name": "San Juan Viejo",
+          "code": "242097"
+        },
+        {
+          "name": "San Lázaro",
+          "code": "242101"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "242106"
+        },
+        {
+          "name": "San Marcos",
+          "code": "242121"
+        },
+        {
+          "name": "San Martín",
+          "code": "242123"
+        },
+        {
+          "name": "San Miguel",
+          "code": "242130"
+        },
+        {
+          "name": "San Pedro",
+          "code": "242153"
+        },
+        {
+          "name": "San Rafael",
+          "code": "242164"
+        },
+        {
+          "name": "San Ramón",
+          "code": "242174"
+        },
+        {
+          "name": "Sánchez",
+          "code": "242190"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "242201"
+        },
+        {
+          "name": "Santa Bárbara",
+          "code": "242202"
+        },
+        {
+          "name": "Santa Berta",
+          "code": "242207"
+        },
+        {
+          "name": "Santa Clara",
+          "code": "242214"
+        },
+        {
+          "name": "Santa Emilia",
+          "code": "242233"
+        },
+        {
+          "name": "Santa Fe",
+          "code": "242235"
+        },
+        {
+          "name": "Santa Gertrudis",
+          "code": "242242"
+        },
+        {
+          "name": "Santa Justa",
+          "code": "242261"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "242312"
+        },
+        {
+          "name": "Santa Teresita",
+          "code": "242317"
+        },
+        {
+          "name": "Sapoá",
+          "code": "242330"
+        },
+        {
+          "name": "Sardina",
+          "code": "242331"
+        },
+        {
+          "name": "Soledad",
+          "code": "242354"
+        },
+        {
+          "name": "Sotacaballo",
+          "code": "242361"
+        },
+        {
+          "name": "Sucuyá",
+          "code": "242363"
+        },
+        {
+          "name": "Tichaná",
+          "code": "242407"
+        },
+        {
+          "name": "Tierra Blanca",
+          "code": "242411"
+        },
+        {
+          "name": "Tola",
+          "code": "242419"
+        },
+        {
+          "name": "Urbaite",
+          "code": "242452"
+        },
+        {
+          "name": "Veracruz",
+          "code": "242508"
+        },
+        {
+          "name": "Zapotillo",
+          "code": "242560"
+        }
+      ]
+    }
+  ]
+}

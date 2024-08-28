@@ -1,0 +1,71 @@
+{
+  "name": "BELARUS",
+  "code": "9",
+  "provinces": [
+    {
+      "name": "BOBRUYSK",
+      "code": "411",
+      "cities": []
+    },
+    {
+      "name": "BORISOV",
+      "code": "430",
+      "cities": []
+    },
+    {
+      "name": "GOMEL",
+      "code": "1307",
+      "cities": []
+    },
+    {
+      "name": "GRODNO",
+      "code": "1367",
+      "cities": []
+    },
+    {
+      "name": "LIDA",
+      "code": "1969",
+      "cities": []
+    },
+    {
+      "name": "MINSK",
+      "code": "2271",
+      "cities": []
+    },
+    {
+      "name": "MOGILEV",
+      "code": "2286",
+      "cities": []
+    },
+    {
+      "name": "MOZYR",
+      "code": "2345",
+      "cities": []
+    },
+    {
+      "name": "ORSHA",
+      "code": "2589",
+      "cities": []
+    },
+    {
+      "name": "PINSK",
+      "code": "2737",
+      "cities": []
+    },
+    {
+      "name": "POLOTSK",
+      "code": "2774",
+      "cities": []
+    },
+    {
+      "name": "SLUTSK",
+      "code": "3251",
+      "cities": []
+    },
+    {
+      "name": "VITEBSK",
+      "code": "3699",
+      "cities": []
+    }
+  ]
+}

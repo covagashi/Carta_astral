@@ -1,0 +1,31 @@
+{
+  "name": "ANGOLA",
+  "code": "4",
+  "provinces": [
+    {
+      "name": "BENGUELA",
+      "code": "331",
+      "cities": []
+    },
+    {
+      "name": "GANDA",
+      "code": "1245",
+      "cities": []
+    },
+    {
+      "name": "LOBITO",
+      "code": "2002",
+      "cities": []
+    },
+    {
+      "name": "LUANDA",
+      "code": "2042",
+      "cities": []
+    },
+    {
+      "name": "NOVA LISBOA",
+      "code": "2504",
+      "cities": []
+    }
+  ]
+}

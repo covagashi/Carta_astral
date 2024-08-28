@@ -1,0 +1,101 @@
+{
+  "name": "CHINA",
+  "code": "20",
+  "provinces": [
+    {
+      "name": "ANSHAN",
+      "code": "123",
+      "cities": []
+    },
+    {
+      "name": "BEIJING",
+      "code": "299",
+      "cities": []
+    },
+    {
+      "name": "CANTON",
+      "code": "595",
+      "cities": []
+    },
+    {
+      "name": "CHANGCHUN",
+      "code": "670",
+      "cities": []
+    },
+    {
+      "name": "GUANGZHOU",
+      "code": "1375",
+      "cities": []
+    },
+    {
+      "name": "HANGCHOW",
+      "code": "1435",
+      "cities": []
+    },
+    {
+      "name": "HARBIN",
+      "code": "1439",
+      "cities": []
+    },
+    {
+      "name": "HONG KONG",
+      "code": "1539",
+      "cities": []
+    },
+    {
+      "name": "KANTON",
+      "code": "1701",
+      "cities": []
+    },
+    {
+      "name": "KUNMING",
+      "code": "1832",
+      "cities": []
+    },
+    {
+      "name": "LHASA",
+      "code": "1964",
+      "cities": []
+    },
+    {
+      "name": "NANJING",
+      "code": "2386",
+      "cities": []
+    },
+    {
+      "name": "NANJING",
+      "code": "2387",
+      "cities": []
+    },
+    {
+      "name": "SHANGHAI",
+      "code": "3195",
+      "cities": []
+    },
+    {
+      "name": "SHENYANG",
+      "code": "3207",
+      "cities": []
+    },
+    {
+      "name": "SICHUAN",
+      "code": "4047",
+      "cities": []
+    },
+    {
+      "name": "TANGXIAN",
+      "code": "3439",
+      "cities": []
+    },
+    {
+      "name": "TIENTSIN",
+      "code": "3496",
+      "cities": []
+    },
+    {
+      "name": "WUHAN",
+      "code": "3880",
+      "cities": []
+    }
+  ]
+}

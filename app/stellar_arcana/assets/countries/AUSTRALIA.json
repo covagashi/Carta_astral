@@ -1,0 +1,266 @@
+{
+  "name": "AUSTRALIA",
+  "code": "7",
+  "provinces": [
+    {
+      "name": "ADELAIDE",
+      "code": "20",
+      "cities": []
+    },
+    {
+      "name": "ALBURY",
+      "code": "51",
+      "cities": []
+    },
+    {
+      "name": "BALLARAT",
+      "code": "228",
+      "cities": []
+    },
+    {
+      "name": "BENDIGO",
+      "code": "329",
+      "cities": []
+    },
+    {
+      "name": "BLACKTOWN",
+      "code": "395",
+      "cities": []
+    },
+    {
+      "name": "BRIGHTON",
+      "code": "484",
+      "cities": []
+    },
+    {
+      "name": "BRISBANE",
+      "code": "486",
+      "cities": []
+    },
+    {
+      "name": "BROKEN HILL",
+      "code": "496",
+      "cities": []
+    },
+    {
+      "name": "BUNDABERG",
+      "code": "526",
+      "cities": []
+    },
+    {
+      "name": "CAIRNS",
+      "code": "556",
+      "cities": []
+    },
+    {
+      "name": "CAMBELLTOWN",
+      "code": "573",
+      "cities": []
+    },
+    {
+      "name": "CAMBERWELL",
+      "code": "574",
+      "cities": []
+    },
+    {
+      "name": "CANBERRA",
+      "code": "589",
+      "cities": []
+    },
+    {
+      "name": "CAULFIELD",
+      "code": "645",
+      "cities": []
+    },
+    {
+      "name": "CESSNOCK",
+      "code": "662",
+      "cities": []
+    },
+    {
+      "name": "COBURG",
+      "code": "783",
+      "cities": []
+    },
+    {
+      "name": "DANDENONG",
+      "code": "894",
+      "cities": []
+    },
+    {
+      "name": "ELIZABETH",
+      "code": "1066",
+      "cities": []
+    },
+    {
+      "name": "ESSENDON",
+      "code": "1108",
+      "cities": []
+    },
+    {
+      "name": "FOOTSCRAY",
+      "code": "1176",
+      "cities": []
+    },
+    {
+      "name": "FRANKSTON",
+      "code": "1200",
+      "cities": []
+    },
+    {
+      "name": "FREMANTLE",
+      "code": "1212",
+      "cities": []
+    },
+    {
+      "name": "GEELONG",
+      "code": "1263",
+      "cities": []
+    },
+    {
+      "name": "HEILDELBERG",
+      "code": "1480",
+      "cities": []
+    },
+    {
+      "name": "HOBART",
+      "code": "1523",
+      "cities": []
+    },
+    {
+      "name": "HURTSVILLE",
+      "code": "1566",
+      "cities": []
+    },
+    {
+      "name": "IPSWICH",
+      "code": "1598",
+      "cities": []
+    },
+    {
+      "name": "KALGOORLIE",
+      "code": "1683",
+      "cities": []
+    },
+    {
+      "name": "LIVERPOOL",
+      "code": "1996",
+      "cities": []
+    },
+    {
+      "name": "MAITLAND",
+      "code": "2100",
+      "cities": []
+    },
+    {
+      "name": "MARION",
+      "code": "2151",
+      "cities": []
+    },
+    {
+      "name": "MELBOURNE",
+      "code": "2204",
+      "cities": []
+    },
+    {
+      "name": "NEWCASTLE",
+      "code": "2449",
+      "cities": []
+    },
+    {
+      "name": "PARRAMATTA",
+      "code": "2668",
+      "cities": []
+    },
+    {
+      "name": "PENRITH",
+      "code": "2695",
+      "cities": []
+    },
+    {
+      "name": "PERTH",
+      "code": "2707",
+      "cities": []
+    },
+    {
+      "name": "PORT ADELAIDE",
+      "code": "2787",
+      "cities": []
+    },
+    {
+      "name": "RANDWICK",
+      "code": "2888",
+      "cities": []
+    },
+    {
+      "name": "RICHMOND",
+      "code": "2953",
+      "cities": []
+    },
+    {
+      "name": "ROCKDALE",
+      "code": "2981",
+      "cities": []
+    },
+    {
+      "name": "ROCKHAMPTON",
+      "code": "2983",
+      "cities": []
+    },
+    {
+      "name": "RYDE",
+      "code": "3025",
+      "cities": []
+    },
+    {
+      "name": "SAINT KILDA",
+      "code": "3040",
+      "cities": []
+    },
+    {
+      "name": "SYDNEY",
+      "code": "3405",
+      "cities": []
+    },
+    {
+      "name": "TOOWOOMBA",
+      "code": "3522",
+      "cities": []
+    },
+    {
+      "name": "TOWNSVILLE",
+      "code": "3535",
+      "cities": []
+    },
+    {
+      "name": "WAGGA WAGGA",
+      "code": "3720",
+      "cities": []
+    },
+    {
+      "name": "WARWICK",
+      "code": "3749",
+      "cities": []
+    },
+    {
+      "name": "WAVERLY",
+      "code": "3769",
+      "cities": []
+    },
+    {
+      "name": "WILLOUGHBY",
+      "code": "3835",
+      "cities": []
+    },
+    {
+      "name": "WOLLONGONG",
+      "code": "3866",
+      "cities": []
+    },
+    {
+      "name": "YORK",
+      "code": "3906",
+      "cities": []
+    }
+  ]
+}

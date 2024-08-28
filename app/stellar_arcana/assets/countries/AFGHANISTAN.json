@@ -1,0 +1,34 @@
+{
+  "name": "AFGHANISTAN",
+  "code": "1",
+  "provinces": [
+    {
+      "name": "GHAZNI",
+      "code": "1278",
+      "cities": [     
+      ]
+    },
+    {
+      "name": "HERAT",
+      "code": "1493",
+      "cities": [
+        
+      ]
+    },
+    {
+      "name": "KABUL",
+      "code": "1675",
+      "cities": [
+        
+      ]
+    },
+    {
+      "name": "KANDAHAR",
+      "code": "1693",
+      "cities": [
+        
+      ]
+    }   
+  ]
+}
+

@@ -1,0 +1,912 @@
+{
+  "name": "GREAT BRITAIN",
+  "code": "37",
+  "provinces": [
+    {
+      "name": "ALDERSHOT",
+      "code": "55",
+      "cities": [
+        {
+          "name": "ALDERSHOT",
+          "code": "55"
+        },
+        {
+          "name": "ALDRIDGE BROWN.",
+          "code": "56"
+        },
+        {
+          "name": "ALTRINCHAM",
+          "code": "86"
+        },
+        {
+          "name": "ASHTON-U-LYNNE",
+          "code": "171"
+        },
+        {
+          "name": "BANSTEAD",
+          "code": "243"
+        },
+        {
+          "name": "BARKING",
+          "code": "251"
+        },
+        {
+          "name": "BARNET",
+          "code": "252"
+        },
+        {
+          "name": "BARNSLEY",
+          "code": "253"
+        },
+        {
+          "name": "BARROW-FURNESS",
+          "code": "261"
+        },
+        {
+          "name": "BASILDON",
+          "code": "265"
+        },
+        {
+          "name": "BASINGSTOKE",
+          "code": "266"
+        },
+        {
+          "name": "BATH",
+          "code": "273"
+        },
+        {
+          "name": "BATLEY",
+          "code": "276"
+        },
+        {
+          "name": "BEBINGTON",
+          "code": "292"
+        },
+        {
+          "name": "BEDFORD",
+          "code": "295"
+        },
+        {
+          "name": "BEESTON",
+          "code": "298"
+        },
+        {
+          "name": "BEXLEY",
+          "code": "366"
+        },
+        {
+          "name": "BIRKENHEAD",
+          "code": "382"
+        },
+        {
+          "name": "BIRMINGHAM",
+          "code": "383"
+        },
+        {
+          "name": "BLACKBURN",
+          "code": "392"
+        },
+        {
+          "name": "BLACKPOOL",
+          "code": "393"
+        },
+        {
+          "name": "BOLTON",
+          "code": "419"
+        },
+        {
+          "name": "BOOTLE",
+          "code": "425"
+        },
+        {
+          "name": "BOURNEMOUTH",
+          "code": "442"
+        },
+        {
+          "name": "BRADFORD",
+          "code": "448"
+        },
+        {
+          "name": "BRAMHALL",
+          "code": "454"
+        },
+        {
+          "name": "BRENT",
+          "code": "474"
+        },
+        {
+          "name": "BRENTWOOD",
+          "code": "475"
+        },
+        {
+          "name": "BRIGHTON",
+          "code": "481"
+        },
+        {
+          "name": "BRISTOL",
+          "code": "487"
+        },
+        {
+          "name": "BROMLEY",
+          "code": "497"
+        },
+        {
+          "name": "BROWNHILLS",
+          "code": "506"
+        },
+        {
+          "name": "BURNLEY",
+          "code": "539"
+        },
+        {
+          "name": "BURTON",
+          "code": "541"
+        },
+        {
+          "name": "BURTON-U-TRENT",
+          "code": "543"
+        },
+        {
+          "name": "BURY",
+          "code": "544"
+        },
+        {
+          "name": "CAMBORNE",
+          "code": "575"
+        },
+        {
+          "name": "CAMBRIDGE",
+          "code": "576"
+        },
+        {
+          "name": "CAMDON",
+          "code": "581"
+        },
+        {
+          "name": "CANNOCK",
+          "code": "592"
+        },
+        {
+          "name": "CANTERBURY",
+          "code": "594"
+        },
+        {
+          "name": "CARLISLE",
+          "code": "608"
+        },
+        {
+          "name": "CARLTON",
+          "code": "612"
+        },
+        {
+          "name": "CHATHAM",
+          "code": "686"
+        },
+        {
+          "name": "CHEADLE GATLEY",
+          "code": "691"
+        },
+        {
+          "name": "CHELMSFORD",
+          "code": "696"
+        },
+        {
+          "name": "CHELSEA",
+          "code": "698"
+        },
+        {
+          "name": "CHELTENHAM",
+          "code": "700"
+        },
+        {
+          "name": "CHERTSEY",
+          "code": "709"
+        },
+        {
+          "name": "CHESHAM",
+          "code": "711"
+        },
+        {
+          "name": "CHESHUNT",
+          "code": "712"
+        },
+        {
+          "name": "CHESTER",
+          "code": "713"
+        },
+        {
+          "name": "CHESTERFIELD",
+          "code": "716"
+        },
+        {
+          "name": "CHIGWELL",
+          "code": "729"
+        },
+        {
+          "name": "COLCHESTER",
+          "code": "788"
+        },
+        {
+          "name": "CORBY",
+          "code": "831"
+        },
+        {
+          "name": "COVENTRY",
+          "code": "850"
+        },
+        {
+          "name": "CREWE",
+          "code": "862"
+        },
+        {
+          "name": "CROSBY",
+          "code": "863"
+        },
+        {
+          "name": "CROYDON",
+          "code": "865"
+        },
+        {
+          "name": "DARLINGTON",
+          "code": "904"
+        },
+        {
+          "name": "DARTFORD",
+          "code": "907"
+        },
+        {
+          "name": "DERBY",
+          "code": "936"
+        },
+        {
+          "name": "DEWSBURY",
+          "code": "945"
+        },
+        {
+          "name": "DONCASTER",
+          "code": "959"
+        },
+        {
+          "name": "DUDLEY",
+          "code": "984"
+        },
+        {
+          "name": "DURHAM",
+          "code": "1007"
+        },
+        {
+          "name": "EALING",
+          "code": "1015"
+        },
+        {
+          "name": "EASTBOURNE",
+          "code": "1027"
+        },
+        {
+          "name": "EASTLEIGH",
+          "code": "1028"
+        },
+        {
+          "name": "ELLESMERE PORT",
+          "code": "1068"
+        },
+        {
+          "name": "ELY",
+          "code": "1074"
+        },
+        {
+          "name": "ENFIELD",
+          "code": "1083"
+        },
+        {
+          "name": "EPSOM EWELL",
+          "code": "1093"
+        },
+        {
+          "name": "ESHER",
+          "code": "1105"
+        },
+        {
+          "name": "ESTON",
+          "code": "1114"
+        },
+        {
+          "name": "EXETER",
+          "code": "1129"
+        },
+        {
+          "name": "FAREHAM",
+          "code": "1142"
+        },
+        {
+          "name": "FARNBOROUGH",
+          "code": "1147"
+        },
+        {
+          "name": "FELLING",
+          "code": "1155"
+        },
+        {
+          "name": "FOLKESTONE",
+          "code": "1173"
+        },
+        {
+          "name": "GLOUCESTER",
+          "code": "1300"
+        },
+        {
+          "name": "GOSPORT",
+          "code": "1316"
+        },
+        {
+          "name": "GRAVESEND",
+          "code": "1339"
+        },
+        {
+          "name": "GREAT YARMOUTH",
+          "code": "1343"
+        },
+        {
+          "name": "GREENWICH",
+          "code": "1355"
+        },
+        {
+          "name": "GUILDFORD",
+          "code": "1381"
+        },
+        {
+          "name": "HACKNEY",
+          "code": "1398"
+        },
+        {
+          "name": "HALESOWEN",
+          "code": "1409"
+        },
+        {
+          "name": "HALIFAX",
+          "code": "1410"
+        },
+        {
+          "name": "HAMMERSMITH",
+          "code": "1429"
+        },
+        {
+          "name": "HARINGEY",
+          "code": "1440"
+        },
+        {
+          "name": "HARLOW",
+          "code": "1442"
+        },
+        {
+          "name": "HAROGATE",
+          "code": "1443"
+        },
+        {
+          "name": "HARROW",
+          "code": "1449"
+        },
+        {
+          "name": "HARROW",
+          "code": "1450"
+        },
+        {
+          "name": "HASTINGS",
+          "code": "1456"
+        },
+        {
+          "name": "HAVANT",
+          "code": "1464"
+        },
+        {
+          "name": "HAVERING",
+          "code": "1468"
+        },
+        {
+          "name": "HAZEL GROVE",
+          "code": "1473"
+        },
+        {
+          "name": "HEREFORD",
+          "code": "1495"
+        },
+        {
+          "name": "HIGH WYCOMBE",
+          "code": "1507"
+        },
+        {
+          "name": "HILLINGDON",
+          "code": "1514"
+        },
+        {
+          "name": "HINCKLEY",
+          "code": "1518"
+        },
+        {
+          "name": "HOUNSLOW",
+          "code": "1548"
+        },
+        {
+          "name": "HOVE",
+          "code": "1550"
+        },
+        {
+          "name": "HULL",
+          "code": "1556"
+        },
+        {
+          "name": "HUTTON",
+          "code": "1568"
+        },
+        {
+          "name": "IPSWICH",
+          "code": "1597"
+        },
+        {
+          "name": "ISLINGTON",
+          "code": "1612"
+        },
+        {
+          "name": "KENSINGTON",
+          "code": "1741"
+        },
+        {
+          "name": "KETTERING",
+          "code": "1747"
+        },
+        {
+          "name": "KIDDERMINSTER",
+          "code": "1760"
+        },
+        {
+          "name": "KIRKBY",
+          "code": "1774"
+        },
+        {
+          "name": "LAMBETH",
+          "code": "1883"
+        },
+        {
+          "name": "LANCASTER",
+          "code": "1885"
+        },
+        {
+          "name": "LEATHERHEAD",
+          "code": "1917"
+        },
+        {
+          "name": "LEEDS",
+          "code": "1924"
+        },
+        {
+          "name": "LEICESTER",
+          "code": "1929"
+        },
+        {
+          "name": "LEIGH",
+          "code": "1931"
+        },
+        {
+          "name": "LEWISHAM",
+          "code": "1957"
+        },
+        {
+          "name": "LINCOLN",
+          "code": "1983"
+        },
+        {
+          "name": "LIVERPOOL",
+          "code": "1994"
+        },
+        {
+          "name": "LONDON",
+          "code": "2016"
+        },
+        {
+          "name": "LOUGHBOROUGH",
+          "code": "2035"
+        },
+        {
+          "name": "LOWESTOFT",
+          "code": "2041"
+        },
+        {
+          "name": "LUTON",
+          "code": "2063"
+        },
+        {
+          "name": "LYTHAM",
+          "code": "2077"
+        },
+        {
+          "name": "MACCLESFIELD",
+          "code": "2081"
+        },
+        {
+          "name": "MAIDENHEAD",
+          "code": "2097"
+        },
+        {
+          "name": "MAIDSTONE",
+          "code": "2098"
+        },
+        {
+          "name": "MANCHESTER",
+          "code": "2114"
+        },
+        {
+          "name": "MANSFIELD",
+          "code": "2127"
+        },
+        {
+          "name": "MARGATE",
+          "code": "2142"
+        },
+        {
+          "name": "MERTON",
+          "code": "2228"
+        },
+        {
+          "name": "MIDDLETON",
+          "code": "2246"
+        },
+        {
+          "name": "MILTON KEYNES",
+          "code": "2262"
+        },
+        {
+          "name": "NANTWICH",
+          "code": "2391"
+        },
+        {
+          "name": "NEWCASTLE LYME",
+          "code": "2445"
+        },
+        {
+          "name": "NEWCASTLE TYNE",
+          "code": "2446"
+        },
+        {
+          "name": "NEWCASTLE TYNE",
+          "code": "2447"
+        },
+        {
+          "name": "NEWHAM",
+          "code": "2450"
+        },
+        {
+          "name": "NORTHAMPTON",
+          "code": "2494"
+        },
+        {
+          "name": "NORWICH",
+          "code": "2499"
+        },
+        {
+          "name": "NOTTINGHAM",
+          "code": "2503"
+        },
+        {
+          "name": "OLDHAM",
+          "code": "2552"
+        },
+        {
+          "name": "OXFORD",
+          "code": "2610"
+        },
+        {
+          "name": "PETERBOROUGH",
+          "code": "2715"
+        },
+        {
+          "name": "PLYMOUTH",
+          "code": "2766"
+        },
+        {
+          "name": "POOLE",
+          "code": "2782"
+        },
+        {
+          "name": "PORTSMOUTH",
+          "code": "2809"
+        },
+        {
+          "name": "PRESTON",
+          "code": "2829"
+        },
+        {
+          "name": "RAMSGATE",
+          "code": "2882"
+        },
+        {
+          "name": "READING",
+          "code": "2897"
+        },
+        {
+          "name": "REDBRIDGE",
+          "code": "2905"
+        },
+        {
+          "name": "REDCAR",
+          "code": "2906"
+        },
+        {
+          "name": "REDDITCH",
+          "code": "2908"
+        },
+        {
+          "name": "REIGATE",
+          "code": "2919"
+        },
+        {
+          "name": "RICHMOND THAM.",
+          "code": "2948"
+        },
+        {
+          "name": "ROCHDALE",
+          "code": "2973"
+        },
+        {
+          "name": "ROCHESTER",
+          "code": "2975"
+        },
+        {
+          "name": "ROTHERHAM",
+          "code": "3005"
+        },
+        {
+          "name": "RUGBY",
+          "code": "3015"
+        },
+        {
+          "name": "RUNCORN",
+          "code": "3016"
+        },
+        {
+          "name": "SAINT ALBANS",
+          "code": "3037"
+        },
+        {
+          "name": "SALE",
+          "code": "3048"
+        },
+        {
+          "name": "SCARBOROUGH",
+          "code": "3158"
+        },
+        {
+          "name": "SCUNTHORPE",
+          "code": "3174"
+        },
+        {
+          "name": "SHEFFIELD",
+          "code": "3201"
+        },
+        {
+          "name": "SHREWSBURY",
+          "code": "3220"
+        },
+        {
+          "name": "SLOUGH",
+          "code": "3249"
+        },
+        {
+          "name": "SMETHWICK",
+          "code": "3253"
+        },
+        {
+          "name": "SOLIHULL",
+          "code": "3261"
+        },
+        {
+          "name": "SOUTH SHIELDS",
+          "code": "3274"
+        },
+        {
+          "name": "SOUTHAMPTON",
+          "code": "3275"
+        },
+        {
+          "name": "SOUTHEND-ON-SEA",
+          "code": "3276"
+        },
+        {
+          "name": "SOUTHPORT",
+          "code": "3280"
+        },
+        {
+          "name": "SOUTHWARK",
+          "code": "3281"
+        },
+        {
+          "name": "STAFFORD",
+          "code": "3330"
+        },
+        {
+          "name": "STAINES",
+          "code": "3331"
+        },
+        {
+          "name": "STEVENAGE",
+          "code": "3347"
+        },
+        {
+          "name": "STOCKPORT",
+          "code": "3353"
+        },
+        {
+          "name": "STOCKTON TEES",
+          "code": "3354"
+        },
+        {
+          "name": "STOKE-ON-TRENT",
+          "code": "3356"
+        },
+        {
+          "name": "STRETFORD",
+          "code": "3367"
+        },
+        {
+          "name": "SUNBURY THAMES",
+          "code": "3382"
+        },
+        {
+          "name": "SUNDERLAND",
+          "code": "3384"
+        },
+        {
+          "name": "SUTTON",
+          "code": "3396"
+        },
+        {
+          "name": "SUTTON ASHFIELD",
+          "code": "3394"
+        },
+        {
+          "name": "SUTTON COLDFLD.",
+          "code": "3395"
+        },
+        {
+          "name": "SUTTON-AT-HONE",
+          "code": "3397"
+        },
+        {
+          "name": "SWINDON",
+          "code": "3402"
+        },
+        {
+          "name": "TAMWORTH",
+          "code": "3435"
+        },
+        {
+          "name": "TELFORD",
+          "code": "3464"
+        },
+        {
+          "name": "THURROCK",
+          "code": "3494"
+        },
+        {
+          "name": "TORBAY",
+          "code": "3524"
+        },
+        {
+          "name": "TORQUAY",
+          "code": "3527"
+        },
+        {
+          "name": "TOWER HAMLETS",
+          "code": "3534"
+        },
+        {
+          "name": "TUNBRIDGE W.",
+          "code": "3579"
+        },
+        {
+          "name": "TYNEMOUTH",
+          "code": "3595"
+        },
+        {
+          "name": "URMSTON",
+          "code": "3627"
+        },
+        {
+          "name": "WAKEFIELD",
+          "code": "3723"
+        },
+        {
+          "name": "WALLASEY",
+          "code": "3729"
+        },
+        {
+          "name": "WALLSEND",
+          "code": "3730"
+        },
+        {
+          "name": "WALSALL",
+          "code": "3732"
+        },
+        {
+          "name": "WALTHAM FOREST",
+          "code": "3734"
+        },
+        {
+          "name": "WALTON",
+          "code": "3736"
+        },
+        {
+          "name": "WANDSWORTH",
+          "code": "3737"
+        },
+        {
+          "name": "WARLEY",
+          "code": "3741"
+        },
+        {
+          "name": "WARRINGTON",
+          "code": "3747"
+        },
+        {
+          "name": "WATERLOO",
+          "code": "3756"
+        },
+        {
+          "name": "WATFORD",
+          "code": "3763"
+        },
+        {
+          "name": "WELLINGBOROUGH",
+          "code": "3781"
+        },
+        {
+          "name": "WEST BROMWICH",
+          "code": "3788"
+        },
+        {
+          "name": "WEYBRIDGE",
+          "code": "3809"
+        },
+        {
+          "name": "WEYMOUTH",
+          "code": "3811"
+        },
+        {
+          "name": "WIDNES",
+          "code": "3824"
+        },
+        {
+          "name": "WIGAN",
+          "code": "3827"
+        },
+        {
+          "name": "WINCHESTER",
+          "code": "3843"
+        },
+        {
+          "name": "WOKING",
+          "code": "3863"
+        },
+        {
+          "name": "WOLVERHAMPTON",
+          "code": "3867"
+        },
+        {
+          "name": "WORCESTER",
+          "code": "3874"
+        },
+        {
+          "name": "WORSLEY",
+          "code": "3877"
+        },
+        {
+          "name": "WORTHING",
+          "code": "3878"
+        },
+        {
+          "name": "YORK",
+          "code": "3903"
+        }
+      ]
+    }
+  ]
+}

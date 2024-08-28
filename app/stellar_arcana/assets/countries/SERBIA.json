@@ -1,0 +1,51 @@
+{
+  "name": "SERBIA",
+  "code": "95",
+  "provinces": [
+    {
+      "name": "BANJA LUKA",
+      "code": "240",
+      "cities": []
+    },
+    {
+      "name": "BELGRADE",
+      "code": "307",
+      "cities": []
+    },
+    {
+      "name": "BEOGRAD",
+      "code": "340",
+      "cities": []
+    },
+    {
+      "name": "KARLOVAC",
+      "code": "1711",
+      "cities": []
+    },
+    {
+      "name": "NIS",
+      "code": "2472",
+      "cities": []
+    },
+    {
+      "name": "NOVI SAD",
+      "code": "2508",
+      "cities": []
+    },
+    {
+      "name": "SKOPYE",
+      "code": "3246",
+      "cities": []
+    },
+    {
+      "name": "VUKOVAR",
+      "code": "3715",
+      "cities": []
+    },
+    {
+      "name": "ZADAR",
+      "code": "3916",
+      "cities": []
+    }
+  ]
+}

@@ -1,5 +1,8 @@
+// lib/screens/location_screen.dart
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import '../data/location_data.dart';
 
 class Location extends StatefulWidget {
   @override
@@ -7,7 +10,34 @@ class Location extends StatefulWidget {
 }
 
 class _LocationState extends State<Location> {
-  String? selectedLocation;
+  String? selectedCountry;
+  String? selectedCity;
+  List<String> filteredCountries = [];
+  List<String> filteredCities = [];
+
+  @override
+  void initState() {
+    super.initState();
+    filteredCountries = LocationData.getCountryNames();
+  }
+
+  void filterCountries(String query) {
+    setState(() {
+      filteredCountries = LocationData.getCountryNames()
+          .where((country) => country.toLowerCase().contains(query.toLowerCase()))
+          .toList();
+    });
+  }
+
+  void filterCities(String query) {
+    if (selectedCountry == null) return;
+    String countryCode = LocationData.getCountryCodeByName(selectedCountry!)!;
+    setState(() {
+      filteredCities = LocationData.getCitiesForCountry(countryCode)
+          .where((city) => city.toLowerCase().contains(query.toLowerCase()))
+          .toList();
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -47,12 +77,10 @@ class _LocationState extends State<Location> {
             ),
           ),
           SizedBox(height: 40),
-          // Aquí puedes agregar un widget de búsqueda de ubicación
-          // Por ahora, usaremos un simple TextField como placeholder
           TextField(
             style: TextStyle(color: Colors.white),
             decoration: InputDecoration(
-              hintText: 'Buscar ciudad...',
+              hintText: 'Buscar país...',
               hintStyle: TextStyle(color: Colors.white.withOpacity(0.5)),
               filled: true,
               fillColor: Colors.white.withOpacity(0.1),
@@ -61,13 +89,67 @@ class _LocationState extends State<Location> {
                 borderSide: BorderSide.none,
               ),
             ),
-            onChanged: (value) {
-              setState(() {
-                selectedLocation = value;
-              });
-            },
+            onChanged: filterCountries,
           ),
-          // Aquí puedes agregar una lista de resultados de búsqueda
+          SizedBox(height: 20),
+          Expanded(
+            child: ListView.builder(
+              itemCount: filteredCountries.length,
+              itemBuilder: (context, index) {
+                return ListTile(
+                  title: Text(
+                    filteredCountries[index],
+                    style: TextStyle(color: Colors.white),
+                  ),
+                  onTap: () {
+                    setState(() {
+                      selectedCountry = filteredCountries[index];
+                      selectedCity = null;
+                      filteredCities = LocationData.getCitiesForCountry(
+                          LocationData.getCountryCodeByName(selectedCountry!)!);
+                    });
+                  },
+                );
+              },
+            ),
+          ),
+          if (selectedCountry != null) ...[
+            SizedBox(height: 20),
+            TextField(
+              style: TextStyle(color: Colors.white),
+              decoration: InputDecoration(
+                hintText: 'Buscar ciudad...',
+                hintStyle: TextStyle(color: Colors.white.withOpacity(0.5)),
+                filled: true,
+                fillColor: Colors.white.withOpacity(0.1),
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(15),
+                  borderSide: BorderSide.none,
+                ),
+              ),
+              onChanged: filterCities,
+            ),
+            SizedBox(height: 20),
+            Expanded(
+              child: ListView.builder(
+                itemCount: filteredCities.length,
+                itemBuilder: (context, index) {
+                  return ListTile(
+                    title: Text(
+                      filteredCities[index],
+                      style: TextStyle(color: Colors.white),
+                    ),
+                    onTap: () {
+                      setState(() {
+                        selectedCity = filteredCities[index];
+                      });
+                      print('País seleccionado: $selectedCountry, Ciudad seleccionada: $selectedCity');
+                    },
+                  );
+                },
+              ),
+            ),
+          ],
         ],
       ),
     );

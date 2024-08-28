@@ -1,0 +1,7953 @@
+{
+  "countries": [
+    {
+      "name": "ALEMANIA",
+      "code": "36",
+      "provinces": [
+        {
+          "name": "AACHEN",
+          "code": "1",
+          "cities": []
+        },
+        {
+          "name": "AALEN",
+          "code": "2",
+          "cities": []
+        },
+        {
+          "name": "AHLEN",
+          "code": "27",
+          "cities": []
+        },
+        {
+          "name": "AMBERG",
+          "code": "93",
+          "cities": []
+        },
+        {
+          "name": "ANSBACH",
+          "code": "122",
+          "cities": []
+        },
+        {
+          "name": "ASCHAFFENBURG",
+          "code": "165",
+          "cities": []
+        },
+        {
+          "name": "AUGSBURG",
+          "code": "193",
+          "cities": []
+        },
+        {
+          "name": "BAD KREUZNACH",
+          "code": "211",
+          "cities": []
+        },
+        {
+          "name": "BADEN-BADEN",
+          "code": "214",
+          "cities": []
+        },
+        {
+          "name": "BAMBERG",
+          "code": "232",
+          "cities": []
+        },
+        {
+          "name": "BAYREUTH",
+          "code": "283",
+          "cities": []
+        },
+        {
+          "name": "BERGISCH GLAD.",
+          "code": "350",
+          "cities": []
+        },
+        {
+          "name": "BERLIN",
+          "code": "352",
+          "cities": []
+        },
+        {
+          "name": "BERNBURG",
+          "code": "354",
+          "cities": []
+        },
+        {
+          "name": "BIELEFELD",
+          "code": "373",
+          "cities": []
+        },
+        {
+          "name": "BOCHOLT",
+          "code": "413",
+          "cities": []
+        },
+        {
+          "name": "BOCHUM",
+          "code": "414",
+          "cities": []
+        },
+        {
+          "name": "BONN",
+          "code": "424",
+          "cities": []
+        },
+        {
+          "name": "BOTTROP",
+          "code": "434",
+          "cities": []
+        },
+        {
+          "name": "BRANDENBURG",
+          "code": "456",
+          "cities": []
+        },
+        {
+          "name": "BRAUNSCHWEIG",
+          "code": "465",
+          "cities": []
+        },
+        {
+          "name": "BREMEN",
+          "code": "471",
+          "cities": []
+        },
+        {
+          "name": "BREMERHAVEN",
+          "code": "472",
+          "cities": []
+        },
+        {
+          "name": "BRUHL",
+          "code": "511",
+          "cities": []
+        },
+        {
+          "name": "CELLE",
+          "code": "656",
+          "cities": []
+        },
+        {
+          "name": "CHEMNITZ",
+          "code": "702",
+          "cities": []
+        },
+        {
+          "name": "COBURG",
+          "code": "782",
+          "cities": []
+        },
+        {
+          "name": "COLOGNE",
+          "code": "795",
+          "cities": []
+        },
+        {
+          "name": "COTTBUS",
+          "code": "847",
+          "cities": []
+        },
+        {
+          "name": "CUXHAVEN",
+          "code": "883",
+          "cities": []
+        },
+        {
+          "name": "DARMSTADT",
+          "code": "906",
+          "cities": []
+        },
+        {
+          "name": "DELMENHORST",
+          "code": "930",
+          "cities": []
+        },
+        {
+          "name": "DESSAU",
+          "code": "940",
+          "cities": []
+        },
+        {
+          "name": "DORSTSEN",
+          "code": "964",
+          "cities": []
+        },
+        {
+          "name": "DORTMUND",
+          "code": "965",
+          "cities": []
+        },
+        {
+          "name": "DRESDEN",
+          "code": "974",
+          "cities": []
+        },
+        {
+          "name": "DUISBURG",
+          "code": "985",
+          "cities": []
+        },
+        {
+          "name": "DUREN",
+          "code": "1006",
+          "cities": []
+        },
+        {
+          "name": "DUSSELDORF",
+          "code": "1011",
+          "cities": []
+        },
+        {
+          "name": "EISENACH",
+          "code": "1046",
+          "cities": []
+        },
+        {
+          "name": "ELMSHORN",
+          "code": "1072",
+          "cities": []
+        },
+        {
+          "name": "EMDEN",
+          "code": "1079",
+          "cities": []
+        },
+        {
+          "name": "ERFURT",
+          "code": "1096",
+          "cities": []
+        },
+        {
+          "name": "ERLANGEN",
+          "code": "1098",
+          "cities": []
+        },
+        {
+          "name": "ESCHWEILER",
+          "code": "1102",
+          "cities": []
+        },
+        {
+          "name": "ESSEN",
+          "code": "1107",
+          "cities": []
+        },
+        {
+          "name": "ESSLINGEN NEC.",
+          "code": "1112",
+          "cities": []
+        },
+        {
+          "name": "EUSKIRCHEN",
+          "code": "1121",
+          "cities": []
+        },
+        {
+          "name": "FRANKENTHAL",
+          "code": "1194",
+          "cities": []
+        },
+        {
+          "name": "FRANKFURT",
+          "code": "1198",
+          "cities": []
+        },
+        {
+          "name": "FRANKFURT MAIN",
+          "code": "1196",
+          "cities": []
+        },
+        {
+          "name": "FRANKFURT ODER",
+          "code": "1197",
+          "cities": []
+        },
+        {
+          "name": "FREIBERG",
+          "code": "1210",
+          "cities": []
+        },
+        {
+          "name": "FREIBERG",
+          "code": "1211",
+          "cities": []
+        },
+        {
+          "name": "FRIEDRICHSHAFEN",
+          "code": "1220",
+          "cities": []
+        },
+        {
+          "name": "FUIDA",
+          "code": "1225",
+          "cities": []
+        },
+        {
+          "name": "FURTH",
+          "code": "1233",
+          "cities": []
+        },
+        {
+          "name": "GEISENKIRCHEN",
+          "code": "1264",
+          "cities": []
+        },
+        {
+          "name": "GERA",
+          "code": "1272",
+          "cities": []
+        },
+        {
+          "name": "GIEZEN",
+          "code": "1279",
+          "cities": []
+        },
+        {
+          "name": "GOPPINGEN",
+          "code": "1310",
+          "cities": []
+        },
+        {
+          "name": "GORLITZ",
+          "code": "1314",
+          "cities": []
+        },
+        {
+          "name": "GOSLAR",
+          "code": "1315",
+          "cities": []
+        },
+        {
+          "name": "GOTHA",
+          "code": "1318",
+          "cities": []
+        },
+        {
+          "name": "GOTTINGEN",
+          "code": "1319",
+          "cities": []
+        },
+        {
+          "name": "GREIFSWALD",
+          "code": "1360",
+          "cities": []
+        },
+        {
+          "name": "GUMMERSBACH",
+          "code": "1386",
+          "cities": []
+        },
+        {
+          "name": "GUTERSLOH",
+          "code": "1388",
+          "cities": []
+        },
+        {
+          "name": "HAGEN",
+          "code": "1402",
+          "cities": []
+        },
+        {
+          "name": "HALBERSHTADT",
+          "code": "1408",
+          "cities": []
+        },
+        {
+          "name": "HALLE",
+          "code": "1412",
+          "cities": []
+        },
+        {
+          "name": "HAMBURG",
+          "code": "1420",
+          "cities": []
+        },
+        {
+          "name": "HAMELN",
+          "code": "1422",
+          "cities": []
+        },
+        {
+          "name": "HAMM",
+          "code": "1428",
+          "cities": []
+        },
+        {
+          "name": "HANAU",
+          "code": "1433",
+          "cities": []
+        },
+        {
+          "name": "HANNOVER",
+          "code": "1436",
+          "cities": []
+        },
+        {
+          "name": "HEIDELBERG",
+          "code": "1477",
+          "cities": []
+        },
+        {
+          "name": "HEIDENHEIM BRE.",
+          "code": "1478",
+          "cities": []
+        },
+        {
+          "name": "HEILBRONN",
+          "code": "1479",
+          "cities": []
+        },
+        {
+          "name": "HERFORD",
+          "code": "1496",
+          "cities": []
+        },
+        {
+          "name": "HERNE",
+          "code": "1499",
+          "cities": []
+        },
+        {
+          "name": "HILDESHEIM",
+          "code": "1511",
+          "cities": []
+        },
+        {
+          "name": "HOF",
+          "code": "1526",
+          "cities": []
+        },
+        {
+          "name": "INGOLSTADT",
+          "code": "1589",
+          "cities": []
+        },
+        {
+          "name": "ISERLOHN",
+          "code": "1608",
+          "cities": []
+        },
+        {
+          "name": "JENA",
+          "code": "1651",
+          "cities": []
+        },
+        {
+          "name": "KAISERSLAUTERN",
+          "code": "1680",
+          "cities": []
+        },
+        {
+          "name": "KARL MARX SDT.",
+          "code": "1709",
+          "cities": []
+        },
+        {
+          "name": "KARLSRUHE",
+          "code": "1713",
+          "cities": []
+        },
+        {
+          "name": "KASSEL",
+          "code": "1715",
+          "cities": []
+        },
+        {
+          "name": "KAUFBEUREN",
+          "code": "1719",
+          "cities": []
+        },
+        {
+          "name": "KEMPTEN",
+          "code": "1735",
+          "cities": []
+        },
+        {
+          "name": "KIEL",
+          "code": "1761",
+          "cities": []
+        },
+        {
+          "name": "KLEYE",
+          "code": "1789",
+          "cities": []
+        },
+        {
+          "name": "KOBLENZ",
+          "code": "1792",
+          "cities": []
+        },
+        {
+          "name": "KOLN",
+          "code": "1798",
+          "cities": []
+        },
+        {
+          "name": "KONSTANZ",
+          "code": "1803",
+          "cities": []
+        },
+        {
+          "name": "KREFELD",
+          "code": "1821",
+          "cities": []
+        },
+        {
+          "name": "LANDSHUT",
+          "code": "1889",
+          "cities": []
+        },
+        {
+          "name": "LEER",
+          "code": "1925",
+          "cities": []
+        },
+        {
+          "name": "LEIPZIG",
+          "code": "1932",
+          "cities": []
+        },
+        {
+          "name": "LEVERKUSEN",
+          "code": "1953",
+          "cities": []
+        },
+        {
+          "name": "LICHTENBERG",
+          "code": "1968",
+          "cities": []
+        },
+        {
+          "name": "LIPPSTADT",
+          "code": "1988",
+          "cities": []
+        },
+        {
+          "name": "LUBECKE",
+          "code": "2044",
+          "cities": []
+        },
+        {
+          "name": "LUDENSCHEID",
+          "code": "2050",
+          "cities": []
+        },
+        {
+          "name": "LUDWIGSBURG",
+          "code": "2052",
+          "cities": []
+        },
+        {
+          "name": "LUDWIGSHAFFEN",
+          "code": "2053",
+          "cities": []
+        },
+        {
+          "name": "LUNEN",
+          "code": "2061",
+          "cities": []
+        },
+        {
+          "name": "MAGDEBURG",
+          "code": "2094",
+          "cities": []
+        },
+        {
+          "name": "MAINZ",
+          "code": "2099",
+          "cities": []
+        },
+        {
+          "name": "MANNHEIM",
+          "code": "2126",
+          "cities": []
+        },
+        {
+          "name": "MARBURG LAHN",
+          "code": "2140",
+          "cities": []
+        },
+        {
+          "name": "MARL",
+          "code": "2154",
+          "cities": []
+        },
+        {
+          "name": "MEISSEN",
+          "code": "2201",
+          "cities": []
+        },
+        {
+          "name": "MERSBURG",
+          "code": "2227",
+          "cities": []
+        },
+        {
+          "name": "MINDEN",
+          "code": "2266",
+          "cities": []
+        },
+        {
+          "name": "MONCHENGLADBAH",
+          "code": "2290",
+          "cities": []
+        },
+        {
+          "name": "MUHLHAUSEN",
+          "code": "2349",
+          "cities": []
+        },
+        {
+          "name": "MULHEIM RUHR",
+          "code": "2351",
+          "cities": []
+        },
+        {
+          "name": "MUNICH",
+          "code": "2355",
+          "cities": []
+        },
+        {
+          "name": "MUNSTER",
+          "code": "2356",
+          "cities": []
+        },
+        {
+          "name": "NEUMUNSTER",
+          "code": "2416",
+          "cities": []
+        },
+        {
+          "name": "NEUNKIRCHEN",
+          "code": "2417",
+          "cities": []
+        },
+        {
+          "name": "NEUSS",
+          "code": "2418",
+          "cities": []
+        },
+        {
+          "name": "NORDHORN",
+          "code": "2481",
+          "cities": []
+        },
+        {
+          "name": "NURNBURG",
+          "code": "2513",
+          "cities": []
+        },
+        {
+          "name": "OBERHAUSEN",
+          "code": "2529",
+          "cities": []
+        },
+        {
+          "name": "OFFENBACH MAIN",
+          "code": "2538",
+          "cities": []
+        },
+        {
+          "name": "OLDENBURG",
+          "code": "2551",
+          "cities": []
+        },
+        {
+          "name": "OSNABRUCK",
+          "code": "2597",
+          "cities": []
+        },
+        {
+          "name": "PADERBORN",
+          "code": "2622",
+          "cities": []
+        },
+        {
+          "name": "PANKOW",
+          "code": "2643",
+          "cities": []
+        },
+        {
+          "name": "PFORZHEIM",
+          "code": "2719",
+          "cities": []
+        },
+        {
+          "name": "PIRMASENS",
+          "code": "2743",
+          "cities": []
+        },
+        {
+          "name": "PLAUEN",
+          "code": "2759",
+          "cities": []
+        },
+        {
+          "name": "POTSDAM",
+          "code": "2817",
+          "cities": []
+        },
+        {
+          "name": "RATINGEN",
+          "code": "2892",
+          "cities": []
+        },
+        {
+          "name": "RECKLINGHAUSEN",
+          "code": "2902",
+          "cities": []
+        },
+        {
+          "name": "REGENSBURG",
+          "code": "2914",
+          "cities": []
+        },
+        {
+          "name": "REMSCHEID",
+          "code": "2922",
+          "cities": []
+        },
+        {
+          "name": "RENDSBURG",
+          "code": "2923",
+          "cities": []
+        },
+        {
+          "name": "REUTLINGEN",
+          "code": "2933",
+          "cities": []
+        },
+        {
+          "name": "RHEINE",
+          "code": "2938",
+          "cities": []
+        },
+        {
+          "name": "RHEINHAUSEN",
+          "code": "2939",
+          "cities": []
+        },
+        {
+          "name": "RHEYDT",
+          "code": "2940",
+          "cities": []
+        },
+        {
+          "name": "ROSTOK",
+          "code": "3001",
+          "cities": []
+        },
+        {
+          "name": "SAARBRUCKEN",
+          "code": "3028",
+          "cities": []
+        },
+        {
+          "name": "SCHWABISCH GMU.",
+          "code": "3165",
+          "cities": []
+        },
+        {
+          "name": "SCHWABISCH HAL.",
+          "code": "3166",
+          "cities": []
+        },
+        {
+          "name": "SCHWEINFURT",
+          "code": "3168",
+          "cities": []
+        },
+        {
+          "name": "SCHWERIN",
+          "code": "3169",
+          "cities": []
+        },
+        {
+          "name": "SIEGEN",
+          "code": "3225",
+          "cities": []
+        },
+        {
+          "name": "SOEST",
+          "code": "3257",
+          "cities": []
+        },
+        {
+          "name": "SOLINGEN",
+          "code": "3262",
+          "cities": []
+        },
+        {
+          "name": "SPEYER",
+          "code": "3288",
+          "cities": []
+        },
+        {
+          "name": "STADE",
+          "code": "3329",
+          "cities": []
+        },
+        {
+          "name": "STOLBERG",
+          "code": "3357",
+          "cities": []
+        },
+        {
+          "name": "STRALSUND",
+          "code": "3362",
+          "cities": []
+        },
+        {
+          "name": "STRAUBING",
+          "code": "3366",
+          "cities": []
+        },
+        {
+          "name": "STUTTGART",
+          "code": "3370",
+          "cities": []
+        },
+        {
+          "name": "TRIER",
+          "code": "3551",
+          "cities": []
+        },
+        {
+          "name": "TUBINGEN",
+          "code": "3569",
+          "cities": []
+        },
+        {
+          "name": "ULM",
+          "code": "3607",
+          "cities": []
+        },
+        {
+          "name": "VIERSEN",
+          "code": "3681",
+          "cities": []
+        },
+        {
+          "name": "WANNE-EICKEL",
+          "code": "3739",
+          "cities": []
+        },
+        {
+          "name": "WEIDEN",
+          "code": "3774",
+          "cities": []
+        },
+        {
+          "name": "WEIMAR",
+          "code": "3775",
+          "cities": []
+        },
+        {
+          "name": "WEISSENFELS",
+          "code": "3778",
+          "cities": []
+        },
+        {
+          "name": "WESEL",
+          "code": "3785",
+          "cities": []
+        },
+        {
+          "name": "WETZLAR",
+          "code": "3807",
+          "cities": []
+        },
+        {
+          "name": "WIESBADEN",
+          "code": "3826",
+          "cities": []
+        },
+        {
+          "name": "WILHELMSHAVEN",
+          "code": "3829",
+          "cities": []
+        },
+        {
+          "name": "WISMAR",
+          "code": "3858",
+          "cities": []
+        },
+        {
+          "name": "WITTEN",
+          "code": "3859",
+          "cities": []
+        },
+        {
+          "name": "WITTENBERG",
+          "code": "3860",
+          "cities": []
+        },
+        {
+          "name": "WOLFENBUTTEL",
+          "code": "3864",
+          "cities": []
+        },
+        {
+          "name": "WOLFSBURG",
+          "code": "3865",
+          "cities": []
+        },
+        {
+          "name": "WORMS",
+          "code": "3876",
+          "cities": []
+        },
+        {
+          "name": "WUPPERTAL",
+          "code": "3881",
+          "cities": []
+        },
+        {
+          "name": "WURZBURG",
+          "code": "3882",
+          "cities": []
+        },
+        {
+          "name": "ZWICKAU",
+          "code": "3936",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "ANGOLA",
+      "code": "4",
+      "provinces": [
+        {
+          "name": "BENGUELA",
+          "code": "331",
+          "cities": []
+        },
+        {
+          "name": "GANDA",
+          "code": "1245",
+          "cities": []
+        },
+        {
+          "name": "LOBITO",
+          "code": "2002",
+          "cities": []
+        },
+        {
+          "name": "LUANDA",
+          "code": "2042",
+          "cities": []
+        },
+        {
+          "name": "NOVA LISBOA",
+          "code": "2504",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "AUSTRALIA",
+      "code": "7",
+      "provinces": [
+        {
+          "name": "ADELAIDE",
+          "code": "20",
+          "cities": []
+        },
+        {
+          "name": "ALBURY",
+          "code": "51",
+          "cities": []
+        },
+        {
+          "name": "BALLARAT",
+          "code": "228",
+          "cities": []
+        },
+        {
+          "name": "BENDIGO",
+          "code": "329",
+          "cities": []
+        },
+        {
+          "name": "BLACKTOWN",
+          "code": "395",
+          "cities": []
+        },
+        {
+          "name": "BRIGHTON",
+          "code": "484",
+          "cities": []
+        },
+        {
+          "name": "BRISBANE",
+          "code": "486",
+          "cities": []
+        },
+        {
+          "name": "BROKEN HILL",
+          "code": "496",
+          "cities": []
+        },
+        {
+          "name": "BUNDABERG",
+          "code": "526",
+          "cities": []
+        },
+        {
+          "name": "CAIRNS",
+          "code": "556",
+          "cities": []
+        },
+        {
+          "name": "CAMBELLTOWN",
+          "code": "573",
+          "cities": []
+        },
+        {
+          "name": "CAMBERWELL",
+          "code": "574",
+          "cities": []
+        },
+        {
+          "name": "CANBERRA",
+          "code": "589",
+          "cities": []
+        },
+        {
+          "name": "CAULFIELD",
+          "code": "645",
+          "cities": []
+        },
+        {
+          "name": "CESSNOCK",
+          "code": "662",
+          "cities": []
+        },
+        {
+          "name": "COBURG",
+          "code": "783",
+          "cities": []
+        },
+        {
+          "name": "DANDENONG",
+          "code": "894",
+          "cities": []
+        },
+        {
+          "name": "ELIZABETH",
+          "code": "1066",
+          "cities": []
+        },
+        {
+          "name": "ESSENDON",
+          "code": "1108",
+          "cities": []
+        },
+        {
+          "name": "FOOTSCRAY",
+          "code": "1176",
+          "cities": []
+        },
+        {
+          "name": "FRANKSTON",
+          "code": "1200",
+          "cities": []
+        },
+        {
+          "name": "FREMANTLE",
+          "code": "1212",
+          "cities": []
+        },
+        {
+          "name": "GEELONG",
+          "code": "1263",
+          "cities": []
+        },
+        {
+          "name": "HEILDELBERG",
+          "code": "1480",
+          "cities": []
+        },
+        {
+          "name": "HOBART",
+          "code": "1523",
+          "cities": []
+        },
+        {
+          "name": "HURTSVILLE",
+          "code": "1566",
+          "cities": []
+        },
+        {
+          "name": "IPSWICH",
+          "code": "1598",
+          "cities": []
+        },
+        {
+          "name": "KALGOORLIE",
+          "code": "1683",
+          "cities": []
+        },
+        {
+          "name": "LIVERPOOL",
+          "code": "1996",
+          "cities": []
+        },
+        {
+          "name": "MAITLAND",
+          "code": "2100",
+          "cities": []
+        },
+        {
+          "name": "MARION",
+          "code": "2151",
+          "cities": []
+        },
+        {
+          "name": "MELBOURNE",
+          "code": "2204",
+          "cities": []
+        },
+        {
+          "name": "NEWCASTLE",
+          "code": "2449",
+          "cities": []
+        },
+        {
+          "name": "PARRAMATTA",
+          "code": "2668",
+          "cities": []
+        },
+        {
+          "name": "PENRITH",
+          "code": "2695",
+          "cities": []
+        },
+        {
+          "name": "PERTH",
+          "code": "2707",
+          "cities": []
+        },
+        {
+          "name": "PORT ADELAIDE",
+          "code": "2787",
+          "cities": []
+        },
+        {
+          "name": "RANDWICK",
+          "code": "2888",
+          "cities": []
+        },
+        {
+          "name": "RICHMOND",
+          "code": "2953",
+          "cities": []
+        },
+        {
+          "name": "ROCKDALE",
+          "code": "2981",
+          "cities": []
+        },
+        {
+          "name": "ROCKHAMPTON",
+          "code": "2983",
+          "cities": []
+        },
+        {
+          "name": "RYDE",
+          "code": "3025",
+          "cities": []
+        },
+        {
+          "name": "SAINT KILDA",
+          "code": "3040",
+          "cities": []
+        },
+        {
+          "name": "SYDNEY",
+          "code": "3405",
+          "cities": []
+        },
+        {
+          "name": "TOOWOOMBA",
+          "code": "3522",
+          "cities": []
+        },
+        {
+          "name": "TOWNSVILLE",
+          "code": "3535",
+          "cities": []
+        },
+        {
+          "name": "WAGGA WAGGA",
+          "code": "3720",
+          "cities": []
+        },
+        {
+          "name": "WARWICK",
+          "code": "3749",
+          "cities": []
+        },
+        {
+          "name": "WAVERLY",
+          "code": "3769",
+          "cities": []
+        },
+        {
+          "name": "WILLOUGHBY",
+          "code": "3835",
+          "cities": []
+        },
+        {
+          "name": "WOLLONGONG",
+          "code": "3866",
+          "cities": []
+        },
+        {
+          "name": "YORK",
+          "code": "3906",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "AUSTRIA",
+      "code": "8",
+      "provinces": [
+        {
+          "name": "BADEN",
+          "code": "212",
+          "cities": []
+        },
+        {
+          "name": "BERNDORF",
+          "code": "355",
+          "cities": []
+        },
+        {
+          "name": "BISCHOFSHOFEN",
+          "code": "386",
+          "cities": []
+        },
+        {
+          "name": "BLUDENZ",
+          "code": "405",
+          "cities": []
+        },
+        {
+          "name": "BRAUNAU",
+          "code": "464",
+          "cities": []
+        },
+        {
+          "name": "BREGENZ",
+          "code": "470",
+          "cities": []
+        },
+        {
+          "name": "BRUCK",
+          "code": "509",
+          "cities": []
+        },
+        {
+          "name": "DORNBIRN",
+          "code": "963",
+          "cities": []
+        },
+        {
+          "name": "EFERDING",
+          "code": "1042",
+          "cities": []
+        },
+        {
+          "name": "EGGENBURG",
+          "code": "1044",
+          "cities": []
+        },
+        {
+          "name": "ENNS",
+          "code": "1089",
+          "cities": []
+        },
+        {
+          "name": "FELDKIRCH",
+          "code": "1154",
+          "cities": []
+        },
+        {
+          "name": "GRAZ",
+          "code": "1341",
+          "cities": []
+        },
+        {
+          "name": "GREIN",
+          "code": "1361",
+          "cities": []
+        },
+        {
+          "name": "HALLEIN",
+          "code": "1413",
+          "cities": []
+        },
+        {
+          "name": "INNSBRUCK",
+          "code": "1591",
+          "cities": []
+        },
+        {
+          "name": "KAPFENBURG",
+          "code": "1703",
+          "cities": []
+        },
+        {
+          "name": "KLAGENFURT",
+          "code": "1785",
+          "cities": []
+        },
+        {
+          "name": "KLAGENFURT",
+          "code": "1786",
+          "cities": []
+        },
+        {
+          "name": "KREMS",
+          "code": "1824",
+          "cities": []
+        },
+        {
+          "name": "KUFSTEIN",
+          "code": "1829",
+          "cities": []
+        },
+        {
+          "name": "LEOBEN",
+          "code": "1942",
+          "cities": []
+        },
+        {
+          "name": "LIENZ",
+          "code": "1971",
+          "cities": []
+        },
+        {
+          "name": "LIESING",
+          "code": "1973",
+          "cities": []
+        },
+        {
+          "name": "LINZ",
+          "code": "1987",
+          "cities": []
+        },
+        {
+          "name": "PASSAU",
+          "code": "2673",
+          "cities": []
+        },
+        {
+          "name": "RIED",
+          "code": "2958",
+          "cities": []
+        },
+        {
+          "name": "SALZBURG",
+          "code": "3065",
+          "cities": []
+        },
+        {
+          "name": "SCHWAZ",
+          "code": "3167",
+          "cities": []
+        },
+        {
+          "name": "ST. POLTEN",
+          "code": "3325",
+          "cities": []
+        },
+        {
+          "name": "STEYR",
+          "code": "3349",
+          "cities": []
+        },
+        {
+          "name": "TULIN",
+          "code": "3575",
+          "cities": []
+        },
+        {
+          "name": "URFAHR",
+          "code": "3625",
+          "cities": []
+        },
+        {
+          "name": "VIENNA",
+          "code": "3680",
+          "cities": []
+        },
+        {
+          "name": "VILLACH",
+          "code": "3687",
+          "cities": []
+        },
+        {
+          "name": "WEIS",
+          "code": "3777",
+          "cities": []
+        },
+        {
+          "name": "WIENER NEUSTADT",
+          "code": "3825",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "BELARUS",
+      "code": "9",
+      "provinces": [
+        {
+          "name": "BOBRUYSK",
+          "code": "411",
+          "cities": []
+        },
+        {
+          "name": "BORISOV",
+          "code": "430",
+          "cities": []
+        },
+        {
+          "name": "GOMEL",
+          "code": "1307",
+          "cities": []
+        },
+        {
+          "name": "GRODNO",
+          "code": "1367",
+          "cities": []
+        },
+        {
+          "name": "LIDA",
+          "code": "1969",
+          "cities": []
+        },
+        {
+          "name": "MINSK",
+          "code": "2271",
+          "cities": []
+        },
+        {
+          "name": "MOGILEV",
+          "code": "2286",
+          "cities": []
+        },
+        {
+          "name": "MOZYR",
+          "code": "2345",
+          "cities": []
+        },
+        {
+          "name": "ORSHA",
+          "code": "2589",
+          "cities": []
+        },
+        {
+          "name": "PINSK",
+          "code": "2737",
+          "cities": []
+        },
+        {
+          "name": "POLOTSK",
+          "code": "2774",
+          "cities": []
+        },
+        {
+          "name": "SLUTSK",
+          "code": "3251",
+          "cities": []
+        },
+        {
+          "name": "VITEBSK",
+          "code": "3699",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "BELGIUM",
+      "code": "10",
+      "provinces": [
+        {
+          "name": "AALST",
+          "code": "3",
+          "cities": []
+        },
+        {
+          "name": "ANDERLECHT",
+          "code": "109",
+          "cities": []
+        },
+        {
+          "name": "ANTWERP",
+          "code": "133",
+          "cities": []
+        },
+        {
+          "name": "BERCHEM",
+          "code": "342",
+          "cities": []
+        },
+        {
+          "name": "BORGERHOUT",
+          "code": "428",
+          "cities": []
+        },
+        {
+          "name": "BRUGES",
+          "code": "510",
+          "cities": []
+        },
+        {
+          "name": "BRUSSELS",
+          "code": "514",
+          "cities": []
+        },
+        {
+          "name": "CHARLEROIS",
+          "code": "675",
+          "cities": []
+        },
+        {
+          "name": "COURTRAI",
+          "code": "849",
+          "cities": []
+        },
+        {
+          "name": "DEURNE",
+          "code": "942",
+          "cities": []
+        },
+        {
+          "name": "ETTERBEEK",
+          "code": "1116",
+          "cities": []
+        },
+        {
+          "name": "GENT",
+          "code": "1269",
+          "cities": []
+        },
+        {
+          "name": "HASSELT",
+          "code": "1455",
+          "cities": []
+        },
+        {
+          "name": "IXELLES",
+          "code": "1620",
+          "cities": []
+        },
+        {
+          "name": "KORTRIJK",
+          "code": "1809",
+          "cities": []
+        },
+        {
+          "name": "LA LOUVIERE",
+          "code": "1854",
+          "cities": []
+        },
+        {
+          "name": "LEUVEN",
+          "code": "1951",
+          "cities": []
+        },
+        {
+          "name": "LIEGE",
+          "code": "1970",
+          "cities": []
+        },
+        {
+          "name": "LOUVAIN",
+          "code": "2037",
+          "cities": []
+        },
+        {
+          "name": "LUIK",
+          "code": "2057",
+          "cities": []
+        },
+        {
+          "name": "MECHELEN",
+          "code": "2192",
+          "cities": []
+        },
+        {
+          "name": "MERKSEM",
+          "code": "2224",
+          "cities": []
+        },
+        {
+          "name": "OOSTENDE",
+          "code": "2565",
+          "cities": []
+        },
+        {
+          "name": "ROESELARE",
+          "code": "2989",
+          "cities": []
+        },
+        {
+          "name": "SCHAERBEEK",
+          "code": "3160",
+          "cities": []
+        },
+        {
+          "name": "SERAING",
+          "code": "3185",
+          "cities": []
+        },
+        {
+          "name": "SINT-NIKLAAS",
+          "code": "3234",
+          "cities": []
+        },
+        {
+          "name": "TURNHOUT",
+          "code": "3586",
+          "cities": []
+        },
+        {
+          "name": "UCCLE",
+          "code": "3599",
+          "cities": []
+        },
+        {
+          "name": "WILRIJK",
+          "code": "3840",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "BULGARIA",
+      "code": "14",
+      "provinces": [
+        {
+          "name": "Blagóevgrad",
+          "code": "4049",
+          "cities": []
+        },
+        {
+          "name": "BURGAS",
+          "code": "529",
+          "cities": []
+        },
+        {
+          "name": "GABROVO",
+          "code": "1234",
+          "cities": []
+        },
+        {
+          "name": "KAZANIUK",
+          "code": "1726",
+          "cities": []
+        },
+        {
+          "name": "KHASKOVO",
+          "code": "1756",
+          "cities": []
+        },
+        {
+          "name": "PAZARDZHIK",
+          "code": "2683",
+          "cities": []
+        },
+        {
+          "name": "PERNIK",
+          "code": "2703",
+          "cities": []
+        },
+        {
+          "name": "PLEVEN",
+          "code": "2762",
+          "cities": []
+        },
+        {
+          "name": "PLOVDIV",
+          "code": "2765",
+          "cities": []
+        },
+        {
+          "name": "RUSE",
+          "code": "3017",
+          "cities": []
+        },
+        {
+          "name": "SHUMEN",
+          "code": "3222",
+          "cities": []
+        },
+        {
+          "name": "SLIVEN",
+          "code": "3248",
+          "cities": []
+        },
+        {
+          "name": "SOFIA",
+          "code": "3258",
+          "cities": []
+        },
+        {
+          "name": "STARA ZAGORA",
+          "code": "3334",
+          "cities": []
+        },
+        {
+          "name": "VARNA",
+          "code": "3654",
+          "cities": []
+        },
+        {
+          "name": "VRATSA",
+          "code": "3714",
+          "cities": []
+        },
+        {
+          "name": "YAMBOL",
+          "code": "3890",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "BURMA",
+      "code": "15",
+      "provinces": [
+        {
+          "name": "BASSEIN",
+          "code": "268",
+          "cities": []
+        },
+        {
+          "name": "HENZADA",
+          "code": "1492",
+          "cities": []
+        },
+        {
+          "name": "MANDALAY",
+          "code": "2117",
+          "cities": []
+        },
+        {
+          "name": "MOULMEIN",
+          "code": "2339",
+          "cities": []
+        },
+        {
+          "name": "RANGOON",
+          "code": "2889",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "CANADA",
+      "code": "17",
+      "provinces": [
+        {
+          "name": "ALBERTON",
+          "code": "48",
+          "cities": []
+        },
+        {
+          "name": "ALMA",
+          "code": "76",
+          "cities": []
+        },
+        {
+          "name": "AMHERST",
+          "code": "97",
+          "cities": []
+        },
+        {
+          "name": "ANJOU",
+          "code": "116",
+          "cities": []
+        },
+        {
+          "name": "ANTIGONISH",
+          "code": "127",
+          "cities": []
+        },
+        {
+          "name": "ARVIDA",
+          "code": "160",
+          "cities": []
+        },
+        {
+          "name": "ASBESTOS",
+          "code": "163",
+          "cities": []
+        },
+        {
+          "name": "ASSINIBOIA",
+          "code": "174",
+          "cities": []
+        },
+        {
+          "name": "AURORA",
+          "code": "198",
+          "cities": []
+        },
+        {
+          "name": "BAIE-COMEAU",
+          "code": "220",
+          "cities": []
+        },
+        {
+          "name": "BARRIE",
+          "code": "259",
+          "cities": []
+        },
+        {
+          "name": "BATHURST",
+          "code": "275",
+          "cities": []
+        },
+        {
+          "name": "BEACONSFIELD",
+          "code": "286",
+          "cities": []
+        },
+        {
+          "name": "BELLEVILLE",
+          "code": "314",
+          "cities": []
+        },
+        {
+          "name": "BELOEIL",
+          "code": "324",
+          "cities": []
+        },
+        {
+          "name": "BLAINVILLE",
+          "code": "397",
+          "cities": []
+        },
+        {
+          "name": "BONAVISTA",
+          "code": "422",
+          "cities": []
+        },
+        {
+          "name": "BOTWOOD",
+          "code": "435",
+          "cities": []
+        },
+        {
+          "name": "BOUCHERVILLE",
+          "code": "436",
+          "cities": []
+        },
+        {
+          "name": "BRAMPTON",
+          "code": "455",
+          "cities": []
+        },
+        {
+          "name": "BRANDON",
+          "code": "458",
+          "cities": []
+        },
+        {
+          "name": "BRANTFORD",
+          "code": "460",
+          "cities": []
+        },
+        {
+          "name": "BROCKVILLE",
+          "code": "494",
+          "cities": []
+        },
+        {
+          "name": "BROSSARD",
+          "code": "505",
+          "cities": []
+        },
+        {
+          "name": "BURLINGTON",
+          "code": "536",
+          "cities": []
+        },
+        {
+          "name": "BURNABY",
+          "code": "538",
+          "cities": []
+        },
+        {
+          "name": "CALEDON",
+          "code": "563",
+          "cities": []
+        },
+        {
+          "name": "CALGARY",
+          "code": "565",
+          "cities": []
+        },
+        {
+          "name": "CAMPBELLTON",
+          "code": "583",
+          "cities": []
+        },
+        {
+          "name": "CAMROSE",
+          "code": "588",
+          "cities": []
+        },
+        {
+          "name": "CARBONEAR",
+          "code": "605",
+          "cities": []
+        },
+        {
+          "name": "CHAMBLY",
+          "code": "666",
+          "cities": []
+        },
+        {
+          "name": "CHARLEMAGNE",
+          "code": "673",
+          "cities": []
+        },
+        {
+          "name": "CHARLESBOURG",
+          "code": "676",
+          "cities": []
+        },
+        {
+          "name": "CHARLOTTETOWN",
+          "code": "682",
+          "cities": []
+        },
+        {
+          "name": "CHATEAUGUAY",
+          "code": "684",
+          "cities": []
+        },
+        {
+          "name": "CHATHAM",
+          "code": "688",
+          "cities": []
+        },
+        {
+          "name": "CHATHAM",
+          "code": "689",
+          "cities": []
+        },
+        {
+          "name": "CHICOUTIMI",
+          "code": "727",
+          "cities": []
+        },
+        {
+          "name": "CHILLIWHACK",
+          "code": "733",
+          "cities": []
+        },
+        {
+          "name": "COQUITLAM",
+          "code": "827",
+          "cities": []
+        },
+        {
+          "name": "CORNER BROOK",
+          "code": "836",
+          "cities": []
+        },
+        {
+          "name": "CORNWALL",
+          "code": "837",
+          "cities": []
+        },
+        {
+          "name": "COWANSVILLE",
+          "code": "854",
+          "cities": []
+        },
+        {
+          "name": "DALHOUSIE",
+          "code": "887",
+          "cities": []
+        },
+        {
+          "name": "DARTMOUTH",
+          "code": "908",
+          "cities": []
+        },
+        {
+          "name": "DAUPHIN",
+          "code": "910",
+          "cities": []
+        },
+        {
+          "name": "DEER LAKE",
+          "code": "924",
+          "cities": []
+        },
+        {
+          "name": "DIEPPE",
+          "code": "948",
+          "cities": []
+        },
+        {
+          "name": "DOLLARD D.O.",
+          "code": "956",
+          "cities": []
+        },
+        {
+          "name": "DRUMHELLER",
+          "code": "977",
+          "cities": []
+        },
+        {
+          "name": "DRUMMONDVILLE",
+          "code": "978",
+          "cities": []
+        },
+        {
+          "name": "DUNDAS",
+          "code": "995",
+          "cities": []
+        },
+        {
+          "name": "E.KILDONAN",
+          "code": "1014",
+          "cities": []
+        },
+        {
+          "name": "EDMONTON",
+          "code": "1040",
+          "cities": []
+        },
+        {
+          "name": "EDMUNDSTON",
+          "code": "1041",
+          "cities": []
+        },
+        {
+          "name": "ESTEVAN",
+          "code": "1113",
+          "cities": []
+        },
+        {
+          "name": "FLIN FLON",
+          "code": "1164",
+          "cities": []
+        },
+        {
+          "name": "FORT ERIE",
+          "code": "1182",
+          "cities": []
+        },
+        {
+          "name": "FREDERICTON",
+          "code": "1204",
+          "cities": []
+        },
+        {
+          "name": "FT. GARRY",
+          "code": "1221",
+          "cities": []
+        },
+        {
+          "name": "FT. MCMURRAY",
+          "code": "1223",
+          "cities": []
+        },
+        {
+          "name": "FT. SASKATCHEWAN",
+          "code": "1224",
+          "cities": []
+        },
+        {
+          "name": "GANDER",
+          "code": "1246",
+          "cities": []
+        },
+        {
+          "name": "GASPE",
+          "code": "1255",
+          "cities": []
+        },
+        {
+          "name": "GATINEAU",
+          "code": "1257",
+          "cities": []
+        },
+        {
+          "name": "GEORGETOWN",
+          "code": "1271",
+          "cities": []
+        },
+        {
+          "name": "GIFFARD",
+          "code": "1280",
+          "cities": []
+        },
+        {
+          "name": "GLACE BAY",
+          "code": "1286",
+          "cities": []
+        },
+        {
+          "name": "GRANBY",
+          "code": "1324",
+          "cities": []
+        },
+        {
+          "name": "GRAND FALLS",
+          "code": "1325",
+          "cities": []
+        },
+        {
+          "name": "GRAND FALLS",
+          "code": "1326",
+          "cities": []
+        },
+        {
+          "name": "GRAND MERE",
+          "code": "1330",
+          "cities": []
+        },
+        {
+          "name": "GRAND PRAIRIE",
+          "code": "1331",
+          "cities": []
+        },
+        {
+          "name": "GRIMSBY",
+          "code": "1366",
+          "cities": []
+        },
+        {
+          "name": "GUELPH",
+          "code": "1380",
+          "cities": []
+        },
+        {
+          "name": "HALIFAX",
+          "code": "1411",
+          "cities": []
+        },
+        {
+          "name": "HAMILTON",
+          "code": "1426",
+          "cities": []
+        },
+        {
+          "name": "HAUTERIVE",
+          "code": "1462",
+          "cities": []
+        },
+        {
+          "name": "HAWKESBURY",
+          "code": "1470",
+          "cities": []
+        },
+        {
+          "name": "HINTON",
+          "code": "1520",
+          "cities": []
+        },
+        {
+          "name": "HULL",
+          "code": "1557",
+          "cities": []
+        },
+        {
+          "name": "JOLIETTE",
+          "code": "1663",
+          "cities": []
+        },
+        {
+          "name": "JONQUIERE",
+          "code": "1665",
+          "cities": []
+        },
+        {
+          "name": "KAMLOOPS",
+          "code": "1691",
+          "cities": []
+        },
+        {
+          "name": "KELOWNA",
+          "code": "1734",
+          "cities": []
+        },
+        {
+          "name": "KINGSTON",
+          "code": "1769",
+          "cities": []
+        },
+        {
+          "name": "KITCHENER",
+          "code": "1784",
+          "cities": []
+        },
+        {
+          "name": "LA TUQUE",
+          "code": "1863",
+          "cities": []
+        },
+        {
+          "name": "LACHINE",
+          "code": "1865",
+          "cities": []
+        },
+        {
+          "name": "LACHUTE",
+          "code": "1866",
+          "cities": []
+        },
+        {
+          "name": "LADYSMITH",
+          "code": "1867",
+          "cities": []
+        },
+        {
+          "name": "LANGLEY",
+          "code": "1890",
+          "cities": []
+        },
+        {
+          "name": "LAUZON",
+          "code": "1905",
+          "cities": []
+        },
+        {
+          "name": "LAVAL ILE JESUS",
+          "code": "1906",
+          "cities": []
+        },
+        {
+          "name": "LAVAL NICOLET",
+          "code": "1907",
+          "cities": []
+        },
+        {
+          "name": "LENNOXVILLE",
+          "code": "1939",
+          "cities": []
+        },
+        {
+          "name": "LETHBRIDGE",
+          "code": "1950",
+          "cities": []
+        },
+        {
+          "name": "LEVIS",
+          "code": "1955",
+          "cities": []
+        },
+        {
+          "name": "LINCOLN",
+          "code": "1985",
+          "cities": []
+        },
+        {
+          "name": "LIVERPOOL",
+          "code": "1995",
+          "cities": []
+        },
+        {
+          "name": "LLYODMINSTER",
+          "code": "2001",
+          "cities": []
+        },
+        {
+          "name": "LONDON",
+          "code": "2017",
+          "cities": []
+        },
+        {
+          "name": "LUNENBURG",
+          "code": "2062",
+          "cities": []
+        },
+        {
+          "name": "MAGOG",
+          "code": "2096",
+          "cities": []
+        },
+        {
+          "name": "MARKHAM",
+          "code": "2153",
+          "cities": []
+        },
+        {
+          "name": "MARYSTOWN",
+          "code": "2164",
+          "cities": []
+        },
+        {
+          "name": "MATANE",
+          "code": "2172",
+          "cities": []
+        },
+        {
+          "name": "MEDECINE HAT",
+          "code": "2194",
+          "cities": []
+        },
+        {
+          "name": "MELFORT",
+          "code": "2205",
+          "cities": []
+        },
+        {
+          "name": "MELVILLE",
+          "code": "2209",
+          "cities": []
+        },
+        {
+          "name": "MISSISSAUGA",
+          "code": "2276",
+          "cities": []
+        },
+        {
+          "name": "MONCTON",
+          "code": "2291",
+          "cities": []
+        },
+        {
+          "name": "MONTAGUE",
+          "code": "2297",
+          "cities": []
+        },
+        {
+          "name": "MONTMAGNY",
+          "code": "2308",
+          "cities": []
+        },
+        {
+          "name": "MONTREAL",
+          "code": "2311",
+          "cities": []
+        },
+        {
+          "name": "MOOSEJAW",
+          "code": "2318",
+          "cities": []
+        },
+        {
+          "name": "N.BATTLEFORD",
+          "code": "2368",
+          "cities": []
+        },
+        {
+          "name": "NANAIMO",
+          "code": "2384",
+          "cities": []
+        },
+        {
+          "name": "NEW GLASGOW",
+          "code": "2428",
+          "cities": []
+        },
+        {
+          "name": "NEW WATERFORD",
+          "code": "2436",
+          "cities": []
+        },
+        {
+          "name": "NEW WESTMINSTER",
+          "code": "2437",
+          "cities": []
+        },
+        {
+          "name": "NEWCASTLE",
+          "code": "2448",
+          "cities": []
+        },
+        {
+          "name": "NIAGARA FALLS",
+          "code": "2463",
+          "cities": []
+        },
+        {
+          "name": "NORTH BAY",
+          "code": "2488",
+          "cities": []
+        },
+        {
+          "name": "NORTH SYDNEY",
+          "code": "2493",
+          "cities": []
+        },
+        {
+          "name": "OAK BAY",
+          "code": "2517",
+          "cities": []
+        },
+        {
+          "name": "OAKVILLE",
+          "code": "2527",
+          "cities": []
+        },
+        {
+          "name": "ORILLIA",
+          "code": "2581",
+          "cities": []
+        },
+        {
+          "name": "OSHAWA",
+          "code": "2592",
+          "cities": []
+        },
+        {
+          "name": "OTTAWA",
+          "code": "2602",
+          "cities": []
+        },
+        {
+          "name": "OWEN SOUND",
+          "code": "2608",
+          "cities": []
+        },
+        {
+          "name": "PARKDALE",
+          "code": "2660",
+          "cities": []
+        },
+        {
+          "name": "PEACE RIVER",
+          "code": "2685",
+          "cities": []
+        },
+        {
+          "name": "PEMBROKE",
+          "code": "2691",
+          "cities": []
+        },
+        {
+          "name": "PENTICTON",
+          "code": "2697",
+          "cities": []
+        },
+        {
+          "name": "PETERBOROUGH",
+          "code": "2716",
+          "cities": []
+        },
+        {
+          "name": "PICTOU",
+          "code": "2728",
+          "cities": []
+        },
+        {
+          "name": "PIERREFONDS",
+          "code": "2729",
+          "cities": []
+        },
+        {
+          "name": "POINTE CLAIRE",
+          "code": "2772",
+          "cities": []
+        },
+        {
+          "name": "PORT ALBERNI",
+          "code": "2788",
+          "cities": []
+        },
+        {
+          "name": "PORT COLBORNE",
+          "code": "2792",
+          "cities": []
+        },
+        {
+          "name": "PORT COQUITLAM",
+          "code": "2793",
+          "cities": []
+        },
+        {
+          "name": "PORT HAWKESBURY",
+          "code": "2796",
+          "cities": []
+        },
+        {
+          "name": "PORTAGE L.",
+          "code": "2801",
+          "cities": []
+        },
+        {
+          "name": "PRINCE ALBERT",
+          "code": "2833",
+          "cities": []
+        },
+        {
+          "name": "PRINCE GEORGE",
+          "code": "2834",
+          "cities": []
+        },
+        {
+          "name": "PRINCE RUPERT",
+          "code": "2835",
+          "cities": []
+        },
+        {
+          "name": "PTE.A.TREMBLES",
+          "code": "2840",
+          "cities": []
+        },
+        {
+          "name": "QUEBEC",
+          "code": "2859",
+          "cities": []
+        },
+        {
+          "name": "RED DEER",
+          "code": "2904",
+          "cities": []
+        },
+        {
+          "name": "REGINA",
+          "code": "2917",
+          "cities": []
+        },
+        {
+          "name": "REPENTIGNY",
+          "code": "2927",
+          "cities": []
+        },
+        {
+          "name": "RICHMOND",
+          "code": "2949",
+          "cities": []
+        },
+        {
+          "name": "RICHMOND HILL",
+          "code": "2947",
+          "cities": []
+        },
+        {
+          "name": "RIMOUSKI",
+          "code": "2963",
+          "cities": []
+        },
+        {
+          "name": "RIVIERE-DU-LOUP",
+          "code": "2970",
+          "cities": []
+        },
+        {
+          "name": "SAANICH",
+          "code": "3027",
+          "cities": []
+        },
+        {
+          "name": "SACKVILLE",
+          "code": "3030",
+          "cities": []
+        },
+        {
+          "name": "SAINT ALBERT",
+          "code": "3038",
+          "cities": []
+        },
+        {
+          "name": "SAINT JOHN",
+          "code": "3039",
+          "cities": []
+        },
+        {
+          "name": "SAINTE FOY",
+          "code": "3044",
+          "cities": []
+        },
+        {
+          "name": "SARNIA",
+          "code": "3147",
+          "cities": []
+        },
+        {
+          "name": "SASKATOON",
+          "code": "3149",
+          "cities": []
+        },
+        {
+          "name": "SAULT ST. MARIE",
+          "code": "3152",
+          "cities": []
+        },
+        {
+          "name": "SCARBOROUGH",
+          "code": "3159",
+          "cities": []
+        },
+        {
+          "name": "SELKIRK",
+          "code": "3180",
+          "cities": []
+        },
+        {
+          "name": "SHAWINIGAN",
+          "code": "3197",
+          "cities": []
+        },
+        {
+          "name": "SHERBROOKE",
+          "code": "3209",
+          "cities": []
+        },
+        {
+          "name": "SHERWOOD",
+          "code": "3213",
+          "cities": []
+        },
+        {
+          "name": "SHERWOOD PARK",
+          "code": "3212",
+          "cities": []
+        },
+        {
+          "name": "SOREL",
+          "code": "3268",
+          "cities": []
+        },
+        {
+          "name": "SPRINGHILL",
+          "code": "3301",
+          "cities": []
+        },
+        {
+          "name": "ST. BONIFACE",
+          "code": "3307",
+          "cities": []
+        },
+        {
+          "name": "ST. CATHERINES",
+          "code": "3309",
+          "cities": []
+        },
+        {
+          "name": "ST. HUBERT",
+          "code": "3313",
+          "cities": []
+        },
+        {
+          "name": "ST. HYACINTHE",
+          "code": "3314",
+          "cities": []
+        },
+        {
+          "name": "ST. JAMES",
+          "code": "3315",
+          "cities": []
+        },
+        {
+          "name": "ST. JEAN",
+          "code": "3316",
+          "cities": []
+        },
+        {
+          "name": "ST. JEROME",
+          "code": "3317",
+          "cities": []
+        },
+        {
+          "name": "ST. JOHN'S",
+          "code": "3318",
+          "cities": []
+        },
+        {
+          "name": "ST. THOMAS",
+          "code": "3326",
+          "cities": []
+        },
+        {
+          "name": "ST. VITAL",
+          "code": "3327",
+          "cities": []
+        },
+        {
+          "name": "STE. THERESE",
+          "code": "3340",
+          "cities": []
+        },
+        {
+          "name": "STEINBACH",
+          "code": "3341",
+          "cities": []
+        },
+        {
+          "name": "STELLARTON",
+          "code": "3342",
+          "cities": []
+        },
+        {
+          "name": "STEPHENVILLE",
+          "code": "3343",
+          "cities": []
+        },
+        {
+          "name": "STRATFORD",
+          "code": "3365",
+          "cities": []
+        },
+        {
+          "name": "SUDBURY",
+          "code": "3372",
+          "cities": []
+        },
+        {
+          "name": "SUMMERSIDE",
+          "code": "3379",
+          "cities": []
+        },
+        {
+          "name": "SURREY",
+          "code": "3393",
+          "cities": []
+        },
+        {
+          "name": "SWIFT CURRENT",
+          "code": "3401",
+          "cities": []
+        },
+        {
+          "name": "SYDNEY",
+          "code": "3404",
+          "cities": []
+        },
+        {
+          "name": "SYDNEY MINES",
+          "code": "3403",
+          "cities": []
+        },
+        {
+          "name": "TABER",
+          "code": "3417",
+          "cities": []
+        },
+        {
+          "name": "THE PAS",
+          "code": "3482",
+          "cities": []
+        },
+        {
+          "name": "THETFORD MINES",
+          "code": "3485",
+          "cities": []
+        },
+        {
+          "name": "THOMPSON",
+          "code": "3488",
+          "cities": []
+        },
+        {
+          "name": "THOROLD",
+          "code": "3490",
+          "cities": []
+        },
+        {
+          "name": "THUNDERBAY",
+          "code": "3493",
+          "cities": []
+        },
+        {
+          "name": "TIMMINS",
+          "code": "3502",
+          "cities": []
+        },
+        {
+          "name": "TORONTO",
+          "code": "3526",
+          "cities": []
+        },
+        {
+          "name": "TRANSCOMA",
+          "code": "3543",
+          "cities": []
+        },
+        {
+          "name": "TRENTON",
+          "code": "3548",
+          "cities": []
+        },
+        {
+          "name": "TRENTON",
+          "code": "3549",
+          "cities": []
+        },
+        {
+          "name": "TROIS RIVIERES",
+          "code": "3560",
+          "cities": []
+        },
+        {
+          "name": "TRURO",
+          "code": "3567",
+          "cities": []
+        },
+        {
+          "name": "VALLEYFIELD",
+          "code": "3646",
+          "cities": []
+        },
+        {
+          "name": "VANCOUVER",
+          "code": "3648",
+          "cities": []
+        },
+        {
+          "name": "VANIER",
+          "code": "3650",
+          "cities": []
+        },
+        {
+          "name": "VAUGHAN",
+          "code": "3657",
+          "cities": []
+        },
+        {
+          "name": "VICTORIA",
+          "code": "3677",
+          "cities": []
+        },
+        {
+          "name": "VICTORIAVILLE",
+          "code": "3679",
+          "cities": []
+        },
+        {
+          "name": "W.KILDONAN",
+          "code": "3717",
+          "cities": []
+        },
+        {
+          "name": "WALLACEBURG",
+          "code": "3728",
+          "cities": []
+        },
+        {
+          "name": "WATERLOO",
+          "code": "3758",
+          "cities": []
+        },
+        {
+          "name": "WELLAND",
+          "code": "3779",
+          "cities": []
+        },
+        {
+          "name": "WETASKIWIN",
+          "code": "3806",
+          "cities": []
+        },
+        {
+          "name": "WEYBURN",
+          "code": "3810",
+          "cities": []
+        },
+        {
+          "name": "WHITBY",
+          "code": "3819",
+          "cities": []
+        },
+        {
+          "name": "WINDSOR",
+          "code": "3848",
+          "cities": []
+        },
+        {
+          "name": "WINDSOR",
+          "code": "3849",
+          "cities": []
+        },
+        {
+          "name": "WINDSOR",
+          "code": "3850",
+          "cities": []
+        },
+        {
+          "name": "WINNEPEG",
+          "code": "3851",
+          "cities": []
+        },
+        {
+          "name": "WOODSTOCK",
+          "code": "3871",
+          "cities": []
+        },
+        {
+          "name": "YARMOUTH",
+          "code": "3893",
+          "cities": []
+        },
+        {
+          "name": "YORK",
+          "code": "3904",
+          "cities": []
+        },
+        {
+          "name": "YORKTON",
+          "code": "3907",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "CHINA",
+      "code": "20",
+      "provinces": [
+        {
+          "name": "ANSHAN",
+          "code": "123",
+          "cities": []
+        },
+        {
+          "name": "BEIJING",
+          "code": "299",
+          "cities": []
+        },
+        {
+          "name": "CANTON",
+          "code": "595",
+          "cities": []
+        },
+        {
+          "name": "CHANGCHUN",
+          "code": "670",
+          "cities": []
+        },
+        {
+          "name": "GUANGZHOU",
+          "code": "1375",
+          "cities": []
+        },
+        {
+          "name": "HANGCHOW",
+          "code": "1435",
+          "cities": []
+        },
+        {
+          "name": "HARBIN",
+          "code": "1439",
+          "cities": []
+        },
+        {
+          "name": "HONG KONG",
+          "code": "1539",
+          "cities": []
+        },
+        {
+          "name": "KANTON",
+          "code": "1701",
+          "cities": []
+        },
+        {
+          "name": "KUNMING",
+          "code": "1832",
+          "cities": []
+        },
+        {
+          "name": "LHASA",
+          "code": "1964",
+          "cities": []
+        },
+        {
+          "name": "NANJING",
+          "code": "2386",
+          "cities": []
+        },
+        {
+          "name": "NANJING",
+          "code": "2387",
+          "cities": []
+        },
+        {
+          "name": "SHANGHAI",
+          "code": "3195",
+          "cities": []
+        },
+        {
+          "name": "SHENYANG",
+          "code": "3207",
+          "cities": []
+        },
+        {
+          "name": "SICHUAN",
+          "code": "4047",
+          "cities": []
+        },
+        {
+          "name": "TANGXIAN",
+          "code": "3439",
+          "cities": []
+        },
+        {
+          "name": "TIENTSIN",
+          "code": "3496",
+          "cities": []
+        },
+        {
+          "name": "WUHAN",
+          "code": "3880",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "COLOMBIA",
+      "code": "21",
+      "provinces": [
+        {
+          "name": "ARMENIA",
+          "code": "4045",
+          "cities": []
+        },
+        {
+          "name": "BARRANQUILLA",
+          "code": "257",
+          "cities": []
+        },
+        {
+          "name": "BOGOTA",
+          "code": "416",
+          "cities": []
+        },
+        {
+          "name": "BUCARAMANGA",
+          "code": "517",
+          "cities": []
+        },
+        {
+          "name": "BUENAVENTURA",
+          "code": "522",
+          "cities": []
+        },
+        {
+          "name": "BUGA",
+          "code": "525",
+          "cities": []
+        },
+        {
+          "name": "CALI",
+          "code": "566",
+          "cities": []
+        },
+        {
+          "name": "CARTAGENA",
+          "code": "624",
+          "cities": []
+        },
+        {
+          "name": "CIENAGA",
+          "code": "747",
+          "cities": []
+        },
+        {
+          "name": "CUCUTA",
+          "code": "870",
+          "cities": []
+        },
+        {
+          "name": "GENOVA (QUINDIO)",
+          "code": "4046",
+          "cities": []
+        },
+        {
+          "name": "IBAQUE",
+          "code": "1574",
+          "cities": []
+        },
+        {
+          "name": "MAGANGUE",
+          "code": "2093",
+          "cities": []
+        },
+        {
+          "name": "MANIZALES",
+          "code": "2124",
+          "cities": []
+        },
+        {
+          "name": "MEDELLIN",
+          "code": "2195",
+          "cities": []
+        },
+        {
+          "name": "MONTERIA",
+          "code": "2305",
+          "cities": []
+        },
+        {
+          "name": "NEIVA",
+          "code": "2411",
+          "cities": []
+        },
+        {
+          "name": "PALMIRA",
+          "code": "2637",
+          "cities": []
+        },
+        {
+          "name": "PAMPLONA",
+          "code": "4048",
+          "cities": []
+        },
+        {
+          "name": "PASTO",
+          "code": "2674",
+          "cities": []
+        },
+        {
+          "name": "PEREIRA",
+          "code": "2699",
+          "cities": []
+        },
+        {
+          "name": "POPAYAN",
+          "code": "2784",
+          "cities": []
+        },
+        {
+          "name": "SANTA MARTA",
+          "code": "3123",
+          "cities": []
+        },
+        {
+          "name": "SINCELEJO",
+          "code": "3232",
+          "cities": []
+        },
+        {
+          "name": "SOGAMOSO",
+          "code": "3259",
+          "cities": []
+        },
+        {
+          "name": "TULUA",
+          "code": "3578",
+          "cities": []
+        },
+        {
+          "name": "TUNJA",
+          "code": "3581",
+          "cities": []
+        },
+        {
+          "name": "VILLAVICENCIO",
+          "code": "3689",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "COSTA RICA",
+      "code": "22",
+      "provinces": [
+        {
+          "name": "Alajuela",
+          "code": "77",
+          "cities": []
+        },
+        {
+          "name": "Cartago",
+          "code": "78",
+          "cities": []
+        },
+        {
+          "name": "Guanacaste",
+          "code": "79",
+          "cities": []
+        },
+        {
+          "name": "Heredia",
+          "code": "80",
+          "cities": []
+        },
+        {
+          "name": "Limón",
+          "code": "81",
+          "cities": []
+        },
+        {
+          "name": "Puntarenas",
+          "code": "82",
+          "cities": []
+        },
+        {
+          "name": "San José",
+          "code": "83",
+          "cities": []
+        },
+        {
+          "name": "UT-6:00",
+          "code": "84",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "CROATIA",
+      "code": "23",
+      "provinces": [
+        {
+          "name": "BJELOVAR",
+          "code": "390",
+          "cities": []
+        },
+        {
+          "name": "DUBROVNIK",
+          "code": "982",
+          "cities": []
+        },
+        {
+          "name": "KARLOVAC",
+          "code": "1710",
+          "cities": []
+        },
+        {
+          "name": "KOPRIVNICA",
+          "code": "1804",
+          "cities": []
+        },
+        {
+          "name": "OSIJEK",
+          "code": "2595",
+          "cities": []
+        },
+        {
+          "name": "RIJEKA",
+          "code": "2960",
+          "cities": []
+        },
+        {
+          "name": "SIBENIK",
+          "code": "3223",
+          "cities": []
+        },
+        {
+          "name": "SISAK",
+          "code": "3238",
+          "cities": []
+        },
+        {
+          "name": "SPLIT",
+          "code": "3290",
+          "cities": []
+        },
+        {
+          "name": "VARAZDIN",
+          "code": "3652",
+          "cities": []
+        },
+        {
+          "name": "ZADAR",
+          "code": "3915",
+          "cities": []
+        },
+        {
+          "name": "ZAGREB",
+          "code": "3918",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "DENMARK",
+      "code": "27",
+      "provinces": [
+        {
+          "name": "ALBORG",
+          "code": "49",
+          "cities": []
+        },
+        {
+          "name": "ARHUS",
+          "code": "147",
+          "cities": []
+        },
+        {
+          "name": "COPENHAGEN",
+          "code": "823",
+          "cities": []
+        },
+        {
+          "name": "ESBJERG",
+          "code": "1100",
+          "cities": []
+        },
+        {
+          "name": "FREDERICIA",
+          "code": "1201",
+          "cities": []
+        },
+        {
+          "name": "FREDERIKSBORG",
+          "code": "1205",
+          "cities": []
+        },
+        {
+          "name": "FREDERIKSHAVN",
+          "code": "1206",
+          "cities": []
+        },
+        {
+          "name": "GENTOFTE",
+          "code": "1270",
+          "cities": []
+        },
+        {
+          "name": "HADERSLEV",
+          "code": "1401",
+          "cities": []
+        },
+        {
+          "name": "HELSINGOR",
+          "code": "1483",
+          "cities": []
+        },
+        {
+          "name": "HERNING",
+          "code": "1500",
+          "cities": []
+        },
+        {
+          "name": "HILLEROD",
+          "code": "1513",
+          "cities": []
+        },
+        {
+          "name": "HJORRING",
+          "code": "1522",
+          "cities": []
+        },
+        {
+          "name": "HOLBAEK",
+          "code": "1527",
+          "cities": []
+        },
+        {
+          "name": "HOLSTEBRO",
+          "code": "1534",
+          "cities": []
+        },
+        {
+          "name": "HORSENS",
+          "code": "1544",
+          "cities": []
+        },
+        {
+          "name": "KOLDING",
+          "code": "1795",
+          "cities": []
+        },
+        {
+          "name": "KORSOR",
+          "code": "1808",
+          "cities": []
+        },
+        {
+          "name": "LYNGBY",
+          "code": "2073",
+          "cities": []
+        },
+        {
+          "name": "NAEVSTVED",
+          "code": "2373",
+          "cities": []
+        },
+        {
+          "name": "NAKSKOV",
+          "code": "2382",
+          "cities": []
+        },
+        {
+          "name": "ODENSE",
+          "code": "2534",
+          "cities": []
+        },
+        {
+          "name": "RANDERS",
+          "code": "2886",
+          "cities": []
+        },
+        {
+          "name": "SILKEBORG",
+          "code": "3228",
+          "cities": []
+        },
+        {
+          "name": "SKIVE",
+          "code": "3243",
+          "cities": []
+        },
+        {
+          "name": "SLAGESE",
+          "code": "3247",
+          "cities": []
+        },
+        {
+          "name": "SONDERBORG",
+          "code": "3264",
+          "cities": []
+        },
+        {
+          "name": "SVENDBORG",
+          "code": "3398",
+          "cities": []
+        },
+        {
+          "name": "TARNBY",
+          "code": "3446",
+          "cities": []
+        },
+        {
+          "name": "TASTRUP",
+          "code": "3451",
+          "cities": []
+        },
+        {
+          "name": "VEJLE",
+          "code": "3659",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "ESTONIA",
+      "code": "32",
+      "provinces": [
+        {
+          "name": "PARNU",
+          "code": "2667",
+          "cities": []
+        },
+        {
+          "name": "TALLINN",
+          "code": "3429",
+          "cities": []
+        },
+        {
+          "name": "TARTU",
+          "code": "3450",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "ETHIOPIA",
+      "code": "33",
+      "provinces": [
+        {
+          "name": "ADDIS ABABA",
+          "code": "18",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "GREECE",
+      "code": "44",
+      "provinces": [
+        {
+          "name": "AGRINION",
+          "code": "26",
+          "cities": []
+        },
+        {
+          "name": "AIYION",
+          "code": "35",
+          "cities": []
+        },
+        {
+          "name": "ALEXANDROUPOLIS",
+          "code": "62",
+          "cities": []
+        },
+        {
+          "name": "AMALIAS",
+          "code": "90",
+          "cities": []
+        },
+        {
+          "name": "ARGOS",
+          "code": "146",
+          "cities": []
+        },
+        {
+          "name": "ARTA",
+          "code": "157",
+          "cities": []
+        },
+        {
+          "name": "ATHENS",
+          "code": "180",
+          "cities": []
+        },
+        {
+          "name": "CORINTH",
+          "code": "834",
+          "cities": []
+        },
+        {
+          "name": "DRAMA",
+          "code": "972",
+          "cities": []
+        },
+        {
+          "name": "EDHESSA",
+          "code": "1034",
+          "cities": []
+        },
+        {
+          "name": "FLORINA",
+          "code": "1170",
+          "cities": []
+        },
+        {
+          "name": "IOANNINA",
+          "code": "1595",
+          "cities": []
+        },
+        {
+          "name": "IRAKLION",
+          "code": "1601",
+          "cities": []
+        },
+        {
+          "name": "KALAMAI",
+          "code": "1681",
+          "cities": []
+        },
+        {
+          "name": "KARDHITSA",
+          "code": "1708",
+          "cities": []
+        },
+        {
+          "name": "KASTORIA",
+          "code": "1716",
+          "cities": []
+        },
+        {
+          "name": "KATERINI",
+          "code": "1717",
+          "cities": []
+        },
+        {
+          "name": "KAVALLA",
+          "code": "1721",
+          "cities": []
+        },
+        {
+          "name": "KERKIRA",
+          "code": "1745",
+          "cities": []
+        },
+        {
+          "name": "KHALKIS",
+          "code": "1752",
+          "cities": []
+        },
+        {
+          "name": "KHALKIS",
+          "code": "1753",
+          "cities": []
+        },
+        {
+          "name": "KHANIA",
+          "code": "1754",
+          "cities": []
+        },
+        {
+          "name": "KHIOS",
+          "code": "1758",
+          "cities": []
+        },
+        {
+          "name": "KILKIS",
+          "code": "1764",
+          "cities": []
+        },
+        {
+          "name": "KOMOTINI",
+          "code": "1802",
+          "cities": []
+        },
+        {
+          "name": "KORINTHOS",
+          "code": "1806",
+          "cities": []
+        },
+        {
+          "name": "KOZANI",
+          "code": "1816",
+          "cities": []
+        },
+        {
+          "name": "LAMIA",
+          "code": "1884",
+          "cities": []
+        },
+        {
+          "name": "LARISA",
+          "code": "1896",
+          "cities": []
+        },
+        {
+          "name": "LEVADHIA",
+          "code": "1952",
+          "cities": []
+        },
+        {
+          "name": "MEGARA",
+          "code": "2200",
+          "cities": []
+        },
+        {
+          "name": "MESOLONGION",
+          "code": "2231",
+          "cities": []
+        },
+        {
+          "name": "MITILINI",
+          "code": "2280",
+          "cities": []
+        },
+        {
+          "name": "NAOUSA",
+          "code": "2392",
+          "cities": []
+        },
+        {
+          "name": "PATRAI",
+          "code": "2678",
+          "cities": []
+        },
+        {
+          "name": "PATRAS",
+          "code": "2679",
+          "cities": []
+        },
+        {
+          "name": "PIRAEUS",
+          "code": "2741",
+          "cities": []
+        },
+        {
+          "name": "PIRGOS",
+          "code": "2742",
+          "cities": []
+        },
+        {
+          "name": "RETHIMNON",
+          "code": "2931",
+          "cities": []
+        },
+        {
+          "name": "RHODES",
+          "code": "2941",
+          "cities": []
+        },
+        {
+          "name": "RODHOS",
+          "code": "2988",
+          "cities": []
+        },
+        {
+          "name": "SALAMIS",
+          "code": "3047",
+          "cities": []
+        },
+        {
+          "name": "SALONIKA",
+          "code": "3060",
+          "cities": []
+        },
+        {
+          "name": "SERRAI",
+          "code": "3186",
+          "cities": []
+        },
+        {
+          "name": "SPARTA",
+          "code": "3285",
+          "cities": []
+        },
+        {
+          "name": "SPARTI",
+          "code": "3287",
+          "cities": []
+        },
+        {
+          "name": "THEBES",
+          "code": "3483",
+          "cities": []
+        },
+        {
+          "name": "THESSALONIKI",
+          "code": "3484",
+          "cities": []
+        },
+        {
+          "name": "THIVAI",
+          "code": "3486",
+          "cities": []
+        },
+        {
+          "name": "TIRNAVOS",
+          "code": "3506",
+          "cities": []
+        },
+        {
+          "name": "TRIKKALA",
+          "code": "3553",
+          "cities": []
+        },
+        {
+          "name": "TRIPOLIS",
+          "code": "3557",
+          "cities": []
+        },
+        {
+          "name": "VEROIA",
+          "code": "3668",
+          "cities": []
+        },
+        {
+          "name": "VOLOS",
+          "code": "3710",
+          "cities": []
+        },
+        {
+          "name": "XANTHI",
+          "code": "3884",
+          "cities": []
+        },
+        {
+          "name": "YANNINA",
+          "code": "3891",
+          "cities": []
+        },
+        {
+          "name": "YIANNITSA",
+          "code": "3898",
+          "cities": []
+        },
+        {
+          "name": "ZAKINTHOS",
+          "code": "3919",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "ICELAND",
+      "code": "50",
+      "provinces": [
+        {
+          "name": "Akureyri",
+          "code": "4016",
+          "cities": []
+        },
+        {
+          "name": "Akurnes",
+          "code": "4017",
+          "cities": []
+        },
+        {
+          "name": "Dalatangi",
+          "code": "4022",
+          "cities": []
+        },
+        {
+          "name": "Egilsstadir",
+          "code": "4018",
+          "cities": []
+        },
+        {
+          "name": "Grimsey",
+          "code": "4019",
+          "cities": []
+        },
+        {
+          "name": "Keflavikurflugvollur",
+          "code": "4013",
+          "cities": []
+        },
+        {
+          "name": "Kirkjubaejarklaustur",
+          "code": "4021",
+          "cities": []
+        },
+        {
+          "name": "Raufarhofn",
+          "code": "4023",
+          "cities": []
+        },
+        {
+          "name": "Reykjavik",
+          "code": "4014",
+          "cities": []
+        },
+        {
+          "name": "Stykkisholmur",
+          "code": "4020",
+          "cities": []
+        },
+        {
+          "name": "Vestmannaeyjar",
+          "code": "4015",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "INDIA",
+      "code": "51",
+      "provinces": [
+        {
+          "name": "AGRA",
+          "code": "24",
+          "cities": []
+        },
+        {
+          "name": "AHMADABAD",
+          "code": "28",
+          "cities": []
+        },
+        {
+          "name": "AHMEDABAD",
+          "code": "29",
+          "cities": []
+        },
+        {
+          "name": "ALIGARH",
+          "code": "69",
+          "cities": []
+        },
+        {
+          "name": "ALLAHABAD",
+          "code": "72",
+          "cities": []
+        },
+        {
+          "name": "AMBALA",
+          "code": "92",
+          "cities": []
+        },
+        {
+          "name": "AMRITSAR",
+          "code": "99",
+          "cities": []
+        },
+        {
+          "name": "ASANSOL",
+          "code": "162",
+          "cities": []
+        },
+        {
+          "name": "BALLY",
+          "code": "229",
+          "cities": []
+        },
+        {
+          "name": "BANGALORE",
+          "code": "234",
+          "cities": []
+        },
+        {
+          "name": "BAREILLY",
+          "code": "248",
+          "cities": []
+        },
+        {
+          "name": "BARODA",
+          "code": "255",
+          "cities": []
+        },
+        {
+          "name": "BENARES",
+          "code": "327",
+          "cities": []
+        },
+        {
+          "name": "BHAUNAGAR",
+          "code": "368",
+          "cities": []
+        },
+        {
+          "name": "BHOPAL",
+          "code": "369",
+          "cities": []
+        },
+        {
+          "name": "BOMBAY",
+          "code": "421",
+          "cities": []
+        },
+        {
+          "name": "CALCUTTA",
+          "code": "562",
+          "cities": []
+        },
+        {
+          "name": "CALICUT",
+          "code": "567",
+          "cities": []
+        },
+        {
+          "name": "CAWNPORE",
+          "code": "647",
+          "cities": []
+        },
+        {
+          "name": "COIMBATORE",
+          "code": "786",
+          "cities": []
+        },
+        {
+          "name": "CUTTACK",
+          "code": "882",
+          "cities": []
+        },
+        {
+          "name": "DELHI",
+          "code": "929",
+          "cities": []
+        },
+        {
+          "name": "ERNAKULAM",
+          "code": "1099",
+          "cities": []
+        },
+        {
+          "name": "GAUHATI",
+          "code": "1258",
+          "cities": []
+        },
+        {
+          "name": "GAYA",
+          "code": "1260",
+          "cities": []
+        },
+        {
+          "name": "GORAKHPUR",
+          "code": "1311",
+          "cities": []
+        },
+        {
+          "name": "GUNTUR",
+          "code": "1387",
+          "cities": []
+        },
+        {
+          "name": "GWALIOR",
+          "code": "1389",
+          "cities": []
+        },
+        {
+          "name": "HOWRAH",
+          "code": "1551",
+          "cities": []
+        },
+        {
+          "name": "HUBLI",
+          "code": "1554",
+          "cities": []
+        },
+        {
+          "name": "HYDERABAD",
+          "code": "1570",
+          "cities": []
+        },
+        {
+          "name": "INDORE",
+          "code": "1587",
+          "cities": []
+        },
+        {
+          "name": "JABALPUR",
+          "code": "1624",
+          "cities": []
+        },
+        {
+          "name": "JAIPUR",
+          "code": "1635",
+          "cities": []
+        },
+        {
+          "name": "JAMNAGAR",
+          "code": "1640",
+          "cities": []
+        },
+        {
+          "name": "JAMSHEDPUR",
+          "code": "1641",
+          "cities": []
+        },
+        {
+          "name": "JAPALPUR",
+          "code": "1643",
+          "cities": []
+        },
+        {
+          "name": "JHANSI",
+          "code": "1655",
+          "cities": []
+        },
+        {
+          "name": "JODHPUR",
+          "code": "1657",
+          "cities": []
+        },
+        {
+          "name": "JUBBOLPORE",
+          "code": "1667",
+          "cities": []
+        },
+        {
+          "name": "JULLUNDUR",
+          "code": "1671",
+          "cities": []
+        },
+        {
+          "name": "KALYAN",
+          "code": "1689",
+          "cities": []
+        },
+        {
+          "name": "KANPUR",
+          "code": "1698",
+          "cities": []
+        },
+        {
+          "name": "KOLHAPUR",
+          "code": "1796",
+          "cities": []
+        },
+        {
+          "name": "KOTA",
+          "code": "1813",
+          "cities": []
+        },
+        {
+          "name": "KOZHIKODE",
+          "code": "1817",
+          "cities": []
+        },
+        {
+          "name": "LUCKNOW",
+          "code": "2049",
+          "cities": []
+        },
+        {
+          "name": "LUDHIANA",
+          "code": "2051",
+          "cities": []
+        },
+        {
+          "name": "MADRAS",
+          "code": "2090",
+          "cities": []
+        },
+        {
+          "name": "MADURAI",
+          "code": "2092",
+          "cities": []
+        },
+        {
+          "name": "MALEGAON",
+          "code": "2108",
+          "cities": []
+        },
+        {
+          "name": "MANGOLORE",
+          "code": "2119",
+          "cities": []
+        },
+        {
+          "name": "MEERUT",
+          "code": "2199",
+          "cities": []
+        },
+        {
+          "name": "MORADABAD",
+          "code": "2319",
+          "cities": []
+        },
+        {
+          "name": "MYSORE",
+          "code": "2365",
+          "cities": []
+        },
+        {
+          "name": "NAGPUR",
+          "code": "2377",
+          "cities": []
+        },
+        {
+          "name": "NEW DELHI",
+          "code": "2427",
+          "cities": []
+        },
+        {
+          "name": "PATNA",
+          "code": "2677",
+          "cities": []
+        },
+        {
+          "name": "POONA",
+          "code": "2783",
+          "cities": []
+        },
+        {
+          "name": "RAJKOT",
+          "code": "2876",
+          "cities": []
+        },
+        {
+          "name": "SAHARANPUR",
+          "code": "3035",
+          "cities": []
+        },
+        {
+          "name": "SALEM",
+          "code": "3049",
+          "cities": []
+        },
+        {
+          "name": "SHOLAPUR",
+          "code": "3218",
+          "cities": []
+        },
+        {
+          "name": "SRINAGAR",
+          "code": "3303",
+          "cities": []
+        },
+        {
+          "name": "SURAT",
+          "code": "3392",
+          "cities": []
+        },
+        {
+          "name": "TRIVANDRUM",
+          "code": "3558",
+          "cities": []
+        },
+        {
+          "name": "VARANASI",
+          "code": "3651",
+          "cities": []
+        },
+        {
+          "name": "VIJAYAWADA",
+          "code": "3684",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "INDONESIA",
+      "code": "52",
+      "provinces": [
+        {
+          "name": "BANDUNG",
+          "code": "233",
+          "cities": []
+        },
+        {
+          "name": "BATAVIA",
+          "code": "272",
+          "cities": []
+        },
+        {
+          "name": "BOGOR",
+          "code": "415",
+          "cities": []
+        },
+        {
+          "name": "DJAKARTA",
+          "code": "952",
+          "cities": []
+        },
+        {
+          "name": "JAKARTA",
+          "code": "1636",
+          "cities": []
+        },
+        {
+          "name": "KEDIRI",
+          "code": "1731",
+          "cities": []
+        },
+        {
+          "name": "MADIUN",
+          "code": "2089",
+          "cities": []
+        },
+        {
+          "name": "MAKASSAR",
+          "code": "2101",
+          "cities": []
+        },
+        {
+          "name": "MALANG",
+          "code": "2105",
+          "cities": []
+        },
+        {
+          "name": "MANADO",
+          "code": "2110",
+          "cities": []
+        },
+        {
+          "name": "MEDAN",
+          "code": "2193",
+          "cities": []
+        },
+        {
+          "name": "PADANG",
+          "code": "2621",
+          "cities": []
+        },
+        {
+          "name": "PALEMBANG",
+          "code": "2628",
+          "cities": []
+        },
+        {
+          "name": "PONTIANAK",
+          "code": "2781",
+          "cities": []
+        },
+        {
+          "name": "SEMARANG",
+          "code": "3182",
+          "cities": []
+        },
+        {
+          "name": "SURABAJA",
+          "code": "3390",
+          "cities": []
+        },
+        {
+          "name": "SURAKARTA",
+          "code": "3391",
+          "cities": []
+        },
+        {
+          "name": "TANJUNGPRIOK",
+          "code": "3440",
+          "cities": []
+        },
+        {
+          "name": "TJIREBON",
+          "code": "3510",
+          "cities": []
+        },
+        {
+          "name": "UJUNG PANDANG",
+          "code": "3604",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "IRAN",
+      "code": "53",
+      "provinces": [
+        {
+          "name": "ABADAN",
+          "code": "5",
+          "cities": []
+        },
+        {
+          "name": "AHVAZ",
+          "code": "30",
+          "cities": []
+        },
+        {
+          "name": "AHWAZ",
+          "code": "31",
+          "cities": []
+        },
+        {
+          "name": "BAKHTARAN",
+          "code": "223",
+          "cities": []
+        },
+        {
+          "name": "HAMADAN",
+          "code": "1418",
+          "cities": []
+        },
+        {
+          "name": "ISFAHAN",
+          "code": "1609",
+          "cities": []
+        },
+        {
+          "name": "KERMANSHAH",
+          "code": "1746",
+          "cities": []
+        },
+        {
+          "name": "MASHHAD",
+          "code": "2167",
+          "cities": []
+        },
+        {
+          "name": "MESHED",
+          "code": "2230",
+          "cities": []
+        },
+        {
+          "name": "MESTED",
+          "code": "2234",
+          "cities": []
+        },
+        {
+          "name": "QOM",
+          "code": "2858",
+          "cities": []
+        },
+        {
+          "name": "QUM",
+          "code": "2866",
+          "cities": []
+        },
+        {
+          "name": "RAI",
+          "code": "2875",
+          "cities": []
+        },
+        {
+          "name": "RESHT",
+          "code": "2928",
+          "cities": []
+        },
+        {
+          "name": "REZA'IYEH",
+          "code": "2936",
+          "cities": []
+        },
+        {
+          "name": "REZAIEH",
+          "code": "2937",
+          "cities": []
+        },
+        {
+          "name": "SHIRAZ",
+          "code": "3215",
+          "cities": []
+        },
+        {
+          "name": "TABRIZ",
+          "code": "3419",
+          "cities": []
+        },
+        {
+          "name": "TAJRISH",
+          "code": "3424",
+          "cities": []
+        },
+        {
+          "name": "TEHERAN",
+          "code": "3461",
+          "cities": []
+        },
+        {
+          "name": "URMIA",
+          "code": "3626",
+          "cities": []
+        },
+        {
+          "name": "YEZD",
+          "code": "3897",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "IRAQ",
+      "code": "54",
+      "provinces": [
+        {
+          "name": "AN NAJAF",
+          "code": "103",
+          "cities": []
+        },
+        {
+          "name": "ARBELA",
+          "code": "140",
+          "cities": []
+        },
+        {
+          "name": "BAGHDAD",
+          "code": "215",
+          "cities": []
+        },
+        {
+          "name": "BASRA",
+          "code": "267",
+          "cities": []
+        },
+        {
+          "name": "ERBIL",
+          "code": "1095",
+          "cities": []
+        },
+        {
+          "name": "HILLA",
+          "code": "1512",
+          "cities": []
+        },
+        {
+          "name": "KARBALA",
+          "code": "1706",
+          "cities": []
+        },
+        {
+          "name": "KIRKUK",
+          "code": "1776",
+          "cities": []
+        },
+        {
+          "name": "MOSUL",
+          "code": "2336",
+          "cities": []
+        },
+        {
+          "name": "SULAIMANIYA",
+          "code": "3377",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "IRELAND",
+      "code": "55",
+      "provinces": [
+        {
+          "name": "ARMAGH",
+          "code": "154",
+          "cities": []
+        },
+        {
+          "name": "BALLYMENA",
+          "code": "230",
+          "cities": []
+        },
+        {
+          "name": "BANGOR",
+          "code": "236",
+          "cities": []
+        },
+        {
+          "name": "BELFAST",
+          "code": "305",
+          "cities": []
+        },
+        {
+          "name": "BRAY",
+          "code": "466",
+          "cities": []
+        },
+        {
+          "name": "CARRICKFERGUS",
+          "code": "619",
+          "cities": []
+        },
+        {
+          "name": "COLERAINE",
+          "code": "789",
+          "cities": []
+        },
+        {
+          "name": "CORK",
+          "code": "835",
+          "cities": []
+        },
+        {
+          "name": "DROGHEDA",
+          "code": "975",
+          "cities": []
+        },
+        {
+          "name": "DUBLIN",
+          "code": "980",
+          "cities": []
+        },
+        {
+          "name": "DUN LAOGHAIRE",
+          "code": "989",
+          "cities": []
+        },
+        {
+          "name": "DUNDALK",
+          "code": "993",
+          "cities": []
+        },
+        {
+          "name": "ENNIS",
+          "code": "1088",
+          "cities": []
+        },
+        {
+          "name": "GALWAY",
+          "code": "1244",
+          "cities": []
+        },
+        {
+          "name": "KILKENNY",
+          "code": "1763",
+          "cities": []
+        },
+        {
+          "name": "KINGSTOWN",
+          "code": "1771",
+          "cities": []
+        },
+        {
+          "name": "LARNE",
+          "code": "1897",
+          "cities": []
+        },
+        {
+          "name": "LIMERICK",
+          "code": "1978",
+          "cities": []
+        },
+        {
+          "name": "LISBURN",
+          "code": "1990",
+          "cities": []
+        },
+        {
+          "name": "LONDONDERRY",
+          "code": "2018",
+          "cities": []
+        },
+        {
+          "name": "NEWRY",
+          "code": "2456",
+          "cities": []
+        },
+        {
+          "name": "NEWTOWNABBEY",
+          "code": "2459",
+          "cities": []
+        },
+        {
+          "name": "NEWTOWNARDS",
+          "code": "2460",
+          "cities": []
+        },
+        {
+          "name": "OMAGH",
+          "code": "2559",
+          "cities": []
+        },
+        {
+          "name": "TRALEE",
+          "code": "3541",
+          "cities": []
+        },
+        {
+          "name": "WATEFORD",
+          "code": "3754",
+          "cities": []
+        },
+        {
+          "name": "WEXFORD",
+          "code": "3808",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "ISRAEL",
+      "code": "56",
+      "provinces": [
+        {
+          "name": "ACRE",
+          "code": "15",
+          "cities": []
+        },
+        {
+          "name": "AKKO",
+          "code": "38",
+          "cities": []
+        },
+        {
+          "name": "ASHQELON",
+          "code": "169",
+          "cities": []
+        },
+        {
+          "name": "BAT YAM",
+          "code": "270",
+          "cities": []
+        },
+        {
+          "name": "BE'ER SHEVA'",
+          "code": "285",
+          "cities": []
+        },
+        {
+          "name": "BEERSHEBA",
+          "code": "297",
+          "cities": []
+        },
+        {
+          "name": "ER RAMLE",
+          "code": "1094",
+          "cities": []
+        },
+        {
+          "name": "GIV'ATAYIM",
+          "code": "1285",
+          "cities": []
+        },
+        {
+          "name": "HADERA",
+          "code": "1400",
+          "cities": []
+        },
+        {
+          "name": "HAIFA",
+          "code": "1405",
+          "cities": []
+        },
+        {
+          "name": "HERZELIYYA",
+          "code": "1501",
+          "cities": []
+        },
+        {
+          "name": "HOLON",
+          "code": "1533",
+          "cities": []
+        },
+        {
+          "name": "JAFFA",
+          "code": "1634",
+          "cities": []
+        },
+        {
+          "name": "JERUSALEM",
+          "code": "1654",
+          "cities": []
+        },
+        {
+          "name": "LOD",
+          "code": "2006",
+          "cities": []
+        },
+        {
+          "name": "LYDDA",
+          "code": "2070",
+          "cities": []
+        },
+        {
+          "name": "NAZARETH",
+          "code": "2406",
+          "cities": []
+        },
+        {
+          "name": "NETANYA",
+          "code": "2414",
+          "cities": []
+        },
+        {
+          "name": "PETAH TIQWA",
+          "code": "2713",
+          "cities": []
+        },
+        {
+          "name": "RAMAT GAN",
+          "code": "2879",
+          "cities": []
+        },
+        {
+          "name": "RAMLA",
+          "code": "2881",
+          "cities": []
+        },
+        {
+          "name": "REHOVOT",
+          "code": "2918",
+          "cities": []
+        },
+        {
+          "name": "RISHON L.Z.",
+          "code": "2967",
+          "cities": []
+        },
+        {
+          "name": "TEL AVIV",
+          "code": "3462",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "JAPAN",
+      "code": "59",
+      "provinces": [
+        {
+          "name": "AKITA",
+          "code": "37",
+          "cities": []
+        },
+        {
+          "name": "AMAGASAKI",
+          "code": "89",
+          "cities": []
+        },
+        {
+          "name": "AOMORI",
+          "code": "134",
+          "cities": []
+        },
+        {
+          "name": "ASAHIKAWA",
+          "code": "161",
+          "cities": []
+        },
+        {
+          "name": "CHIBA",
+          "code": "721",
+          "cities": []
+        },
+        {
+          "name": "FUKUI",
+          "code": "1226",
+          "cities": []
+        },
+        {
+          "name": "FUKUOKA",
+          "code": "1227",
+          "cities": []
+        },
+        {
+          "name": "FUKUSHIMA",
+          "code": "1228",
+          "cities": []
+        },
+        {
+          "name": "FUKUYAMA",
+          "code": "1229",
+          "cities": []
+        },
+        {
+          "name": "FUNABASHI",
+          "code": "1231",
+          "cities": []
+        },
+        {
+          "name": "GIFU",
+          "code": "1281",
+          "cities": []
+        },
+        {
+          "name": "HACHINOHE",
+          "code": "1395",
+          "cities": []
+        },
+        {
+          "name": "HAKODATE",
+          "code": "1407",
+          "cities": []
+        },
+        {
+          "name": "HAMAMATSU",
+          "code": "1419",
+          "cities": []
+        },
+        {
+          "name": "HIGASHIOSAKA",
+          "code": "1505",
+          "cities": []
+        },
+        {
+          "name": "HIROSHIMA",
+          "code": "1521",
+          "cities": []
+        },
+        {
+          "name": "ICHIKAWA",
+          "code": "1575",
+          "cities": []
+        },
+        {
+          "name": "IWAKI",
+          "code": "1619",
+          "cities": []
+        },
+        {
+          "name": "KAGOSHIMA",
+          "code": "1678",
+          "cities": []
+        },
+        {
+          "name": "KANAZAWA",
+          "code": "1692",
+          "cities": []
+        },
+        {
+          "name": "KAWAGUCHI",
+          "code": "1722",
+          "cities": []
+        },
+        {
+          "name": "KAWASAKI",
+          "code": "1723",
+          "cities": []
+        },
+        {
+          "name": "KITAKYUSHO",
+          "code": "1783",
+          "cities": []
+        },
+        {
+          "name": "KOBE",
+          "code": "1791",
+          "cities": []
+        },
+        {
+          "name": "KOCHI",
+          "code": "1793",
+          "cities": []
+        },
+        {
+          "name": "KUMAMOTO",
+          "code": "1830",
+          "cities": []
+        },
+        {
+          "name": "KURASHIKI",
+          "code": "1835",
+          "cities": []
+        },
+        {
+          "name": "KURE",
+          "code": "1836",
+          "cities": []
+        },
+        {
+          "name": "KUSHIRO",
+          "code": "1838",
+          "cities": []
+        },
+        {
+          "name": "KYOTO",
+          "code": "1842",
+          "cities": []
+        },
+        {
+          "name": "MIYAZAKI",
+          "code": "2281",
+          "cities": []
+        },
+        {
+          "name": "MORIOKA",
+          "code": "2325",
+          "cities": []
+        },
+        {
+          "name": "MURORAN",
+          "code": "2361",
+          "cities": []
+        },
+        {
+          "name": "NAGANO",
+          "code": "2374",
+          "cities": []
+        },
+        {
+          "name": "NAGASAKI",
+          "code": "2375",
+          "cities": []
+        },
+        {
+          "name": "NAGOYA",
+          "code": "2376",
+          "cities": []
+        },
+        {
+          "name": "NAHA",
+          "code": "2380",
+          "cities": []
+        },
+        {
+          "name": "NIIGATA",
+          "code": "2465",
+          "cities": []
+        },
+        {
+          "name": "NISHINOMIYA",
+          "code": "2473",
+          "cities": []
+        },
+        {
+          "name": "OKAYAMA",
+          "code": "2543",
+          "cities": []
+        },
+        {
+          "name": "OKAZAKI",
+          "code": "2544",
+          "cities": []
+        },
+        {
+          "name": "OMIYA",
+          "code": "2561",
+          "cities": []
+        },
+        {
+          "name": "OMUTA",
+          "code": "2562",
+          "cities": []
+        },
+        {
+          "name": "OSAKA",
+          "code": "2591",
+          "cities": []
+        },
+        {
+          "name": "OTARU",
+          "code": "2601",
+          "cities": []
+        },
+        {
+          "name": "SAPPORO",
+          "code": "3139",
+          "cities": []
+        },
+        {
+          "name": "SASEBO",
+          "code": "3148",
+          "cities": []
+        },
+        {
+          "name": "SENDAI",
+          "code": "3183",
+          "cities": []
+        },
+        {
+          "name": "SHIMIZU",
+          "code": "3214",
+          "cities": []
+        },
+        {
+          "name": "SHIZUOKA",
+          "code": "3216",
+          "cities": []
+        },
+        {
+          "name": "SUITA",
+          "code": "3375",
+          "cities": []
+        },
+        {
+          "name": "TOKUSHIMA",
+          "code": "3514",
+          "cities": []
+        },
+        {
+          "name": "TOKYO",
+          "code": "3515",
+          "cities": []
+        },
+        {
+          "name": "TOYAMA",
+          "code": "3537",
+          "cities": []
+        },
+        {
+          "name": "TOYOHASHI",
+          "code": "3538",
+          "cities": []
+        },
+        {
+          "name": "TOYONAKA",
+          "code": "3539",
+          "cities": []
+        },
+        {
+          "name": "URAWA",
+          "code": "3622",
+          "cities": []
+        },
+        {
+          "name": "UTSUNOMIYA",
+          "code": "3633",
+          "cities": []
+        },
+        {
+          "name": "WAKAYAMA",
+          "code": "3722",
+          "cities": []
+        },
+        {
+          "name": "YAMAGATA",
+          "code": "3889",
+          "cities": []
+        },
+        {
+          "name": "YAO",
+          "code": "3892",
+          "cities": []
+        },
+        {
+          "name": "YOKOHAMA",
+          "code": "3899",
+          "cities": []
+        },
+        {
+          "name": "YOKOSUKA",
+          "code": "3900",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "KENYA",
+      "code": "62",
+      "provinces": [
+        {
+          "name": "MOMBASA",
+          "code": "2289",
+          "cities": []
+        },
+        {
+          "name": "NAIROBI",
+          "code": "2381",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "LATVIA",
+      "code": "67",
+      "provinces": [
+        {
+          "name": "DAUGAVPILS",
+          "code": "909",
+          "cities": []
+        },
+        {
+          "name": "JELGAVA",
+          "code": "1650",
+          "cities": []
+        },
+        {
+          "name": "LIEPAJA",
+          "code": "1972",
+          "cities": []
+        },
+        {
+          "name": "RIGA",
+          "code": "2959",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "LEBANON",
+      "code": "68",
+      "provinces": [
+        {
+          "name": "BEIRUT",
+          "code": "300",
+          "cities": []
+        },
+        {
+          "name": "TARABULUS",
+          "code": "3443",
+          "cities": []
+        },
+        {
+          "name": "TRIPOLI",
+          "code": "3555",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "LIBYA",
+      "code": "70",
+      "provinces": [
+        {
+          "name": "TRIPOLI",
+          "code": "3556",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "LITHUANIA",
+      "code": "72",
+      "provinces": [
+        {
+          "name": "KAUNAS",
+          "code": "1720",
+          "cities": []
+        },
+        {
+          "name": "KLAIPAEDA",
+          "code": "1787",
+          "cities": []
+        },
+        {
+          "name": "VILNIUS",
+          "code": "3691",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "LUXEMBOURG",
+      "code": "73",
+      "provinces": [
+        {
+          "name": "LUXEMBOURG",
+          "code": "2065",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "MACEDONIA",
+      "code": "74",
+      "provinces": [
+        {
+          "name": "BITOLA",
+          "code": "388",
+          "cities": []
+        },
+        {
+          "name": "KUMANOVO",
+          "code": "1831",
+          "cities": []
+        },
+        {
+          "name": "PRILEP",
+          "code": "2832",
+          "cities": []
+        },
+        {
+          "name": "SKOPJE",
+          "code": "3245",
+          "cities": []
+        },
+        {
+          "name": "TETOVO",
+          "code": "3476",
+          "cities": []
+        },
+        {
+          "name": "TITOV VELES",
+          "code": "3507",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "MARRUECOS",
+      "code": "78",
+      "provinces": [
+        {
+          "name": "CASABLANCA",
+          "code": "632",
+          "cities": []
+        },
+        {
+          "name": "FEZ",
+          "code": "1159",
+          "cities": []
+        },
+        {
+          "name": "KENITRA",
+          "code": "1737",
+          "cities": []
+        },
+        {
+          "name": "MARRAKECH",
+          "code": "2157",
+          "cities": []
+        },
+        {
+          "name": "MEKNES",
+          "code": "2202",
+          "cities": []
+        },
+        {
+          "name": "OUJDA",
+          "code": "2603",
+          "cities": []
+        },
+        {
+          "name": "RABAT",
+          "code": "2867",
+          "cities": []
+        },
+        {
+          "name": "SAFI",
+          "code": "3032",
+          "cities": []
+        },
+        {
+          "name": "SAHARA",
+          "code": "4044",
+          "cities": []
+        },
+        {
+          "name": "TANGER",
+          "code": "3437",
+          "cities": []
+        },
+        {
+          "name": "TANGIER",
+          "code": "3438",
+          "cities": []
+        },
+        {
+          "name": "TETOUAN",
+          "code": "3475",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "NEW ZEALAND",
+      "code": "81",
+      "provinces": [
+        {
+          "name": "AUCKLAND",
+          "code": "192",
+          "cities": []
+        },
+        {
+          "name": "CHRISTCHURCH",
+          "code": "742",
+          "cities": []
+        },
+        {
+          "name": "DUNEDIN",
+          "code": "997",
+          "cities": []
+        },
+        {
+          "name": "GISBORNE",
+          "code": "1284",
+          "cities": []
+        },
+        {
+          "name": "HAMILTON",
+          "code": "1423",
+          "cities": []
+        },
+        {
+          "name": "HASTINGS",
+          "code": "1457",
+          "cities": []
+        },
+        {
+          "name": "INVERCARGILL",
+          "code": "1593",
+          "cities": []
+        },
+        {
+          "name": "LOWER HUTT",
+          "code": "2040",
+          "cities": []
+        },
+        {
+          "name": "NAPIER",
+          "code": "2395",
+          "cities": []
+        },
+        {
+          "name": "NELSON",
+          "code": "2412",
+          "cities": []
+        },
+        {
+          "name": "NEW PLYMOUTH",
+          "code": "2434",
+          "cities": []
+        },
+        {
+          "name": "PALMERSTON N.",
+          "code": "2636",
+          "cities": []
+        },
+        {
+          "name": "ROTORUA",
+          "code": "3006",
+          "cities": []
+        },
+        {
+          "name": "TAURANGA",
+          "code": "3455",
+          "cities": []
+        },
+        {
+          "name": "TIMARU",
+          "code": "3500",
+          "cities": []
+        },
+        {
+          "name": "WANGANUI",
+          "code": "3738",
+          "cities": []
+        },
+        {
+          "name": "WELLINGTON",
+          "code": "3782",
+          "cities": []
+        },
+        {
+          "name": "WHANGAREI",
+          "code": "3813",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "NORTH KOREA",
+      "code": "63",
+      "provinces": [
+        {
+          "name": "P'YONGYANG",
+          "code": "2615",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "NORWAY",
+      "code": "84",
+      "provinces": [
+        {
+          "name": "BERGEN",
+          "code": "348",
+          "cities": []
+        },
+        {
+          "name": "DRAMMEN",
+          "code": "973",
+          "cities": []
+        },
+        {
+          "name": "FREDRIKSTAD",
+          "code": "1207",
+          "cities": []
+        },
+        {
+          "name": "HAUGESUND",
+          "code": "1461",
+          "cities": []
+        },
+        {
+          "name": "KRISTIANSAND",
+          "code": "1825",
+          "cities": []
+        },
+        {
+          "name": "OSLO",
+          "code": "2596",
+          "cities": []
+        },
+        {
+          "name": "SKIEN",
+          "code": "3241",
+          "cities": []
+        },
+        {
+          "name": "STAVENGER",
+          "code": "3339",
+          "cities": []
+        },
+        {
+          "name": "TRONDHEIM",
+          "code": "3561",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "PAKISTAN",
+      "code": "85",
+      "provinces": [
+        {
+          "name": "GUJRANWALA",
+          "code": "1384",
+          "cities": []
+        },
+        {
+          "name": "HYDERABAD",
+          "code": "1571",
+          "cities": []
+        },
+        {
+          "name": "ISLAMABAD",
+          "code": "1611",
+          "cities": []
+        },
+        {
+          "name": "KARACHI",
+          "code": "1705",
+          "cities": []
+        },
+        {
+          "name": "LAHORE",
+          "code": "1873",
+          "cities": []
+        },
+        {
+          "name": "LYALLPUR",
+          "code": "2069",
+          "cities": []
+        },
+        {
+          "name": "MULTAN",
+          "code": "2353",
+          "cities": []
+        },
+        {
+          "name": "PESHAWAR",
+          "code": "2712",
+          "cities": []
+        },
+        {
+          "name": "RAWALPINDI",
+          "code": "2895",
+          "cities": []
+        },
+        {
+          "name": "SARGODHA",
+          "code": "3146",
+          "cities": []
+        },
+        {
+          "name": "SUKKUR",
+          "code": "3376",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "POLAND",
+      "code": "89",
+      "provinces": [
+        {
+          "name": "BEDZIN",
+          "code": "296",
+          "cities": []
+        },
+        {
+          "name": "BIALYSTOK",
+          "code": "370",
+          "cities": []
+        },
+        {
+          "name": "BYDGOSZCZ",
+          "code": "549",
+          "cities": []
+        },
+        {
+          "name": "BYTOM",
+          "code": "550",
+          "cities": []
+        },
+        {
+          "name": "CHELM",
+          "code": "695",
+          "cities": []
+        },
+        {
+          "name": "CHORZOW",
+          "code": "741",
+          "cities": []
+        },
+        {
+          "name": "CRACOW",
+          "code": "856",
+          "cities": []
+        },
+        {
+          "name": "DANZIG",
+          "code": "901",
+          "cities": []
+        },
+        {
+          "name": "GDANSK",
+          "code": "1261",
+          "cities": []
+        },
+        {
+          "name": "GDYNIA",
+          "code": "1262",
+          "cities": []
+        },
+        {
+          "name": "GLIWICE",
+          "code": "1298",
+          "cities": []
+        },
+        {
+          "name": "GNIEZNO",
+          "code": "1302",
+          "cities": []
+        },
+        {
+          "name": "GRUDZIADZ",
+          "code": "1371",
+          "cities": []
+        },
+        {
+          "name": "INOWROCLAW",
+          "code": "1592",
+          "cities": []
+        },
+        {
+          "name": "JAROSLAW",
+          "code": "1644",
+          "cities": []
+        },
+        {
+          "name": "JAWORZNO",
+          "code": "1646",
+          "cities": []
+        },
+        {
+          "name": "JELENIA GORA",
+          "code": "1649",
+          "cities": []
+        },
+        {
+          "name": "KATOWICE",
+          "code": "1718",
+          "cities": []
+        },
+        {
+          "name": "KIELCE",
+          "code": "1762",
+          "cities": []
+        },
+        {
+          "name": "KOSZALIN",
+          "code": "1812",
+          "cities": []
+        },
+        {
+          "name": "KRAKOW",
+          "code": "1818",
+          "cities": []
+        },
+        {
+          "name": "LEGNICA",
+          "code": "1928",
+          "cities": []
+        },
+        {
+          "name": "LODZ",
+          "code": "2010",
+          "cities": []
+        },
+        {
+          "name": "LUBLIN",
+          "code": "2045",
+          "cities": []
+        },
+        {
+          "name": "OLSZTYN",
+          "code": "2555",
+          "cities": []
+        },
+        {
+          "name": "OPOLE",
+          "code": "2567",
+          "cities": []
+        },
+        {
+          "name": "PABIANICE",
+          "code": "2617",
+          "cities": []
+        },
+        {
+          "name": "PABJANICE",
+          "code": "2618",
+          "cities": []
+        },
+        {
+          "name": "PLOCK",
+          "code": "2763",
+          "cities": []
+        },
+        {
+          "name": "POZNAN",
+          "code": "2823",
+          "cities": []
+        },
+        {
+          "name": "PRZEMJSL",
+          "code": "2839",
+          "cities": []
+        },
+        {
+          "name": "RADOM",
+          "code": "2871",
+          "cities": []
+        },
+        {
+          "name": "RUDA SLASKA",
+          "code": "3014",
+          "cities": []
+        },
+        {
+          "name": "RYBNIK",
+          "code": "3024",
+          "cities": []
+        },
+        {
+          "name": "RZESZOV",
+          "code": "3026",
+          "cities": []
+        },
+        {
+          "name": "SLUPSK",
+          "code": "3250",
+          "cities": []
+        },
+        {
+          "name": "SOPOT",
+          "code": "3266",
+          "cities": []
+        },
+        {
+          "name": "SOSNOWIEC",
+          "code": "3270",
+          "cities": []
+        },
+        {
+          "name": "STARACHOWICE",
+          "code": "3335",
+          "cities": []
+        },
+        {
+          "name": "STETTIN",
+          "code": "3345",
+          "cities": []
+        },
+        {
+          "name": "SWIDNICA",
+          "code": "3400",
+          "cities": []
+        },
+        {
+          "name": "SZCZECIN",
+          "code": "3408",
+          "cities": []
+        },
+        {
+          "name": "TARNOW",
+          "code": "3447",
+          "cities": []
+        },
+        {
+          "name": "TORUN",
+          "code": "3531",
+          "cities": []
+        },
+        {
+          "name": "TYCHY",
+          "code": "3593",
+          "cities": []
+        },
+        {
+          "name": "WALBRZYCH",
+          "code": "3726",
+          "cities": []
+        },
+        {
+          "name": "WARSAW",
+          "code": "3748",
+          "cities": []
+        },
+        {
+          "name": "WLOCLAWEK",
+          "code": "3861",
+          "cities": []
+        },
+        {
+          "name": "WROCLAW",
+          "code": "3879",
+          "cities": []
+        },
+        {
+          "name": "ZABRZE",
+          "code": "3914",
+          "cities": []
+        },
+        {
+          "name": "ZIELONA GORA",
+          "code": "3932",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "ROMANIA",
+      "code": "91",
+      "provinces": [
+        {
+          "name": "ARAD",
+          "code": "139",
+          "cities": []
+        },
+        {
+          "name": "BAIA MARE",
+          "code": "219",
+          "cities": []
+        },
+        {
+          "name": "BRAILA",
+          "code": "452",
+          "cities": []
+        },
+        {
+          "name": "BRASOV",
+          "code": "461",
+          "cities": []
+        },
+        {
+          "name": "BUCHAREST",
+          "code": "518",
+          "cities": []
+        },
+        {
+          "name": "CLUJ-NAPOCA",
+          "code": "777",
+          "cities": []
+        },
+        {
+          "name": "CONSTANTA",
+          "code": "818",
+          "cities": []
+        },
+        {
+          "name": "CRAIOVA",
+          "code": "857",
+          "cities": []
+        },
+        {
+          "name": "GALATI",
+          "code": "1239",
+          "cities": []
+        },
+        {
+          "name": "IASI",
+          "code": "1572",
+          "cities": []
+        },
+        {
+          "name": "ORADEA",
+          "code": "2570",
+          "cities": []
+        },
+        {
+          "name": "PLOIESTI",
+          "code": "2764",
+          "cities": []
+        },
+        {
+          "name": "TIMISOARA",
+          "code": "3501",
+          "cities": []
+        },
+        {
+          "name": "TIRGU MUREZ",
+          "code": "3505",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "RUSSIA",
+      "code": "92",
+      "provinces": [
+        {
+          "name": "ANDROPOV",
+          "code": "113",
+          "cities": []
+        },
+        {
+          "name": "ASTRAKHAN",
+          "code": "176",
+          "cities": []
+        },
+        {
+          "name": "BABUSHKIN",
+          "code": "208",
+          "cities": []
+        },
+        {
+          "name": "BAKU",
+          "code": "224",
+          "cities": []
+        },
+        {
+          "name": "BRYANSK",
+          "code": "516",
+          "cities": []
+        },
+        {
+          "name": "CHEBOKSARY",
+          "code": "693",
+          "cities": []
+        },
+        {
+          "name": "CHEREPOVETS",
+          "code": "704",
+          "cities": []
+        },
+        {
+          "name": "DMITROV",
+          "code": "953",
+          "cities": []
+        },
+        {
+          "name": "DZERZHINSK",
+          "code": "1013",
+          "cities": []
+        },
+        {
+          "name": "GORKI",
+          "code": "1313",
+          "cities": []
+        },
+        {
+          "name": "IVANOVO",
+          "code": "1618",
+          "cities": []
+        },
+        {
+          "name": "KALININ",
+          "code": "1684",
+          "cities": []
+        },
+        {
+          "name": "KALININGRAD",
+          "code": "1685",
+          "cities": []
+        },
+        {
+          "name": "KALININGRAD",
+          "code": "1686",
+          "cities": []
+        },
+        {
+          "name": "KALUGA",
+          "code": "1688",
+          "cities": []
+        },
+        {
+          "name": "KAZAN",
+          "code": "1725",
+          "cities": []
+        },
+        {
+          "name": "KHABAROVSK",
+          "code": "1751",
+          "cities": []
+        },
+        {
+          "name": "KOLOMNA",
+          "code": "1799",
+          "cities": []
+        },
+        {
+          "name": "KOSTROMA",
+          "code": "1811",
+          "cities": []
+        },
+        {
+          "name": "KOVROV",
+          "code": "1815",
+          "cities": []
+        },
+        {
+          "name": "KRASNODAR",
+          "code": "1819",
+          "cities": []
+        },
+        {
+          "name": "KRASNOJARSK",
+          "code": "1820",
+          "cities": []
+        },
+        {
+          "name": "KUNTSEVO",
+          "code": "1833",
+          "cities": []
+        },
+        {
+          "name": "KURSK",
+          "code": "1837",
+          "cities": []
+        },
+        {
+          "name": "KUYBYSHEV",
+          "code": "1839",
+          "cities": []
+        },
+        {
+          "name": "LENINGRAD",
+          "code": "1936",
+          "cities": []
+        },
+        {
+          "name": "LENINO",
+          "code": "1937",
+          "cities": []
+        },
+        {
+          "name": "LYUBLINO",
+          "code": "2078",
+          "cities": []
+        },
+        {
+          "name": "MOSCOW",
+          "code": "2329",
+          "cities": []
+        },
+        {
+          "name": "MOSKVA",
+          "code": "2330",
+          "cities": []
+        },
+        {
+          "name": "MURMANSK",
+          "code": "2360",
+          "cities": []
+        },
+        {
+          "name": "MYTISHCHI",
+          "code": "2366",
+          "cities": []
+        },
+        {
+          "name": "NARO-FOMINSK",
+          "code": "2399",
+          "cities": []
+        },
+        {
+          "name": "NOGINSK",
+          "code": "2479",
+          "cities": []
+        },
+        {
+          "name": "NOVOSIBIRSK",
+          "code": "2511",
+          "cities": []
+        },
+        {
+          "name": "OREKHOVO-ZUYEVO",
+          "code": "2577",
+          "cities": []
+        },
+        {
+          "name": "OREL",
+          "code": "2578",
+          "cities": []
+        },
+        {
+          "name": "PERM",
+          "code": "2701",
+          "cities": []
+        },
+        {
+          "name": "PEROVO",
+          "code": "2704",
+          "cities": []
+        },
+        {
+          "name": "PODOLSK",
+          "code": "2771",
+          "cities": []
+        },
+        {
+          "name": "PUSHKINO",
+          "code": "2854",
+          "cities": []
+        },
+        {
+          "name": "RAMENSKOYE",
+          "code": "2880",
+          "cities": []
+        },
+        {
+          "name": "ROSTOV",
+          "code": "3002",
+          "cities": []
+        },
+        {
+          "name": "RYAZAN",
+          "code": "3022",
+          "cities": []
+        },
+        {
+          "name": "RYBINSK",
+          "code": "3023",
+          "cities": []
+        },
+        {
+          "name": "SARATOV",
+          "code": "3145",
+          "cities": []
+        },
+        {
+          "name": "SOBINKA",
+          "code": "3256",
+          "cities": []
+        },
+        {
+          "name": "SVERDLOVSK",
+          "code": "3399",
+          "cities": []
+        },
+        {
+          "name": "TAMBOV",
+          "code": "3430",
+          "cities": []
+        },
+        {
+          "name": "TULA",
+          "code": "3573",
+          "cities": []
+        },
+        {
+          "name": "VLADIVOSTOK",
+          "code": "3705",
+          "cities": []
+        },
+        {
+          "name": "VOLGOGRAD",
+          "code": "3708",
+          "cities": []
+        },
+        {
+          "name": "VOLOGDA",
+          "code": "3709",
+          "cities": []
+        },
+        {
+          "name": "VORONESZH",
+          "code": "3712",
+          "cities": []
+        },
+        {
+          "name": "YAROSLAVL",
+          "code": "3894",
+          "cities": []
+        },
+        {
+          "name": "YEGORYEVSK",
+          "code": "3895",
+          "cities": []
+        },
+        {
+          "name": "ZAGORSK",
+          "code": "3917",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SCOTLAND",
+      "code": "40",
+      "provinces": [
+        {
+          "name": "ALDERSHOT",
+          "code": "55",
+          "cities": []
+        },
+        {
+          "name": "ALDRIDGE BROWN.",
+          "code": "56",
+          "cities": []
+        },
+        {
+          "name": "ALTRINCHAM",
+          "code": "86",
+          "cities": []
+        },
+        {
+          "name": "ASHTON-U-LYNNE",
+          "code": "171",
+          "cities": []
+        },
+        {
+          "name": "BANSTEAD",
+          "code": "243",
+          "cities": []
+        },
+        {
+          "name": "BARKING",
+          "code": "251",
+          "cities": []
+        },
+        {
+          "name": "BARNET",
+          "code": "252",
+          "cities": []
+        },
+        {
+          "name": "BARNSLEY",
+          "code": "253",
+          "cities": []
+        },
+        {
+          "name": "BARROW-FURNESS",
+          "code": "261",
+          "cities": []
+        },
+        {
+          "name": "BASILDON",
+          "code": "265",
+          "cities": []
+        },
+        {
+          "name": "BASINGSTOKE",
+          "code": "266",
+          "cities": []
+        },
+        {
+          "name": "BATH",
+          "code": "273",
+          "cities": []
+        },
+        {
+          "name": "BATLEY",
+          "code": "276",
+          "cities": []
+        },
+        {
+          "name": "BEBINGTON",
+          "code": "292",
+          "cities": []
+        },
+        {
+          "name": "BEDFORD",
+          "code": "295",
+          "cities": []
+        },
+        {
+          "name": "BEESTON",
+          "code": "298",
+          "cities": []
+        },
+        {
+          "name": "BEXLEY",
+          "code": "366",
+          "cities": []
+        },
+        {
+          "name": "BIRKENHEAD",
+          "code": "382",
+          "cities": []
+        },
+        {
+          "name": "BIRMINGHAM",
+          "code": "383",
+          "cities": []
+        },
+        {
+          "name": "BLACKBURN",
+          "code": "392",
+          "cities": []
+        },
+        {
+          "name": "BLACKPOOL",
+          "code": "393",
+          "cities": []
+        },
+        {
+          "name": "BOLTON",
+          "code": "419",
+          "cities": []
+        },
+        {
+          "name": "BOOTLE",
+          "code": "425",
+          "cities": []
+        },
+        {
+          "name": "BOURNEMOUTH",
+          "code": "442",
+          "cities": []
+        },
+        {
+          "name": "BRADFORD",
+          "code": "448",
+          "cities": []
+        },
+        {
+          "name": "BRAMHALL",
+          "code": "454",
+          "cities": []
+        },
+        {
+          "name": "BRENT",
+          "code": "474",
+          "cities": []
+        },
+        {
+          "name": "BRENTWOOD",
+          "code": "475",
+          "cities": []
+        },
+        {
+          "name": "BRIGHTON",
+          "code": "481",
+          "cities": []
+        },
+        {
+          "name": "BRISTOL",
+          "code": "487",
+          "cities": []
+        },
+        {
+          "name": "BROMLEY",
+          "code": "497",
+          "cities": []
+        },
+        {
+          "name": "BROWNHILLS",
+          "code": "506",
+          "cities": []
+        },
+        {
+          "name": "BURNLEY",
+          "code": "539",
+          "cities": []
+        },
+        {
+          "name": "BURTON",
+          "code": "541",
+          "cities": []
+        },
+        {
+          "name": "BURTON-U-TRENT",
+          "code": "543",
+          "cities": []
+        },
+        {
+          "name": "BURY",
+          "code": "544",
+          "cities": []
+        },
+        {
+          "name": "CAMBORNE",
+          "code": "575",
+          "cities": []
+        },
+        {
+          "name": "CAMBRIDGE",
+          "code": "576",
+          "cities": []
+        },
+        {
+          "name": "CAMDON",
+          "code": "581",
+          "cities": []
+        },
+        {
+          "name": "CANNOCK",
+          "code": "592",
+          "cities": []
+        },
+        {
+          "name": "CANTERBURY",
+          "code": "594",
+          "cities": []
+        },
+        {
+          "name": "CARLISLE",
+          "code": "608",
+          "cities": []
+        },
+        {
+          "name": "CARLTON",
+          "code": "612",
+          "cities": []
+        },
+        {
+          "name": "CHATHAM",
+          "code": "686",
+          "cities": []
+        },
+        {
+          "name": "CHEADLE GATLEY",
+          "code": "691",
+          "cities": []
+        },
+        {
+          "name": "CHELMSFORD",
+          "code": "696",
+          "cities": []
+        },
+        {
+          "name": "CHELSEA",
+          "code": "698",
+          "cities": []
+        },
+        {
+          "name": "CHELTENHAM",
+          "code": "700",
+          "cities": []
+        },
+        {
+          "name": "CHERTSEY",
+          "code": "709",
+          "cities": []
+        },
+        {
+          "name": "CHESHAM",
+          "code": "711",
+          "cities": []
+        },
+        {
+          "name": "CHESHUNT",
+          "code": "712",
+          "cities": []
+        },
+        {
+          "name": "CHESTER",
+          "code": "713",
+          "cities": []
+        },
+        {
+          "name": "CHESTERFIELD",
+          "code": "716",
+          "cities": []
+        },
+        {
+          "name": "CHIGWELL",
+          "code": "729",
+          "cities": []
+        },
+        {
+          "name": "COLCHESTER",
+          "code": "788",
+          "cities": []
+        },
+        {
+          "name": "CORBY",
+          "code": "831",
+          "cities": []
+        },
+        {
+          "name": "COVENTRY",
+          "code": "850",
+          "cities": []
+        },
+        {
+          "name": "CREWE",
+          "code": "862",
+          "cities": []
+        },
+        {
+          "name": "CROSBY",
+          "code": "863",
+          "cities": []
+        },
+        {
+          "name": "CROYDON",
+          "code": "865",
+          "cities": []
+        },
+        {
+          "name": "DARLINGTON",
+          "code": "904",
+          "cities": []
+        },
+        {
+          "name": "DARTFORD",
+          "code": "907",
+          "cities": []
+        },
+        {
+          "name": "DERBY",
+          "code": "936",
+          "cities": []
+        },
+        {
+          "name": "DEWSBURY",
+          "code": "945",
+          "cities": []
+        },
+        {
+          "name": "DONCASTER",
+          "code": "959",
+          "cities": []
+        },
+        {
+          "name": "DUDLEY",
+          "code": "984",
+          "cities": []
+        },
+        {
+          "name": "DURHAM",
+          "code": "1007",
+          "cities": []
+        },
+        {
+          "name": "EALING",
+          "code": "1015",
+          "cities": []
+        },
+        {
+          "name": "EASTBOURNE",
+          "code": "1027",
+          "cities": []
+        },
+        {
+          "name": "EASTLEIGH",
+          "code": "1028",
+          "cities": []
+        },
+        {
+          "name": "ELLESMERE PORT",
+          "code": "1068",
+          "cities": []
+        },
+        {
+          "name": "ELY",
+          "code": "1074",
+          "cities": []
+        },
+        {
+          "name": "ENFIELD",
+          "code": "1083",
+          "cities": []
+        },
+        {
+          "name": "EPSOM EWELL",
+          "code": "1093",
+          "cities": []
+        },
+        {
+          "name": "ESHER",
+          "code": "1105",
+          "cities": []
+        },
+        {
+          "name": "ESTON",
+          "code": "1114",
+          "cities": []
+        },
+        {
+          "name": "EXETER",
+          "code": "1129",
+          "cities": []
+        },
+        {
+          "name": "FAREHAM",
+          "code": "1142",
+          "cities": []
+        },
+        {
+          "name": "FARNBOROUGH",
+          "code": "1147",
+          "cities": []
+        },
+        {
+          "name": "FELLING",
+          "code": "1155",
+          "cities": []
+        },
+        {
+          "name": "FOLKESTONE",
+          "code": "1173",
+          "cities": []
+        },
+        {
+          "name": "GLOUCESTER",
+          "code": "1300",
+          "cities": []
+        },
+        {
+          "name": "GOSPORT",
+          "code": "1316",
+          "cities": []
+        },
+        {
+          "name": "GRAVESEND",
+          "code": "1339",
+          "cities": []
+        },
+        {
+          "name": "GREAT YARMOUTH",
+          "code": "1343",
+          "cities": []
+        },
+        {
+          "name": "GREENWICH",
+          "code": "1355",
+          "cities": []
+        },
+        {
+          "name": "GUILDFORD",
+          "code": "1381",
+          "cities": []
+        },
+        {
+          "name": "HACKNEY",
+          "code": "1398",
+          "cities": []
+        },
+        {
+          "name": "HALESOWEN",
+          "code": "1409",
+          "cities": []
+        },
+        {
+          "name": "HALIFAX",
+          "code": "1410",
+          "cities": []
+        },
+        {
+          "name": "HAMMERSMITH",
+          "code": "1429",
+          "cities": []
+        },
+        {
+          "name": "HARINGEY",
+          "code": "1440",
+          "cities": []
+        },
+        {
+          "name": "HARLOW",
+          "code": "1442",
+          "cities": []
+        },
+        {
+          "name": "HAROGATE",
+          "code": "1443",
+          "cities": []
+        },
+        {
+          "name": "HARROW",
+          "code": "1449",
+          "cities": []
+        },
+        {
+          "name": "HARROW",
+          "code": "1450",
+          "cities": []
+        },
+        {
+          "name": "HASTINGS",
+          "code": "1456",
+          "cities": []
+        },
+        {
+          "name": "HAVANT",
+          "code": "1464",
+          "cities": []
+        },
+        {
+          "name": "HAVERING",
+          "code": "1468",
+          "cities": []
+        },
+        {
+          "name": "HAZEL GROVE",
+          "code": "1473",
+          "cities": []
+        },
+        {
+          "name": "HEREFORD",
+          "code": "1495",
+          "cities": []
+        },
+        {
+          "name": "HIGH WYCOMBE",
+          "code": "1507",
+          "cities": []
+        },
+        {
+          "name": "HILLINGDON",
+          "code": "1514",
+          "cities": []
+        },
+        {
+          "name": "HINCKLEY",
+          "code": "1518",
+          "cities": []
+        },
+        {
+          "name": "HOUNSLOW",
+          "code": "1548",
+          "cities": []
+        },
+        {
+          "name": "HOVE",
+          "code": "1550",
+          "cities": []
+        },
+        {
+          "name": "HULL",
+          "code": "1556",
+          "cities": []
+        },
+        {
+          "name": "HUTTON",
+          "code": "1568",
+          "cities": []
+        },
+        {
+          "name": "IPSWICH",
+          "code": "1597",
+          "cities": []
+        },
+        {
+          "name": "ISLINGTON",
+          "code": "1612",
+          "cities": []
+        },
+        {
+          "name": "KENSINGTON",
+          "code": "1741",
+          "cities": []
+        },
+        {
+          "name": "KETTERING",
+          "code": "1747",
+          "cities": []
+        },
+        {
+          "name": "KIDDERMINSTER",
+          "code": "1760",
+          "cities": []
+        },
+        {
+          "name": "KIRKBY",
+          "code": "1774",
+          "cities": []
+        },
+        {
+          "name": "LAMBETH",
+          "code": "1883",
+          "cities": []
+        },
+        {
+          "name": "LANCASTER",
+          "code": "1885",
+          "cities": []
+        },
+        {
+          "name": "LEATHERHEAD",
+          "code": "1917",
+          "cities": []
+        },
+        {
+          "name": "LEEDS",
+          "code": "1924",
+          "cities": []
+        },
+        {
+          "name": "LEICESTER",
+          "code": "1929",
+          "cities": []
+        },
+        {
+          "name": "LEIGH",
+          "code": "1931",
+          "cities": []
+        },
+        {
+          "name": "LEWISHAM",
+          "code": "1957",
+          "cities": []
+        },
+        {
+          "name": "LINCOLN",
+          "code": "1983",
+          "cities": []
+        },
+        {
+          "name": "LIVERPOOL",
+          "code": "1994",
+          "cities": []
+        },
+        {
+          "name": "LONDON",
+          "code": "2016",
+          "cities": []
+        },
+        {
+          "name": "LOUGHBOROUGH",
+          "code": "2035",
+          "cities": []
+        },
+        {
+          "name": "LOWESTOFT",
+          "code": "2041",
+          "cities": []
+        },
+        {
+          "name": "LUTON",
+          "code": "2063",
+          "cities": []
+        },
+        {
+          "name": "LYTHAM",
+          "code": "2077",
+          "cities": []
+        },
+        {
+          "name": "MACCLESFIELD",
+          "code": "2081",
+          "cities": []
+        },
+        {
+          "name": "MAIDENHEAD",
+          "code": "2097",
+          "cities": []
+        },
+        {
+          "name": "MAIDSTONE",
+          "code": "2098",
+          "cities": []
+        },
+        {
+          "name": "MANCHESTER",
+          "code": "2114",
+          "cities": []
+        },
+        {
+          "name": "MANSFIELD",
+          "code": "2127",
+          "cities": []
+        },
+        {
+          "name": "MARGATE",
+          "code": "2142",
+          "cities": []
+        },
+        {
+          "name": "MERTON",
+          "code": "2228",
+          "cities": []
+        },
+        {
+          "name": "MIDDLETON",
+          "code": "2246",
+          "cities": []
+        },
+        {
+          "name": "MILTON KEYNES",
+          "code": "2262",
+          "cities": []
+        },
+        {
+          "name": "NANTWICH",
+          "code": "2391",
+          "cities": []
+        },
+        {
+          "name": "NEWCASTLE LYME",
+          "code": "2445",
+          "cities": []
+        },
+        {
+          "name": "NEWCASTLE TYNE",
+          "code": "2446",
+          "cities": []
+        },
+        {
+          "name": "NEWCASTLE TYNE",
+          "code": "2447",
+          "cities": []
+        },
+        {
+          "name": "NEWHAM",
+          "code": "2450",
+          "cities": []
+        },
+        {
+          "name": "NORTHAMPTON",
+          "code": "2494",
+          "cities": []
+        },
+        {
+          "name": "NORWICH",
+          "code": "2499",
+          "cities": []
+        },
+        {
+          "name": "NOTTINGHAM",
+          "code": "2503",
+          "cities": []
+        },
+        {
+          "name": "OLDHAM",
+          "code": "2552",
+          "cities": []
+        },
+        {
+          "name": "OXFORD",
+          "code": "2610",
+          "cities": []
+        },
+        {
+          "name": "PETERBOROUGH",
+          "code": "2715",
+          "cities": []
+        },
+        {
+          "name": "PLYMOUTH",
+          "code": "2766",
+          "cities": []
+        },
+        {
+          "name": "POOLE",
+          "code": "2782",
+          "cities": []
+        },
+        {
+          "name": "PORTSMOUTH",
+          "code": "2809",
+          "cities": []
+        },
+        {
+          "name": "PRESTON",
+          "code": "2829",
+          "cities": []
+        },
+        {
+          "name": "RAMSGATE",
+          "code": "2882",
+          "cities": []
+        },
+        {
+          "name": "READING",
+          "code": "2897",
+          "cities": []
+        },
+        {
+          "name": "REDBRIDGE",
+          "code": "2905",
+          "cities": []
+        },
+        {
+          "name": "REDCAR",
+          "code": "2906",
+          "cities": []
+        },
+        {
+          "name": "REDDITCH",
+          "code": "2908",
+          "cities": []
+        },
+        {
+          "name": "REIGATE",
+          "code": "2919",
+          "cities": []
+        },
+        {
+          "name": "RICHMOND THAM.",
+          "code": "2948",
+          "cities": []
+        },
+        {
+          "name": "ROCHDALE",
+          "code": "2973",
+          "cities": []
+        },
+        {
+          "name": "ROCHESTER",
+          "code": "2975",
+          "cities": []
+        },
+        {
+          "name": "ROTHERHAM",
+          "code": "3005",
+          "cities": []
+        },
+        {
+          "name": "RUGBY",
+          "code": "3015",
+          "cities": []
+        },
+        {
+          "name": "RUNCORN",
+          "code": "3016",
+          "cities": []
+        },
+        {
+          "name": "SAINT ALBANS",
+          "code": "3037",
+          "cities": []
+        },
+        {
+          "name": "SALE",
+          "code": "3048",
+          "cities": []
+        },
+        {
+          "name": "SCARBOROUGH",
+          "code": "3158",
+          "cities": []
+        },
+        {
+          "name": "SCUNTHORPE",
+          "code": "3174",
+          "cities": []
+        },
+        {
+          "name": "SHEFFIELD",
+          "code": "3201",
+          "cities": []
+        },
+        {
+          "name": "SHREWSBURY",
+          "code": "3220",
+          "cities": []
+        },
+        {
+          "name": "SLOUGH",
+          "code": "3249",
+          "cities": []
+        },
+        {
+          "name": "SMETHWICK",
+          "code": "3253",
+          "cities": []
+        },
+        {
+          "name": "SOLIHULL",
+          "code": "3261",
+          "cities": []
+        },
+        {
+          "name": "SOUTH SHIELDS",
+          "code": "3274",
+          "cities": []
+        },
+        {
+          "name": "SOUTHAMPTON",
+          "code": "3275",
+          "cities": []
+        },
+        {
+          "name": "SOUTHEND-ON-SEA",
+          "code": "3276",
+          "cities": []
+        },
+        {
+          "name": "SOUTHPORT",
+          "code": "3280",
+          "cities": []
+        },
+        {
+          "name": "SOUTHWARK",
+          "code": "3281",
+          "cities": []
+        },
+        {
+          "name": "STAFFORD",
+          "code": "3330",
+          "cities": []
+        },
+        {
+          "name": "STAINES",
+          "code": "3331",
+          "cities": []
+        },
+        {
+          "name": "STEVENAGE",
+          "code": "3347",
+          "cities": []
+        },
+        {
+          "name": "STOCKPORT",
+          "code": "3353",
+          "cities": []
+        },
+        {
+          "name": "STOCKTON TEES",
+          "code": "3354",
+          "cities": []
+        },
+        {
+          "name": "STOKE-ON-TRENT",
+          "code": "3356",
+          "cities": []
+        },
+        {
+          "name": "STRETFORD",
+          "code": "3367",
+          "cities": []
+        },
+        {
+          "name": "SUNBURY THAMES",
+          "code": "3382",
+          "cities": []
+        },
+        {
+          "name": "SUNDERLAND",
+          "code": "3384",
+          "cities": []
+        },
+        {
+          "name": "SUTTON",
+          "code": "3396",
+          "cities": []
+        },
+        {
+          "name": "SUTTON ASHFIELD",
+          "code": "3394",
+          "cities": []
+        },
+        {
+          "name": "SUTTON COLDFLD.",
+          "code": "3395",
+          "cities": []
+        },
+        {
+          "name": "SUTTON-AT-HONE",
+          "code": "3397",
+          "cities": []
+        },
+        {
+          "name": "SWINDON",
+          "code": "3402",
+          "cities": []
+        },
+        {
+          "name": "TAMWORTH",
+          "code": "3435",
+          "cities": []
+        },
+        {
+          "name": "TELFORD",
+          "code": "3464",
+          "cities": []
+        },
+        {
+          "name": "THURROCK",
+          "code": "3494",
+          "cities": []
+        },
+        {
+          "name": "TORBAY",
+          "code": "3524",
+          "cities": []
+        },
+        {
+          "name": "TORQUAY",
+          "code": "3527",
+          "cities": []
+        },
+        {
+          "name": "TOWER HAMLETS",
+          "code": "3534",
+          "cities": []
+        },
+        {
+          "name": "TUNBRIDGE W.",
+          "code": "3579",
+          "cities": []
+        },
+        {
+          "name": "TYNEMOUTH",
+          "code": "3595",
+          "cities": []
+        },
+        {
+          "name": "URMSTON",
+          "code": "3627",
+          "cities": []
+        },
+        {
+          "name": "WAKEFIELD",
+          "code": "3723",
+          "cities": []
+        },
+        {
+          "name": "WALLASEY",
+          "code": "3729",
+          "cities": []
+        },
+        {
+          "name": "WALLSEND",
+          "code": "3730",
+          "cities": []
+        },
+        {
+          "name": "WALSALL",
+          "code": "3732",
+          "cities": []
+        },
+        {
+          "name": "WALTHAM FOREST",
+          "code": "3734",
+          "cities": []
+        },
+        {
+          "name": "WALTON",
+          "code": "3736",
+          "cities": []
+        },
+        {
+          "name": "WANDSWORTH",
+          "code": "3737",
+          "cities": []
+        },
+        {
+          "name": "WARLEY",
+          "code": "3741",
+          "cities": []
+        },
+        {
+          "name": "WARRINGTON",
+          "code": "3747",
+          "cities": []
+        },
+        {
+          "name": "WATERLOO",
+          "code": "3756",
+          "cities": []
+        },
+        {
+          "name": "WATFORD",
+          "code": "3763",
+          "cities": []
+        },
+        {
+          "name": "WELLINGBOROUGH",
+          "code": "3781",
+          "cities": []
+        },
+        {
+          "name": "WEST BROMWICH",
+          "code": "3788",
+          "cities": []
+        },
+        {
+          "name": "WEYBRIDGE",
+          "code": "3809",
+          "cities": []
+        },
+        {
+          "name": "WEYMOUTH",
+          "code": "3811",
+          "cities": []
+        },
+        {
+          "name": "WIDNES",
+          "code": "3824",
+          "cities": []
+        },
+        {
+          "name": "WIGAN",
+          "code": "3827",
+          "cities": []
+        },
+        {
+          "name": "WINCHESTER",
+          "code": "3843",
+          "cities": []
+        },
+        {
+          "name": "WOKING",
+          "code": "3863",
+          "cities": []
+        },
+        {
+          "name": "WOLVERHAMPTON",
+          "code": "3867",
+          "cities": []
+        },
+        {
+          "name": "WORCESTER",
+          "code": "3874",
+          "cities": []
+        },
+        {
+          "name": "WORSLEY",
+          "code": "3877",
+          "cities": []
+        },
+        {
+          "name": "WORTHING",
+          "code": "3878",
+          "cities": []
+        },
+        {
+          "name": "YORK",
+          "code": "3903",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SCOTLAND",
+      "code": "94",
+      "provinces": [
+        {
+          "name": "ABERDEEN",
+          "code": "8",
+          "cities": []
+        },
+        {
+          "name": "AIRDRIE",
+          "code": "33",
+          "cities": []
+        },
+        {
+          "name": "AYR",
+          "code": "206",
+          "cities": []
+        },
+        {
+          "name": "CLYDEBANK",
+          "code": "778",
+          "cities": []
+        },
+        {
+          "name": "COATBRIDGE",
+          "code": "779",
+          "cities": []
+        },
+        {
+          "name": "CUMBERNAULD",
+          "code": "879",
+          "cities": []
+        },
+        {
+          "name": "DUMFRIES",
+          "code": "987",
+          "cities": []
+        },
+        {
+          "name": "DUNDEE",
+          "code": "996",
+          "cities": []
+        },
+        {
+          "name": "DUNFERMLINE",
+          "code": "999",
+          "cities": []
+        },
+        {
+          "name": "EAST KILBRIDE",
+          "code": "1019",
+          "cities": []
+        },
+        {
+          "name": "EDINBURGH",
+          "code": "1037",
+          "cities": []
+        },
+        {
+          "name": "GLASGOW",
+          "code": "1288",
+          "cities": []
+        },
+        {
+          "name": "GREENOCK",
+          "code": "1348",
+          "cities": []
+        },
+        {
+          "name": "HAMILTON",
+          "code": "1424",
+          "cities": []
+        },
+        {
+          "name": "INVERNESS",
+          "code": "1594",
+          "cities": []
+        },
+        {
+          "name": "IRVINE",
+          "code": "1604",
+          "cities": []
+        },
+        {
+          "name": "KIRKCALDY",
+          "code": "1775",
+          "cities": []
+        },
+        {
+          "name": "MOTHERWELL",
+          "code": "2337",
+          "cities": []
+        },
+        {
+          "name": "PAISLEY",
+          "code": "2626",
+          "cities": []
+        },
+        {
+          "name": "PERTH",
+          "code": "2706",
+          "cities": []
+        },
+        {
+          "name": "STIRLING",
+          "code": "3351",
+          "cities": []
+        },
+        {
+          "name": "WISHAW",
+          "code": "3857",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SERBIA",
+      "code": "95",
+      "provinces": [
+        {
+          "name": "BANJA LUKA",
+          "code": "240",
+          "cities": []
+        },
+        {
+          "name": "BELGRADE",
+          "code": "307",
+          "cities": []
+        },
+        {
+          "name": "BEOGRAD",
+          "code": "340",
+          "cities": []
+        },
+        {
+          "name": "KARLOVAC",
+          "code": "1711",
+          "cities": []
+        },
+        {
+          "name": "NIS",
+          "code": "2472",
+          "cities": []
+        },
+        {
+          "name": "NOVI SAD",
+          "code": "2508",
+          "cities": []
+        },
+        {
+          "name": "SKOPYE",
+          "code": "3246",
+          "cities": []
+        },
+        {
+          "name": "VUKOVAR",
+          "code": "3715",
+          "cities": []
+        },
+        {
+          "name": "ZADAR",
+          "code": "3916",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SINGAPORE",
+      "code": "96",
+      "provinces": [
+        {
+          "name": "SINGAPORE",
+          "code": "3233",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SLOVAKIA",
+      "code": "97",
+      "provinces": [
+        {
+          "name": "BANSKA BYSTRICA",
+          "code": "242",
+          "cities": []
+        },
+        {
+          "name": "BRATISLAVA",
+          "code": "462",
+          "cities": []
+        },
+        {
+          "name": "KOMARNO",
+          "code": "1800",
+          "cities": []
+        },
+        {
+          "name": "KOSICE",
+          "code": "1810",
+          "cities": []
+        },
+        {
+          "name": "LEVICE",
+          "code": "1954",
+          "cities": []
+        },
+        {
+          "name": "LUCENEC",
+          "code": "2047",
+          "cities": []
+        },
+        {
+          "name": "MARTIN",
+          "code": "2161",
+          "cities": []
+        },
+        {
+          "name": "MICHALOVCE",
+          "code": "2244",
+          "cities": []
+        },
+        {
+          "name": "NITRA",
+          "code": "2475",
+          "cities": []
+        },
+        {
+          "name": "NOVE ZAMKY",
+          "code": "2507",
+          "cities": []
+        },
+        {
+          "name": "PIESTANY",
+          "code": "2730",
+          "cities": []
+        },
+        {
+          "name": "PRESOV",
+          "code": "2828",
+          "cities": []
+        },
+        {
+          "name": "RUZOMBEROK",
+          "code": "3021",
+          "cities": []
+        },
+        {
+          "name": "SPISSKA NOVA",
+          "code": "3289",
+          "cities": []
+        },
+        {
+          "name": "TRENCIN",
+          "code": "3545",
+          "cities": []
+        },
+        {
+          "name": "TRNAVA",
+          "code": "3559",
+          "cities": []
+        },
+        {
+          "name": "ZILINA",
+          "code": "3933",
+          "cities": []
+        },
+        {
+          "name": "ZVOLEN",
+          "code": "3935",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SLOVENIA",
+      "code": "98",
+      "provinces": [
+        {
+          "name": "LJUBLJANA",
+          "code": "2000",
+          "cities": []
+        },
+        {
+          "name": "MARIBOR",
+          "code": "2145",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "code": "99",
+      "provinces": [
+        {
+          "name": "BENONI",
+          "code": "336",
+          "cities": []
+        },
+        {
+          "name": "BLOEMFONTEIN",
+          "code": "399",
+          "cities": []
+        },
+        {
+          "name": "CAPETOWN",
+          "code": "601",
+          "cities": []
+        },
+        {
+          "name": "DURBAN",
+          "code": "1005",
+          "cities": []
+        },
+        {
+          "name": "EAST LONDON",
+          "code": "1021",
+          "cities": []
+        },
+        {
+          "name": "GERMISTON",
+          "code": "1274",
+          "cities": []
+        },
+        {
+          "name": "GOODWOOD",
+          "code": "1309",
+          "cities": []
+        },
+        {
+          "name": "JOHANNESBURG",
+          "code": "1658",
+          "cities": []
+        },
+        {
+          "name": "KROONSTAD",
+          "code": "1826",
+          "cities": []
+        },
+        {
+          "name": "PAARL",
+          "code": "2616",
+          "cities": []
+        },
+        {
+          "name": "PORT ELIZABETH",
+          "code": "2794",
+          "cities": []
+        },
+        {
+          "name": "PRETORIA",
+          "code": "2830",
+          "cities": []
+        },
+        {
+          "name": "UITENHAGE",
+          "code": "3602",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SOUTH KOREA",
+      "code": "64",
+      "provinces": [
+        {
+          "name": "CHON'JU",
+          "code": "740",
+          "cities": []
+        },
+        {
+          "name": "INCH'ON",
+          "code": "1582",
+          "cities": []
+        },
+        {
+          "name": "KWANGJU",
+          "code": "1840",
+          "cities": []
+        },
+        {
+          "name": "PUSAN",
+          "code": "2853",
+          "cities": []
+        },
+        {
+          "name": "SEOUL",
+          "code": "3184",
+          "cities": []
+        },
+        {
+          "name": "TAEGU",
+          "code": "3421",
+          "cities": []
+        },
+        {
+          "name": "TAEJON",
+          "code": "3422",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SWEDEN",
+      "code": "102",
+      "provinces": [
+        {
+          "name": "BORAS",
+          "code": "426",
+          "cities": []
+        },
+        {
+          "name": "BORLANGE",
+          "code": "431",
+          "cities": []
+        },
+        {
+          "name": "ESKILSTUNA",
+          "code": "1106",
+          "cities": []
+        },
+        {
+          "name": "FALUN",
+          "code": "1141",
+          "cities": []
+        },
+        {
+          "name": "GAVLE",
+          "code": "1259",
+          "cities": []
+        },
+        {
+          "name": "GOTEBORG",
+          "code": "1317",
+          "cities": []
+        },
+        {
+          "name": "HALMSTAD",
+          "code": "1414",
+          "cities": []
+        },
+        {
+          "name": "HALSINGBORG",
+          "code": "1415",
+          "cities": []
+        },
+        {
+          "name": "KALMAR",
+          "code": "1687",
+          "cities": []
+        },
+        {
+          "name": "KARLSTAD",
+          "code": "1714",
+          "cities": []
+        },
+        {
+          "name": "KIRUNA",
+          "code": "1779",
+          "cities": []
+        },
+        {
+          "name": "LULEA",
+          "code": "2058",
+          "cities": []
+        },
+        {
+          "name": "LUND",
+          "code": "2060",
+          "cities": []
+        },
+        {
+          "name": "MALMO",
+          "code": "2109",
+          "cities": []
+        },
+        {
+          "name": "NORRKOPING",
+          "code": "2487",
+          "cities": []
+        },
+        {
+          "name": "NYKOPING",
+          "code": "2516",
+          "cities": []
+        },
+        {
+          "name": "OREBRO",
+          "code": "2576",
+          "cities": []
+        },
+        {
+          "name": "SKELLEFTEA",
+          "code": "3240",
+          "cities": []
+        },
+        {
+          "name": "STOCKHOLM",
+          "code": "3352",
+          "cities": []
+        },
+        {
+          "name": "SUNDSVALL",
+          "code": "3385",
+          "cities": []
+        },
+        {
+          "name": "UDDEVALLA",
+          "code": "3600",
+          "cities": []
+        },
+        {
+          "name": "UMEA",
+          "code": "3609",
+          "cities": []
+        },
+        {
+          "name": "UPPSALA",
+          "code": "3621",
+          "cities": []
+        },
+        {
+          "name": "VASTERAS",
+          "code": "3656",
+          "cities": []
+        },
+        {
+          "name": "VAXJO",
+          "code": "3658",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SWITZERLAND",
+      "code": "103",
+      "provinces": [
+        {
+          "name": "AARAU",
+          "code": "4",
+          "cities": []
+        },
+        {
+          "name": "BADEN",
+          "code": "213",
+          "cities": []
+        },
+        {
+          "name": "BASEL",
+          "code": "264",
+          "cities": []
+        },
+        {
+          "name": "BERN",
+          "code": "353",
+          "cities": []
+        },
+        {
+          "name": "BIEL",
+          "code": "372",
+          "cities": []
+        },
+        {
+          "name": "CHUR",
+          "code": "744",
+          "cities": []
+        },
+        {
+          "name": "FRIBOURG",
+          "code": "1218",
+          "cities": []
+        },
+        {
+          "name": "GENEVA",
+          "code": "1266",
+          "cities": []
+        },
+        {
+          "name": "LAUZANNE",
+          "code": "1904",
+          "cities": []
+        },
+        {
+          "name": "LUCERNE",
+          "code": "2048",
+          "cities": []
+        },
+        {
+          "name": "LUGANO",
+          "code": "2055",
+          "cities": []
+        },
+        {
+          "name": "LUZERN",
+          "code": "2067",
+          "cities": []
+        },
+        {
+          "name": "NEUCHATEL",
+          "code": "2415",
+          "cities": []
+        },
+        {
+          "name": "OLTEN",
+          "code": "2556",
+          "cities": []
+        },
+        {
+          "name": "SANKTGALLEN",
+          "code": "3111",
+          "cities": []
+        },
+        {
+          "name": "SCHAFFHAUSEN",
+          "code": "3161",
+          "cities": []
+        },
+        {
+          "name": "THUN",
+          "code": "3492",
+          "cities": []
+        },
+        {
+          "name": "VEVEY",
+          "code": "3672",
+          "cities": []
+        },
+        {
+          "name": "WINTERTHUR",
+          "code": "3856",
+          "cities": []
+        },
+        {
+          "name": "ZURICH",
+          "code": "3934",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "SYRIA",
+      "code": "104",
+      "provinces": [
+        {
+          "name": "ALEPPO",
+          "code": "57",
+          "cities": []
+        },
+        {
+          "name": "ANTIOCH",
+          "code": "129",
+          "cities": []
+        },
+        {
+          "name": "DAMASCUS",
+          "code": "891",
+          "cities": []
+        },
+        {
+          "name": "HAMA",
+          "code": "1417",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "TAIWAN",
+      "code": "105",
+      "provinces": [
+        {
+          "name": "CHI'LUNG",
+          "code": "719",
+          "cities": []
+        },
+        {
+          "name": "CHIAI",
+          "code": "720",
+          "cities": []
+        },
+        {
+          "name": "HSINCHU",
+          "code": "1553",
+          "cities": []
+        },
+        {
+          "name": "KAOHSIUNG",
+          "code": "1702",
+          "cities": []
+        },
+        {
+          "name": "P'INGTUNG",
+          "code": "2614",
+          "cities": []
+        },
+        {
+          "name": "T'AICHUNG",
+          "code": "3415",
+          "cities": []
+        },
+        {
+          "name": "T'AIPEI",
+          "code": "3416",
+          "cities": []
+        },
+        {
+          "name": "TAINAN",
+          "code": "3423",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "THAILAND",
+      "code": "107",
+      "provinces": [
+        {
+          "name": "BANGKOK",
+          "code": "235",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "VIETNAM",
+      "code": "120",
+      "provinces": [
+        {
+          "name": "HAIPHONG",
+          "code": "1406",
+          "cities": []
+        },
+        {
+          "name": "HANOI",
+          "code": "1437",
+          "cities": []
+        },
+        {
+          "name": "SAIGON",
+          "code": "3036",
+          "cities": []
+        }
+      ]
+    }
+  ]
+}

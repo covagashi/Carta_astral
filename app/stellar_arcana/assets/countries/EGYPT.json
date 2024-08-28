@@ -1,0 +1,104 @@
+{
+  "name": "EGYPT",
+  "code": "30",
+  "provinces": [
+    {
+      "name": "AKHMIM",
+      "code": "36",
+      "cities": [
+        {
+          "name": "AKHMIM",
+          "code": "36"
+        },
+        {
+          "name": "AL UQSUR",
+          "code": "40"
+        },
+        {
+          "name": "ALEXANDRIA",
+          "code": "59"
+        },
+        {
+          "name": "ASWAN",
+          "code": "177"
+        },
+        {
+          "name": "ASYUT",
+          "code": "178"
+        },
+        {
+          "name": "BENI SAUF",
+          "code": "332"
+        },
+        {
+          "name": "BUR SA'ID",
+          "code": "527"
+        },
+        {
+          "name": "CAIRO",
+          "code": "557"
+        },
+        {
+          "name": "DAMIETTA",
+          "code": "892"
+        },
+        {
+          "name": "DUMYAT",
+          "code": "988"
+        },
+        {
+          "name": "EL FAIYUM",
+          "code": "1051"
+        },
+        {
+          "name": "EL ISKANDARIYA",
+          "code": "1053"
+        },
+        {
+          "name": "EL MINYA",
+          "code": "1054"
+        },
+        {
+          "name": "EL QAHIRA",
+          "code": "1057"
+        },
+        {
+          "name": "ISMALIA",
+          "code": "1613"
+        },
+        {
+          "name": "KAYNA",
+          "code": "1724"
+        },
+        {
+          "name": "LUXOR",
+          "code": "2066"
+        },
+        {
+          "name": "PORT SAID",
+          "code": "2799"
+        },
+        {
+          "name": "QENA",
+          "code": "2856"
+        },
+        {
+          "name": "QINA",
+          "code": "2857"
+        },
+        {
+          "name": "SOHAG",
+          "code": "3260"
+        },
+        {
+          "name": "SUEZ",
+          "code": "3373"
+        },
+        {
+          "name": "TANTA",
+          "code": "3441"
+        }
+      ]
+    }
+  ]
+}

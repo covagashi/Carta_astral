@@ -1,0 +1,100 @@
+{
+  "name": "ANDORRA",
+  "code": "128",
+  "provinces": [
+    {
+      "name": "Andorra la Vieja",
+      "code": "710",
+      "cities": [
+        {
+          "name": "Andorra la Vieja",
+          "code": "710"
+        },
+        {
+          "name": "Canillo",
+          "code": "706"
+        },
+        {
+          "name": "Encamp",
+          "code": "707"
+        },
+        {
+          "name": "La Massana",
+          "code": "709"
+        },
+        {
+          "name": "Las Escaldas-Engordany",
+          "code": "712"
+        },
+        {
+          "name": "Ordino",
+          "code": "708"
+        },
+        {
+          "name": "San Julián de Loria",
+          "code": "711"
+        }
+      ]
+    },
+    {
+      "name": "Canillo",
+      "code": "706",
+      "cities": [
+        {
+          "name": "Canillo",
+          "code": "464626"
+        }
+      ]
+    },
+    {
+      "name": "Encamp",
+      "code": "707",
+      "cities": [
+        {
+          "name": "Encamp",
+          "code": "464627"
+        }
+      ]
+    },
+    {
+      "name": "La Massana",
+      "code": "709",
+      "cities": [
+        {
+          "name": "La Massana",
+          "code": "464628"
+        }
+      ]
+    },
+    {
+      "name": "Las Escaldas-Engordany",
+      "code": "712",
+      "cities": [
+        {
+          "name": "Las Escaldas-Engordany",
+          "code": "464631"
+        }
+      ]
+    },
+    {
+      "name": "Ordino",
+      "code": "708",
+      "cities": [
+        {
+          "name": "Ordino",
+          "code": "464629"
+        }
+      ]
+    },
+    {
+      "name": "San Julián de Loria",
+      "code": "711",
+      "cities": [
+        {
+          "name": "San Julián de Loria",
+          "code": "464630"
+        }
+      ]
+    }
+  ]
+}

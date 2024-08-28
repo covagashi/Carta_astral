@@ -1,0 +1,6990 @@
+{
+  "name": "TUNISIA",
+  "code": "109",
+  "provinces": [
+    {
+      "name": "Al Mahdiyah",
+      "code": "575",
+      "cities": [
+        {
+          "name": "Al Mahdiyah",
+          "code": "575"
+        },
+        {
+          "name": "Al Munastir",
+          "code": "576"
+        },
+        {
+          "name": "Al Qasrayn",
+          "code": "577"
+        },
+        {
+          "name": "Al Qayrawan",
+          "code": "578"
+        },
+        {
+          "name": "Ariana",
+          "code": "579"
+        },
+        {
+          "name": "Bajah",
+          "code": "580"
+        },
+        {
+          "name": "Banzart",
+          "code": "581"
+        },
+        {
+          "name": "Bin ‘Arus",
+          "code": "582"
+        },
+        {
+          "name": "Jundubah",
+          "code": "583"
+        },
+        {
+          "name": "Kef",
+          "code": "584"
+        },
+        {
+          "name": "Madanin",
+          "code": "585"
+        },
+        {
+          "name": "Nabul",
+          "code": "586"
+        },
+        {
+          "name": "Qabis",
+          "code": "587"
+        },
+        {
+          "name": "Qafsah",
+          "code": "588"
+        },
+        {
+          "name": "Qibili",
+          "code": "589"
+        },
+        {
+          "name": "Safaqis",
+          "code": "590"
+        },
+        {
+          "name": "Sidi Bu Zayd",
+          "code": "591"
+        },
+        {
+          "name": "Silyanah",
+          "code": "592"
+        },
+        {
+          "name": "Susah",
+          "code": "593"
+        },
+        {
+          "name": "Tatawin",
+          "code": "594"
+        },
+        {
+          "name": "Tawzar",
+          "code": "595"
+        },
+        {
+          "name": "Tunis",
+          "code": "596"
+        },
+        {
+          "name": "Tunis al Janubiyah Wilayat",
+          "code": "597"
+        },
+        {
+          "name": "Zaghwan",
+          "code": "598"
+        }
+      ]
+    },
+    {
+      "name": "Al Munastir",
+      "code": "576",
+      "cities": [
+        {
+          "name": "Ad Damus",
+          "code": "297955"
+        },
+        {
+          "name": "Al Baqalitah",
+          "code": "297980"
+        },
+        {
+          "name": "Al Graa",
+          "code": "297990"
+        },
+        {
+          "name": "Al Hamadah",
+          "code": "297994"
+        },
+        {
+          "name": "Al Manarah",
+          "code": "298017"
+        },
+        {
+          "name": "Al Masdur",
+          "code": "298023"
+        },
+        {
+          "name": "Al Wardanin",
+          "code": "298039"
+        },
+        {
+          "name": "Al `Alqamah",
+          "code": "298043"
+        },
+        {
+          "name": "Ar Rijal al Aroua",
+          "code": "298056"
+        },
+        {
+          "name": "As Sayyadah",
+          "code": "298068"
+        },
+        {
+          "name": "Az Zaramidin",
+          "code": "298076"
+        },
+        {
+          "name": "Banbalah",
+          "code": "298092"
+        },
+        {
+          "name": "Bani Hassan",
+          "code": "298095"
+        },
+        {
+          "name": "Bannan",
+          "code": "298104"
+        },
+        {
+          "name": "Bin Hamid",
+          "code": "298143"
+        },
+        {
+          "name": "Bir at Tayyib",
+          "code": "298131"
+        },
+        {
+          "name": "Bodeur",
+          "code": "298155"
+        },
+        {
+          "name": "Bu Hajar",
+          "code": "298220"
+        },
+        {
+          "name": "Dar al Hajj Hasan",
+          "code": "298276"
+        },
+        {
+          "name": "Dar `Ali Bin Hassan",
+          "code": "298422"
+        },
+        {
+          "name": "Ghar el Fabs",
+          "code": "298989"
+        },
+        {
+          "name": "Jammal",
+          "code": "299072"
+        },
+        {
+          "name": "Khunays",
+          "code": "299128"
+        },
+        {
+          "name": "Lamtah",
+          "code": "299168"
+        },
+        {
+          "name": "Maatmeur",
+          "code": "299186"
+        },
+        {
+          "name": "Manzil Harb",
+          "code": "299201"
+        },
+        {
+          "name": "Manzil Kamil",
+          "code": "299202"
+        },
+        {
+          "name": "Manzil Khayr",
+          "code": "299203"
+        },
+        {
+          "name": "Masjid `Isá",
+          "code": "299211"
+        },
+        {
+          "name": "Moknine",
+          "code": "299254"
+        },
+        {
+          "name": "Monastir",
+          "code": "299255"
+        },
+        {
+          "name": "Qasr Hallal",
+          "code": "299372"
+        },
+        {
+          "name": "Qusaybat al Madyuni",
+          "code": "299396"
+        },
+        {
+          "name": "Sahline",
+          "code": "299424"
+        },
+        {
+          "name": "Saqanis",
+          "code": "299440"
+        },
+        {
+          "name": "Sidi al Ghudamisi",
+          "code": "299473"
+        },
+        {
+          "name": "Sidi an Nu`ayjah",
+          "code": "299482"
+        },
+        {
+          "name": "Sidi Bessari",
+          "code": "299491"
+        },
+        {
+          "name": "Sidi Bin Nur",
+          "code": "299492"
+        },
+        {
+          "name": "Sidi Bu `Uthman",
+          "code": "299510"
+        },
+        {
+          "name": "Sidi `Amir",
+          "code": "299540"
+        },
+        {
+          "name": "Tabulbah",
+          "code": "299563"
+        },
+        {
+          "name": "Tuzah",
+          "code": "299613"
+        },
+        {
+          "name": "Zawiyat Quntash",
+          "code": "299650"
+        },
+        {
+          "name": "Zola",
+          "code": "299656"
+        }
+      ]
+    },
+    {
+      "name": "Al Qasrayn",
+      "code": "577",
+      "cities": [
+        {
+          "name": "Ad Dulab",
+          "code": "297957"
+        },
+        {
+          "name": "Al Hayara",
+          "code": "297998"
+        },
+        {
+          "name": "Berouari",
+          "code": "298126"
+        },
+        {
+          "name": "Bir ech Chebbou",
+          "code": "298146"
+        },
+        {
+          "name": "Borj Mejen Bel Abbès",
+          "code": "298196"
+        },
+        {
+          "name": "Bou Chebka",
+          "code": "298205"
+        },
+        {
+          "name": "Burj al Hajj Muhammad",
+          "code": "298233"
+        },
+        {
+          "name": "Dar Awlad Khalifah",
+          "code": "298286"
+        },
+        {
+          "name": "Dar el Haj Salih Ben Moubarak",
+          "code": "298340"
+        },
+        {
+          "name": "Dar Farikat",
+          "code": "298363"
+        },
+        {
+          "name": "Dar Muhammad Bu al Hajj `Ali",
+          "code": "298395"
+        },
+        {
+          "name": "Dar `Abd al `Aziz",
+          "code": "298421"
+        },
+        {
+          "name": "Dashrat Zawiyat Sidi Salih",
+          "code": "298437"
+        },
+        {
+          "name": "Dawwar al Barashiniyah",
+          "code": "298439"
+        },
+        {
+          "name": "Dawwar al Hajj Wanis",
+          "code": "298443"
+        },
+        {
+          "name": "Dawwar Awlad Mas`ud",
+          "code": "298453"
+        },
+        {
+          "name": "Dawwar Awlad `Ali Bin Nasir",
+          "code": "298455"
+        },
+        {
+          "name": "Dawwar Sidi Muhammad Bu al Qur",
+          "code": "298466"
+        },
+        {
+          "name": "Dawwar `Ali Bin Khulut",
+          "code": "298470"
+        },
+        {
+          "name": "Dechret Ouled Mohamed Ben Saïd",
+          "code": "298492"
+        },
+        {
+          "name": "Dernaïa",
+          "code": "298499"
+        },
+        {
+          "name": "Djar al Amri",
+          "code": "298505"
+        },
+        {
+          "name": "Douar el Fratis",
+          "code": "298622"
+        },
+        {
+          "name": "Douar Sidi Ameur",
+          "code": "298810"
+        },
+        {
+          "name": "El Gennara",
+          "code": "298880"
+        },
+        {
+          "name": "Feriana",
+          "code": "298968"
+        },
+        {
+          "name": "Fonndouk Bou el Haneche",
+          "code": "298975"
+        },
+        {
+          "name": "Haïdra",
+          "code": "299008"
+        },
+        {
+          "name": "Hanshir al Fass",
+          "code": "299022"
+        },
+        {
+          "name": "Kasserine",
+          "code": "299108"
+        },
+        {
+          "name": "Khalouet Bou Haslaya",
+          "code": "299120"
+        },
+        {
+          "name": "Ksar el Kradem",
+          "code": "299139"
+        },
+        {
+          "name": "Megdoudech",
+          "code": "299224"
+        },
+        {
+          "name": "Mejen Bel Abbès",
+          "code": "299228"
+        },
+        {
+          "name": "Qasr Bu Zayd",
+          "code": "299367"
+        },
+        {
+          "name": "Rohia",
+          "code": "299417"
+        },
+        {
+          "name": "Sbeitla",
+          "code": "299443"
+        },
+        {
+          "name": "Sbiba",
+          "code": "299444"
+        },
+        {
+          "name": "Sidi Bou Khelout",
+          "code": "299499"
+        },
+        {
+          "name": "Thala",
+          "code": "299590"
+        },
+        {
+          "name": "Thelepte",
+          "code": "299591"
+        }
+      ]
+    },
+    {
+      "name": "Al Qayrawan",
+      "code": "578",
+      "cities": [
+        {
+          "name": "Ailet Jridani",
+          "code": "297965"
+        },
+        {
+          "name": "Aïn Jioula",
+          "code": "297970"
+        },
+        {
+          "name": "Aïn Mestour",
+          "code": "297972"
+        },
+        {
+          "name": "Aïn Sayada",
+          "code": "297973"
+        },
+        {
+          "name": "Al Bulaydah",
+          "code": "297984"
+        },
+        {
+          "name": "Al Hajj as Saghir",
+          "code": "297993"
+        },
+        {
+          "name": "Amara Ben Sliman",
+          "code": "298050"
+        },
+        {
+          "name": "Arlet en Najaa",
+          "code": "298062"
+        },
+        {
+          "name": "Ben Romdane",
+          "code": "298121"
+        },
+        {
+          "name": "Cheikh Hamed",
+          "code": "298255"
+        },
+        {
+          "name": "Cherichira",
+          "code": "298256"
+        },
+        {
+          "name": "Dar Ahmed Mohammed Largueb",
+          "code": "298273"
+        },
+        {
+          "name": "Dar Ali Ben Bouzid",
+          "code": "298281"
+        },
+        {
+          "name": "Dar Ali Ben Mohammed",
+          "code": "298283"
+        },
+        {
+          "name": "Dar Ali Bey",
+          "code": "298284"
+        },
+        {
+          "name": "Dar Ameur",
+          "code": "298285"
+        },
+        {
+          "name": "Dar Bach Mufti",
+          "code": "298289"
+        },
+        {
+          "name": "Dar Bagara",
+          "code": "298290"
+        },
+        {
+          "name": "Dar Bel Kassem Bou Ktel",
+          "code": "298291"
+        },
+        {
+          "name": "Dar Belkassem Ben Haj Naceur",
+          "code": "298292"
+        },
+        {
+          "name": "Dar Brinissa",
+          "code": "298309"
+        },
+        {
+          "name": "Dar el Allani",
+          "code": "298323"
+        },
+        {
+          "name": "Dar el Beil",
+          "code": "298326"
+        },
+        {
+          "name": "Dar el Haj Mabrouk",
+          "code": "298338"
+        },
+        {
+          "name": "Dar es Srahia",
+          "code": "298360"
+        },
+        {
+          "name": "Dar Haj Ahmed Ben Ameur",
+          "code": "298365"
+        },
+        {
+          "name": "Dar Harcha",
+          "code": "298370"
+        },
+        {
+          "name": "Dar Lajimi",
+          "code": "298382"
+        },
+        {
+          "name": "Dar Mannsour Bou Amara",
+          "code": "298383"
+        },
+        {
+          "name": "Dar Mouaddenne Ben Kassem",
+          "code": "298392"
+        },
+        {
+          "name": "Dar Salah Ben Zaroug",
+          "code": "298402"
+        },
+        {
+          "name": "Dar Salah Bou el Fellah",
+          "code": "298404"
+        },
+        {
+          "name": "Dar Sialah",
+          "code": "298407"
+        },
+        {
+          "name": "Dashrat al Qulay`ah",
+          "code": "298430"
+        },
+        {
+          "name": "Debdabat el Jerardia",
+          "code": "298476"
+        },
+        {
+          "name": "Dechra el Hedaya",
+          "code": "298478"
+        },
+        {
+          "name": "Dechret Bou Dabouss",
+          "code": "298480"
+        },
+        {
+          "name": "Dechret el Gamboura",
+          "code": "298482"
+        },
+        {
+          "name": "Dechret el Golea",
+          "code": "298484"
+        },
+        {
+          "name": "Dechret Jelelba",
+          "code": "298488"
+        },
+        {
+          "name": "Dechret Ouled Aïssaoui",
+          "code": "298491"
+        },
+        {
+          "name": "Dechret Touama",
+          "code": "298495"
+        },
+        {
+          "name": "Diar Beni Allah",
+          "code": "298500"
+        },
+        {
+          "name": "Douar Aïssa",
+          "code": "298513"
+        },
+        {
+          "name": "Douar Ali Bou Mesbah",
+          "code": "298517"
+        },
+        {
+          "name": "Douar Ali Bou Saïd",
+          "code": "298518"
+        },
+        {
+          "name": "Douar Ali el Haj Amar",
+          "code": "298519"
+        },
+        {
+          "name": "Douar Bel Kassem Ben Amor",
+          "code": "298528"
+        },
+        {
+          "name": "Douar Ben Saïdane",
+          "code": "298548"
+        },
+        {
+          "name": "Douar Bou Ali",
+          "code": "298557"
+        },
+        {
+          "name": "Douar Bou Beker",
+          "code": "298558"
+        },
+        {
+          "name": "Douar Bou Daoudi",
+          "code": "298561"
+        },
+        {
+          "name": "Douar Boussari Sghir",
+          "code": "298568"
+        },
+        {
+          "name": "Douar Chaïb",
+          "code": "298572"
+        },
+        {
+          "name": "Douar Chouli",
+          "code": "298577"
+        },
+        {
+          "name": "Douar el Abaïda",
+          "code": "298597"
+        },
+        {
+          "name": "Douar el Adhla",
+          "code": "298599"
+        },
+        {
+          "name": "Douar el Bahira",
+          "code": "298611"
+        },
+        {
+          "name": "Douar el Gharba",
+          "code": "298623"
+        },
+        {
+          "name": "Douar el Guelaïa",
+          "code": "298627"
+        },
+        {
+          "name": "Douar en Nouilia",
+          "code": "298672"
+        },
+        {
+          "name": "Douar Fellah",
+          "code": "298694"
+        },
+        {
+          "name": "Douar Hamouda",
+          "code": "298708"
+        },
+        {
+          "name": "Douar Jelelba",
+          "code": "298717"
+        },
+        {
+          "name": "Douar Kaddour",
+          "code": "298723"
+        },
+        {
+          "name": "Douar Khelifa Ben Slimane",
+          "code": "298727"
+        },
+        {
+          "name": "Douar Maunsour Bou Hadia",
+          "code": "298740"
+        },
+        {
+          "name": "Douar Mohammed Bou Brahim",
+          "code": "298756"
+        },
+        {
+          "name": "Douar Mohammed el Akerni",
+          "code": "298757"
+        },
+        {
+          "name": "Douar Oulad Abbas",
+          "code": "298768"
+        },
+        {
+          "name": "Douar Ouled Abd Allah",
+          "code": "298787"
+        },
+        {
+          "name": "Douar Ouled Ali Ben Salem",
+          "code": "298789"
+        },
+        {
+          "name": "Douar Ouled Bou Allah",
+          "code": "298791"
+        },
+        {
+          "name": "Douar Ouled Messaoud",
+          "code": "298793"
+        },
+        {
+          "name": "Douar Ouled Zaid",
+          "code": "298794"
+        },
+        {
+          "name": "Douar Sadok",
+          "code": "298798"
+        },
+        {
+          "name": "Douar Salem Ben ez Zine",
+          "code": "298807"
+        },
+        {
+          "name": "Douar Tell er Rebia",
+          "code": "298821"
+        },
+        {
+          "name": "Douar Zouameïa",
+          "code": "298828"
+        },
+        {
+          "name": "Douiret es Serdouk",
+          "code": "298832"
+        },
+        {
+          "name": "Ech Cheurfa",
+          "code": "298838"
+        },
+        {
+          "name": "El Agraïne",
+          "code": "298847"
+        },
+        {
+          "name": "El Ala",
+          "code": "298852"
+        },
+        {
+          "name": "El Alem",
+          "code": "298853"
+        },
+        {
+          "name": "El Fleïssiah",
+          "code": "298879"
+        },
+        {
+          "name": "El Ghobena",
+          "code": "298882"
+        },
+        {
+          "name": "El Hadeba",
+          "code": "298887"
+        },
+        {
+          "name": "El Hamissia",
+          "code": "298892"
+        },
+        {
+          "name": "El Haoumet",
+          "code": "298897"
+        },
+        {
+          "name": "El Hememda",
+          "code": "298900"
+        },
+        {
+          "name": "El Jema",
+          "code": "298904"
+        },
+        {
+          "name": "El Ketef",
+          "code": "298908"
+        },
+        {
+          "name": "El Khadria",
+          "code": "298909"
+        },
+        {
+          "name": "El Kharrouba",
+          "code": "298910"
+        },
+        {
+          "name": "El Kouiba",
+          "code": "298916"
+        },
+        {
+          "name": "El Mejabra",
+          "code": "298928"
+        },
+        {
+          "name": "El Mourstane",
+          "code": "298934"
+        },
+        {
+          "name": "En Nekhila",
+          "code": "298942"
+        },
+        {
+          "name": "Et Trabelsia",
+          "code": "298955"
+        },
+        {
+          "name": "Feddane el Begar",
+          "code": "298967"
+        },
+        {
+          "name": "Fondouk el Okbi",
+          "code": "298973"
+        },
+        {
+          "name": "Haffouz",
+          "code": "299005"
+        },
+        {
+          "name": "Hafret Amaïd",
+          "code": "299007"
+        },
+        {
+          "name": "Hajeb el Aïoun",
+          "code": "299010"
+        },
+        {
+          "name": "Henchir Saadia",
+          "code": "299048"
+        },
+        {
+          "name": "Jebel Trozza",
+          "code": "299079"
+        },
+        {
+          "name": "Jedaida",
+          "code": "299081"
+        },
+        {
+          "name": "Kairouan",
+          "code": "299098"
+        },
+        {
+          "name": "Kobtine Ouled Amor",
+          "code": "299130"
+        },
+        {
+          "name": "Koudiat ech Chouicha",
+          "code": "299132"
+        },
+        {
+          "name": "Ksar el Kebrit",
+          "code": "299138"
+        },
+        {
+          "name": "La Charentaise",
+          "code": "299151"
+        },
+        {
+          "name": "La Sauvagere",
+          "code": "299160"
+        },
+        {
+          "name": "Laouainiah",
+          "code": "299169"
+        },
+        {
+          "name": "Les Assion",
+          "code": "299172"
+        },
+        {
+          "name": "Les Caroubiers",
+          "code": "299174"
+        },
+        {
+          "name": "Maarouf",
+          "code": "299185"
+        },
+        {
+          "name": "Mdeïna",
+          "code": "299218"
+        },
+        {
+          "name": "Menzel Mhéri",
+          "code": "299240"
+        },
+        {
+          "name": "Mohammed Brahim el Aouaïd",
+          "code": "299252"
+        },
+        {
+          "name": "Oulad el Klib",
+          "code": "299291"
+        },
+        {
+          "name": "Oulad Nasseur",
+          "code": "299299"
+        },
+        {
+          "name": "Oulad Neffet",
+          "code": "299300"
+        },
+        {
+          "name": "Ouled Abd er Rahmane",
+          "code": "299304"
+        },
+        {
+          "name": "Ouled Bel Firane",
+          "code": "299306"
+        },
+        {
+          "name": "Ouled el Klib",
+          "code": "299310"
+        },
+        {
+          "name": "Ouled er Rouajah",
+          "code": "299311"
+        },
+        {
+          "name": "Ouled ez Zlassi",
+          "code": "299312"
+        },
+        {
+          "name": "Ouled Negaz",
+          "code": "299315"
+        },
+        {
+          "name": "Ouled Sidi Ferhatt",
+          "code": "299318"
+        },
+        {
+          "name": "Ouled Slimane",
+          "code": "299319"
+        },
+        {
+          "name": "Ouled Zaïr",
+          "code": "299321"
+        },
+        {
+          "name": "Ousseltia",
+          "code": "299328"
+        },
+        {
+          "name": "Ousseltia Ouled Hedib",
+          "code": "299329"
+        },
+        {
+          "name": "Ousseltia Ouled Rabat",
+          "code": "299330"
+        },
+        {
+          "name": "Sbikha",
+          "code": "299445"
+        },
+        {
+          "name": "Seba Regoud",
+          "code": "299447"
+        },
+        {
+          "name": "Sidi Ahmed",
+          "code": "299469"
+        },
+        {
+          "name": "Sidi al `Uryan",
+          "code": "299475"
+        },
+        {
+          "name": "Sidi Amor Bou Hajela",
+          "code": "299480"
+        },
+        {
+          "name": "Sidi Belal",
+          "code": "299488"
+        },
+        {
+          "name": "Sidi Mohammed Ben Mabrouk",
+          "code": "299525"
+        },
+        {
+          "name": "Station de Menzel Mheri",
+          "code": "299559"
+        }
+      ]
+    },
+    {
+      "name": "Ariana",
+      "code": "579",
+      "cities": [
+        {
+          "name": "Ariana",
+          "code": "298060"
+        },
+        {
+          "name": "Armand-Colin",
+          "code": "298063"
+        },
+        {
+          "name": "Attar",
+          "code": "298072"
+        },
+        {
+          "name": "Bab Khadra",
+          "code": "298086"
+        },
+        {
+          "name": "Bab Saadoun",
+          "code": "298087"
+        },
+        {
+          "name": "Birine",
+          "code": "298151"
+        },
+        {
+          "name": "Bordj el Amri",
+          "code": "298156"
+        },
+        {
+          "name": "Borj Aalouine",
+          "code": "298157"
+        },
+        {
+          "name": "Borj Bou Khaïl",
+          "code": "298168"
+        },
+        {
+          "name": "Borj Chakir",
+          "code": "298170"
+        },
+        {
+          "name": "Borj el Amri",
+          "code": "298172"
+        },
+        {
+          "name": "Borj el Hafsia",
+          "code": "298176"
+        },
+        {
+          "name": "Borj el Khessous",
+          "code": "298181"
+        },
+        {
+          "name": "Borj et Touil",
+          "code": "298186"
+        },
+        {
+          "name": "Borj Frennj",
+          "code": "298189"
+        },
+        {
+          "name": "Borj Turki",
+          "code": "298201"
+        },
+        {
+          "name": "Bou Regba",
+          "code": "298212"
+        },
+        {
+          "name": "Brada",
+          "code": "298216"
+        },
+        {
+          "name": "Burj Bu ar Ramadah",
+          "code": "298236"
+        },
+        {
+          "name": "Damous el Laya",
+          "code": "298265"
+        },
+        {
+          "name": "Dar Bu Diya",
+          "code": "298311"
+        },
+        {
+          "name": "Dar el Haj Ahmed",
+          "code": "298332"
+        },
+        {
+          "name": "Dar el Haj Youssef",
+          "code": "298342"
+        },
+        {
+          "name": "Dar Muhammad Bin Mas`ud",
+          "code": "298393"
+        },
+        {
+          "name": "Dar Naheli",
+          "code": "298396"
+        },
+        {
+          "name": "Dawwar az Zaribah",
+          "code": "298456"
+        },
+        {
+          "name": "Dawwar az Zughb",
+          "code": "298458"
+        },
+        {
+          "name": "Douar Charbi",
+          "code": "298573"
+        },
+        {
+          "name": "Douar el Guessa",
+          "code": "298628"
+        },
+        {
+          "name": "Douar el Haïm",
+          "code": "298631"
+        },
+        {
+          "name": "Douar Gabrejelli",
+          "code": "298696"
+        },
+        {
+          "name": "Douar Sidi Bou Hanech",
+          "code": "298813"
+        },
+        {
+          "name": "El Aouina",
+          "code": "298856"
+        },
+        {
+          "name": "El Aroussia",
+          "code": "298861"
+        },
+        {
+          "name": "El Battan",
+          "code": "298866"
+        },
+        {
+          "name": "El Fahs",
+          "code": "298875"
+        },
+        {
+          "name": "El Karouba",
+          "code": "298906"
+        },
+        {
+          "name": "El Mnagha",
+          "code": "298920"
+        },
+        {
+          "name": "Furna",
+          "code": "298981"
+        },
+        {
+          "name": "Ghar al Milh",
+          "code": "298988"
+        },
+        {
+          "name": "Gourbis",
+          "code": "298995"
+        },
+        {
+          "name": "Graba",
+          "code": "298998"
+        },
+        {
+          "name": "Jaafar",
+          "code": "299066"
+        },
+        {
+          "name": "Jafar",
+          "code": "299068"
+        },
+        {
+          "name": "Kasbah",
+          "code": "299105"
+        },
+        {
+          "name": "Kasnadar",
+          "code": "299106"
+        },
+        {
+          "name": "Kassar Saïd",
+          "code": "299107"
+        },
+        {
+          "name": "Kebeur el Jaheli",
+          "code": "299111"
+        },
+        {
+          "name": "Ksar Tyr",
+          "code": "299145"
+        },
+        {
+          "name": "La Mornaghia",
+          "code": "299158"
+        },
+        {
+          "name": "La Sebala",
+          "code": "299161"
+        },
+        {
+          "name": "Lalla Manoubia",
+          "code": "299166"
+        },
+        {
+          "name": "Le Bardo",
+          "code": "299171"
+        },
+        {
+          "name": "Maherine",
+          "code": "299191"
+        },
+        {
+          "name": "Manouba",
+          "code": "299198"
+        },
+        {
+          "name": "Massicault",
+          "code": "299212"
+        },
+        {
+          "name": "Mennzel el Henndi",
+          "code": "299234"
+        },
+        {
+          "name": "Montarnaud",
+          "code": "299256"
+        },
+        {
+          "name": "Mutuelleville",
+          "code": "299264"
+        },
+        {
+          "name": "Oulad Messaoud",
+          "code": "299295"
+        },
+        {
+          "name": "Ouled Alaïa",
+          "code": "299305"
+        },
+        {
+          "name": "Ouled el Jema",
+          "code": "299309"
+        },
+        {
+          "name": "Ouled Fraji",
+          "code": "299313"
+        },
+        {
+          "name": "Qal`at al Andalus",
+          "code": "299335"
+        },
+        {
+          "name": "Qarish al Wadi",
+          "code": "299337"
+        },
+        {
+          "name": "Quballat",
+          "code": "299392"
+        },
+        {
+          "name": "Ras Tabia",
+          "code": "299406"
+        },
+        {
+          "name": "Saïda",
+          "code": "299426"
+        },
+        {
+          "name": "Saminjah",
+          "code": "299438"
+        },
+        {
+          "name": "Sidi Henri",
+          "code": "299518"
+        },
+        {
+          "name": "Sidi `Ali al Hattab",
+          "code": "299536"
+        },
+        {
+          "name": "Sukrah",
+          "code": "299561"
+        },
+        {
+          "name": "Tunis",
+          "code": "299611"
+        },
+        {
+          "name": "Villejacques",
+          "code": "299617"
+        },
+        {
+          "name": "Zahrouni",
+          "code": "299630"
+        },
+        {
+          "name": "`Awsajah",
+          "code": "299662"
+        }
+      ]
+    },
+    {
+      "name": "Bajah",
+      "code": "580",
+      "cities": [
+        {
+          "name": "Béja",
+          "code": "298112"
+        },
+        {
+          "name": "Dar Chaouch Ali Ben Khalifa",
+          "code": "298316"
+        },
+        {
+          "name": "Dar Cheïkh Ali",
+          "code": "298318"
+        },
+        {
+          "name": "El Mejless",
+          "code": "298929"
+        },
+        {
+          "name": "Gassa",
+          "code": "298985"
+        },
+        {
+          "name": "Sidi Bou Zaïrira",
+          "code": "299502"
+        },
+        {
+          "name": "Tarf",
+          "code": "299576"
+        }
+      ]
+    },
+    {
+      "name": "Banzart",
+      "code": "581",
+      "cities": [
+        {
+          "name": "Aïn el Faroua",
+          "code": "297968"
+        },
+        {
+          "name": "Bechater",
+          "code": "298110"
+        },
+        {
+          "name": "Bizerte",
+          "code": "298153"
+        },
+        {
+          "name": "Borj Ali Ben Sil",
+          "code": "298161"
+        },
+        {
+          "name": "Borj Amera Trabesse",
+          "code": "298162"
+        },
+        {
+          "name": "Borj Ben Aouali",
+          "code": "298165"
+        },
+        {
+          "name": "Borj Ben Chelbi",
+          "code": "298166"
+        },
+        {
+          "name": "Borj ech Chouchana",
+          "code": "298171"
+        },
+        {
+          "name": "Borj el Habib",
+          "code": "298175"
+        },
+        {
+          "name": "Borj el Haj Salah",
+          "code": "298178"
+        },
+        {
+          "name": "Borj el Hatat",
+          "code": "298179"
+        },
+        {
+          "name": "Borj el Kherba",
+          "code": "298180"
+        },
+        {
+          "name": "Borj Hadida",
+          "code": "298192"
+        },
+        {
+          "name": "Borj Mahjouba",
+          "code": "298194"
+        },
+        {
+          "name": "Borj Ouichka",
+          "code": "298199"
+        },
+        {
+          "name": "Camp du Zarour",
+          "code": "298239"
+        },
+        {
+          "name": "Chaouat",
+          "code": "298247"
+        },
+        {
+          "name": "Cheïkh Birm",
+          "code": "298254"
+        },
+        {
+          "name": "Daour Amar Ben Ali Saïdani",
+          "code": "298266"
+        },
+        {
+          "name": "Daour Haoussene",
+          "code": "298267"
+        },
+        {
+          "name": "Dar Abdallah Bel Haj",
+          "code": "298268"
+        },
+        {
+          "name": "Dar Ali Ben Hamidou",
+          "code": "298282"
+        },
+        {
+          "name": "Dar Bou Zeraia",
+          "code": "298305"
+        },
+        {
+          "name": "Dar ech Cheïkh Amor Ben Ali",
+          "code": "298322"
+        },
+        {
+          "name": "Dar el Beïda",
+          "code": "298325"
+        },
+        {
+          "name": "Dar el Cheikh Kilani",
+          "code": "298329"
+        },
+        {
+          "name": "Dar Hassene ech Chemiki",
+          "code": "298374"
+        },
+        {
+          "name": "Dar Mohammed Bel Haj",
+          "code": "298387"
+        },
+        {
+          "name": "Dar Sidi el Moujad",
+          "code": "298411"
+        },
+        {
+          "name": "De Carnières",
+          "code": "298474"
+        },
+        {
+          "name": "Dechour Marraoua",
+          "code": "298477"
+        },
+        {
+          "name": "Douar Abdallah",
+          "code": "298509"
+        },
+        {
+          "name": "Douar Aïn Ghelal",
+          "code": "298512"
+        },
+        {
+          "name": "Douar Ali Ben Amara",
+          "code": "298515"
+        },
+        {
+          "name": "Douar Amor Cherina",
+          "code": "298521"
+        },
+        {
+          "name": "Douar Baya Rassa",
+          "code": "298524"
+        },
+        {
+          "name": "Douar Bechouk",
+          "code": "298526"
+        },
+        {
+          "name": "Douar Bel Aïd",
+          "code": "298527"
+        },
+        {
+          "name": "Douar Belghout",
+          "code": "298529"
+        },
+        {
+          "name": "Douar Ben Amara",
+          "code": "298530"
+        },
+        {
+          "name": "Douar Ben Aouda",
+          "code": "298531"
+        },
+        {
+          "name": "Douar Ben Chelbi",
+          "code": "298532"
+        },
+        {
+          "name": "Douar Ben Hamda ech Chrif",
+          "code": "298534"
+        },
+        {
+          "name": "Douar Ben Hamouda el Klia",
+          "code": "298535"
+        },
+        {
+          "name": "Douar Ben Mannsour",
+          "code": "298539"
+        },
+        {
+          "name": "Douar Ben Mosbah",
+          "code": "298541"
+        },
+        {
+          "name": "Douar Ben Nasseur",
+          "code": "298542"
+        },
+        {
+          "name": "Douar Ben Nour",
+          "code": "298543"
+        },
+        {
+          "name": "Douar Ben Sadek",
+          "code": "298545"
+        },
+        {
+          "name": "Douar Ben Saïd",
+          "code": "298547"
+        },
+        {
+          "name": "Douar Ben Tiba",
+          "code": "298549"
+        },
+        {
+          "name": "Douar Beni Oudzil",
+          "code": "298550"
+        },
+        {
+          "name": "Douar Beni Oussel",
+          "code": "298551"
+        },
+        {
+          "name": "Douar Berna",
+          "code": "298552"
+        },
+        {
+          "name": "Douar Besbessia",
+          "code": "298553"
+        },
+        {
+          "name": "Douar Bessouf",
+          "code": "298554"
+        },
+        {
+          "name": "Douar Bir Abd el Ghim",
+          "code": "298555"
+        },
+        {
+          "name": "Douar Bir es Soula",
+          "code": "298556"
+        },
+        {
+          "name": "Douar Bou Chenina",
+          "code": "298560"
+        },
+        {
+          "name": "Douar Bou Jourane",
+          "code": "298562"
+        },
+        {
+          "name": "Douar Bou Rkane",
+          "code": "298566"
+        },
+        {
+          "name": "Douar Brahim Ben Rahal",
+          "code": "298569"
+        },
+        {
+          "name": "Douar Cheïkh Ali",
+          "code": "298574"
+        },
+        {
+          "name": "Douar Dagma",
+          "code": "298578"
+        },
+        {
+          "name": "Douar Dahmani",
+          "code": "298579"
+        },
+        {
+          "name": "Douar Dar Ammar",
+          "code": "298580"
+        },
+        {
+          "name": "Douar Dar Ramel",
+          "code": "298581"
+        },
+        {
+          "name": "Douar Douahria",
+          "code": "298582"
+        },
+        {
+          "name": "Douar Douimis",
+          "code": "298585"
+        },
+        {
+          "name": "Douar ech Chaouïa",
+          "code": "298586"
+        },
+        {
+          "name": "Douar ech Chatib",
+          "code": "298588"
+        },
+        {
+          "name": "Douar ech Cheniti",
+          "code": "298589"
+        },
+        {
+          "name": "Douar ech Cherif",
+          "code": "298590"
+        },
+        {
+          "name": "Douar ed Demane ez Zaa",
+          "code": "298593"
+        },
+        {
+          "name": "Douar ed Douimis",
+          "code": "298594"
+        },
+        {
+          "name": "Douar ed Douira",
+          "code": "298595"
+        },
+        {
+          "name": "Douar ej Jenane",
+          "code": "298596"
+        },
+        {
+          "name": "Douar el Agha",
+          "code": "298600"
+        },
+        {
+          "name": "Douar el Aich Ben Hamza",
+          "code": "298601"
+        },
+        {
+          "name": "Douar el Aouachia",
+          "code": "298603"
+        },
+        {
+          "name": "Douar el Arab",
+          "code": "298605"
+        },
+        {
+          "name": "Douar el Arianout",
+          "code": "298606"
+        },
+        {
+          "name": "Douar el Assafir",
+          "code": "298607"
+        },
+        {
+          "name": "Douar el Bachir",
+          "code": "298610"
+        },
+        {
+          "name": "Douar el Bakhia",
+          "code": "298612"
+        },
+        {
+          "name": "Douar el Beïda",
+          "code": "298613"
+        },
+        {
+          "name": "Douar el Bezazia",
+          "code": "298614"
+        },
+        {
+          "name": "Douar el Blate",
+          "code": "298616"
+        },
+        {
+          "name": "Douar el Faroua",
+          "code": "298618"
+        },
+        {
+          "name": "Douar el Feja",
+          "code": "298619"
+        },
+        {
+          "name": "Douar el Felta",
+          "code": "298620"
+        },
+        {
+          "name": "Douar el Ghirane",
+          "code": "298625"
+        },
+        {
+          "name": "Douar el Graya",
+          "code": "298626"
+        },
+        {
+          "name": "Douar el Guezadri",
+          "code": "298629"
+        },
+        {
+          "name": "Douar el Haj Bou Amra",
+          "code": "298635"
+        },
+        {
+          "name": "Douar el Haj Mohammed",
+          "code": "298639"
+        },
+        {
+          "name": "Douar el Haj Mohammed Ben Hass",
+          "code": "298641"
+        },
+        {
+          "name": "Douar el Haj Said",
+          "code": "298643"
+        },
+        {
+          "name": "Douar el Hajerine",
+          "code": "298647"
+        },
+        {
+          "name": "Douar el Haouidh",
+          "code": "298648"
+        },
+        {
+          "name": "Douar el Hassini",
+          "code": "298649"
+        },
+        {
+          "name": "Douar el Helalif",
+          "code": "298650"
+        },
+        {
+          "name": "Douar el Hofer",
+          "code": "298651"
+        },
+        {
+          "name": "Douar el Kechabta",
+          "code": "298654"
+        },
+        {
+          "name": "Douar el Kharrouba",
+          "code": "298655"
+        },
+        {
+          "name": "Douar el Kherifa",
+          "code": "298656"
+        },
+        {
+          "name": "Douar el Khima",
+          "code": "298657"
+        },
+        {
+          "name": "Douar el Khissane",
+          "code": "298658"
+        },
+        {
+          "name": "Douar el Ksir",
+          "code": "298659"
+        },
+        {
+          "name": "Douar el Maada",
+          "code": "298660"
+        },
+        {
+          "name": "Douar el Mabtouha",
+          "code": "298661"
+        },
+        {
+          "name": "Douar el Mejoub",
+          "code": "298664"
+        },
+        {
+          "name": "Douar el Mekki",
+          "code": "298665"
+        },
+        {
+          "name": "Douar el Metroub",
+          "code": "298667"
+        },
+        {
+          "name": "Douar el Mezline",
+          "code": "298668"
+        },
+        {
+          "name": "Douar el Mnara",
+          "code": "298669"
+        },
+        {
+          "name": "Douar er Roumane",
+          "code": "298677"
+        },
+        {
+          "name": "Douar es Safsaf",
+          "code": "298678"
+        },
+        {
+          "name": "Douar es Sakkak",
+          "code": "298679"
+        },
+        {
+          "name": "Douar es Sali",
+          "code": "298680"
+        },
+        {
+          "name": "Douar es Smara",
+          "code": "298682"
+        },
+        {
+          "name": "Douar es Soula",
+          "code": "298683"
+        },
+        {
+          "name": "Douar et Tahouna",
+          "code": "298684"
+        },
+        {
+          "name": "Douar et Toub",
+          "code": "298687"
+        },
+        {
+          "name": "Douar et Touila",
+          "code": "298688"
+        },
+        {
+          "name": "Douar ez Zafra",
+          "code": "298689"
+        },
+        {
+          "name": "Douar ez Zerdoudi",
+          "code": "298691"
+        },
+        {
+          "name": "Douar Farouja",
+          "code": "298693"
+        },
+        {
+          "name": "Douar Ferdouine",
+          "code": "298695"
+        },
+        {
+          "name": "Douar Ghar Ouïnkel",
+          "code": "298697"
+        },
+        {
+          "name": "Douar Ghezala",
+          "code": "298698"
+        },
+        {
+          "name": "Douar Goungla",
+          "code": "298699"
+        },
+        {
+          "name": "Douar Gournata",
+          "code": "298700"
+        },
+        {
+          "name": "Douar Guelaa",
+          "code": "298701"
+        },
+        {
+          "name": "Douar Haj Chabane",
+          "code": "298704"
+        },
+        {
+          "name": "Douar Haj Salah",
+          "code": "298705"
+        },
+        {
+          "name": "Douar Hammar el Hattab",
+          "code": "298707"
+        },
+        {
+          "name": "Douar Hamouda Ben Mannsour",
+          "code": "298709"
+        },
+        {
+          "name": "Douar Hashassia",
+          "code": "298711"
+        },
+        {
+          "name": "Douar Hassine Ben Haj Salah",
+          "code": "298713"
+        },
+        {
+          "name": "Douar Jafeur",
+          "code": "298714"
+        },
+        {
+          "name": "Douar Jeddaria",
+          "code": "298716"
+        },
+        {
+          "name": "Douar Jouaouda",
+          "code": "298719"
+        },
+        {
+          "name": "Douar Joum es Sghir",
+          "code": "298721"
+        },
+        {
+          "name": "Douar Kharrata",
+          "code": "298726"
+        },
+        {
+          "name": "Douar Lezdine",
+          "code": "298733"
+        },
+        {
+          "name": "Douar Mabrouk Ben Mannsour",
+          "code": "298735"
+        },
+        {
+          "name": "Douar Maïsra",
+          "code": "298737"
+        },
+        {
+          "name": "Douar Mannchara",
+          "code": "298738"
+        },
+        {
+          "name": "Douar Mennzel Ameur",
+          "code": "298745"
+        },
+        {
+          "name": "Douar Mennzel Rached",
+          "code": "298746"
+        },
+        {
+          "name": "Douar Mernissa",
+          "code": "298747"
+        },
+        {
+          "name": "Douar Merzaguine",
+          "code": "298748"
+        },
+        {
+          "name": "Douar Messeftine",
+          "code": "298750"
+        },
+        {
+          "name": "Douar Mohammed",
+          "code": "298752"
+        },
+        {
+          "name": "Douar Mohammed Ben Attala",
+          "code": "298753"
+        },
+        {
+          "name": "Douar Mohammed Ben Salah",
+          "code": "298755"
+        },
+        {
+          "name": "Douar Mokhtar",
+          "code": "298758"
+        },
+        {
+          "name": "Douar Mokna",
+          "code": "298759"
+        },
+        {
+          "name": "Douar Mostefa",
+          "code": "298760"
+        },
+        {
+          "name": "Douar Msifin",
+          "code": "298764"
+        },
+        {
+          "name": "Douar Mtakerem",
+          "code": "298765"
+        },
+        {
+          "name": "Douar Otsmane",
+          "code": "298766"
+        },
+        {
+          "name": "Douar Oudeïa",
+          "code": "298767"
+        },
+        {
+          "name": "Douar Ouladaia",
+          "code": "298786"
+        },
+        {
+          "name": "Douar Oum et Tine",
+          "code": "298795"
+        },
+        {
+          "name": "Douar Saïd Ben Haj",
+          "code": "298799"
+        },
+        {
+          "name": "Douar Salah Belkilani",
+          "code": "298800"
+        },
+        {
+          "name": "Douar Salah Ben Khaled",
+          "code": "298802"
+        },
+        {
+          "name": "Douar Salah Ben Saad",
+          "code": "298804"
+        },
+        {
+          "name": "Douar Salah ed Dridi",
+          "code": "298805"
+        },
+        {
+          "name": "Douar Seka Kebir",
+          "code": "298808"
+        },
+        {
+          "name": "Douar Seka Sghir",
+          "code": "298809"
+        },
+        {
+          "name": "Douar Sidi Ameur",
+          "code": "298811"
+        },
+        {
+          "name": "Douar Slimane Gharbi",
+          "code": "298815"
+        },
+        {
+          "name": "Douar Souk et Tnine",
+          "code": "298818"
+        },
+        {
+          "name": "Douar Souk et Toub",
+          "code": "298819"
+        },
+        {
+          "name": "Douar Tassa",
+          "code": "298820"
+        },
+        {
+          "name": "Douar Tourou",
+          "code": "298823"
+        },
+        {
+          "name": "Douar Trifaïa",
+          "code": "298824"
+        },
+        {
+          "name": "Douar Youssef Bey",
+          "code": "298825"
+        },
+        {
+          "name": "Douar Zaouia el Kebira",
+          "code": "298826"
+        },
+        {
+          "name": "Douar Zaouia es Sghira",
+          "code": "298827"
+        },
+        {
+          "name": "Douar Zouitina",
+          "code": "298831"
+        },
+        {
+          "name": "El Azib",
+          "code": "298864"
+        },
+        {
+          "name": "El Bidha",
+          "code": "298872"
+        },
+        {
+          "name": "El Hamila",
+          "code": "298891"
+        },
+        {
+          "name": "Fertouna",
+          "code": "298969"
+        },
+        {
+          "name": "Henchir Ben Ameur",
+          "code": "299042"
+        },
+        {
+          "name": "Henchir el Merazguia",
+          "code": "299045"
+        },
+        {
+          "name": "Jedeïda",
+          "code": "299083"
+        },
+        {
+          "name": "Mateur",
+          "code": "299214"
+        },
+        {
+          "name": "Menzel Abderhaman",
+          "code": "299235"
+        },
+        {
+          "name": "Menzel Bourguiba",
+          "code": "299236"
+        },
+        {
+          "name": "Menzel Jemil",
+          "code": "299239"
+        },
+        {
+          "name": "Michaud",
+          "code": "299246"
+        },
+        {
+          "name": "Mohammed Zioud",
+          "code": "299253"
+        },
+        {
+          "name": "Oum ez Zid el Kbira",
+          "code": "299325"
+        },
+        {
+          "name": "Oum ez Zid es Sghira",
+          "code": "299326"
+        },
+        {
+          "name": "Saïd Mbarek",
+          "code": "299425"
+        },
+        {
+          "name": "Sidi Abd Allah Ben Saiden",
+          "code": "299466"
+        },
+        {
+          "name": "Sidi Messaoud",
+          "code": "299524"
+        },
+        {
+          "name": "Sidi Othman",
+          "code": "299530"
+        },
+        {
+          "name": "Sidi Salem",
+          "code": "299531"
+        },
+        {
+          "name": "Souk el Jemaa",
+          "code": "299556"
+        },
+        {
+          "name": "Tebourba",
+          "code": "299585"
+        },
+        {
+          "name": "Tinja",
+          "code": "299598"
+        },
+        {
+          "name": "Toungar",
+          "code": "299604"
+        }
+      ]
+    },
+    {
+      "name": "Bin ‘Arus",
+      "code": "582",
+      "cities": [
+        {
+          "name": "Borj Ahmed Zaïd",
+          "code": "298159"
+        },
+        {
+          "name": "Borj Cedria",
+          "code": "298169"
+        },
+        {
+          "name": "Douar Abd el Kader",
+          "code": "298508"
+        },
+        {
+          "name": "Douar Ali Ben Ahmar",
+          "code": "298514"
+        },
+        {
+          "name": "Douar Ben Miled",
+          "code": "298540"
+        },
+        {
+          "name": "Douar Ben Saïd",
+          "code": "298546"
+        },
+        {
+          "name": "Douar Bou Beker",
+          "code": "298559"
+        },
+        {
+          "name": "Douar Bou Said",
+          "code": "298567"
+        },
+        {
+          "name": "Douar ech Cherit",
+          "code": "298591"
+        },
+        {
+          "name": "Douar el Ghezel",
+          "code": "298624"
+        },
+        {
+          "name": "Douar el Haj Ahmed",
+          "code": "298632"
+        },
+        {
+          "name": "Douar el Haj Jemaa",
+          "code": "298637"
+        },
+        {
+          "name": "Douar el Haj Mosbah",
+          "code": "298642"
+        },
+        {
+          "name": "Douar Ennbaza",
+          "code": "298673"
+        },
+        {
+          "name": "Douar er Rahmane",
+          "code": "298674"
+        },
+        {
+          "name": "Douar et Taleb Ali",
+          "code": "298685"
+        },
+        {
+          "name": "Douar Hamrouna",
+          "code": "298710"
+        },
+        {
+          "name": "Douar Kennjel",
+          "code": "298725"
+        },
+        {
+          "name": "Douar Kouider en Noual",
+          "code": "298729"
+        },
+        {
+          "name": "Douar Mbarek",
+          "code": "298741"
+        },
+        {
+          "name": "Douar Mohammed",
+          "code": "298751"
+        },
+        {
+          "name": "Douar Mohammed Ben Rejeb",
+          "code": "298754"
+        },
+        {
+          "name": "Douar Salah Ben Khalifa",
+          "code": "298803"
+        },
+        {
+          "name": "Douar Salem",
+          "code": "298806"
+        },
+        {
+          "name": "Douar Zouila",
+          "code": "298830"
+        },
+        {
+          "name": "Khledia",
+          "code": "299125"
+        },
+        {
+          "name": "La Laverie",
+          "code": "299155"
+        },
+        {
+          "name": "Oulad Aissa",
+          "code": "299281"
+        }
+      ]
+    },
+    {
+      "name": "Jundubah",
+      "code": "583",
+      "cities": [
+        {
+          "name": "Aïn Bou Seba",
+          "code": "297966"
+        },
+        {
+          "name": "Al Firnanah",
+          "code": "297987"
+        },
+        {
+          "name": "Balta",
+          "code": "298091"
+        },
+        {
+          "name": "Bir al Kudayyat",
+          "code": "298129"
+        },
+        {
+          "name": "Bou Salem",
+          "code": "298213"
+        },
+        {
+          "name": "Chalbi",
+          "code": "298246"
+        },
+        {
+          "name": "Dawwar `Ali Bin az Zayn",
+          "code": "298469"
+        },
+        {
+          "name": "Douar Douaïdia",
+          "code": "298583"
+        },
+        {
+          "name": "Douar el Haj Ahmed",
+          "code": "298633"
+        },
+        {
+          "name": "Douar el Haj Salah",
+          "code": "298644"
+        },
+        {
+          "name": "Ech Cheikh Azzouz",
+          "code": "298836"
+        },
+        {
+          "name": "El Aïoun",
+          "code": "298850"
+        },
+        {
+          "name": "El Haj Amor",
+          "code": "298889"
+        },
+        {
+          "name": "El Khelij",
+          "code": "298911"
+        },
+        {
+          "name": "El Kheriba",
+          "code": "298913"
+        },
+        {
+          "name": "En Merhamcha",
+          "code": "298940"
+        },
+        {
+          "name": "Er Rmep",
+          "code": "298946"
+        },
+        {
+          "name": "Et Tahma",
+          "code": "298954"
+        },
+        {
+          "name": "Ghardimaou",
+          "code": "298990"
+        },
+        {
+          "name": "Hammam el Fezoua",
+          "code": "299014"
+        },
+        {
+          "name": "Henchir Jeradou",
+          "code": "299047"
+        },
+        {
+          "name": "Henchir Sidi Khalifa",
+          "code": "299049"
+        },
+        {
+          "name": "Jendouba",
+          "code": "299087"
+        },
+        {
+          "name": "Mashtá al Anad",
+          "code": "299209"
+        },
+        {
+          "name": "Mechta Berzig",
+          "code": "299220"
+        },
+        {
+          "name": "Mostfa Ben Maamer",
+          "code": "299257"
+        },
+        {
+          "name": "Mrabia Halima",
+          "code": "299260"
+        },
+        {
+          "name": "Rirane",
+          "code": "299413"
+        },
+        {
+          "name": "Rmel Ben Msadek",
+          "code": "299414"
+        },
+        {
+          "name": "Rmel es Safsaf",
+          "code": "299415"
+        },
+        {
+          "name": "Sidi Abd Allah",
+          "code": "299465"
+        },
+        {
+          "name": "Sidi Ahmed",
+          "code": "299470"
+        },
+        {
+          "name": "Sidi Atmane el Haddad",
+          "code": "299486"
+        },
+        {
+          "name": "Sidi az Zaouem",
+          "code": "299487"
+        },
+        {
+          "name": "Souk et Tleta",
+          "code": "299557"
+        },
+        {
+          "name": "Tabarka",
+          "code": "299562"
+        },
+        {
+          "name": "Wadi Maliz",
+          "code": "299621"
+        },
+        {
+          "name": "`Ayn ad Darahim",
+          "code": "299663"
+        }
+      ]
+    },
+    {
+      "name": "Kef",
+      "code": "584",
+      "cities": [
+        {
+          "name": "Aïn el Mouia",
+          "code": "297969"
+        },
+        {
+          "name": "Aïn Krannguet Sour",
+          "code": "297971"
+        },
+        {
+          "name": "Ash Shawashiniyah",
+          "code": "298071"
+        },
+        {
+          "name": "Awlad Marzuq",
+          "code": "298074"
+        },
+        {
+          "name": "Az Zuwarin",
+          "code": "298081"
+        },
+        {
+          "name": "Bir Khelifa",
+          "code": "298148"
+        },
+        {
+          "name": "Borj et Tourki",
+          "code": "298187"
+        },
+        {
+          "name": "Burj al Hajj Ibrahim",
+          "code": "298232"
+        },
+        {
+          "name": "Charpin Ville",
+          "code": "298249"
+        },
+        {
+          "name": "Dahmani",
+          "code": "298263"
+        },
+        {
+          "name": "Dar Bu Zayd",
+          "code": "298313"
+        },
+        {
+          "name": "Dar ech Chambi",
+          "code": "298320"
+        },
+        {
+          "name": "Dar Marrouch",
+          "code": "298384"
+        },
+        {
+          "name": "Dar Sbiaete",
+          "code": "298406"
+        },
+        {
+          "name": "Dar Sidi al Azhar",
+          "code": "298408"
+        },
+        {
+          "name": "Dawwar al Qawadiriyah",
+          "code": "298448"
+        },
+        {
+          "name": "Dawwar Awlad Bu `Aziz",
+          "code": "298451"
+        },
+        {
+          "name": "Dawwar Awlad Gana",
+          "code": "298452"
+        },
+        {
+          "name": "Dawwar Awlad Sidi `Abid",
+          "code": "298454"
+        },
+        {
+          "name": "Dawwar Muhammad Bu al Hajj Bu",
+          "code": "298464"
+        },
+        {
+          "name": "Dawwar Ras al `Ayn",
+          "code": "298465"
+        },
+        {
+          "name": "Djoua Awlad Sultan",
+          "code": "298506"
+        },
+        {
+          "name": "Douar Ali Ben Msika",
+          "code": "298516"
+        },
+        {
+          "name": "Douar Ben Diffalah",
+          "code": "298533"
+        },
+        {
+          "name": "Douar Ben Jarou",
+          "code": "298536"
+        },
+        {
+          "name": "Douar Ben Mahmoud",
+          "code": "298538"
+        },
+        {
+          "name": "Douar el Abd Bou Debous",
+          "code": "298598"
+        },
+        {
+          "name": "Douar el Amamria",
+          "code": "298602"
+        },
+        {
+          "name": "Douar el Aouata",
+          "code": "298604"
+        },
+        {
+          "name": "Douar el Azaïzia",
+          "code": "298609"
+        },
+        {
+          "name": "Douar el Debabsa",
+          "code": "298617"
+        },
+        {
+          "name": "Douar el Fras",
+          "code": "298621"
+        },
+        {
+          "name": "Douar el Haj Dhahbi",
+          "code": "298636"
+        },
+        {
+          "name": "Douar Jaouel",
+          "code": "298715"
+        },
+        {
+          "name": "Douar Jouf es Sbiba",
+          "code": "298720"
+        },
+        {
+          "name": "Douar Kmamsa",
+          "code": "298728"
+        },
+        {
+          "name": "Douar Laater",
+          "code": "298730"
+        },
+        {
+          "name": "Douar Oulad Zitoun",
+          "code": "298784"
+        },
+        {
+          "name": "Douar Rebta",
+          "code": "298796"
+        },
+        {
+          "name": "Douar Salah Ben Abda",
+          "code": "298801"
+        },
+        {
+          "name": "Ech Cheriha",
+          "code": "298837"
+        },
+        {
+          "name": "Ech Chouarbia",
+          "code": "298839"
+        },
+        {
+          "name": "Ech Chouarnia",
+          "code": "298840"
+        },
+        {
+          "name": "El Ajama",
+          "code": "298851"
+        },
+        {
+          "name": "El Amamria",
+          "code": "298854"
+        },
+        {
+          "name": "El Bey",
+          "code": "298871"
+        },
+        {
+          "name": "El Ghazalia",
+          "code": "298881"
+        },
+        {
+          "name": "El Haraïg",
+          "code": "298898"
+        },
+        {
+          "name": "El Kef",
+          "code": "298907"
+        },
+        {
+          "name": "El Ksour",
+          "code": "298918"
+        },
+        {
+          "name": "El Magazdia",
+          "code": "298922"
+        },
+        {
+          "name": "El Mechref",
+          "code": "298926"
+        },
+        {
+          "name": "El Menzel",
+          "code": "298930"
+        },
+        {
+          "name": "Ellès",
+          "code": "298939"
+        },
+        {
+          "name": "Fajj at Tamir",
+          "code": "298964"
+        },
+        {
+          "name": "Fouk Ahmed el Aïfa",
+          "code": "298979"
+        },
+        {
+          "name": "Hammam Biada",
+          "code": "299013"
+        },
+        {
+          "name": "Henchir Zarouane",
+          "code": "299050"
+        },
+        {
+          "name": "Jerissa",
+          "code": "299090"
+        },
+        {
+          "name": "Kalaat es Senam",
+          "code": "299100"
+        },
+        {
+          "name": "Khelouet Rebah",
+          "code": "299122"
+        },
+        {
+          "name": "Les Zouarines",
+          "code": "299177"
+        },
+        {
+          "name": "Mahjubah",
+          "code": "299193"
+        },
+        {
+          "name": "Manzil Salim",
+          "code": "299204"
+        },
+        {
+          "name": "Mechta Abd Allah Ben Sassi",
+          "code": "299219"
+        },
+        {
+          "name": "Nibbar",
+          "code": "299276"
+        },
+        {
+          "name": "Oulad Bou Hadda",
+          "code": "299284"
+        },
+        {
+          "name": "Oulad el Houra",
+          "code": "299289"
+        },
+        {
+          "name": "Oulad Youssef",
+          "code": "299303"
+        },
+        {
+          "name": "Qasr ar Rouima",
+          "code": "299357"
+        },
+        {
+          "name": "Rebiba",
+          "code": "299408"
+        },
+        {
+          "name": "Sakiet Sidi Youssef",
+          "code": "299434"
+        },
+        {
+          "name": "Seba Biar",
+          "code": "299446"
+        },
+        {
+          "name": "Sidi Abd el Melek",
+          "code": "299467"
+        },
+        {
+          "name": "Sidi al Harrath",
+          "code": "299474"
+        },
+        {
+          "name": "Sidi Ali Bel Hafsi",
+          "code": "299476"
+        },
+        {
+          "name": "Sidi Asker",
+          "code": "299484"
+        },
+        {
+          "name": "Sidi ben Araar",
+          "code": "299489"
+        },
+        {
+          "name": "Sidi Ben Salem",
+          "code": "299490"
+        },
+        {
+          "name": "Sidi Bou Haraoua",
+          "code": "299497"
+        },
+        {
+          "name": "Sidi Mohammed Ben Messaoud",
+          "code": "299526"
+        },
+        {
+          "name": "Sidi Mubarak",
+          "code": "299527"
+        },
+        {
+          "name": "Sidi Muhammad al `Aid",
+          "code": "299528"
+        },
+        {
+          "name": "Sidi `Abd al Qadir",
+          "code": "299534"
+        },
+        {
+          "name": "Sidi `Ali Bin `Abd Allah",
+          "code": "299539"
+        },
+        {
+          "name": "Slata",
+          "code": "299546"
+        },
+        {
+          "name": "Sleïmia",
+          "code": "299547"
+        },
+        {
+          "name": "Tajerouine",
+          "code": "299569"
+        },
+        {
+          "name": "Wadi Sarrat",
+          "code": "299622"
+        }
+      ]
+    },
+    {
+      "name": "Madanin",
+      "code": "585",
+      "cities": [
+        {
+          "name": "Adeloun",
+          "code": "297959"
+        },
+        {
+          "name": "Aghir",
+          "code": "297962"
+        },
+        {
+          "name": "Ajim",
+          "code": "297974"
+        },
+        {
+          "name": "Al Haddadah",
+          "code": "297991"
+        },
+        {
+          "name": "Al Harah al Kabirah",
+          "code": "297997"
+        },
+        {
+          "name": "Al Hazim",
+          "code": "297999"
+        },
+        {
+          "name": "Al Karashiwah",
+          "code": "298008"
+        },
+        {
+          "name": "Al Khawi",
+          "code": "298012"
+        },
+        {
+          "name": "Al Maqarisah",
+          "code": "298019"
+        },
+        {
+          "name": "Al Marsá",
+          "code": "298020"
+        },
+        {
+          "name": "Al Matamir",
+          "code": "298024"
+        },
+        {
+          "name": "Al Qasr al Jadid",
+          "code": "298038"
+        },
+        {
+          "name": "Al `Alandayah",
+          "code": "298041"
+        },
+        {
+          "name": "Aouru",
+          "code": "298052"
+        },
+        {
+          "name": "Arkou",
+          "code": "298061"
+        },
+        {
+          "name": "As Segala",
+          "code": "298069"
+        },
+        {
+          "name": "Ash Shababiyah",
+          "code": "298070"
+        },
+        {
+          "name": "Awlad `Umar",
+          "code": "298075"
+        },
+        {
+          "name": "Bani Dinhet",
+          "code": "298094"
+        },
+        {
+          "name": "Bani Khaddash",
+          "code": "298096"
+        },
+        {
+          "name": "Barquq",
+          "code": "298106"
+        },
+        {
+          "name": "Bin Fatail",
+          "code": "298142"
+        },
+        {
+          "name": "Bin Qirdan",
+          "code": "298144"
+        },
+        {
+          "name": "Bou Menjel",
+          "code": "298211"
+        },
+        {
+          "name": "Boughrara",
+          "code": "298214"
+        },
+        {
+          "name": "Burj Sidi at Tawi",
+          "code": "298238"
+        },
+        {
+          "name": "Chahbania",
+          "code": "298245"
+        },
+        {
+          "name": "El Guecheïne",
+          "code": "298884"
+        },
+        {
+          "name": "El Marsa",
+          "code": "298924"
+        },
+        {
+          "name": "El May",
+          "code": "298925"
+        },
+        {
+          "name": "El Qantara",
+          "code": "298937"
+        },
+        {
+          "name": "En Naffatiyah",
+          "code": "298941"
+        },
+        {
+          "name": "Erriadh",
+          "code": "298948"
+        },
+        {
+          "name": "Fafou",
+          "code": "298962"
+        },
+        {
+          "name": "Fahmine",
+          "code": "298963"
+        },
+        {
+          "name": "Faoumt",
+          "code": "298965"
+        },
+        {
+          "name": "Gourine",
+          "code": "298996"
+        },
+        {
+          "name": "Guellala",
+          "code": "299000"
+        },
+        {
+          "name": "Hassi Amor",
+          "code": "299032"
+        },
+        {
+          "name": "Hassi Soltane",
+          "code": "299033"
+        },
+        {
+          "name": "Hawmat al Badawiyin",
+          "code": "299035"
+        },
+        {
+          "name": "Hawmat al Fawqanin",
+          "code": "299036"
+        },
+        {
+          "name": "Hawmat al Hashshan",
+          "code": "299037"
+        },
+        {
+          "name": "Hawmat al Qibliyin",
+          "code": "299038"
+        },
+        {
+          "name": "Houmt Souk",
+          "code": "299064"
+        },
+        {
+          "name": "Jami` al Guelloufi",
+          "code": "299071"
+        },
+        {
+          "name": "Jurf al Qantarah",
+          "code": "299094"
+        },
+        {
+          "name": "Medenine",
+          "code": "299222"
+        },
+        {
+          "name": "Medjine",
+          "code": "299223"
+        },
+        {
+          "name": "Megmag",
+          "code": "299225"
+        },
+        {
+          "name": "Mellita",
+          "code": "299230"
+        },
+        {
+          "name": "Mezraia",
+          "code": "299243"
+        },
+        {
+          "name": "Mezrane",
+          "code": "299244"
+        },
+        {
+          "name": "Midoun",
+          "code": "299248"
+        },
+        {
+          "name": "Ouallarh",
+          "code": "299279"
+        },
+        {
+          "name": "Qasr al Halluf",
+          "code": "299349"
+        },
+        {
+          "name": "Qasr al Jawami`",
+          "code": "299350"
+        },
+        {
+          "name": "Qasr al Muanasah",
+          "code": "299352"
+        },
+        {
+          "name": "Qasr al Qurayqiriyah",
+          "code": "299355"
+        },
+        {
+          "name": "Qasr Awlad Bu `Abid",
+          "code": "299360"
+        },
+        {
+          "name": "Qasr Awlad Sa`id",
+          "code": "299363"
+        },
+        {
+          "name": "Qasr az Zawiyah",
+          "code": "299366"
+        },
+        {
+          "name": "Qasr Rebounten",
+          "code": "299380"
+        },
+        {
+          "name": "Robbana",
+          "code": "299416"
+        },
+        {
+          "name": "Sawahil",
+          "code": "299441"
+        },
+        {
+          "name": "Sedouikch",
+          "code": "299449"
+        },
+        {
+          "name": "Sidi ash Shammakh",
+          "code": "299483"
+        },
+        {
+          "name": "Sidi Brahim",
+          "code": "299504"
+        },
+        {
+          "name": "Tafertasset",
+          "code": "299567"
+        },
+        {
+          "name": "Taguermess",
+          "code": "299568"
+        },
+        {
+          "name": "Taqilmit",
+          "code": "299575"
+        },
+        {
+          "name": "Tarhdimess",
+          "code": "299578"
+        },
+        {
+          "name": "Tarhrizit",
+          "code": "299579"
+        },
+        {
+          "name": "Tawajin",
+          "code": "299582"
+        },
+        {
+          "name": "Temlale",
+          "code": "299588"
+        },
+        {
+          "name": "Terhalla",
+          "code": "299589"
+        },
+        {
+          "name": "Tianest",
+          "code": "299593"
+        },
+        {
+          "name": "Tilioune",
+          "code": "299597"
+        },
+        {
+          "name": "Triffa",
+          "code": "299608"
+        },
+        {
+          "name": "Wadi az Zabib",
+          "code": "299619"
+        },
+        {
+          "name": "Wadran",
+          "code": "299623"
+        },
+        {
+          "name": "Zarzis",
+          "code": "299644"
+        },
+        {
+          "name": "`Ilwat al Qunnah",
+          "code": "299668"
+        }
+      ]
+    },
+    {
+      "name": "Nabul",
+      "code": "586",
+      "cities": [
+        {
+          "name": "Al Hammamat",
+          "code": "297995"
+        },
+        {
+          "name": "Al Marsá",
+          "code": "298022"
+        },
+        {
+          "name": "Bou Aleg",
+          "code": "298203"
+        },
+        {
+          "name": "Bou Chlaga",
+          "code": "298206"
+        },
+        {
+          "name": "Bou el Azhar",
+          "code": "298207"
+        },
+        {
+          "name": "Bou Ficha",
+          "code": "298208"
+        },
+        {
+          "name": "Camp Servière",
+          "code": "298240"
+        },
+        {
+          "name": "Chaba Remada",
+          "code": "298243"
+        },
+        {
+          "name": "Chara Bou Krim",
+          "code": "298248"
+        },
+        {
+          "name": "Dagla",
+          "code": "298262"
+        },
+        {
+          "name": "Dai Zina",
+          "code": "298264"
+        },
+        {
+          "name": "Dar Abdallah Ben Talef",
+          "code": "298269"
+        },
+        {
+          "name": "Dar Ahmed Ben Haj Yahia",
+          "code": "298270"
+        },
+        {
+          "name": "Dar Ahmed Ben Keani",
+          "code": "298271"
+        },
+        {
+          "name": "Dar Ahmed Mohammed ed Derouich",
+          "code": "298272"
+        },
+        {
+          "name": "Dar Ahmed Msakni",
+          "code": "298274"
+        },
+        {
+          "name": "Dar Ben Amar",
+          "code": "298293"
+        },
+        {
+          "name": "Dar Ben Slimane",
+          "code": "298298"
+        },
+        {
+          "name": "Dar Ben Zallout",
+          "code": "298299"
+        },
+        {
+          "name": "Dar Beni Amar",
+          "code": "298300"
+        },
+        {
+          "name": "Dar Bou Agine",
+          "code": "298301"
+        },
+        {
+          "name": "Dar Bou Guedaoui",
+          "code": "298302"
+        },
+        {
+          "name": "Dar Bou Habib",
+          "code": "298303"
+        },
+        {
+          "name": "Dar Bou Khelif",
+          "code": "298304"
+        },
+        {
+          "name": "Dar Brahim Ben Assassa",
+          "code": "298306"
+        },
+        {
+          "name": "Dar Brahim Ben Nasser",
+          "code": "298308"
+        },
+        {
+          "name": "Dar Chaouch Ali",
+          "code": "298315"
+        },
+        {
+          "name": "Dar Dred",
+          "code": "298319"
+        },
+        {
+          "name": "Dar el Bich",
+          "code": "298328"
+        },
+        {
+          "name": "Dar el Guedidi",
+          "code": "298331"
+        },
+        {
+          "name": "Dar el Haj Aleya",
+          "code": "298334"
+        },
+        {
+          "name": "Dar el Haj Ali",
+          "code": "298335"
+        },
+        {
+          "name": "Dar el Haj Daoui",
+          "code": "298337"
+        },
+        {
+          "name": "Dar el Hajri",
+          "code": "298343"
+        },
+        {
+          "name": "Dar el Haoui",
+          "code": "298344"
+        },
+        {
+          "name": "Dar el Kharaz",
+          "code": "298346"
+        },
+        {
+          "name": "Dar el Mahameri",
+          "code": "298349"
+        },
+        {
+          "name": "Dar el Matia",
+          "code": "298350"
+        },
+        {
+          "name": "Dar el Mouldi",
+          "code": "298351"
+        },
+        {
+          "name": "Dar el Mzali",
+          "code": "298352"
+        },
+        {
+          "name": "Dar er Reml",
+          "code": "298358"
+        },
+        {
+          "name": "Dar Grim el Oussit",
+          "code": "298364"
+        },
+        {
+          "name": "Dar Haj en Nour",
+          "code": "298366"
+        },
+        {
+          "name": "Dar Hamad Jedidi",
+          "code": "298369"
+        },
+        {
+          "name": "Dar Jdida",
+          "code": "298376"
+        },
+        {
+          "name": "Dar Karaeche",
+          "code": "298378"
+        },
+        {
+          "name": "Dar Khalifa Ben Hassene",
+          "code": "298380"
+        },
+        {
+          "name": "Dar Mohammed Ben Ahmed",
+          "code": "298388"
+        },
+        {
+          "name": "Dar Mohammed Ben Hazaz",
+          "code": "298389"
+        },
+        {
+          "name": "Dar Mohammed Ben Mabrouk",
+          "code": "298390"
+        },
+        {
+          "name": "Dar Noureddine",
+          "code": "298397"
+        },
+        {
+          "name": "Dar Oulad Daoued",
+          "code": "298398"
+        },
+        {
+          "name": "Dar Oulad Otsmane",
+          "code": "298399"
+        },
+        {
+          "name": "Dar Retba",
+          "code": "298400"
+        },
+        {
+          "name": "Dar Safi",
+          "code": "298401"
+        },
+        {
+          "name": "Dar Sidi Attik",
+          "code": "298409"
+        },
+        {
+          "name": "Dar Sidi el Gani",
+          "code": "298410"
+        },
+        {
+          "name": "Dar Soudane",
+          "code": "298413"
+        },
+        {
+          "name": "Dar Taleb Mohammed",
+          "code": "298419"
+        },
+        {
+          "name": "Douane",
+          "code": "298507"
+        },
+        {
+          "name": "Douar Atmane Ben Hassene",
+          "code": "298522"
+        },
+        {
+          "name": "Douar Ben Rjeb",
+          "code": "298544"
+        },
+        {
+          "name": "Douar Cheikh Amar",
+          "code": "298575"
+        },
+        {
+          "name": "Douar el Ayad",
+          "code": "298608"
+        },
+        {
+          "name": "Douar el Haj Ayas",
+          "code": "298634"
+        },
+        {
+          "name": "Douar el Haj Mannsour",
+          "code": "298638"
+        },
+        {
+          "name": "Douar el Haj Mohammed",
+          "code": "298640"
+        },
+        {
+          "name": "Douar el Haj Salem Bou Kheïba",
+          "code": "298645"
+        },
+        {
+          "name": "Douar el Haj Toumi",
+          "code": "298646"
+        },
+        {
+          "name": "Douar el Jedid",
+          "code": "298652"
+        },
+        {
+          "name": "Douar er Remadni",
+          "code": "298676"
+        },
+        {
+          "name": "Douar ez Zedine",
+          "code": "298690"
+        },
+        {
+          "name": "Douar Laheg Ben Merouah",
+          "code": "298732"
+        },
+        {
+          "name": "Douar Maaoui Ben Saïd",
+          "code": "298734"
+        },
+        {
+          "name": "Douar Mannoubi",
+          "code": "298739"
+        },
+        {
+          "name": "Douar Mennzel Aïssa",
+          "code": "298744"
+        },
+        {
+          "name": "Douar Mesratia",
+          "code": "298749"
+        },
+        {
+          "name": "Douar Oulad ech Cherabi",
+          "code": "298772"
+        },
+        {
+          "name": "Douar Oulad Haj Ahmed",
+          "code": "298776"
+        },
+        {
+          "name": "Douar Rouis er Roua",
+          "code": "298797"
+        },
+        {
+          "name": "Fondouk Jedid",
+          "code": "298974"
+        },
+        {
+          "name": "Grombalia",
+          "code": "298999"
+        },
+        {
+          "name": "Haj Mohammed Ben Hamid",
+          "code": "299009"
+        },
+        {
+          "name": "Hammam Jedidi",
+          "code": "299015"
+        },
+        {
+          "name": "Henchir Bou Jerida",
+          "code": "299043"
+        },
+        {
+          "name": "Hennchir Bir Bou Zouita",
+          "code": "299051"
+        },
+        {
+          "name": "Jeradou",
+          "code": "299088"
+        },
+        {
+          "name": "Kef el Mechta",
+          "code": "299114"
+        },
+        {
+          "name": "Kerkouane",
+          "code": "299118"
+        },
+        {
+          "name": "Khannguet el Hajaj",
+          "code": "299121"
+        },
+        {
+          "name": "Krouibia",
+          "code": "299135"
+        },
+        {
+          "name": "Nabeul",
+          "code": "299266"
+        },
+        {
+          "name": "Oulad Cheraiet",
+          "code": "299285"
+        },
+        {
+          "name": "Ouled Salem",
+          "code": "299316"
+        },
+        {
+          "name": "Reyville",
+          "code": "299412"
+        },
+        {
+          "name": "Rous er Riba",
+          "code": "299419"
+        },
+        {
+          "name": "Saad",
+          "code": "299420"
+        },
+        {
+          "name": "Sainte-Marie du Zit",
+          "code": "299431"
+        },
+        {
+          "name": "Segermes",
+          "code": "299450"
+        },
+        {
+          "name": "Sidi Bou Saïd",
+          "code": "299500"
+        },
+        {
+          "name": "Sidi Jedidi",
+          "code": "299519"
+        },
+        {
+          "name": "Soliman",
+          "code": "299549"
+        },
+        {
+          "name": "Tir el Mergueb",
+          "code": "299599"
+        },
+        {
+          "name": "Yasmine Hammamet",
+          "code": "299625"
+        },
+        {
+          "name": "Zriba-Village",
+          "code": "299658"
+        }
+      ]
+    },
+    {
+      "name": "Qabis",
+      "code": "587",
+      "cities": [
+        {
+          "name": "Ad Dabdabah",
+          "code": "297953"
+        },
+        {
+          "name": "Al Barawikah",
+          "code": "297981"
+        },
+        {
+          "name": "Al Hafsah",
+          "code": "297992"
+        },
+        {
+          "name": "Al Khirbah",
+          "code": "298013"
+        },
+        {
+          "name": "Al Maiyah",
+          "code": "298014"
+        },
+        {
+          "name": "Al Manarah",
+          "code": "298018"
+        },
+        {
+          "name": "Al Matwiyah",
+          "code": "298026"
+        },
+        {
+          "name": "Al Mayyitah",
+          "code": "298027"
+        },
+        {
+          "name": "Al Medou",
+          "code": "298029"
+        },
+        {
+          "name": "Al Qasr",
+          "code": "298036"
+        },
+        {
+          "name": "Al `Urqub",
+          "code": "298048"
+        },
+        {
+          "name": "An Nahl",
+          "code": "298051"
+        },
+        {
+          "name": "Az Zarat",
+          "code": "298077"
+        },
+        {
+          "name": "Az Zaribah",
+          "code": "298078"
+        },
+        {
+          "name": "Bani Seggane",
+          "code": "298100"
+        },
+        {
+          "name": "Bani Zaltan",
+          "code": "298101"
+        },
+        {
+          "name": "Bani `Isá",
+          "code": "298103"
+        },
+        {
+          "name": "Barquq",
+          "code": "298107"
+        },
+        {
+          "name": "Bin Rhilouf",
+          "code": "298145"
+        },
+        {
+          "name": "Bu Sabah",
+          "code": "298224"
+        },
+        {
+          "name": "Bu Shammah",
+          "code": "298226"
+        },
+        {
+          "name": "Bu `Attush",
+          "code": "298229"
+        },
+        {
+          "name": "El Hamma",
+          "code": "298893"
+        },
+        {
+          "name": "Gabès",
+          "code": "298982"
+        },
+        {
+          "name": "Ghannush",
+          "code": "298987"
+        },
+        {
+          "name": "Haddedj",
+          "code": "299003"
+        },
+        {
+          "name": "Hafi Rassa",
+          "code": "299006"
+        },
+        {
+          "name": "Jarah",
+          "code": "299073"
+        },
+        {
+          "name": "Jawawilah",
+          "code": "299075"
+        },
+        {
+          "name": "Kattanah",
+          "code": "299109"
+        },
+        {
+          "name": "Manzil",
+          "code": "299199"
+        },
+        {
+          "name": "Marith",
+          "code": "299205"
+        },
+        {
+          "name": "Matmata",
+          "code": "299217"
+        },
+        {
+          "name": "Mteurch",
+          "code": "299262"
+        },
+        {
+          "name": "Mzata",
+          "code": "299265"
+        },
+        {
+          "name": "Sembat",
+          "code": "299453"
+        },
+        {
+          "name": "Shanini",
+          "code": "299457"
+        },
+        {
+          "name": "Shimlali",
+          "code": "299460"
+        },
+        {
+          "name": "Shu`bat Zamalah",
+          "code": "299463"
+        },
+        {
+          "name": "Sidi Bu al Babah",
+          "code": "299505"
+        },
+        {
+          "name": "Tabulbu",
+          "code": "299564"
+        },
+        {
+          "name": "Tamazrat",
+          "code": "299573"
+        },
+        {
+          "name": "Taoujout",
+          "code": "299574"
+        },
+        {
+          "name": "Techine",
+          "code": "299586"
+        },
+        {
+          "name": "Tidjma",
+          "code": "299595"
+        },
+        {
+          "name": "Tujan",
+          "code": "299609"
+        },
+        {
+          "name": "Wadhraf",
+          "code": "299618"
+        },
+        {
+          "name": "Zaqrarin",
+          "code": "299641"
+        },
+        {
+          "name": "Zarawah",
+          "code": "299642"
+        },
+        {
+          "name": "Zmertene",
+          "code": "299655"
+        },
+        {
+          "name": "Zurayq Barraniyah",
+          "code": "299659"
+        },
+        {
+          "name": "`Arram",
+          "code": "299661"
+        }
+      ]
+    },
+    {
+      "name": "Qafsah",
+      "code": "588",
+      "cities": [
+        {
+          "name": "Al Metlaoui",
+          "code": "298030"
+        },
+        {
+          "name": "Al `Ayayishah",
+          "code": "298045"
+        },
+        {
+          "name": "Ar Rudayyif",
+          "code": "298058"
+        },
+        {
+          "name": "As Sanad",
+          "code": "298065"
+        },
+        {
+          "name": "Borj Gourbata",
+          "code": "298190"
+        },
+        {
+          "name": "Bou Alem",
+          "code": "298204"
+        },
+        {
+          "name": "Bou Grad",
+          "code": "298209"
+        },
+        {
+          "name": "Bu Ballal",
+          "code": "298219"
+        },
+        {
+          "name": "Bu Humran",
+          "code": "298221"
+        },
+        {
+          "name": "Ed Doghra",
+          "code": "298842"
+        },
+        {
+          "name": "El Guetar",
+          "code": "298885"
+        },
+        {
+          "name": "El Ksar",
+          "code": "298917"
+        },
+        {
+          "name": "Gafsa",
+          "code": "298983"
+        },
+        {
+          "name": "Hanshir as Sawatir",
+          "code": "299026"
+        },
+        {
+          "name": "Jebel Mdhilla",
+          "code": "299078"
+        },
+        {
+          "name": "Lalla",
+          "code": "299164"
+        },
+        {
+          "name": "Lortess",
+          "code": "299179"
+        },
+        {
+          "name": "Mdhilla",
+          "code": "299182"
+        },
+        {
+          "name": "Nechiou",
+          "code": "299273"
+        },
+        {
+          "name": "Philippe-Thomas",
+          "code": "299331"
+        },
+        {
+          "name": "Sakket",
+          "code": "299435"
+        },
+        {
+          "name": "Sidi Aïch",
+          "code": "299471"
+        },
+        {
+          "name": "Sidi Bu Bakr",
+          "code": "299506"
+        },
+        {
+          "name": "Umm al `Arais",
+          "code": "299614"
+        },
+        {
+          "name": "Zannush",
+          "code": "299632"
+        }
+      ]
+    },
+    {
+      "name": "Qibili",
+      "code": "589",
+      "cities": [
+        {
+          "name": "Al Bayyaz",
+          "code": "297982"
+        },
+        {
+          "name": "Bazma",
+          "code": "298108"
+        },
+        {
+          "name": "Bchelli",
+          "code": "298109"
+        },
+        {
+          "name": "Bechri",
+          "code": "298111"
+        },
+        {
+          "name": "Berghoutsia",
+          "code": "298125"
+        },
+        {
+          "name": "Blidet",
+          "code": "298154"
+        },
+        {
+          "name": "Dawwar al Ma",
+          "code": "298445"
+        },
+        {
+          "name": "Debabcha",
+          "code": "298475"
+        },
+        {
+          "name": "Douz",
+          "code": "298833"
+        },
+        {
+          "name": "Ebness",
+          "code": "298835"
+        },
+        {
+          "name": "El Aouina",
+          "code": "298857"
+        },
+        {
+          "name": "El Aouina Raja",
+          "code": "298858"
+        },
+        {
+          "name": "El Faouar",
+          "code": "298876"
+        },
+        {
+          "name": "El Golaa",
+          "code": "298883"
+        },
+        {
+          "name": "El Jezira",
+          "code": "298905"
+        },
+        {
+          "name": "El Mansouraa",
+          "code": "298923"
+        },
+        {
+          "name": "El Meghmouma",
+          "code": "298927"
+        },
+        {
+          "name": "Er Rahmat",
+          "code": "298945"
+        },
+        {
+          "name": "Fitnasah",
+          "code": "298970"
+        },
+        {
+          "name": "Ghaïalif",
+          "code": "298986"
+        },
+        {
+          "name": "Ghelissia",
+          "code": "298991"
+        },
+        {
+          "name": "Ghidmah",
+          "code": "298992"
+        },
+        {
+          "name": "Ghlissia",
+          "code": "298993"
+        },
+        {
+          "name": "Guetaïa",
+          "code": "299001"
+        },
+        {
+          "name": "Jedaïd",
+          "code": "299080"
+        },
+        {
+          "name": "Jedida",
+          "code": "299084"
+        },
+        {
+          "name": "Jemna",
+          "code": "299086"
+        },
+        {
+          "name": "Kebili",
+          "code": "299112"
+        },
+        {
+          "name": "Kebili el Ouati",
+          "code": "299113"
+        },
+        {
+          "name": "Kelouamene",
+          "code": "299117"
+        },
+        {
+          "name": "Limaguess",
+          "code": "299178"
+        },
+        {
+          "name": "Mennchia",
+          "code": "299233"
+        },
+        {
+          "name": "Nagga",
+          "code": "299268"
+        },
+        {
+          "name": "Nezlat el Abid",
+          "code": "299275"
+        },
+        {
+          "name": "Nouaïl",
+          "code": "299278"
+        },
+        {
+          "name": "Oum es Somaa",
+          "code": "299324"
+        },
+        {
+          "name": "Qasr Ghilan",
+          "code": "299371"
+        },
+        {
+          "name": "Qasr Tarcine",
+          "code": "299384"
+        },
+        {
+          "name": "Rabta",
+          "code": "299402"
+        },
+        {
+          "name": "Sabria",
+          "code": "299421"
+        },
+        {
+          "name": "Sidi Messaïd",
+          "code": "299523"
+        },
+        {
+          "name": "Stiftimia",
+          "code": "299560"
+        },
+        {
+          "name": "Telmine",
+          "code": "299587"
+        },
+        {
+          "name": "Tombar",
+          "code": "299601"
+        },
+        {
+          "name": "Touiba",
+          "code": "299603"
+        },
+        {
+          "name": "Zaafrane",
+          "code": "299626"
+        },
+        {
+          "name": "Zaouïet el Harth",
+          "code": "299637"
+        },
+        {
+          "name": "Zarzine",
+          "code": "299643"
+        },
+        {
+          "name": "`Ayn Ridwan",
+          "code": "299664"
+        },
+        {
+          "name": "`Ayn Sa`idan",
+          "code": "299666"
+        },
+        {
+          "name": "`Ayn Ziqzaw",
+          "code": "299667"
+        }
+      ]
+    },
+    {
+      "name": "Safaqis",
+      "code": "590",
+      "cities": [
+        {
+          "name": "Agareb",
+          "code": "297961"
+        },
+        {
+          "name": "Al Ghurayyibah",
+          "code": "297989"
+        },
+        {
+          "name": "Al Hanashah",
+          "code": "297996"
+        },
+        {
+          "name": "Al Hizq",
+          "code": "298000"
+        },
+        {
+          "name": "Al Hushayshinah",
+          "code": "298001"
+        },
+        {
+          "name": "Al Qarmadah",
+          "code": "298035"
+        },
+        {
+          "name": "Al `Ayn",
+          "code": "298046"
+        },
+        {
+          "name": "Ali Lazreg",
+          "code": "298049"
+        },
+        {
+          "name": "Bel Houl",
+          "code": "298114"
+        },
+        {
+          "name": "Belgica",
+          "code": "298115"
+        },
+        {
+          "name": "Bir al Malluli",
+          "code": "298130"
+        },
+        {
+          "name": "Bir Shu`bah",
+          "code": "298136"
+        },
+        {
+          "name": "Bir Tebeuk",
+          "code": "298137"
+        },
+        {
+          "name": "Bir `Ali Bin Khalifah",
+          "code": "298138"
+        },
+        {
+          "name": "Borj Ben Reguiga",
+          "code": "298167"
+        },
+        {
+          "name": "Borj el Haj Braïk",
+          "code": "298177"
+        },
+        {
+          "name": "Borj el Meragueb",
+          "code": "298183"
+        },
+        {
+          "name": "Borj Mohammed el Haj Ali",
+          "code": "298197"
+        },
+        {
+          "name": "Borj Mohammed el Majiri",
+          "code": "298198"
+        },
+        {
+          "name": "Braïna",
+          "code": "298217"
+        },
+        {
+          "name": "Bu Thady",
+          "code": "298227"
+        },
+        {
+          "name": "Chebchoub",
+          "code": "298253"
+        },
+        {
+          "name": "Dar Ali Ben Baziz",
+          "code": "298280"
+        },
+        {
+          "name": "Dar Azdine",
+          "code": "298287"
+        },
+        {
+          "name": "Dar Ben el Ouaar",
+          "code": "298294"
+        },
+        {
+          "name": "Dar Ben Mbarek",
+          "code": "298295"
+        },
+        {
+          "name": "Dar Ben Nehar",
+          "code": "298296"
+        },
+        {
+          "name": "Dar el Gouadria",
+          "code": "298330"
+        },
+        {
+          "name": "Dar el Haj Mohammed Mallak",
+          "code": "298339"
+        },
+        {
+          "name": "Dar el Haj Taïeb",
+          "code": "298341"
+        },
+        {
+          "name": "Dar el Madani",
+          "code": "298348"
+        },
+        {
+          "name": "Dar el Ouahichi",
+          "code": "298353"
+        },
+        {
+          "name": "Dar es Saadi",
+          "code": "298359"
+        },
+        {
+          "name": "Dar et Tehami",
+          "code": "298361"
+        },
+        {
+          "name": "Dar Ktory",
+          "code": "298381"
+        },
+        {
+          "name": "Dar Mohammed Salah",
+          "code": "298391"
+        },
+        {
+          "name": "Douar Ben Jouida",
+          "code": "298537"
+        },
+        {
+          "name": "Douar Brahim el Hamidi",
+          "code": "298571"
+        },
+        {
+          "name": "Douar es Sghaïra",
+          "code": "298681"
+        },
+        {
+          "name": "Douar ez Zergane",
+          "code": "298692"
+        },
+        {
+          "name": "Douar Oulad el Haj Ali Ben Abd",
+          "code": "298773"
+        },
+        {
+          "name": "Douar Oulad el Haj Salah",
+          "code": "298774"
+        },
+        {
+          "name": "Douar Oulad Mohammed",
+          "code": "298781"
+        },
+        {
+          "name": "Douar Oulad Salah",
+          "code": "298783"
+        },
+        {
+          "name": "Douar Ouled Abd el Kader",
+          "code": "298788"
+        },
+        {
+          "name": "Ech-Chergui",
+          "code": "298841"
+        },
+        {
+          "name": "El Abassia",
+          "code": "298845"
+        },
+        {
+          "name": "El Aguerba",
+          "code": "298848"
+        },
+        {
+          "name": "El Amra",
+          "code": "298855"
+        },
+        {
+          "name": "El Aouinat",
+          "code": "298859"
+        },
+        {
+          "name": "El Araba",
+          "code": "298860"
+        },
+        {
+          "name": "El Ataya",
+          "code": "298863"
+        },
+        {
+          "name": "El Baïr",
+          "code": "298865"
+        },
+        {
+          "name": "El Bedarna",
+          "code": "298868"
+        },
+        {
+          "name": "El Bekakha",
+          "code": "298869"
+        },
+        {
+          "name": "El Beniane",
+          "code": "298870"
+        },
+        {
+          "name": "El Hashassia",
+          "code": "298899"
+        },
+        {
+          "name": "El Houamdia",
+          "code": "298901"
+        },
+        {
+          "name": "El Kheraïb",
+          "code": "298912"
+        },
+        {
+          "name": "Er-Remla",
+          "code": "298947"
+        },
+        {
+          "name": "Es Sabra",
+          "code": "298949"
+        },
+        {
+          "name": "Es Sid",
+          "code": "298951"
+        },
+        {
+          "name": "Ez Zgadna",
+          "code": "298959"
+        },
+        {
+          "name": "Hanout Seridik",
+          "code": "299021"
+        },
+        {
+          "name": "Hanshir al Raqubah",
+          "code": "299024"
+        },
+        {
+          "name": "Jabinyanah",
+          "code": "299067"
+        },
+        {
+          "name": "Jawabir",
+          "code": "299074"
+        },
+        {
+          "name": "Jebarna",
+          "code": "299076"
+        },
+        {
+          "name": "Jedak Ali",
+          "code": "299082"
+        },
+        {
+          "name": "Jraïda",
+          "code": "299093"
+        },
+        {
+          "name": "Kchaïcha",
+          "code": "299110"
+        },
+        {
+          "name": "Khlaïfa",
+          "code": "299124"
+        },
+        {
+          "name": "La Croix",
+          "code": "299153"
+        },
+        {
+          "name": "La Sulamite",
+          "code": "299163"
+        },
+        {
+          "name": "Laouata",
+          "code": "299170"
+        },
+        {
+          "name": "Les Boudrenas",
+          "code": "299173"
+        },
+        {
+          "name": "Louza",
+          "code": "299181"
+        },
+        {
+          "name": "Maadene",
+          "code": "299183"
+        },
+        {
+          "name": "Macera",
+          "code": "299187"
+        },
+        {
+          "name": "Mahires",
+          "code": "299192"
+        },
+        {
+          "name": "Markez Bou Ladiab",
+          "code": "299206"
+        },
+        {
+          "name": "Markez Tijani",
+          "code": "299207"
+        },
+        {
+          "name": "Matguia",
+          "code": "299215"
+        },
+        {
+          "name": "Meliana",
+          "code": "299229"
+        },
+        {
+          "name": "Mellita",
+          "code": "299231"
+        },
+        {
+          "name": "Menzel Chaker",
+          "code": "299237"
+        },
+        {
+          "name": "Mirabaud",
+          "code": "299249"
+        },
+        {
+          "name": "Mouamla",
+          "code": "299258"
+        },
+        {
+          "name": "Nakta",
+          "code": "299269"
+        },
+        {
+          "name": "Oulad Ben Draïf",
+          "code": "299283"
+        },
+        {
+          "name": "Oulad el Hajj Saad",
+          "code": "299288"
+        },
+        {
+          "name": "Oulad Haj Ahmed",
+          "code": "299293"
+        },
+        {
+          "name": "Oulad Nouasseur",
+          "code": "299302"
+        },
+        {
+          "name": "Ouled Bou Ali",
+          "code": "299307"
+        },
+        {
+          "name": "Ouled Bou Zerara",
+          "code": "299308"
+        },
+        {
+          "name": "Ouled Kacem",
+          "code": "299314"
+        },
+        {
+          "name": "Ouled Yaneg",
+          "code": "299320"
+        },
+        {
+          "name": "Rouinat",
+          "code": "299418"
+        },
+        {
+          "name": "Saint Henri",
+          "code": "299427"
+        },
+        {
+          "name": "Sakiet ed Daier",
+          "code": "299432"
+        },
+        {
+          "name": "Sakiet ez Zit",
+          "code": "299433"
+        },
+        {
+          "name": "Sfax",
+          "code": "299454"
+        },
+        {
+          "name": "Sidi Abbès",
+          "code": "299464"
+        },
+        {
+          "name": "Sidi Abid",
+          "code": "299468"
+        },
+        {
+          "name": "Sidi el Moujahed",
+          "code": "299514"
+        },
+        {
+          "name": "Sidi el Tebehi",
+          "code": "299515"
+        },
+        {
+          "name": "Sidi Mansour",
+          "code": "299521"
+        },
+        {
+          "name": "Skhira",
+          "code": "299545"
+        },
+        {
+          "name": "Soualem",
+          "code": "299551"
+        },
+        {
+          "name": "Souhani",
+          "code": "299553"
+        },
+        {
+          "name": "Touaïri",
+          "code": "299602"
+        },
+        {
+          "name": "Trabelsia",
+          "code": "299607"
+        },
+        {
+          "name": "Yamouna",
+          "code": "299624"
+        }
+      ]
+    },
+    {
+      "name": "Sidi Bu Zayd",
+      "code": "591",
+      "cities": [
+        {
+          "name": "Adlet Touïla",
+          "code": "297960"
+        },
+        {
+          "name": "Al Ghazal",
+          "code": "297988"
+        },
+        {
+          "name": "Al Mazzunah",
+          "code": "298028"
+        },
+        {
+          "name": "Al Miknasi",
+          "code": "298031"
+        },
+        {
+          "name": "Ar Riqab",
+          "code": "298057"
+        },
+        {
+          "name": "Bir al Hufayy",
+          "code": "298128"
+        },
+        {
+          "name": "Bit Bou Saa",
+          "code": "298152"
+        },
+        {
+          "name": "Dar Taïeb Bou Abd es Slam",
+          "code": "298417"
+        },
+        {
+          "name": "Dawwar al Malikat",
+          "code": "298447"
+        },
+        {
+          "name": "Douar el Mehamid",
+          "code": "298663"
+        },
+        {
+          "name": "Douar et Tarig",
+          "code": "298686"
+        },
+        {
+          "name": "Douar Msakine",
+          "code": "298763"
+        },
+        {
+          "name": "Douar Souarigue",
+          "code": "298817"
+        },
+        {
+          "name": "El Bayada",
+          "code": "298867"
+        },
+        {
+          "name": "Es Souda",
+          "code": "298953"
+        },
+        {
+          "name": "Faid",
+          "code": "298961"
+        },
+        {
+          "name": "Hanout Cheïkh",
+          "code": "299020"
+        },
+        {
+          "name": "Hawsh Mahmud Bin Nasib",
+          "code": "299039"
+        },
+        {
+          "name": "Henchir Abd el Kader",
+          "code": "299041"
+        },
+        {
+          "name": "Henchir el Haouachi",
+          "code": "299044"
+        },
+        {
+          "name": "Henchir Haj Ali Bou Hamouda",
+          "code": "299046"
+        },
+        {
+          "name": "Huwaytat al Ghazalah",
+          "code": "299065"
+        },
+        {
+          "name": "Jilma",
+          "code": "299091"
+        },
+        {
+          "name": "Kaf ar Rayat",
+          "code": "299096"
+        },
+        {
+          "name": "Mahari Jabbas",
+          "code": "299189"
+        },
+        {
+          "name": "Qasr `Izz ad Din",
+          "code": "299388"
+        },
+        {
+          "name": "Qusur al Ahnash",
+          "code": "299397"
+        },
+        {
+          "name": "Sanndouk",
+          "code": "299439"
+        },
+        {
+          "name": "Sidi Bouzid",
+          "code": "299503"
+        },
+        {
+          "name": "Sidi Salim",
+          "code": "299532"
+        },
+        {
+          "name": "Smida",
+          "code": "299548"
+        },
+        {
+          "name": "Zaafria",
+          "code": "299627"
+        },
+        {
+          "name": "Zaoula Sidi Mohammed Salah",
+          "code": "299640"
+        },
+        {
+          "name": "Zawiyat as Sadaqiyah",
+          "code": "299647"
+        },
+        {
+          "name": "Zhani",
+          "code": "299654"
+        },
+        {
+          "name": "`Uqlat al Djedra",
+          "code": "299669"
+        }
+      ]
+    },
+    {
+      "name": "Silyanah",
+      "code": "592",
+      "cities": [
+        {
+          "name": "Bou Abdallah",
+          "code": "298202"
+        },
+        {
+          "name": "Dar Cheikh Ahmed",
+          "code": "298317"
+        },
+        {
+          "name": "Dechret Beni Abdallah",
+          "code": "298479"
+        },
+        {
+          "name": "Dechret Bou Sabioun",
+          "code": "298481"
+        },
+        {
+          "name": "Dechret el Garia",
+          "code": "298483"
+        },
+        {
+          "name": "Dechret el Guennara",
+          "code": "298485"
+        },
+        {
+          "name": "Dechret ez Zriba",
+          "code": "298486"
+        },
+        {
+          "name": "Dechret Ghamlia",
+          "code": "298487"
+        },
+        {
+          "name": "Dechret Jenoua",
+          "code": "298489"
+        },
+        {
+          "name": "Dechret Mannsoura",
+          "code": "298490"
+        },
+        {
+          "name": "Dechret Sefaïeb",
+          "code": "298493"
+        },
+        {
+          "name": "Dechret Sidi Hamada",
+          "code": "298494"
+        },
+        {
+          "name": "Diverse Tunesie",
+          "code": "298503"
+        },
+        {
+          "name": "Douar Aïfa",
+          "code": "298511"
+        },
+        {
+          "name": "Douar Bayoud",
+          "code": "298525"
+        },
+        {
+          "name": "Douar Bou Nefil",
+          "code": "298565"
+        },
+        {
+          "name": "Douar Douaouda",
+          "code": "298584"
+        },
+        {
+          "name": "Douar el Mallaha",
+          "code": "298662"
+        },
+        {
+          "name": "Douar el Merdsa",
+          "code": "298666"
+        },
+        {
+          "name": "Douar el Mrabet",
+          "code": "298670"
+        },
+        {
+          "name": "Douar el Ouslatia",
+          "code": "298671"
+        },
+        {
+          "name": "Douar Meguerba",
+          "code": "298742"
+        },
+        {
+          "name": "Douar Oulad Ahmed Ben Ali",
+          "code": "298770"
+        },
+        {
+          "name": "Douar Soualem",
+          "code": "298816"
+        },
+        {
+          "name": "El Ksour",
+          "code": "298919"
+        },
+        {
+          "name": "Fondouk Debbiche",
+          "code": "298972"
+        },
+        {
+          "name": "Kesra",
+          "code": "299119"
+        },
+        {
+          "name": "Ksar el Guennara",
+          "code": "299137"
+        },
+        {
+          "name": "Ksar Mdouja",
+          "code": "299141"
+        },
+        {
+          "name": "Lalla Mabrouka",
+          "code": "299165"
+        },
+        {
+          "name": "Magraoua",
+          "code": "299188"
+        },
+        {
+          "name": "Maktar",
+          "code": "299197"
+        },
+        {
+          "name": "Ouled Sidi Ahmed Ben Ali",
+          "code": "299317"
+        },
+        {
+          "name": "Rass el Maa",
+          "code": "299407"
+        },
+        {
+          "name": "Sebaa Jouama",
+          "code": "299448"
+        },
+        {
+          "name": "Sidi Amara",
+          "code": "299478"
+        },
+        {
+          "name": "Sidi Bou Grine",
+          "code": "299496"
+        },
+        {
+          "name": "Sidi Marchett",
+          "code": "299522"
+        },
+        {
+          "name": "Siliana",
+          "code": "299543"
+        },
+        {
+          "name": "Souk el Djemaa",
+          "code": "299554"
+        },
+        {
+          "name": "Zaouïa Sidi Ameur",
+          "code": "299635"
+        }
+      ]
+    },
+    {
+      "name": "Susah",
+      "code": "593",
+      "cities": [
+        {
+          "name": "Akouda",
+          "code": "297975"
+        },
+        {
+          "name": "Al Burjayn",
+          "code": "297986"
+        },
+        {
+          "name": "Al Kanais",
+          "code": "298007"
+        },
+        {
+          "name": "Bani Kulthum",
+          "code": "298099"
+        },
+        {
+          "name": "Ben Khirat",
+          "code": "298119"
+        },
+        {
+          "name": "Bidane",
+          "code": "298139"
+        },
+        {
+          "name": "Borj el Bey",
+          "code": "298174"
+        },
+        {
+          "name": "Bu ar Rabi`ah",
+          "code": "298218"
+        },
+        {
+          "name": "Cité Ouvrière",
+          "code": "298259"
+        },
+        {
+          "name": "Dar ech Chaouch Abd Alla",
+          "code": "298321"
+        },
+        {
+          "name": "Dar el Aroussi",
+          "code": "298324"
+        },
+        {
+          "name": "Dar el Haj Amara",
+          "code": "298336"
+        },
+        {
+          "name": "Dar el Saïd",
+          "code": "298356"
+        },
+        {
+          "name": "Dar Haj Salah",
+          "code": "298367"
+        },
+        {
+          "name": "Dar Khaled",
+          "code": "298379"
+        },
+        {
+          "name": "Dar Titi",
+          "code": "298420"
+        },
+        {
+          "name": "Douar Hamama",
+          "code": "298706"
+        },
+        {
+          "name": "Douar Oulad Aoun",
+          "code": "298771"
+        },
+        {
+          "name": "Douar Oulad Jebar",
+          "code": "298778"
+        },
+        {
+          "name": "Douar Oulad Kbir",
+          "code": "298779"
+        },
+        {
+          "name": "Douar Oulad Znai",
+          "code": "298785"
+        },
+        {
+          "name": "Ed Dzahibi",
+          "code": "298843"
+        },
+        {
+          "name": "El Ahmar",
+          "code": "298849"
+        },
+        {
+          "name": "El Haj Mohammed Zarrouch",
+          "code": "298890"
+        },
+        {
+          "name": "El Mhedba",
+          "code": "298931"
+        },
+        {
+          "name": "Enfida",
+          "code": "298944"
+        },
+        {
+          "name": "Es Safet",
+          "code": "298950"
+        },
+        {
+          "name": "Et Trabelsia",
+          "code": "298956"
+        },
+        {
+          "name": "Ez Zaouaoudi",
+          "code": "298958"
+        },
+        {
+          "name": "Fraïa",
+          "code": "298980"
+        },
+        {
+          "name": "Hammam Sousse",
+          "code": "299016"
+        },
+        {
+          "name": "Henndi ech Chiab",
+          "code": "299052"
+        },
+        {
+          "name": "Henndi el Alouj",
+          "code": "299053"
+        },
+        {
+          "name": "Henndi el Haj Brahim",
+          "code": "299054"
+        },
+        {
+          "name": "Henndi el Menzel",
+          "code": "299055"
+        },
+        {
+          "name": "Henndi es Saada",
+          "code": "299056"
+        },
+        {
+          "name": "Henndi es Setta",
+          "code": "299057"
+        },
+        {
+          "name": "Henndi et Teggaz",
+          "code": "299058"
+        },
+        {
+          "name": "Henndi Knana",
+          "code": "299059"
+        },
+        {
+          "name": "Henndi Oulad Saïd",
+          "code": "299060"
+        },
+        {
+          "name": "Henndi Salmoun",
+          "code": "299061"
+        },
+        {
+          "name": "Kalaa Srira",
+          "code": "299099"
+        },
+        {
+          "name": "Kelaa Kebira",
+          "code": "299115"
+        },
+        {
+          "name": "Khoussiah",
+          "code": "299127"
+        },
+        {
+          "name": "Ksiba",
+          "code": "299146"
+        },
+        {
+          "name": "La Corniche",
+          "code": "299152"
+        },
+        {
+          "name": "Masakin",
+          "code": "299208"
+        },
+        {
+          "name": "Mashtá ash Shuwayshah",
+          "code": "299210"
+        },
+        {
+          "name": "Messadine",
+          "code": "299242"
+        },
+        {
+          "name": "Moureddine",
+          "code": "299259"
+        },
+        {
+          "name": "Nafed",
+          "code": "299267"
+        },
+        {
+          "name": "Oulad Amor",
+          "code": "299282"
+        },
+        {
+          "name": "Oulad el Abed",
+          "code": "299286"
+        },
+        {
+          "name": "Oulad el Ghoulet",
+          "code": "299287"
+        },
+        {
+          "name": "Oulad el Kelba",
+          "code": "299290"
+        },
+        {
+          "name": "Oulad el Meniou",
+          "code": "299292"
+        },
+        {
+          "name": "Oulad Messaouda",
+          "code": "299296"
+        },
+        {
+          "name": "Oulad Mohammed el Alounia",
+          "code": "299297"
+        },
+        {
+          "name": "Oulad Mrabot",
+          "code": "299298"
+        },
+        {
+          "name": "Oulad Neffet",
+          "code": "299301"
+        },
+        {
+          "name": "Port el Kantaoui",
+          "code": "299332"
+        },
+        {
+          "name": "Sahali",
+          "code": "299422"
+        },
+        {
+          "name": "Sidi Bou Ali",
+          "code": "299493"
+        },
+        {
+          "name": "Sidi el Hani",
+          "code": "299513"
+        },
+        {
+          "name": "Sidi et Taïari",
+          "code": "299517"
+        },
+        {
+          "name": "Sidi Khalifa el Ferjani",
+          "code": "299520"
+        },
+        {
+          "name": "Souani el Adari",
+          "code": "299552"
+        },
+        {
+          "name": "Sousse",
+          "code": "299558"
+        },
+        {
+          "name": "Villa des Pins",
+          "code": "299616"
+        },
+        {
+          "name": "Zaouiet Sousse",
+          "code": "299639"
+        }
+      ]
+    },
+    {
+      "name": "Tatawin",
+      "code": "594",
+      "cities": [
+        {
+          "name": "Ad Duwayrat",
+          "code": "297958"
+        },
+        {
+          "name": "Al Karashiwah",
+          "code": "298009"
+        },
+        {
+          "name": "Al Qasr al Jadid",
+          "code": "298037"
+        },
+        {
+          "name": "Bani Barkah",
+          "code": "298093"
+        },
+        {
+          "name": "Bir Zar",
+          "code": "298150"
+        },
+        {
+          "name": "Borj Jeneïn",
+          "code": "298193"
+        },
+        {
+          "name": "Borj Mechehed Salah",
+          "code": "298195"
+        },
+        {
+          "name": "Bulaydat al Muqaddamin",
+          "code": "298231"
+        },
+        {
+          "name": "Daghaghah",
+          "code": "298261"
+        },
+        {
+          "name": "Dar Suwayd",
+          "code": "298415"
+        },
+        {
+          "name": "Dehiba",
+          "code": "298497"
+        },
+        {
+          "name": "El Borma",
+          "code": "298873"
+        },
+        {
+          "name": "Ghomrassen",
+          "code": "298994"
+        },
+        {
+          "name": "Haddadah",
+          "code": "299002"
+        },
+        {
+          "name": "Haf Jirjir",
+          "code": "299004"
+        },
+        {
+          "name": "Hawadid",
+          "code": "299034"
+        },
+        {
+          "name": "Jalidat",
+          "code": "299069"
+        },
+        {
+          "name": "Kasba es Saboun",
+          "code": "299103"
+        },
+        {
+          "name": "Kasba Leguine",
+          "code": "299104"
+        },
+        {
+          "name": "Kirchaou",
+          "code": "299129"
+        },
+        {
+          "name": "Ksar Cherchara",
+          "code": "299136"
+        },
+        {
+          "name": "Ksar et Turki",
+          "code": "299140"
+        },
+        {
+          "name": "Ksar Mrabtine",
+          "code": "299142"
+        },
+        {
+          "name": "Ksar Ouled Aoun",
+          "code": "299143"
+        },
+        {
+          "name": "Ksar Retbet el Krachoua",
+          "code": "299144"
+        },
+        {
+          "name": "Lorzot",
+          "code": "299180"
+        },
+        {
+          "name": "Qasabah Darinah",
+          "code": "299338"
+        },
+        {
+          "name": "Qasabah Zamaz",
+          "code": "299339"
+        },
+        {
+          "name": "Qasabat al Agoum",
+          "code": "299340"
+        },
+        {
+          "name": "Qasabat al Ghardaqi",
+          "code": "299341"
+        },
+        {
+          "name": "Qasabat Awlad Sa`idan",
+          "code": "299342"
+        },
+        {
+          "name": "Qasabat az Zurqan",
+          "code": "299343"
+        },
+        {
+          "name": "Qasabat Bu Nemcha",
+          "code": "299344"
+        },
+        {
+          "name": "Qasabat Dafniyah",
+          "code": "299345"
+        },
+        {
+          "name": "Qasabat Tannfoura",
+          "code": "299346"
+        },
+        {
+          "name": "Qasabat `Ammar",
+          "code": "299347"
+        },
+        {
+          "name": "Qasr al Muqabilah",
+          "code": "299353"
+        },
+        {
+          "name": "Qasr al Murrah",
+          "code": "299354"
+        },
+        {
+          "name": "Qasr al `Ababisah",
+          "code": "299356"
+        },
+        {
+          "name": "Qasr ash Shaytanah",
+          "code": "299358"
+        },
+        {
+          "name": "Qasr ash Shuhban",
+          "code": "299359"
+        },
+        {
+          "name": "Qasr Awlad Dabbab",
+          "code": "299361"
+        },
+        {
+          "name": "Qasr Awlad Mahmad",
+          "code": "299362"
+        },
+        {
+          "name": "Qasr Awlad Sultan",
+          "code": "299364"
+        },
+        {
+          "name": "Qasr Awlad `Awn",
+          "code": "299365"
+        },
+        {
+          "name": "Qasr Bu Ziri",
+          "code": "299368"
+        },
+        {
+          "name": "Qasr Chouline",
+          "code": "299369"
+        },
+        {
+          "name": "Qasr Darhariet",
+          "code": "299370"
+        },
+        {
+          "name": "Qasr Maned",
+          "code": "299373"
+        },
+        {
+          "name": "Qasr Mehiri",
+          "code": "299374"
+        },
+        {
+          "name": "Qasr Metrioua",
+          "code": "299375"
+        },
+        {
+          "name": "Qasr Mgassa",
+          "code": "299377"
+        },
+        {
+          "name": "Qasr Mihel",
+          "code": "299378"
+        },
+        {
+          "name": "Qasr Nukhayf",
+          "code": "299379"
+        },
+        {
+          "name": "Qasr Talib Beldine",
+          "code": "299382"
+        },
+        {
+          "name": "Qasr Tamelest",
+          "code": "299383"
+        },
+        {
+          "name": "Qasr Umm ar Rummanat",
+          "code": "299385"
+        },
+        {
+          "name": "Qasr `Ayyath",
+          "code": "299386"
+        },
+        {
+          "name": "Qasr `Isá",
+          "code": "299387"
+        },
+        {
+          "name": "Qatufah",
+          "code": "299389"
+        },
+        {
+          "name": "Qirmisah",
+          "code": "299391"
+        },
+        {
+          "name": "Qusur Jalidat",
+          "code": "299398"
+        },
+        {
+          "name": "Ras al `Ayn",
+          "code": "299400"
+        },
+        {
+          "name": "Remada",
+          "code": "299411"
+        },
+        {
+          "name": "Shanini",
+          "code": "299456"
+        },
+        {
+          "name": "Tataouine",
+          "code": "299581"
+        },
+        {
+          "name": "Tieret",
+          "code": "299596"
+        },
+        {
+          "name": "Tounkett",
+          "code": "299605"
+        }
+      ]
+    },
+    {
+      "name": "Tawzar",
+      "code": "595",
+      "cities": [
+        {
+          "name": "Abbes",
+          "code": "297952"
+        },
+        {
+          "name": "Al `Irq",
+          "code": "298047"
+        },
+        {
+          "name": "Awlad Majid",
+          "code": "298073"
+        },
+        {
+          "name": "Bilad al Hadar",
+          "code": "298141"
+        },
+        {
+          "name": "Cedada",
+          "code": "298242"
+        },
+        {
+          "name": "Chabbia",
+          "code": "298244"
+        },
+        {
+          "name": "Degache",
+          "code": "298496"
+        },
+        {
+          "name": "El Guithna",
+          "code": "298886"
+        },
+        {
+          "name": "En Nemlet",
+          "code": "298943"
+        },
+        {
+          "name": "Hammat al Jarid",
+          "code": "299019"
+        },
+        {
+          "name": "Jehim",
+          "code": "299085"
+        },
+        {
+          "name": "Kriz",
+          "code": "299134"
+        },
+        {
+          "name": "Mhareb",
+          "code": "299245"
+        },
+        {
+          "name": "Midè",
+          "code": "299247"
+        },
+        {
+          "name": "Nefta",
+          "code": "299274"
+        },
+        {
+          "name": "Shabikah",
+          "code": "299455"
+        },
+        {
+          "name": "Tamaghzah",
+          "code": "299572"
+        },
+        {
+          "name": "Tozeur",
+          "code": "299606"
+        },
+        {
+          "name": "Zaouiet el Arab",
+          "code": "299636"
+        },
+        {
+          "name": "Zorgane",
+          "code": "299657"
+        },
+        {
+          "name": "`Alaqimah",
+          "code": "299660"
+        }
+      ]
+    },
+    {
+      "name": "Tunis",
+      "code": "596",
+      "cities": [
+        {
+          "name": "Bab Alleoua",
+          "code": "298084"
+        },
+        {
+          "name": "Bab el Gorjarni",
+          "code": "298085"
+        },
+        {
+          "name": "Bab Sidi Kassem",
+          "code": "298088"
+        },
+        {
+          "name": "Bejaoua",
+          "code": "298113"
+        },
+        {
+          "name": "Bellevue",
+          "code": "298116"
+        },
+        {
+          "name": "Ben Arous",
+          "code": "298117"
+        },
+        {
+          "name": "Bir Kassa",
+          "code": "298147"
+        },
+        {
+          "name": "Borj Ali Ben Ammar",
+          "code": "298160"
+        },
+        {
+          "name": "Borj Bach Mamlouk",
+          "code": "298164"
+        },
+        {
+          "name": "Borj el Khouja",
+          "code": "298182"
+        },
+        {
+          "name": "Borj Ennbaza",
+          "code": "298184"
+        },
+        {
+          "name": "Borj et Teurki",
+          "code": "298185"
+        },
+        {
+          "name": "Borj Fouaoud",
+          "code": "298188"
+        },
+        {
+          "name": "Borj Graba",
+          "code": "298191"
+        },
+        {
+          "name": "Borj Oulad Lara",
+          "code": "298200"
+        },
+        {
+          "name": "Bou Jerga",
+          "code": "298210"
+        },
+        {
+          "name": "Carthage",
+          "code": "298241"
+        },
+        {
+          "name": "Chebbaou",
+          "code": "298252"
+        },
+        {
+          "name": "Crétéville",
+          "code": "298260"
+        },
+        {
+          "name": "Dar el Bey",
+          "code": "298327"
+        },
+        {
+          "name": "Dar el Haj Ahmed Souid",
+          "code": "298333"
+        },
+        {
+          "name": "Dar el Ouzir",
+          "code": "298355"
+        },
+        {
+          "name": "Dar Jeziri",
+          "code": "298377"
+        },
+        {
+          "name": "Dar Mimoun Bey",
+          "code": "298386"
+        },
+        {
+          "name": "Dar Salah Bey",
+          "code": "298403"
+        },
+        {
+          "name": "Dar Sidi Mhamed ech Cherif",
+          "code": "298412"
+        },
+        {
+          "name": "Dar Tahar Zaouch",
+          "code": "298416"
+        },
+        {
+          "name": "Douar Adou",
+          "code": "298510"
+        },
+        {
+          "name": "Douar Cherfech",
+          "code": "298576"
+        },
+        {
+          "name": "Douar ech Chott",
+          "code": "298592"
+        },
+        {
+          "name": "Douar el Hafey",
+          "code": "298630"
+        },
+        {
+          "name": "Douar Kaouana",
+          "code": "298724"
+        },
+        {
+          "name": "Douar Lababsa",
+          "code": "298731"
+        },
+        {
+          "name": "Douar Mennchia",
+          "code": "298743"
+        },
+        {
+          "name": "Douar Sidi Chabane",
+          "code": "298814"
+        },
+        {
+          "name": "Douar Touba",
+          "code": "298822"
+        },
+        {
+          "name": "Dubosville",
+          "code": "298834"
+        },
+        {
+          "name": "El Assoued",
+          "code": "298862"
+        },
+        {
+          "name": "El Feja",
+          "code": "298878"
+        },
+        {
+          "name": "El Haouach",
+          "code": "298895"
+        },
+        {
+          "name": "El Mstiri",
+          "code": "298935"
+        },
+        {
+          "name": "Ez Zahra",
+          "code": "298957"
+        },
+        {
+          "name": "Fath Allah",
+          "code": "298966"
+        },
+        {
+          "name": "Fochville",
+          "code": "298971"
+        },
+        {
+          "name": "Fonndouk Choucha",
+          "code": "298976"
+        },
+        {
+          "name": "Fouchana",
+          "code": "298978"
+        },
+        {
+          "name": "Gamart",
+          "code": "298984"
+        },
+        {
+          "name": "Graba",
+          "code": "298997"
+        },
+        {
+          "name": "Hammam-Lif",
+          "code": "299017"
+        },
+        {
+          "name": "Hammam-Plage",
+          "code": "299018"
+        },
+        {
+          "name": "Jebel Jelloud",
+          "code": "299077"
+        },
+        {
+          "name": "Kheredine",
+          "code": "299123"
+        },
+        {
+          "name": "La Batie",
+          "code": "299149"
+        },
+        {
+          "name": "La Cagna",
+          "code": "299150"
+        },
+        {
+          "name": "La Goulette",
+          "code": "299154"
+        },
+        {
+          "name": "La Manoubia",
+          "code": "299156"
+        },
+        {
+          "name": "La Mohammedia",
+          "code": "299157"
+        },
+        {
+          "name": "La Sebala du Mornag",
+          "code": "299162"
+        },
+        {
+          "name": "Maafrine",
+          "code": "299184"
+        },
+        {
+          "name": "Mathildeville",
+          "code": "299216"
+        },
+        {
+          "name": "Mégrine",
+          "code": "299226"
+        },
+        {
+          "name": "Mégrine Lescure",
+          "code": "299227"
+        },
+        {
+          "name": "Mrira",
+          "code": "299261"
+        },
+        {
+          "name": "Nassene",
+          "code": "299270"
+        },
+        {
+          "name": "Nassene Sghira",
+          "code": "299271"
+        },
+        {
+          "name": "Oued Lill",
+          "code": "299280"
+        },
+        {
+          "name": "Potinville",
+          "code": "299333"
+        },
+        {
+          "name": "Protville",
+          "code": "299334"
+        },
+        {
+          "name": "Radès",
+          "code": "299404"
+        },
+        {
+          "name": "Saint Laurent",
+          "code": "299428"
+        },
+        {
+          "name": "Saint-Germain",
+          "code": "299429"
+        },
+        {
+          "name": "Salambôo",
+          "code": "299437"
+        },
+        {
+          "name": "Sejoumi",
+          "code": "299452"
+        },
+        {
+          "name": "Sidi Bou Saïd",
+          "code": "299501"
+        },
+        {
+          "name": "Sidi Daoud",
+          "code": "299512"
+        },
+        {
+          "name": "Sidi Tabet",
+          "code": "299533"
+        },
+        {
+          "name": "Zaouia Mornag",
+          "code": "299634"
+        },
+        {
+          "name": "Zebbas",
+          "code": "299653"
+        }
+      ]
+    },
+    {
+      "name": "Tunis al Janubiyah Wilayat",
+      "code": "597",
+      "cities": [
+        {
+          "name": "Ad Dakhilah",
+          "code": "297954"
+        },
+        {
+          "name": "Ad Damus",
+          "code": "297956"
+        },
+        {
+          "name": "Ahmad al Hakim",
+          "code": "297963"
+        },
+        {
+          "name": "Ahmed Ben Ali",
+          "code": "297964"
+        },
+        {
+          "name": "Al Achem",
+          "code": "297976"
+        },
+        {
+          "name": "Al Akhawat",
+          "code": "297977"
+        },
+        {
+          "name": "Al Akhawayn",
+          "code": "297978"
+        },
+        {
+          "name": "Al Bakakishah",
+          "code": "297979"
+        },
+        {
+          "name": "Al Burayj",
+          "code": "297985"
+        },
+        {
+          "name": "Al Jabal al Abyad",
+          "code": "298002"
+        },
+        {
+          "name": "Al Jadidah",
+          "code": "298003"
+        },
+        {
+          "name": "Al Jamah",
+          "code": "298004"
+        },
+        {
+          "name": "Al Jawawidah",
+          "code": "298005"
+        },
+        {
+          "name": "Al Jubaybinah",
+          "code": "298006"
+        },
+        {
+          "name": "Al Karib",
+          "code": "298010"
+        },
+        {
+          "name": "Al Karm",
+          "code": "298011"
+        },
+        {
+          "name": "Al Makhalif",
+          "code": "298015"
+        },
+        {
+          "name": "Al Makhzan",
+          "code": "298016"
+        },
+        {
+          "name": "Al Marsá",
+          "code": "298021"
+        },
+        {
+          "name": "Al Matlin",
+          "code": "298025"
+        },
+        {
+          "name": "Al Minshar",
+          "code": "298032"
+        },
+        {
+          "name": "Al Mu`allaqah",
+          "code": "298034"
+        },
+        {
+          "name": "Al Wusfan",
+          "code": "298040"
+        },
+        {
+          "name": "Al `Aliyah",
+          "code": "298042"
+        },
+        {
+          "name": "Al `Arusah",
+          "code": "298044"
+        },
+        {
+          "name": "Ar Rejdane",
+          "code": "298055"
+        },
+        {
+          "name": "Argoub Mechtat",
+          "code": "298059"
+        },
+        {
+          "name": "As Saluqiyah",
+          "code": "298064"
+        },
+        {
+          "name": "As Sars",
+          "code": "298066"
+        },
+        {
+          "name": "Az Zawawin",
+          "code": "298079"
+        },
+        {
+          "name": "Az Zuwarah",
+          "code": "298080"
+        },
+        {
+          "name": "Az Zuwaytinah",
+          "code": "298082"
+        },
+        {
+          "name": "Azib el Mroug",
+          "code": "298083"
+        },
+        {
+          "name": "Babush",
+          "code": "298089"
+        },
+        {
+          "name": "Balli",
+          "code": "298090"
+        },
+        {
+          "name": "Bani Khallad",
+          "code": "298097"
+        },
+        {
+          "name": "Bani Khezer",
+          "code": "298098"
+        },
+        {
+          "name": "Bani `Ata",
+          "code": "298102"
+        },
+        {
+          "name": "Bardaw",
+          "code": "298105"
+        },
+        {
+          "name": "Ben Bechir",
+          "code": "298118"
+        },
+        {
+          "name": "Ben Metir",
+          "code": "298120"
+        },
+        {
+          "name": "Beni Aïchoun",
+          "code": "298122"
+        },
+        {
+          "name": "Beni Hazaz",
+          "code": "298123"
+        },
+        {
+          "name": "Beni Khiar",
+          "code": "298124"
+        },
+        {
+          "name": "Biar Msifa",
+          "code": "298127"
+        },
+        {
+          "name": "Bijouville",
+          "code": "298140"
+        },
+        {
+          "name": "Bir Bu Ruqbah",
+          "code": "298132"
+        },
+        {
+          "name": "Bir Marwah",
+          "code": "298134"
+        },
+        {
+          "name": "Bir Shalluf",
+          "code": "298135"
+        },
+        {
+          "name": "Borj el Bey",
+          "code": "298173"
+        },
+        {
+          "name": "Boukrim",
+          "code": "298215"
+        },
+        {
+          "name": "Bu Jalidah",
+          "code": "298222"
+        },
+        {
+          "name": "Bu Sa`diyah",
+          "code": "298225"
+        },
+        {
+          "name": "Bu `Aradah",
+          "code": "298228"
+        },
+        {
+          "name": "Bu `Urqub",
+          "code": "298230"
+        },
+        {
+          "name": "Burj ash Shaykh Bu al Qasim",
+          "code": "298234"
+        },
+        {
+          "name": "Burj at Tahir",
+          "code": "298235"
+        },
+        {
+          "name": "Burj Fulayfil",
+          "code": "298237"
+        },
+        {
+          "name": "Chassart-Teffaha",
+          "code": "298250"
+        },
+        {
+          "name": "Chouigui",
+          "code": "298258"
+        },
+        {
+          "name": "Dar al Bay",
+          "code": "298275"
+        },
+        {
+          "name": "Dar al Hajj `Ali Bin Sulayman",
+          "code": "298277"
+        },
+        {
+          "name": "Dar al Jundi",
+          "code": "298278"
+        },
+        {
+          "name": "Dar al Qabisi",
+          "code": "298279"
+        },
+        {
+          "name": "Dar Bu al Qasim",
+          "code": "298310"
+        },
+        {
+          "name": "Dar Bu Qattayah",
+          "code": "298312"
+        },
+        {
+          "name": "Dar Chabanne",
+          "code": "298314"
+        },
+        {
+          "name": "Dar el Jilani",
+          "code": "298345"
+        },
+        {
+          "name": "Dar el Koudia",
+          "code": "298347"
+        },
+        {
+          "name": "Dar el Oudiane",
+          "code": "298354"
+        },
+        {
+          "name": "Dar et Touibia",
+          "code": "298362"
+        },
+        {
+          "name": "Dar Halfawi",
+          "code": "298368"
+        },
+        {
+          "name": "Dar Hasan al Murabit",
+          "code": "298371"
+        },
+        {
+          "name": "Dar Hassen Ben Bel Kassem",
+          "code": "298372"
+        },
+        {
+          "name": "Dar Hassen Zegoulli",
+          "code": "298373"
+        },
+        {
+          "name": "Dar Hassine Ben Ameur",
+          "code": "298375"
+        },
+        {
+          "name": "Dar Melloul",
+          "code": "298385"
+        },
+        {
+          "name": "Dar Muhammad Bin `Abd Allah",
+          "code": "298394"
+        },
+        {
+          "name": "Dar Salih Bey",
+          "code": "298405"
+        },
+        {
+          "name": "Dar Sudan",
+          "code": "298414"
+        },
+        {
+          "name": "Dar Taleb Hassene",
+          "code": "298418"
+        },
+        {
+          "name": "Dar `Umrus",
+          "code": "298423"
+        },
+        {
+          "name": "Dashrat al Aouach",
+          "code": "298424"
+        },
+        {
+          "name": "Dashrat al Bahirine",
+          "code": "298425"
+        },
+        {
+          "name": "Dashrat al Fuqrah",
+          "code": "298426"
+        },
+        {
+          "name": "Dashrat al Ghar",
+          "code": "298427"
+        },
+        {
+          "name": "Dashrat al Kramet",
+          "code": "298428"
+        },
+        {
+          "name": "Dashrat al Oucelti",
+          "code": "298429"
+        },
+        {
+          "name": "Dashrat al `Ar`arah",
+          "code": "298431"
+        },
+        {
+          "name": "Dashrat an Nechad",
+          "code": "298432"
+        },
+        {
+          "name": "Dashrat Ballutah",
+          "code": "298433"
+        },
+        {
+          "name": "Dashrat Bu Tays",
+          "code": "298434"
+        },
+        {
+          "name": "Dashrat Chetlou",
+          "code": "298435"
+        },
+        {
+          "name": "Dashrat Kaf ash Shami",
+          "code": "298436"
+        },
+        {
+          "name": "Dawalah",
+          "code": "298438"
+        },
+        {
+          "name": "Dawwar al Bashir",
+          "code": "298440"
+        },
+        {
+          "name": "Dawwar al Frinine",
+          "code": "298441"
+        },
+        {
+          "name": "Dawwar al Hajj Ahmad",
+          "code": "298442"
+        },
+        {
+          "name": "Dawwar al Hammamji",
+          "code": "298444"
+        },
+        {
+          "name": "Dawwar al Majanin",
+          "code": "298446"
+        },
+        {
+          "name": "Dawwar al Waslatiyah",
+          "code": "298449"
+        },
+        {
+          "name": "Dawwar at Tallah",
+          "code": "298450"
+        },
+        {
+          "name": "Dawwar az Zarqun",
+          "code": "298457"
+        },
+        {
+          "name": "Dawwar Bed",
+          "code": "298459"
+        },
+        {
+          "name": "Dawwar Bu Sem",
+          "code": "298460"
+        },
+        {
+          "name": "Dawwar Guerfdjana",
+          "code": "298461"
+        },
+        {
+          "name": "Dawwar Hammadah",
+          "code": "298462"
+        },
+        {
+          "name": "Dawwar Henna",
+          "code": "298463"
+        },
+        {
+          "name": "Dawwar Sidi Salih Bin Husayn",
+          "code": "298467"
+        },
+        {
+          "name": "Dawwar Tinjah",
+          "code": "298468"
+        },
+        {
+          "name": "Dawwar `Umar Cherina",
+          "code": "298471"
+        },
+        {
+          "name": "Dawwar `Unq al Jamal",
+          "code": "298472"
+        },
+        {
+          "name": "Dawwar `Uwayn al Hajjaj",
+          "code": "298473"
+        },
+        {
+          "name": "Dekrnia",
+          "code": "298498"
+        },
+        {
+          "name": "Diar el Hajjej",
+          "code": "298502"
+        },
+        {
+          "name": "Douar Amor Ben Ramah",
+          "code": "298520"
+        },
+        {
+          "name": "Douar Atouama",
+          "code": "298523"
+        },
+        {
+          "name": "Douar Bou Maa",
+          "code": "298563"
+        },
+        {
+          "name": "Douar Bou Mahres",
+          "code": "298564"
+        },
+        {
+          "name": "Douar Brahim Bou Daoui",
+          "code": "298570"
+        },
+        {
+          "name": "Douar ech Charafia",
+          "code": "298587"
+        },
+        {
+          "name": "Douar el Bheïra",
+          "code": "298615"
+        },
+        {
+          "name": "Douar el Kafia",
+          "code": "298653"
+        },
+        {
+          "name": "Douar er Rainine",
+          "code": "298675"
+        },
+        {
+          "name": "Douar Guelfat",
+          "code": "298702"
+        },
+        {
+          "name": "Douar Haj Ahmed",
+          "code": "298703"
+        },
+        {
+          "name": "Douar Hasni Salah",
+          "code": "298712"
+        },
+        {
+          "name": "Douar Jendouba",
+          "code": "298718"
+        },
+        {
+          "name": "Douar Kabyle",
+          "code": "298722"
+        },
+        {
+          "name": "Douar Moulahénèche",
+          "code": "298761"
+        },
+        {
+          "name": "Douar Mraf",
+          "code": "298762"
+        },
+        {
+          "name": "Douar Oulad el Kalaa",
+          "code": "298775"
+        },
+        {
+          "name": "Douar Oulad Khiar",
+          "code": "298780"
+        },
+        {
+          "name": "Douar Oulad Moumen",
+          "code": "298782"
+        },
+        {
+          "name": "Douar Ouled Avad",
+          "code": "298790"
+        },
+        {
+          "name": "Douar Ouled Bou Zaria",
+          "code": "298792"
+        },
+        {
+          "name": "Douar Sidi Amor",
+          "code": "298812"
+        },
+        {
+          "name": "Douar Zougjag",
+          "code": "298829"
+        },
+        {
+          "name": "El Abadlia",
+          "code": "298844"
+        },
+        {
+          "name": "El Achaïchia",
+          "code": "298846"
+        },
+        {
+          "name": "El Erijat",
+          "code": "298874"
+        },
+        {
+          "name": "El Fehri",
+          "code": "298877"
+        },
+        {
+          "name": "El Hammam",
+          "code": "298894"
+        },
+        {
+          "name": "El Haouaria",
+          "code": "298896"
+        },
+        {
+          "name": "El Houanize",
+          "code": "298902"
+        },
+        {
+          "name": "El Kilam",
+          "code": "298914"
+        },
+        {
+          "name": "El Maamoura",
+          "code": "298921"
+        },
+        {
+          "name": "El Mida",
+          "code": "298932"
+        },
+        {
+          "name": "El Mouajene",
+          "code": "298933"
+        },
+        {
+          "name": "El Oudiane",
+          "code": "298936"
+        },
+        {
+          "name": "El Redir",
+          "code": "298938"
+        },
+        {
+          "name": "Es Somaa",
+          "code": "298952"
+        },
+        {
+          "name": "Fortuna",
+          "code": "298977"
+        },
+        {
+          "name": "Hamadat al Kebalou",
+          "code": "299011"
+        },
+        {
+          "name": "Hammam al Ghazzaz",
+          "code": "299012"
+        },
+        {
+          "name": "Hanshir al Qussah",
+          "code": "299023"
+        },
+        {
+          "name": "Hanshir al Rhiria",
+          "code": "299025"
+        },
+        {
+          "name": "Hanshir Bin Khalladiyah",
+          "code": "299027"
+        },
+        {
+          "name": "Hanshir Qasr Ghallab",
+          "code": "299028"
+        },
+        {
+          "name": "Hanshir Sidi Saadoum",
+          "code": "299029"
+        },
+        {
+          "name": "Hanshir `Ali Bin Rajab",
+          "code": "299030"
+        },
+        {
+          "name": "Harqalah",
+          "code": "299031"
+        },
+        {
+          "name": "Haydus",
+          "code": "299040"
+        },
+        {
+          "name": "Jama er Rih",
+          "code": "299070"
+        },
+        {
+          "name": "Jerbna",
+          "code": "299089"
+        },
+        {
+          "name": "Kaf al Marir",
+          "code": "299095"
+        },
+        {
+          "name": "Kahoua ad Douadji",
+          "code": "299097"
+        },
+        {
+          "name": "Kalaat Khasba",
+          "code": "299101"
+        },
+        {
+          "name": "Karsouline",
+          "code": "299102"
+        },
+        {
+          "name": "Kellabine",
+          "code": "299116"
+        },
+        {
+          "name": "Khorfa",
+          "code": "299126"
+        },
+        {
+          "name": "Korba",
+          "code": "299131"
+        },
+        {
+          "name": "Kourchine",
+          "code": "299133"
+        },
+        {
+          "name": "Ksour Lireba",
+          "code": "299148"
+        },
+        {
+          "name": "La Pêcherie",
+          "code": "299159"
+        },
+        {
+          "name": "Lallah `Aishah al Mourakchia",
+          "code": "299167"
+        },
+        {
+          "name": "Les Chênes",
+          "code": "299175"
+        },
+        {
+          "name": "Les Salines",
+          "code": "299176"
+        },
+        {
+          "name": "Mahmoud Ben el Haj",
+          "code": "299194"
+        },
+        {
+          "name": "Majaz al Bab",
+          "code": "299195"
+        },
+        {
+          "name": "Majurah",
+          "code": "299196"
+        },
+        {
+          "name": "Manzil Bu Zalafah",
+          "code": "299200"
+        },
+        {
+          "name": "Mastutah",
+          "code": "299213"
+        },
+        {
+          "name": "Mechtat el Kharrouba",
+          "code": "299221"
+        },
+        {
+          "name": "Menzel Heurr",
+          "code": "299238"
+        },
+        {
+          "name": "Menzel Temime",
+          "code": "299241"
+        },
+        {
+          "name": "Mohammed Ben Bel Kassem",
+          "code": "299250"
+        },
+        {
+          "name": "Mohammed Bessaïs",
+          "code": "299251"
+        },
+        {
+          "name": "Nebeur",
+          "code": "299272"
+        },
+        {
+          "name": "Niyanu",
+          "code": "299277"
+        },
+        {
+          "name": "Oulad Maalla",
+          "code": "299294"
+        },
+        {
+          "name": "Oum Dhouil",
+          "code": "299322"
+        },
+        {
+          "name": "Oum el Frais",
+          "code": "299323"
+        },
+        {
+          "name": "Oumsetrene",
+          "code": "299327"
+        },
+        {
+          "name": "Qamart",
+          "code": "299336"
+        },
+        {
+          "name": "Qasr al Hadid",
+          "code": "299348"
+        },
+        {
+          "name": "Qasr al Kharashifah",
+          "code": "299351"
+        },
+        {
+          "name": "Qasr Mezouar",
+          "code": "299376"
+        },
+        {
+          "name": "Qasr Sulayman",
+          "code": "299381"
+        },
+        {
+          "name": "Qa`fur",
+          "code": "299390"
+        },
+        {
+          "name": "Qulayb as Sabt",
+          "code": "299393"
+        },
+        {
+          "name": "Qulaybiyah",
+          "code": "299394"
+        },
+        {
+          "name": "Qurbus",
+          "code": "299395"
+        },
+        {
+          "name": "Rab` Silyanah",
+          "code": "299403"
+        },
+        {
+          "name": "Rafraf",
+          "code": "299405"
+        },
+        {
+          "name": "Ras al Jabal",
+          "code": "299399"
+        },
+        {
+          "name": "Ras ar Raml",
+          "code": "299401"
+        },
+        {
+          "name": "Saheb Jebel",
+          "code": "299423"
+        },
+        {
+          "name": "Sainte-Marie",
+          "code": "299430"
+        },
+        {
+          "name": "Sejenane",
+          "code": "299451"
+        },
+        {
+          "name": "Shaqimi",
+          "code": "299458"
+        },
+        {
+          "name": "Shawash",
+          "code": "299459"
+        },
+        {
+          "name": "Shimtu",
+          "code": "299461"
+        },
+        {
+          "name": "Sidi Aïssa",
+          "code": "299472"
+        },
+        {
+          "name": "Sidi Amor",
+          "code": "299479"
+        },
+        {
+          "name": "Sidi an Nasir",
+          "code": "299481"
+        },
+        {
+          "name": "Sidi at Tarhuni",
+          "code": "299485"
+        },
+        {
+          "name": "Sidi Bou Ali",
+          "code": "299494"
+        },
+        {
+          "name": "Sidi Bou Choucha",
+          "code": "299495"
+        },
+        {
+          "name": "Sidi Bu Ruays",
+          "code": "299507"
+        },
+        {
+          "name": "Sidi Bu Zaqqumah",
+          "code": "299508"
+        },
+        {
+          "name": "Sidi Bu Zaytunah",
+          "code": "299509"
+        },
+        {
+          "name": "Sidi Daoud",
+          "code": "299511"
+        },
+        {
+          "name": "Sidi es Sabbih",
+          "code": "299516"
+        },
+        {
+          "name": "Sidi Naji",
+          "code": "299529"
+        },
+        {
+          "name": "Sidi `Abd Allah",
+          "code": "299535"
+        },
+        {
+          "name": "Sidi `Ali ash Shabab",
+          "code": "299537"
+        },
+        {
+          "name": "Sidi `Ali Bin `Abd Allah",
+          "code": "299538"
+        },
+        {
+          "name": "Sidi `Umar Bu Zaytunah",
+          "code": "299542"
+        },
+        {
+          "name": "Skalba",
+          "code": "299544"
+        },
+        {
+          "name": "Sottart Bou Lares",
+          "code": "299550"
+        },
+        {
+          "name": "Souk el Jamaa",
+          "code": "299555"
+        },
+        {
+          "name": "Tabursuq",
+          "code": "299565"
+        },
+        {
+          "name": "Tafelloune",
+          "code": "299566"
+        },
+        {
+          "name": "Taklisah",
+          "code": "299570"
+        },
+        {
+          "name": "Takrunah",
+          "code": "299571"
+        },
+        {
+          "name": "Tarf el Mcherga",
+          "code": "299577"
+        },
+        {
+          "name": "Tastur",
+          "code": "299580"
+        },
+        {
+          "name": "Tazarka",
+          "code": "299583"
+        },
+        {
+          "name": "Tazoghrane",
+          "code": "299584"
+        },
+        {
+          "name": "Thonara",
+          "code": "299592"
+        },
+        {
+          "name": "Tibar",
+          "code": "299594"
+        },
+        {
+          "name": "Tobag",
+          "code": "299600"
+        },
+        {
+          "name": "Tukabur",
+          "code": "299610"
+        },
+        {
+          "name": "Turki",
+          "code": "299612"
+        },
+        {
+          "name": "Utique",
+          "code": "299615"
+        },
+        {
+          "name": "Wadi az Zarqa",
+          "code": "299620"
+        },
+        {
+          "name": "Zahanah",
+          "code": "299629"
+        },
+        {
+          "name": "Zaouia",
+          "code": "299633"
+        },
+        {
+          "name": "Zaouiet el Megaiz",
+          "code": "299638"
+        },
+        {
+          "name": "Zarzouna",
+          "code": "299645"
+        },
+        {
+          "name": "Zawiyat al Jadidi",
+          "code": "299646"
+        },
+        {
+          "name": "Zawiyat az Zumur",
+          "code": "299648"
+        },
+        {
+          "name": "Zawiyat Madyan",
+          "code": "299649"
+        },
+        {
+          "name": "Zawiyat Sidi `Abd ar Rahman al",
+          "code": "299651"
+        },
+        {
+          "name": "Zawiyat Sidi `Abdalli",
+          "code": "299652"
+        },
+        {
+          "name": "`Ayn Sallam",
+          "code": "299665"
+        }
+      ]
+    },
+    {
+      "name": "Zaghwan",
+      "code": "598",
+      "cities": [
+        {
+          "name": "Aïn el Asker",
+          "code": "297967"
+        },
+        {
+          "name": "As Sawwaf",
+          "code": "298067"
+        },
+        {
+          "name": "Bir Halimah",
+          "code": "298133"
+        },
+        {
+          "name": "Bir Mcherga",
+          "code": "298149"
+        },
+        {
+          "name": "Cheylus",
+          "code": "298257"
+        },
+        {
+          "name": "Dar Bach Hamba",
+          "code": "298288"
+        },
+        {
+          "name": "Dar Ben Saïdane",
+          "code": "298297"
+        },
+        {
+          "name": "Dar er Rebia",
+          "code": "298357"
+        },
+        {
+          "name": "Jougar",
+          "code": "299092"
+        },
+        {
+          "name": "Muqran",
+          "code": "299263"
+        },
+        {
+          "name": "Zaghouan",
+          "code": "299628"
+        }
+      ]
+    }
+  ]
+}

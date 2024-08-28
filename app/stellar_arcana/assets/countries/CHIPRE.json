@@ -1,0 +1,16 @@
+{
+  "name": "CHIPRE",
+  "code": "127",
+  "provinces": [
+    {
+      "name": "NICOSIA",
+      "code": "4024",
+      "cities": [
+        {
+          "name": "NICOSIA",
+          "code": "4024"
+        }
+      ]
+    }
+  ]
+}

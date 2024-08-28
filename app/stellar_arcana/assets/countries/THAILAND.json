@@ -1,0 +1,11 @@
+{
+  "name": "THAILAND",
+  "code": "107",
+  "provinces": [
+    {
+      "name": "BANGKOK",
+      "code": "235",
+      "cities": []
+    }
+  ]
+}

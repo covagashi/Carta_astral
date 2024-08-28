@@ -1,0 +1,131 @@
+{
+  "name": "SWEDEN",
+  "code": "102",
+  "provinces": [
+    {
+      "name": "BORAS",
+      "code": "426",
+      "cities": []
+    },
+    {
+      "name": "BORLANGE",
+      "code": "431",
+      "cities": []
+    },
+    {
+      "name": "ESKILSTUNA",
+      "code": "1106",
+      "cities": []
+    },
+    {
+      "name": "FALUN",
+      "code": "1141",
+      "cities": []
+    },
+    {
+      "name": "GAVLE",
+      "code": "1259",
+      "cities": []
+    },
+    {
+      "name": "GOTEBORG",
+      "code": "1317",
+      "cities": []
+    },
+    {
+      "name": "HALMSTAD",
+      "code": "1414",
+      "cities": []
+    },
+    {
+      "name": "HALSINGBORG",
+      "code": "1415",
+      "cities": []
+    },
+    {
+      "name": "KALMAR",
+      "code": "1687",
+      "cities": []
+    },
+    {
+      "name": "KARLSTAD",
+      "code": "1714",
+      "cities": []
+    },
+    {
+      "name": "KIRUNA",
+      "code": "1779",
+      "cities": []
+    },
+    {
+      "name": "LULEA",
+      "code": "2058",
+      "cities": []
+    },
+    {
+      "name": "LUND",
+      "code": "2060",
+      "cities": []
+    },
+    {
+      "name": "MALMO",
+      "code": "2109",
+      "cities": []
+    },
+    {
+      "name": "NORRKOPING",
+      "code": "2487",
+      "cities": []
+    },
+    {
+      "name": "NYKOPING",
+      "code": "2516",
+      "cities": []
+    },
+    {
+      "name": "OREBRO",
+      "code": "2576",
+      "cities": []
+    },
+    {
+      "name": "SKELLEFTEA",
+      "code": "3240",
+      "cities": []
+    },
+    {
+      "name": "STOCKHOLM",
+      "code": "3352",
+      "cities": []
+    },
+    {
+      "name": "SUNDSVALL",
+      "code": "3385",
+      "cities": []
+    },
+    {
+      "name": "UDDEVALLA",
+      "code": "3600",
+      "cities": []
+    },
+    {
+      "name": "UMEA",
+      "code": "3609",
+      "cities": []
+    },
+    {
+      "name": "UPPSALA",
+      "code": "3621",
+      "cities": []
+    },
+    {
+      "name": "VASTERAS",
+      "code": "3656",
+      "cities": []
+    },
+    {
+      "name": "VAXJO",
+      "code": "3658",
+      "cities": []
+    }
+  ]
+}

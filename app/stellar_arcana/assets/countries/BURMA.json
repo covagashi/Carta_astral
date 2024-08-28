@@ -1,0 +1,31 @@
+{
+  "name": "BURMA",
+  "code": "15",
+  "provinces": [
+    {
+      "name": "BASSEIN",
+      "code": "268",
+      "cities": []
+    },
+    {
+      "name": "HENZADA",
+      "code": "1492",
+      "cities": []
+    },
+    {
+      "name": "MANDALAY",
+      "code": "2117",
+      "cities": []
+    },
+    {
+      "name": "MOULMEIN",
+      "code": "2339",
+      "cities": []
+    },
+    {
+      "name": "RANGOON",
+      "code": "2889",
+      "cities": []
+    }
+  ]
+}

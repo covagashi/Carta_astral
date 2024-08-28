@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'screens/SCR_ONB_01_Welcome.dart';
-import 'screens/SCR_ONB_02_BirthDate.dart';
+import 'screens/SCR_ONB_02_BirthInfo.dart';
+import 'screens/SCR_ONB_03_Location.dart';
 
 void main() {
   initializeDateFormatting('es_ES', null).then((_) => runApp(AstrologiaApp()));
@@ -49,10 +50,18 @@ class DevHomeScreen extends StatelessWidget {
             ),
             SizedBox(height: 20),
             ElevatedButton(
-              child: Text('Pantalla de Fecha de Nacimiento'),
+              child: Text('Pantalla de hora de Nacimiento'),
               onPressed: () => Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => Birthdate(backgroundImagePath: 'assets/welcome.webp')),
+                MaterialPageRoute(builder: (context) => BirthInfo(backgroundImagePath: 'assets/welcome.webp')),
+              ),
+            ),
+            SizedBox(height: 20),
+            ElevatedButton(
+              child: Text('Pantalla de pais'),
+              onPressed: () => Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => Location(backgroundImagePath: 'assets/welcome.webp')),
               ),
             ),
             // Añade más botones aquí para otras pantallas que quieras probar

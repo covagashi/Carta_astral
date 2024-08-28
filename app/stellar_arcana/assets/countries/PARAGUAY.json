@@ -1,0 +1,7894 @@
+{
+  "name": "PARAGUAY",
+  "code": "125",
+  "provinces": [
+    {
+      "name": "Alto Paraná",
+      "code": "543",
+      "cities": [
+        {
+          "name": "Agriex",
+          "code": "292922"
+        },
+        {
+          "name": "Angelito",
+          "code": "292945"
+        },
+        {
+          "name": "Caá Yovai",
+          "code": "293000"
+        },
+        {
+          "name": "Caarendy Guazú",
+          "code": "293008"
+        },
+        {
+          "name": "Campo Alegre",
+          "code": "293031"
+        },
+        {
+          "name": "Cerrito Caaguazú",
+          "code": "293086"
+        },
+        {
+          "name": "Ciudad del Este",
+          "code": "293100"
+        },
+        {
+          "name": "Colonia Acaray",
+          "code": "293109"
+        },
+        {
+          "name": "Colonia F. R. Moreno",
+          "code": "293150"
+        },
+        {
+          "name": "Colonia Félix de Azara",
+          "code": "293153"
+        },
+        {
+          "name": "Colonia Fernando de Trejo y Sa",
+          "code": "293155"
+        },
+        {
+          "name": "Colonia General Díaz",
+          "code": "293167"
+        },
+        {
+          "name": "Colonia General P. Colmán",
+          "code": "293169"
+        },
+        {
+          "name": "Colonia J.E. Estigarribia",
+          "code": "293176"
+        },
+        {
+          "name": "Colonia J.L. Mallorquín",
+          "code": "293177"
+        },
+        {
+          "name": "Colonia Laura",
+          "code": "293184"
+        },
+        {
+          "name": "Colonia Limoy",
+          "code": "293186"
+        },
+        {
+          "name": "Colonia Mbareté",
+          "code": "293202"
+        },
+        {
+          "name": "Colonia Medianera",
+          "code": "293206"
+        },
+        {
+          "name": "Colonia Mesquita",
+          "code": "293209"
+        },
+        {
+          "name": "Colonia Minga Porá",
+          "code": "293210"
+        },
+        {
+          "name": "Colonia Padre Guido Coronel",
+          "code": "293221"
+        },
+        {
+          "name": "Colonia San Alfredo",
+          "code": "293250"
+        },
+        {
+          "name": "Colonia San Francisco",
+          "code": "293253"
+        },
+        {
+          "name": "Colonia Santa Maria",
+          "code": "293265"
+        },
+        {
+          "name": "Colonia Stroessner",
+          "code": "293277"
+        },
+        {
+          "name": "Colonia Tavapy II",
+          "code": "293283"
+        },
+        {
+          "name": "Colonia Yguazú",
+          "code": "293306"
+        },
+        {
+          "name": "Compañía Laguna",
+          "code": "293311"
+        },
+        {
+          "name": "Compañía Ytú",
+          "code": "293318"
+        },
+        {
+          "name": "Cruce Dolores",
+          "code": "293344"
+        },
+        {
+          "name": "Cruce Margarita",
+          "code": "293345"
+        },
+        {
+          "name": "Curupayty",
+          "code": "293350"
+        },
+        {
+          "name": "Doctor Juan León Mallorquín",
+          "code": "293363"
+        },
+        {
+          "name": "Doctor Raúl Peña",
+          "code": "293366"
+        },
+        {
+          "name": "Domingo M. Irala",
+          "code": "293368"
+        },
+        {
+          "name": "Dos Hermanas",
+          "code": "293370"
+        },
+        {
+          "name": "Hernandarias",
+          "code": "294048"
+        },
+        {
+          "name": "Itaquyry",
+          "code": "294078"
+        },
+        {
+          "name": "Juan E. Oleary",
+          "code": "294099"
+        },
+        {
+          "name": "Los Cedrales",
+          "code": "294144"
+        },
+        {
+          "name": "Misión Verbo Divino",
+          "code": "294199"
+        },
+        {
+          "name": "Ñacunday",
+          "code": "294227"
+        },
+        {
+          "name": "Naranjal",
+          "code": "294212"
+        },
+        {
+          "name": "Paraguay Puajhú",
+          "code": "294250"
+        },
+        {
+          "name": "Presidente Franco",
+          "code": "294314"
+        },
+        {
+          "name": "Puerto Bertoni",
+          "code": "294332"
+        },
+        {
+          "name": "Puerto de Tacurupucú",
+          "code": "294347"
+        },
+        {
+          "name": "Puerto Dolores",
+          "code": "294349"
+        },
+        {
+          "name": "Puerto Embalse",
+          "code": "294354"
+        },
+        {
+          "name": "Puerto General Díaz",
+          "code": "294359"
+        },
+        {
+          "name": "Puerto Indio",
+          "code": "294362"
+        },
+        {
+          "name": "Puerto Itambey",
+          "code": "294367"
+        },
+        {
+          "name": "Puerto Ordóñez",
+          "code": "294389"
+        },
+        {
+          "name": "Puerto Palma",
+          "code": "294391"
+        },
+        {
+          "name": "Puerto Paranambú",
+          "code": "294395"
+        },
+        {
+          "name": "Puerto Pikyry",
+          "code": "294396"
+        },
+        {
+          "name": "Puerto Santa Rita",
+          "code": "294417"
+        },
+        {
+          "name": "Puerto Santa Teresa",
+          "code": "294421"
+        },
+        {
+          "name": "Puerto Sauce",
+          "code": "294424"
+        },
+        {
+          "name": "Puerto Torocuá",
+          "code": "294428"
+        },
+        {
+          "name": "Puerto Venecia",
+          "code": "294435"
+        },
+        {
+          "name": "Puerto Ventidos de Mayo",
+          "code": "294436"
+        },
+        {
+          "name": "San Agustín",
+          "code": "294608"
+        },
+        {
+          "name": "San Alberto",
+          "code": "294610"
+        },
+        {
+          "name": "San Antonio",
+          "code": "294612"
+        },
+        {
+          "name": "San Cristóbal",
+          "code": "294626"
+        },
+        {
+          "name": "San Miguel",
+          "code": "294659"
+        },
+        {
+          "name": "San Ramón",
+          "code": "294673"
+        },
+        {
+          "name": "San Roque",
+          "code": "294676"
+        },
+        {
+          "name": "San Vicente",
+          "code": "294681"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "294698"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "294702"
+        },
+        {
+          "name": "Tres Fronteras",
+          "code": "294780"
+        },
+        {
+          "name": "Ventiocho Kilometros de Parana",
+          "code": "294802"
+        },
+        {
+          "name": "Villa Mercedes",
+          "code": "294809"
+        },
+        {
+          "name": "Villa San Francisco",
+          "code": "294812"
+        },
+        {
+          "name": "Ybaroty",
+          "code": "294831"
+        }
+      ]
+    },
+    {
+      "name": "Amambay",
+      "code": "544",
+      "cities": [
+        {
+          "name": "Administración Lunardelli",
+          "code": "292921"
+        },
+        {
+          "name": "Bella Vista",
+          "code": "292989"
+        },
+        {
+          "name": "Cafetal Cerro Cuatia",
+          "code": "293016"
+        },
+        {
+          "name": "Cafetal San Antonio",
+          "code": "293017"
+        },
+        {
+          "name": "Campo San Luis",
+          "code": "293036"
+        },
+        {
+          "name": "Capitán Bado",
+          "code": "293053"
+        },
+        {
+          "name": "Cerro Corá",
+          "code": "293087"
+        },
+        {
+          "name": "Cerro Cora-i",
+          "code": "293088"
+        },
+        {
+          "name": "Cerro Sarambi",
+          "code": "293090"
+        },
+        {
+          "name": "Charagua",
+          "code": "293092"
+        },
+        {
+          "name": "Chingüelo",
+          "code": "293096"
+        },
+        {
+          "name": "Colonia Casualidad",
+          "code": "293133"
+        },
+        {
+          "name": "Colonia Costa Jhoby",
+          "code": "293138"
+        },
+        {
+          "name": "Colonia Estrella",
+          "code": "293146"
+        },
+        {
+          "name": "Colonia Mariscal López",
+          "code": "293196"
+        },
+        {
+          "name": "Colonia Nueva Independencia",
+          "code": "293216"
+        },
+        {
+          "name": "Colonia Puente Canií",
+          "code": "293234"
+        },
+        {
+          "name": "Colonia San José",
+          "code": "293256"
+        },
+        {
+          "name": "Colonia Sargento Duré",
+          "code": "293267"
+        },
+        {
+          "name": "Colonia Tres Palos",
+          "code": "293290"
+        },
+        {
+          "name": "Colonia Yby Yu",
+          "code": "293303"
+        },
+        {
+          "name": "Colonia Ybypyté",
+          "code": "293305"
+        },
+        {
+          "name": "Esperanza",
+          "code": "293391"
+        },
+        {
+          "name": "Estancia Arámbulo",
+          "code": "293431"
+        },
+        {
+          "name": "Estancia Arroyo Blanco",
+          "code": "293435"
+        },
+        {
+          "name": "Estancia Arroyo Primero",
+          "code": "293436"
+        },
+        {
+          "name": "Estancia Bedoya-cué",
+          "code": "293444"
+        },
+        {
+          "name": "Estancia Campana",
+          "code": "293475"
+        },
+        {
+          "name": "Estancia Cascada",
+          "code": "293500"
+        },
+        {
+          "name": "Estancia Colo ó",
+          "code": "293526"
+        },
+        {
+          "name": "Estancia Duarte Cué",
+          "code": "293549"
+        },
+        {
+          "name": "Estancia Las Mellizas",
+          "code": "293660"
+        },
+        {
+          "name": "Estancia Nelly Victoria",
+          "code": "293728"
+        },
+        {
+          "name": "Estancia Rancho Moreno",
+          "code": "293792"
+        },
+        {
+          "name": "Estancia San Alfredo",
+          "code": "293817"
+        },
+        {
+          "name": "Estancia San Juan",
+          "code": "293843"
+        },
+        {
+          "name": "Estancia San Miguel",
+          "code": "293854"
+        },
+        {
+          "name": "Estancia San Piero",
+          "code": "293863"
+        },
+        {
+          "name": "Estancia San Victor",
+          "code": "293873"
+        },
+        {
+          "name": "Estancia Santa Ana",
+          "code": "293877"
+        },
+        {
+          "name": "Estancia Zapallo",
+          "code": "293993"
+        },
+        {
+          "name": "Granja Tres María",
+          "code": "294033"
+        },
+        {
+          "name": "Guami Taperé",
+          "code": "294037"
+        },
+        {
+          "name": "Guardia Oliva",
+          "code": "294039"
+        },
+        {
+          "name": "Isla La Muerte",
+          "code": "294063"
+        },
+        {
+          "name": "Laguna Porá",
+          "code": "294119"
+        },
+        {
+          "name": "Manta Potrero",
+          "code": "294159"
+        },
+        {
+          "name": "Misión Nuevas Tribus",
+          "code": "294194"
+        },
+        {
+          "name": "Nueva Virginia",
+          "code": "294225"
+        },
+        {
+          "name": "Obraje Natalia",
+          "code": "294231"
+        },
+        {
+          "name": "Panadero",
+          "code": "294247"
+        },
+        {
+          "name": "Pedro Juan Caballero",
+          "code": "294270"
+        },
+        {
+          "name": "Peguajhó",
+          "code": "294273"
+        },
+        {
+          "name": "Puesto Laguna Ciervo",
+          "code": "294496"
+        },
+        {
+          "name": "Puesto San Lorenzo",
+          "code": "294537"
+        },
+        {
+          "name": "Rosalina",
+          "code": "294600"
+        },
+        {
+          "name": "San Fernando",
+          "code": "294628"
+        },
+        {
+          "name": "San Florencio",
+          "code": "294630"
+        },
+        {
+          "name": "San Roque",
+          "code": "294677"
+        },
+        {
+          "name": "Torín",
+          "code": "294772"
+        },
+        {
+          "name": "Tororá",
+          "code": "294776"
+        },
+        {
+          "name": "Victoria Guazú",
+          "code": "294804"
+        },
+        {
+          "name": "Yby-Pe",
+          "code": "294833"
+        },
+        {
+          "name": "Zanja Pyta",
+          "code": "294853"
+        }
+      ]
+    },
+    {
+      "name": "Asunción",
+      "code": "545",
+      "cities": [
+        {
+          "name": "Agua Dulce",
+          "code": "292923"
+        },
+        {
+          "name": "Aguaray",
+          "code": "292926"
+        },
+        {
+          "name": "Aguay",
+          "code": "292927"
+        },
+        {
+          "name": "Asunción",
+          "code": "464590"
+        },
+        {
+          "name": "Audivert",
+          "code": "292967"
+        },
+        {
+          "name": "Batallón Número Uno Palmar de",
+          "code": "292984"
+        },
+        {
+          "name": "Caacupé",
+          "code": "293001"
+        },
+        {
+          "name": "Campamento",
+          "code": "293020"
+        },
+        {
+          "name": "Campamento Aña-retá",
+          "code": "293021"
+        },
+        {
+          "name": "Campamento Cabichu-í",
+          "code": "293022"
+        },
+        {
+          "name": "Campamento Final",
+          "code": "293023"
+        },
+        {
+          "name": "Campamento Mercedita",
+          "code": "293024"
+        },
+        {
+          "name": "Campamento Michin",
+          "code": "293025"
+        },
+        {
+          "name": "Campamento Quince de Agosto",
+          "code": "293026"
+        },
+        {
+          "name": "Campamento Rivarola",
+          "code": "293027"
+        },
+        {
+          "name": "Campos",
+          "code": "293037"
+        },
+        {
+          "name": "Cancha Labrada",
+          "code": "293038"
+        },
+        {
+          "name": "Cancha Pinilla",
+          "code": "293039"
+        },
+        {
+          "name": "Capitán Pablo Lagerenza",
+          "code": "293057"
+        },
+        {
+          "name": "Carreria",
+          "code": "293072"
+        },
+        {
+          "name": "Cascabel",
+          "code": "293074"
+        },
+        {
+          "name": "Catorce de Mayo",
+          "code": "293076"
+        },
+        {
+          "name": "Colonia Carmelo Peralta",
+          "code": "293132"
+        },
+        {
+          "name": "Colonia San Alfredo",
+          "code": "293249"
+        },
+        {
+          "name": "Colonia Sierra León",
+          "code": "293272"
+        },
+        {
+          "name": "Cooperativa Lagerenza",
+          "code": "293324"
+        },
+        {
+          "name": "Cuatro de Julio",
+          "code": "293346"
+        },
+        {
+          "name": "Destacamento General P. Colman",
+          "code": "293358"
+        },
+        {
+          "name": "Estancia Barrero",
+          "code": "293441"
+        },
+        {
+          "name": "Estancia Barrero Grande",
+          "code": "293442"
+        },
+        {
+          "name": "Estancia Buena Vista",
+          "code": "293460"
+        },
+        {
+          "name": "Estancia Caacupe",
+          "code": "293463"
+        },
+        {
+          "name": "Estancia Cabaraí",
+          "code": "293468"
+        },
+        {
+          "name": "Estancia Campichuelo",
+          "code": "293476"
+        },
+        {
+          "name": "Estancia Campo Sastre",
+          "code": "293483"
+        },
+        {
+          "name": "Estancia Capitán Carmelo Peral",
+          "code": "293487"
+        },
+        {
+          "name": "Estancia Casilda",
+          "code": "293501"
+        },
+        {
+          "name": "Estancia Casualidad",
+          "code": "293502"
+        },
+        {
+          "name": "Estancia Cerrito Jara",
+          "code": "293514"
+        },
+        {
+          "name": "Estancia Cerro Corá",
+          "code": "293516"
+        },
+        {
+          "name": "Estancia Chamacoco",
+          "code": "293518"
+        },
+        {
+          "name": "Estancia Chovoreca",
+          "code": "293519"
+        },
+        {
+          "name": "Estancia Coco Laguna",
+          "code": "293523"
+        },
+        {
+          "name": "Estancia Cuarenta",
+          "code": "293533"
+        },
+        {
+          "name": "Estancia Cunataí",
+          "code": "293536"
+        },
+        {
+          "name": "Estancia Curupayty",
+          "code": "293537"
+        },
+        {
+          "name": "Estancia Don Felipe Feltes",
+          "code": "293546"
+        },
+        {
+          "name": "Estancia Esperanza",
+          "code": "293558"
+        },
+        {
+          "name": "Estancia General Díaz",
+          "code": "293581"
+        },
+        {
+          "name": "Estancia Gómez",
+          "code": "293583"
+        },
+        {
+          "name": "Estancia Inmakata",
+          "code": "293596"
+        },
+        {
+          "name": "Estancia Isla Corazón",
+          "code": "293600"
+        },
+        {
+          "name": "Estancia Isla Saca",
+          "code": "293601"
+        },
+        {
+          "name": "Estancia La Americana",
+          "code": "293617"
+        },
+        {
+          "name": "Estancia Laguna León",
+          "code": "293649"
+        },
+        {
+          "name": "Estancia Los Laureles",
+          "code": "293688"
+        },
+        {
+          "name": "Estancia Maldonado",
+          "code": "293698"
+        },
+        {
+          "name": "Estancia Notice",
+          "code": "293730"
+        },
+        {
+          "name": "Estancia Patria",
+          "code": "293754"
+        },
+        {
+          "name": "Estancia Porfiria",
+          "code": "293765"
+        },
+        {
+          "name": "Estancia Potrillo",
+          "code": "293769"
+        },
+        {
+          "name": "Estancia Pozo Azul",
+          "code": "293771"
+        },
+        {
+          "name": "Estancia Primavera",
+          "code": "293782"
+        },
+        {
+          "name": "Estancia Puesto Lata",
+          "code": "293787"
+        },
+        {
+          "name": "Estancia Riacho Alegre",
+          "code": "293799"
+        },
+        {
+          "name": "Estancia Rivarola Cué",
+          "code": "293805"
+        },
+        {
+          "name": "Estancia San Antonio",
+          "code": "293823"
+        },
+        {
+          "name": "Estancia San Jorge",
+          "code": "293836"
+        },
+        {
+          "name": "Estancia San José",
+          "code": "293838"
+        },
+        {
+          "name": "Estancia San Juan",
+          "code": "293844"
+        },
+        {
+          "name": "Estancia San Miguel",
+          "code": "293856"
+        },
+        {
+          "name": "Estancia Santa Gabriela",
+          "code": "293891"
+        },
+        {
+          "name": "Estancia Santa Rita",
+          "code": "293904"
+        },
+        {
+          "name": "Estancia Santa Rufina",
+          "code": "293907"
+        },
+        {
+          "name": "Estancia Santa Teresa",
+          "code": "293910"
+        },
+        {
+          "name": "Estancia Sol Naciente",
+          "code": "293922"
+        },
+        {
+          "name": "Estancia Tres Lagunas",
+          "code": "293959"
+        },
+        {
+          "name": "Estancia Tres Toritos",
+          "code": "293962"
+        },
+        {
+          "name": "Estancia Triunfo",
+          "code": "293963"
+        },
+        {
+          "name": "Garrapata",
+          "code": "294019"
+        },
+        {
+          "name": "Giménez",
+          "code": "294030"
+        },
+        {
+          "name": "Guyrá Toro",
+          "code": "294046"
+        },
+        {
+          "name": "Ibapobó",
+          "code": "294056"
+        },
+        {
+          "name": "Isla Cuatro",
+          "code": "294062"
+        },
+        {
+          "name": "J. Rodríguez",
+          "code": "294085"
+        },
+        {
+          "name": "Jesuitas",
+          "code": "294090"
+        },
+        {
+          "name": "Jhovy",
+          "code": "294092"
+        },
+        {
+          "name": "Juan Cué",
+          "code": "294097"
+        },
+        {
+          "name": "La Forestal",
+          "code": "294111"
+        },
+        {
+          "name": "Loma Porá",
+          "code": "294141"
+        },
+        {
+          "name": "Lourdes",
+          "code": "294150"
+        },
+        {
+          "name": "Luque",
+          "code": "464595"
+        },
+        {
+          "name": "Mbarigui",
+          "code": "294171"
+        },
+        {
+          "name": "Ohia",
+          "code": "294232"
+        },
+        {
+          "name": "Otazú",
+          "code": "294237"
+        },
+        {
+          "name": "Pastos",
+          "code": "294267"
+        },
+        {
+          "name": "Piquirenda",
+          "code": "294284"
+        },
+        {
+          "name": "Pirón",
+          "code": "294291"
+        },
+        {
+          "name": "Porto María",
+          "code": "294293"
+        },
+        {
+          "name": "Pozo de Buey",
+          "code": "294306"
+        },
+        {
+          "name": "Puerto Caballo",
+          "code": "294335"
+        },
+        {
+          "name": "Puerto Catorce de Mayo",
+          "code": "294341"
+        },
+        {
+          "name": "Puerto Esperanza",
+          "code": "294355"
+        },
+        {
+          "name": "Puerto Guaraní",
+          "code": "294360"
+        },
+        {
+          "name": "Puerto La Esperanza",
+          "code": "294369"
+        },
+        {
+          "name": "Puerto La Victoria",
+          "code": "294370"
+        },
+        {
+          "name": "Puerto Leda",
+          "code": "294372"
+        },
+        {
+          "name": "Puerto Lidia",
+          "code": "294373"
+        },
+        {
+          "name": "Puerto María Auxiliadora",
+          "code": "294377"
+        },
+        {
+          "name": "Puerto Mihanovich",
+          "code": "294382"
+        },
+        {
+          "name": "Puerto Nuevo",
+          "code": "294386"
+        },
+        {
+          "name": "Puerto Pagani Cué",
+          "code": "294390"
+        },
+        {
+          "name": "Puerto Ramos",
+          "code": "294400"
+        },
+        {
+          "name": "Puerto San Alberto",
+          "code": "294406"
+        },
+        {
+          "name": "Puerto Sastre",
+          "code": "294423"
+        },
+        {
+          "name": "Puerto Tres Palmas",
+          "code": "294429"
+        },
+        {
+          "name": "Puerto Voluntad",
+          "code": "294437"
+        },
+        {
+          "name": "Puesto Alambique",
+          "code": "294445"
+        },
+        {
+          "name": "Puesto Bárbaro",
+          "code": "294450"
+        },
+        {
+          "name": "Puesto Cabo Giménez",
+          "code": "294458"
+        },
+        {
+          "name": "Puesto Palmares",
+          "code": "294518"
+        },
+        {
+          "name": "Puesto Rancho Quemado",
+          "code": "294527"
+        },
+        {
+          "name": "Puesto Santo Domingo",
+          "code": "294544"
+        },
+        {
+          "name": "Puesto Tapacaré",
+          "code": "294553"
+        },
+        {
+          "name": "Puesto Warnes",
+          "code": "294563"
+        },
+        {
+          "name": "Punta Rieles",
+          "code": "294569"
+        },
+        {
+          "name": "Retén-cué",
+          "code": "294585"
+        },
+        {
+          "name": "San Anacleto",
+          "code": "294611"
+        },
+        {
+          "name": "San Antonio",
+          "code": "294616"
+        },
+        {
+          "name": "San Carlos",
+          "code": "294624"
+        },
+        {
+          "name": "San Jorge",
+          "code": "294635"
+        },
+        {
+          "name": "San José",
+          "code": "294637"
+        },
+        {
+          "name": "San Juan",
+          "code": "294645"
+        },
+        {
+          "name": "San Rafael",
+          "code": "294669"
+        },
+        {
+          "name": "San Ramón",
+          "code": "294672"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "294687"
+        },
+        {
+          "name": "Santa Lidia",
+          "code": "294693"
+        },
+        {
+          "name": "Santa María",
+          "code": "294696"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "294705"
+        },
+        {
+          "name": "Sartorio",
+          "code": "294722"
+        },
+        {
+          "name": "Tajhyire",
+          "code": "294737"
+        },
+        {
+          "name": "Toro",
+          "code": "294773"
+        },
+        {
+          "name": "Toro Pampa",
+          "code": "294774"
+        },
+        {
+          "name": "Yaguarele Pytá",
+          "code": "294821"
+        },
+        {
+          "name": "Ypytú",
+          "code": "294849"
+        }
+      ]
+    },
+    {
+      "name": "Boquerón",
+      "code": "546",
+      "cities": [
+        {
+          "name": "Abá-Ñe-é",
+          "code": "292916"
+        },
+        {
+          "name": "Acá Verá",
+          "code": "292918"
+        },
+        {
+          "name": "Achaval",
+          "code": "292920"
+        },
+        {
+          "name": "Aguilera",
+          "code": "292930"
+        },
+        {
+          "name": "Aguirre",
+          "code": "292931"
+        },
+        {
+          "name": "Agüero",
+          "code": "292929"
+        },
+        {
+          "name": "Alborada",
+          "code": "292933"
+        },
+        {
+          "name": "Alianza",
+          "code": "292936"
+        },
+        {
+          "name": "Alurralde",
+          "code": "292939"
+        },
+        {
+          "name": "Amarillo Pericote",
+          "code": "292942"
+        },
+        {
+          "name": "Atajado",
+          "code": "292965"
+        },
+        {
+          "name": "Aurora",
+          "code": "292968"
+        },
+        {
+          "name": "Ballivián",
+          "code": "292970"
+        },
+        {
+          "name": "Bandera Blanca",
+          "code": "292971"
+        },
+        {
+          "name": "Batallón Ingeniería Número Cua",
+          "code": "292982"
+        },
+        {
+          "name": "Beatriz",
+          "code": "292985"
+        },
+        {
+          "name": "Bella Vista",
+          "code": "292990"
+        },
+        {
+          "name": "Buena Vista",
+          "code": "292997"
+        },
+        {
+          "name": "Cacique Bueno",
+          "code": "293014"
+        },
+        {
+          "name": "Calixto Benítez",
+          "code": "293018"
+        },
+        {
+          "name": "Cañada Blanca",
+          "code": "293043"
+        },
+        {
+          "name": "Cañada Calais",
+          "code": "293044"
+        },
+        {
+          "name": "Cañada Oruro",
+          "code": "293045"
+        },
+        {
+          "name": "Capitán Castro",
+          "code": "293054"
+        },
+        {
+          "name": "Carmen Inés",
+          "code": "293068"
+        },
+        {
+          "name": "Carmencita",
+          "code": "293069"
+        },
+        {
+          "name": "Celina",
+          "code": "293081"
+        },
+        {
+          "name": "China Muerta",
+          "code": "293095"
+        },
+        {
+          "name": "Chivilar",
+          "code": "293097"
+        },
+        {
+          "name": "Cobija",
+          "code": "293101"
+        },
+        {
+          "name": "Codo Kononi",
+          "code": "293103"
+        },
+        {
+          "name": "Collar Ahorcado",
+          "code": "293104"
+        },
+        {
+          "name": "Colonia Austria-í",
+          "code": "293119"
+        },
+        {
+          "name": "Colonia Blumengart",
+          "code": "293122"
+        },
+        {
+          "name": "Colonia Fernheim",
+          "code": "293156"
+        },
+        {
+          "name": "Colonia Menno",
+          "code": "293207"
+        },
+        {
+          "name": "Colonia Mennonita",
+          "code": "293208"
+        },
+        {
+          "name": "Colonia Neuland",
+          "code": "293214"
+        },
+        {
+          "name": "Colonia Osterwich",
+          "code": "293220"
+        },
+        {
+          "name": "Colonia Reinland",
+          "code": "293239"
+        },
+        {
+          "name": "Colonia Schoental",
+          "code": "293269"
+        },
+        {
+          "name": "Curupayty",
+          "code": "293349"
+        },
+        {
+          "name": "Delicias",
+          "code": "293355"
+        },
+        {
+          "name": "Destacamento Militar Número Do",
+          "code": "293359"
+        },
+        {
+          "name": "Doctor Pedro P. Peña",
+          "code": "293365"
+        },
+        {
+          "name": "Dorado",
+          "code": "293369"
+        },
+        {
+          "name": "Dos Tuscas",
+          "code": "293371"
+        },
+        {
+          "name": "El Galpón",
+          "code": "293375"
+        },
+        {
+          "name": "El Kastro",
+          "code": "293376"
+        },
+        {
+          "name": "El Pocito",
+          "code": "293379"
+        },
+        {
+          "name": "El Rastro",
+          "code": "293381"
+        },
+        {
+          "name": "Entre Ríos",
+          "code": "293387"
+        },
+        {
+          "name": "Espectro",
+          "code": "293390"
+        },
+        {
+          "name": "Establecimiento Mil",
+          "code": "293402"
+        },
+        {
+          "name": "Estancia Ararapó",
+          "code": "293432"
+        },
+        {
+          "name": "Estancia Berta",
+          "code": "293448"
+        },
+        {
+          "name": "Estancia Brusqueti",
+          "code": "293456"
+        },
+        {
+          "name": "Estancia Campo Aroma",
+          "code": "293477"
+        },
+        {
+          "name": "Estancia Campo Azul",
+          "code": "293478"
+        },
+        {
+          "name": "Estancia Campo I",
+          "code": "293479"
+        },
+        {
+          "name": "Estancia Campo Lima",
+          "code": "293481"
+        },
+        {
+          "name": "Estancia Campo Loa",
+          "code": "293482"
+        },
+        {
+          "name": "Estancia Casuarina",
+          "code": "293504"
+        },
+        {
+          "name": "Estancia Coé Puajhú",
+          "code": "293524"
+        },
+        {
+          "name": "Estancia del Socorro",
+          "code": "293540"
+        },
+        {
+          "name": "Estancia Dojavina",
+          "code": "293544"
+        },
+        {
+          "name": "Estancia Dos Banderas",
+          "code": "293547"
+        },
+        {
+          "name": "Estancia El Dorado",
+          "code": "293551"
+        },
+        {
+          "name": "Estancia El Pampero",
+          "code": "293552"
+        },
+        {
+          "name": "Estancia Eleonora",
+          "code": "293554"
+        },
+        {
+          "name": "Estancia Eriana",
+          "code": "293556"
+        },
+        {
+          "name": "Estancia Escobar",
+          "code": "293557"
+        },
+        {
+          "name": "Estancia Ferko",
+          "code": "293566"
+        },
+        {
+          "name": "Estancia Gran Siete",
+          "code": "293586"
+        },
+        {
+          "name": "Estancia Guayacán",
+          "code": "293590"
+        },
+        {
+          "name": "Estancia Hernandarías",
+          "code": "293594"
+        },
+        {
+          "name": "Estancia Ita Reta",
+          "code": "293605"
+        },
+        {
+          "name": "Estancia La Aguada",
+          "code": "293616"
+        },
+        {
+          "name": "Estancia La Chaquena",
+          "code": "293620"
+        },
+        {
+          "name": "Estancia La Esmeralda",
+          "code": "293625"
+        },
+        {
+          "name": "Estancia La Esperanza",
+          "code": "293626"
+        },
+        {
+          "name": "Estancia La Lechiguana",
+          "code": "293630"
+        },
+        {
+          "name": "Estancia La Madelón",
+          "code": "293631"
+        },
+        {
+          "name": "Estancia La Mariposa",
+          "code": "293632"
+        },
+        {
+          "name": "Estancia La Patria",
+          "code": "293636"
+        },
+        {
+          "name": "Estancia La Patricia",
+          "code": "293637"
+        },
+        {
+          "name": "Estancia La Ventura",
+          "code": "293642"
+        },
+        {
+          "name": "Estancia La Victoria",
+          "code": "293643"
+        },
+        {
+          "name": "Estancia Laguna",
+          "code": "293646"
+        },
+        {
+          "name": "Estancia Lorena",
+          "code": "293682"
+        },
+        {
+          "name": "Estancia Los Caminantes",
+          "code": "293683"
+        },
+        {
+          "name": "Estancia Los Hijos",
+          "code": "293686"
+        },
+        {
+          "name": "Estancia Los Sauces",
+          "code": "293690"
+        },
+        {
+          "name": "Estancia Mari Christie",
+          "code": "293702"
+        },
+        {
+          "name": "Estancia María Auxiliadora",
+          "code": "293703"
+        },
+        {
+          "name": "Estancia María Luisa",
+          "code": "293704"
+        },
+        {
+          "name": "Estancia María Vicenta",
+          "code": "293706"
+        },
+        {
+          "name": "Estancia Marta Lidia",
+          "code": "293711"
+        },
+        {
+          "name": "Estancia Mary",
+          "code": "293713"
+        },
+        {
+          "name": "Estancia Mbigua",
+          "code": "293714"
+        },
+        {
+          "name": "Estancia Mbutu Reta",
+          "code": "293715"
+        },
+        {
+          "name": "Estancia Mistroll Marcado",
+          "code": "293718"
+        },
+        {
+          "name": "Estancia Ñandú",
+          "code": "293739"
+        },
+        {
+          "name": "Estancia Palmares",
+          "code": "293747"
+        },
+        {
+          "name": "Estancia Piroy",
+          "code": "293761"
+        },
+        {
+          "name": "Estancia Pozo Brillante",
+          "code": "293774"
+        },
+        {
+          "name": "Estancia Pozo León",
+          "code": "293777"
+        },
+        {
+          "name": "Estancia Pozo Milico",
+          "code": "293778"
+        },
+        {
+          "name": "Estancia Safari",
+          "code": "293811"
+        },
+        {
+          "name": "Estancia Samuhú",
+          "code": "293816"
+        },
+        {
+          "name": "Estancia San Heriberto",
+          "code": "293832"
+        },
+        {
+          "name": "Estancia San Isidro",
+          "code": "293833"
+        },
+        {
+          "name": "Estancia San Jorge",
+          "code": "293837"
+        },
+        {
+          "name": "Estancia Sandrina",
+          "code": "293874"
+        },
+        {
+          "name": "Estancia Santo Domingo",
+          "code": "293913"
+        },
+        {
+          "name": "Estancia Soledad",
+          "code": "293924"
+        },
+        {
+          "name": "Estancia Teniente Prieto",
+          "code": "293946"
+        },
+        {
+          "name": "Estancia Tres Reyes",
+          "code": "293961"
+        },
+        {
+          "name": "Estancia Voon Leppel",
+          "code": "293980"
+        },
+        {
+          "name": "Estancia Wellcome",
+          "code": "293981"
+        },
+        {
+          "name": "Estancia Yaguarete",
+          "code": "293984"
+        },
+        {
+          "name": "Estancia Ytororó",
+          "code": "293990"
+        },
+        {
+          "name": "Estancia Zunilda",
+          "code": "293996"
+        },
+        {
+          "name": "Filadelfia",
+          "code": "294005"
+        },
+        {
+          "name": "Florentín Cué",
+          "code": "294007"
+        },
+        {
+          "name": "Fortín Pozo Hondo",
+          "code": "294010"
+        },
+        {
+          "name": "Frías",
+          "code": "294012"
+        },
+        {
+          "name": "Fulgendo R. Moreno",
+          "code": "294013"
+        },
+        {
+          "name": "Ganadera",
+          "code": "294015"
+        },
+        {
+          "name": "General Eugenio A. Garay",
+          "code": "294024"
+        },
+        {
+          "name": "Guajhó",
+          "code": "294036"
+        },
+        {
+          "name": "Gutiérrez",
+          "code": "294044"
+        },
+        {
+          "name": "Independencia",
+          "code": "294058"
+        },
+        {
+          "name": "Kilómetro 262",
+          "code": "294104"
+        },
+        {
+          "name": "La Cumbrera",
+          "code": "294109"
+        },
+        {
+          "name": "La Dorada",
+          "code": "294110"
+        },
+        {
+          "name": "Laguna Blanca",
+          "code": "294117"
+        },
+        {
+          "name": "Laguna Pirizal",
+          "code": "294118"
+        },
+        {
+          "name": "Lalagua",
+          "code": "294120"
+        },
+        {
+          "name": "Las Breas",
+          "code": "294123"
+        },
+        {
+          "name": "Las Lagunas",
+          "code": "294124"
+        },
+        {
+          "name": "Las Mercedes",
+          "code": "294125"
+        },
+        {
+          "name": "Las Señoras",
+          "code": "294127"
+        },
+        {
+          "name": "Linares Viejo",
+          "code": "294133"
+        },
+        {
+          "name": "Loma",
+          "code": "294134"
+        },
+        {
+          "name": "Loma Plata",
+          "code": "294140"
+        },
+        {
+          "name": "Los Naranjos",
+          "code": "294146"
+        },
+        {
+          "name": "Los Pozos",
+          "code": "294148"
+        },
+        {
+          "name": "Luchan",
+          "code": "294151"
+        },
+        {
+          "name": "Mandarina",
+          "code": "294157"
+        },
+        {
+          "name": "María Lidia",
+          "code": "294161"
+        },
+        {
+          "name": "Mariscal Estigarribia",
+          "code": "294163"
+        },
+        {
+          "name": "Masa Grande",
+          "code": "294165"
+        },
+        {
+          "name": "Matorral",
+          "code": "294166"
+        },
+        {
+          "name": "Media Luna",
+          "code": "294180"
+        },
+        {
+          "name": "Misión Guaraní",
+          "code": "294191"
+        },
+        {
+          "name": "Misión San José Estero",
+          "code": "294195"
+        },
+        {
+          "name": "Misión San Leonardo",
+          "code": "294196"
+        },
+        {
+          "name": "Misión Santa Rosa",
+          "code": "294197"
+        },
+        {
+          "name": "Misión Santa Teresa",
+          "code": "294198"
+        },
+        {
+          "name": "Misión Yalve Sanga",
+          "code": "294200"
+        },
+        {
+          "name": "Mistolar",
+          "code": "294201"
+        },
+        {
+          "name": "Monte Rico",
+          "code": "294206"
+        },
+        {
+          "name": "Moras",
+          "code": "294208"
+        },
+        {
+          "name": "Ortiz",
+          "code": "294236"
+        },
+        {
+          "name": "Palma Chica",
+          "code": "294242"
+        },
+        {
+          "name": "Palmar",
+          "code": "294244"
+        },
+        {
+          "name": "Palo Blanco",
+          "code": "294246"
+        },
+        {
+          "name": "Parapití Uno",
+          "code": "294253"
+        },
+        {
+          "name": "Paria",
+          "code": "294255"
+        },
+        {
+          "name": "Paso de los Tobas",
+          "code": "294261"
+        },
+        {
+          "name": "Pérez",
+          "code": "294276"
+        },
+        {
+          "name": "Pericote",
+          "code": "294277"
+        },
+        {
+          "name": "Picada Catorce de Mayo",
+          "code": "294278"
+        },
+        {
+          "name": "Pilcomayo",
+          "code": "294280"
+        },
+        {
+          "name": "Pirizal",
+          "code": "294290"
+        },
+        {
+          "name": "Porvenir",
+          "code": "294294"
+        },
+        {
+          "name": "Potrero Palmas",
+          "code": "294298"
+        },
+        {
+          "name": "Pozo Algarrobo",
+          "code": "294300"
+        },
+        {
+          "name": "Pozo Anta",
+          "code": "294301"
+        },
+        {
+          "name": "Pozo Chambi",
+          "code": "294303"
+        },
+        {
+          "name": "Pozo Charata",
+          "code": "294304"
+        },
+        {
+          "name": "Pozo El Venado",
+          "code": "294307"
+        },
+        {
+          "name": "Pozo Gloria",
+          "code": "294309"
+        },
+        {
+          "name": "Pozo Grande",
+          "code": "294310"
+        },
+        {
+          "name": "Pozo Paucarpata",
+          "code": "294311"
+        },
+        {
+          "name": "Pozo Quince de Abril",
+          "code": "294312"
+        },
+        {
+          "name": "Pozo Verde",
+          "code": "294313"
+        },
+        {
+          "name": "Primero de Marzo",
+          "code": "294318"
+        },
+        {
+          "name": "Puesto Alcaraz",
+          "code": "294446"
+        },
+        {
+          "name": "Puesto Bullain",
+          "code": "294455"
+        },
+        {
+          "name": "Puesto Careca",
+          "code": "294460"
+        },
+        {
+          "name": "Puesto Catán",
+          "code": "294461"
+        },
+        {
+          "name": "Puesto Córdoba",
+          "code": "294465"
+        },
+        {
+          "name": "Puesto Correa",
+          "code": "294468"
+        },
+        {
+          "name": "Puesto Curupayty",
+          "code": "294471"
+        },
+        {
+          "name": "Puesto Dorado",
+          "code": "294474"
+        },
+        {
+          "name": "Puesto Esperanza",
+          "code": "294475"
+        },
+        {
+          "name": "Puesto Estrella",
+          "code": "294479"
+        },
+        {
+          "name": "Puesto F",
+          "code": "294480"
+        },
+        {
+          "name": "Puesto Galponcito",
+          "code": "294483"
+        },
+        {
+          "name": "Puesto Ganadero",
+          "code": "294484"
+        },
+        {
+          "name": "Puesto Guaraní",
+          "code": "294486"
+        },
+        {
+          "name": "Puesto Gulach",
+          "code": "294487"
+        },
+        {
+          "name": "Puesto Jabalí",
+          "code": "294492"
+        },
+        {
+          "name": "Puesto K",
+          "code": "294493"
+        },
+        {
+          "name": "Puesto Kilómetro Veinte",
+          "code": "294494"
+        },
+        {
+          "name": "Puesto Larrosa",
+          "code": "294497"
+        },
+        {
+          "name": "Puesto Mainumby",
+          "code": "294504"
+        },
+        {
+          "name": "Puesto Montaño",
+          "code": "294508"
+        },
+        {
+          "name": "Puesto Moreno",
+          "code": "294511"
+        },
+        {
+          "name": "Puesto Muñeca",
+          "code": "294512"
+        },
+        {
+          "name": "Puesto Nuevo",
+          "code": "294514"
+        },
+        {
+          "name": "Puesto Ortiz",
+          "code": "294516"
+        },
+        {
+          "name": "Puesto Pajonal",
+          "code": "294517"
+        },
+        {
+          "name": "Puesto Palomo",
+          "code": "294519"
+        },
+        {
+          "name": "Puesto Pampa Grande",
+          "code": "294520"
+        },
+        {
+          "name": "Puesto Panambí",
+          "code": "294521"
+        },
+        {
+          "name": "Puesto Pavón",
+          "code": "294523"
+        },
+        {
+          "name": "Puesto Paz",
+          "code": "294524"
+        },
+        {
+          "name": "Puesto Peña",
+          "code": "294525"
+        },
+        {
+          "name": "Puesto Santa Elena",
+          "code": "294540"
+        },
+        {
+          "name": "Puesto Sargento B. Figueredo",
+          "code": "294545"
+        },
+        {
+          "name": "Puesto Sargento Primero Felix",
+          "code": "294546"
+        },
+        {
+          "name": "Puesto Sosa",
+          "code": "294549"
+        },
+        {
+          "name": "Puesto Subieta",
+          "code": "294550"
+        },
+        {
+          "name": "Puesto Teniente G. Trovatto",
+          "code": "294554"
+        },
+        {
+          "name": "Puesto Victoria",
+          "code": "294562"
+        },
+        {
+          "name": "Quebrachal",
+          "code": "294570"
+        },
+        {
+          "name": "Quintana",
+          "code": "294572"
+        },
+        {
+          "name": "Represa",
+          "code": "294584"
+        },
+        {
+          "name": "Retiro Yaguarete",
+          "code": "294592"
+        },
+        {
+          "name": "Rivera Porvenir",
+          "code": "294596"
+        },
+        {
+          "name": "Rosarito",
+          "code": "294602"
+        },
+        {
+          "name": "Saavedra",
+          "code": "294603"
+        },
+        {
+          "name": "San Antonio",
+          "code": "294617"
+        },
+        {
+          "name": "San Carlos",
+          "code": "294622"
+        },
+        {
+          "name": "San Joaquín",
+          "code": "294634"
+        },
+        {
+          "name": "San Ramón",
+          "code": "294674"
+        },
+        {
+          "name": "Sargento Saracho",
+          "code": "294720"
+        },
+        {
+          "name": "Sargento Valinotti",
+          "code": "294721"
+        },
+        {
+          "name": "Sauzal",
+          "code": "294725"
+        },
+        {
+          "name": "Teniente Barrientos",
+          "code": "294753"
+        },
+        {
+          "name": "Teniente Camperchioli",
+          "code": "294754"
+        },
+        {
+          "name": "Teniente Crovato",
+          "code": "294755"
+        },
+        {
+          "name": "Teniente E. Ortiz",
+          "code": "294756"
+        },
+        {
+          "name": "Teniente Filgueira",
+          "code": "294757"
+        },
+        {
+          "name": "Teniente G. Arias",
+          "code": "294758"
+        },
+        {
+          "name": "Teniente H. Gini",
+          "code": "294759"
+        },
+        {
+          "name": "Teniente Lugo Chilaver",
+          "code": "294760"
+        },
+        {
+          "name": "Teniente Ochoa",
+          "code": "294761"
+        },
+        {
+          "name": "Teniente Pessolani",
+          "code": "294762"
+        },
+        {
+          "name": "Teniente S. Velázquez",
+          "code": "294763"
+        },
+        {
+          "name": "Tezén",
+          "code": "294767"
+        },
+        {
+          "name": "Toba Quemado",
+          "code": "294768"
+        },
+        {
+          "name": "Tres Pozos",
+          "code": "294782"
+        },
+        {
+          "name": "Tronquito",
+          "code": "294785"
+        },
+        {
+          "name": "Tunari",
+          "code": "294788"
+        },
+        {
+          "name": "Tuscal",
+          "code": "294789"
+        },
+        {
+          "name": "Veinticinco de Mayo",
+          "code": "294801"
+        },
+        {
+          "name": "Villanueva",
+          "code": "294815"
+        },
+        {
+          "name": "Villanueva San Antonio",
+          "code": "294816"
+        },
+        {
+          "name": "Villazón",
+          "code": "294818"
+        },
+        {
+          "name": "Yatebu-í",
+          "code": "294830"
+        },
+        {
+          "name": "Ytororó",
+          "code": "294850"
+        },
+        {
+          "name": "Zenteno",
+          "code": "294857"
+        }
+      ]
+    },
+    {
+      "name": "Caaguazú",
+      "code": "547",
+      "cities": [
+        {
+          "name": "Barrero Pyta",
+          "code": "292972"
+        },
+        {
+          "name": "Barrio San Miguel",
+          "code": "292980"
+        },
+        {
+          "name": "Barrio Santa Maria",
+          "code": "292981"
+        },
+        {
+          "name": "Blas Garay",
+          "code": "292993"
+        },
+        {
+          "name": "Caaguazú",
+          "code": "293004"
+        },
+        {
+          "name": "Cabral-cué",
+          "code": "293013"
+        },
+        {
+          "name": "Carayaó",
+          "code": "293064"
+        },
+        {
+          "name": "Colonia Altura",
+          "code": "293116"
+        },
+        {
+          "name": "Colonia Bergtal",
+          "code": "293120"
+        },
+        {
+          "name": "Colonia Blas Garay",
+          "code": "293121"
+        },
+        {
+          "name": "Colonia Doctor Domingo Montana",
+          "code": "293143"
+        },
+        {
+          "name": "Colonia Ex Combatiente",
+          "code": "293147"
+        },
+        {
+          "name": "Colonia Genaro Romero",
+          "code": "293160"
+        },
+        {
+          "name": "Colonia General Alfredo Stroes",
+          "code": "293161"
+        },
+        {
+          "name": "Colonia Hondo",
+          "code": "293174"
+        },
+        {
+          "name": "Colonia Joan M. Frutos",
+          "code": "293178"
+        },
+        {
+          "name": "Colonia Juan Sinforiano Bogari",
+          "code": "293181"
+        },
+        {
+          "name": "Colonia la Pastora",
+          "code": "293182"
+        },
+        {
+          "name": "Colonia Maria Auxiliadora",
+          "code": "293194"
+        },
+        {
+          "name": "Colonia Mburupy",
+          "code": "293205"
+        },
+        {
+          "name": "Colonia Mons Bogarin",
+          "code": "293212"
+        },
+        {
+          "name": "Colonia Montanaro",
+          "code": "293213"
+        },
+        {
+          "name": "Colonia Nueva Australia",
+          "code": "293215"
+        },
+        {
+          "name": "Colonia Pedro M. de Portugal",
+          "code": "293224"
+        },
+        {
+          "name": "Colonia Presidente Franco",
+          "code": "293231"
+        },
+        {
+          "name": "Colonia Repatriación",
+          "code": "293240"
+        },
+        {
+          "name": "Colonia San Ignacio de Loyola",
+          "code": "293254"
+        },
+        {
+          "name": "Colonia San Isidro",
+          "code": "293255"
+        },
+        {
+          "name": "Colonia San Roque",
+          "code": "293261"
+        },
+        {
+          "name": "Colonia Santa Catalina",
+          "code": "293262"
+        },
+        {
+          "name": "Colonia Santa Isabel",
+          "code": "293263"
+        },
+        {
+          "name": "Colonia Serafini",
+          "code": "293271"
+        },
+        {
+          "name": "Colonia Somerfield",
+          "code": "293275"
+        },
+        {
+          "name": "Colonia Veinticinco de Noviemb",
+          "code": "293294"
+        },
+        {
+          "name": "Colonia Walter Insfran",
+          "code": "293298"
+        },
+        {
+          "name": "Coronel Oviedo",
+          "code": "293330"
+        },
+        {
+          "name": "Cristo Rey",
+          "code": "293343"
+        },
+        {
+          "name": "Doctor Cecilio Báez",
+          "code": "293362"
+        },
+        {
+          "name": "Doctor Juan Manuel Frutos",
+          "code": "293364"
+        },
+        {
+          "name": "Establecimiento Aquino Puentec",
+          "code": "293397"
+        },
+        {
+          "name": "Establecimiento Ganadero Toroc",
+          "code": "293399"
+        },
+        {
+          "name": "Establicimiento Santa Irene",
+          "code": "293410"
+        },
+        {
+          "name": "Estancia Bella Vista",
+          "code": "293447"
+        },
+        {
+          "name": "Estancia Bottrell",
+          "code": "293454"
+        },
+        {
+          "name": "Estancia Carumbé",
+          "code": "293499"
+        },
+        {
+          "name": "Estancia Golondrina",
+          "code": "293582"
+        },
+        {
+          "name": "Estancia Lagunita",
+          "code": "293655"
+        },
+        {
+          "name": "Estancia Loma",
+          "code": "293672"
+        },
+        {
+          "name": "Estancia Malberti",
+          "code": "293697"
+        },
+        {
+          "name": "Estancia Marín-Cuú",
+          "code": "293707"
+        },
+        {
+          "name": "Estancia Martinez",
+          "code": "293712"
+        },
+        {
+          "name": "Estancia Morales",
+          "code": "293721"
+        },
+        {
+          "name": "Estancia Nuñez",
+          "code": "293737"
+        },
+        {
+          "name": "Estancia San Juan",
+          "code": "293842"
+        },
+        {
+          "name": "Estancia San Patricia",
+          "code": "293861"
+        },
+        {
+          "name": "Estancia San Victor",
+          "code": "293872"
+        },
+        {
+          "name": "Estancia Tarumá",
+          "code": "293941"
+        },
+        {
+          "name": "Golondrina",
+          "code": "294031"
+        },
+        {
+          "name": "Guayaqui Cuá",
+          "code": "294041"
+        },
+        {
+          "name": "Isla Aguaray",
+          "code": "294060"
+        },
+        {
+          "name": "J. D. Ocampos",
+          "code": "294082"
+        },
+        {
+          "name": "J. E. Estigarribia",
+          "code": "294083"
+        },
+        {
+          "name": "J. R. Chávez",
+          "code": "294084"
+        },
+        {
+          "name": "La Pastora",
+          "code": "294114"
+        },
+        {
+          "name": "Loma Paraíso",
+          "code": "294139"
+        },
+        {
+          "name": "Machain Cué",
+          "code": "294153"
+        },
+        {
+          "name": "Mandijho",
+          "code": "294158"
+        },
+        {
+          "name": "Mariscal F. S. Lopez",
+          "code": "294164"
+        },
+        {
+          "name": "Mbopicuá",
+          "code": "294176"
+        },
+        {
+          "name": "Mbutuy",
+          "code": "294178"
+        },
+        {
+          "name": "Misión del Divino Salvador",
+          "code": "294190"
+        },
+        {
+          "name": "Nueva Londres",
+          "code": "294224"
+        },
+        {
+          "name": "Paso Cadena",
+          "code": "294258"
+        },
+        {
+          "name": "Potrero Bulión",
+          "code": "294295"
+        },
+        {
+          "name": "Puerto Ysaú",
+          "code": "294443"
+        },
+        {
+          "name": "Puesto Cabayuray-Carujhá",
+          "code": "294457"
+        },
+        {
+          "name": "R. I. Tres Corrales",
+          "code": "294574"
+        },
+        {
+          "name": "Raul Oviedo",
+          "code": "294580"
+        },
+        {
+          "name": "Repatriación",
+          "code": "294583"
+        },
+        {
+          "name": "San Antonio",
+          "code": "294614"
+        },
+        {
+          "name": "San Joaquín",
+          "code": "294633"
+        },
+        {
+          "name": "San José",
+          "code": "294640"
+        },
+        {
+          "name": "San Patricio",
+          "code": "294663"
+        },
+        {
+          "name": "Sanchez Cué",
+          "code": "294683"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "294703"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "294707"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "294715"
+        },
+        {
+          "name": "Yhacá",
+          "code": "294842"
+        },
+        {
+          "name": "Yhacá Ruguá",
+          "code": "294843"
+        },
+        {
+          "name": "Yhú",
+          "code": "294844"
+        }
+      ]
+    },
+    {
+      "name": "Caazapá",
+      "code": "548",
+      "cities": [
+        {
+          "name": "Abaí",
+          "code": "292917"
+        },
+        {
+          "name": "Amambay",
+          "code": "292941"
+        },
+        {
+          "name": "Belén Tuyá",
+          "code": "292987"
+        },
+        {
+          "name": "Boquerón",
+          "code": "292994"
+        },
+        {
+          "name": "Buena Vista",
+          "code": "292998"
+        },
+        {
+          "name": "Caazapá",
+          "code": "293009"
+        },
+        {
+          "name": "Cañete",
+          "code": "293047"
+        },
+        {
+          "name": "Cañete-cué",
+          "code": "293048"
+        },
+        {
+          "name": "Cecina",
+          "code": "293078"
+        },
+        {
+          "name": "Charará",
+          "code": "293094"
+        },
+        {
+          "name": "Colonia Martínez de Irala",
+          "code": "293197"
+        },
+        {
+          "name": "Colonia Mayor Nicolás Arguello",
+          "code": "293200"
+        },
+        {
+          "name": "Colonia Mburicá Potrero",
+          "code": "293203"
+        },
+        {
+          "name": "Colonia Riachuelo",
+          "code": "293241"
+        },
+        {
+          "name": "Colonia Valois Rivarola",
+          "code": "293293"
+        },
+        {
+          "name": "Colonia Yacubó",
+          "code": "293299"
+        },
+        {
+          "name": "Colonia Yapepó Isla",
+          "code": "293301"
+        },
+        {
+          "name": "Dolores",
+          "code": "293367"
+        },
+        {
+          "name": "Enramadita",
+          "code": "293386"
+        },
+        {
+          "name": "Estancia Doldán",
+          "code": "293545"
+        },
+        {
+          "name": "Estancia Isla Sombrero",
+          "code": "293603"
+        },
+        {
+          "name": "Estancia Maria Stella",
+          "code": "293705"
+        },
+        {
+          "name": "Estancia San Luis",
+          "code": "293847"
+        },
+        {
+          "name": "Estancia San Nicolás",
+          "code": "293858"
+        },
+        {
+          "name": "Estancia San Pablo",
+          "code": "293860"
+        },
+        {
+          "name": "Estancia San Solano",
+          "code": "293871"
+        },
+        {
+          "name": "Estancia Santa Rosa",
+          "code": "293905"
+        },
+        {
+          "name": "Estancia Sapira",
+          "code": "293915"
+        },
+        {
+          "name": "Estancia Sarubi",
+          "code": "293916"
+        },
+        {
+          "name": "Estancia Tarumá",
+          "code": "293940"
+        },
+        {
+          "name": "Estancia Typucha",
+          "code": "293966"
+        },
+        {
+          "name": "Estancia Zarza",
+          "code": "293995"
+        },
+        {
+          "name": "General Higinio Morínigo",
+          "code": "294027"
+        },
+        {
+          "name": "Maciel",
+          "code": "294154"
+        },
+        {
+          "name": "Mbocayá",
+          "code": "294172"
+        },
+        {
+          "name": "Moisés S. Bertoni",
+          "code": "294202"
+        },
+        {
+          "name": "Pindó",
+          "code": "294281"
+        },
+        {
+          "name": "Puerto Flores",
+          "code": "294356"
+        },
+        {
+          "name": "San Agustín",
+          "code": "294609"
+        },
+        {
+          "name": "San Carlos",
+          "code": "294620"
+        },
+        {
+          "name": "San Juan Nepomuceno",
+          "code": "294651"
+        },
+        {
+          "name": "San Miguel",
+          "code": "294657"
+        },
+        {
+          "name": "San Pablo",
+          "code": "294661"
+        },
+        {
+          "name": "San Pedro-cué",
+          "code": "294667"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "294708"
+        },
+        {
+          "name": "Santa Úrsula",
+          "code": "294709"
+        },
+        {
+          "name": "Santo Tomé",
+          "code": "294717"
+        },
+        {
+          "name": "Sosa",
+          "code": "294729"
+        },
+        {
+          "name": "Tapytá",
+          "code": "294741"
+        },
+        {
+          "name": "Tarumá",
+          "code": "294742"
+        },
+        {
+          "name": "Tavaí",
+          "code": "294744"
+        },
+        {
+          "name": "Tuna",
+          "code": "294787"
+        },
+        {
+          "name": "Urrujia Duartey Compañía",
+          "code": "294792"
+        },
+        {
+          "name": "Villa Pastoreo",
+          "code": "294811"
+        },
+        {
+          "name": "Yataity",
+          "code": "294826"
+        },
+        {
+          "name": "Ycuá Porá",
+          "code": "294839"
+        },
+        {
+          "name": "Yegros",
+          "code": "294840"
+        },
+        {
+          "name": "Yuty",
+          "code": "294852"
+        }
+      ]
+    },
+    {
+      "name": "Canindeyú",
+      "code": "549",
+      "cities": [
+        {
+          "name": "Aguará Charte",
+          "code": "292925"
+        },
+        {
+          "name": "Alvar Núñez Cabeza de Vaca",
+          "code": "292940"
+        },
+        {
+          "name": "Anahi",
+          "code": "292943"
+        },
+        {
+          "name": "Caagüy Porá",
+          "code": "293005"
+        },
+        {
+          "name": "Capiitindy",
+          "code": "293051"
+        },
+        {
+          "name": "Carapá",
+          "code": "293062"
+        },
+        {
+          "name": "Caruperá",
+          "code": "293073"
+        },
+        {
+          "name": "Colonia Alborada",
+          "code": "293114"
+        },
+        {
+          "name": "Colonia Caninobyú",
+          "code": "293127"
+        },
+        {
+          "name": "Colonia Catuete",
+          "code": "293135"
+        },
+        {
+          "name": "Colonia Cumandá Kay",
+          "code": "293139"
+        },
+        {
+          "name": "Colonia General Bernardino Cab",
+          "code": "293163"
+        },
+        {
+          "name": "Colonia General de División A.",
+          "code": "293165"
+        },
+        {
+          "name": "Colonia Mburucuya",
+          "code": "293204"
+        },
+        {
+          "name": "Colonia San José Obrero",
+          "code": "293257"
+        },
+        {
+          "name": "Colonia Siete Montes",
+          "code": "293274"
+        },
+        {
+          "name": "Colonia Tacuara",
+          "code": "293279"
+        },
+        {
+          "name": "Colonia Tendal",
+          "code": "293284"
+        },
+        {
+          "name": "Colonia Yacy Corá",
+          "code": "293300"
+        },
+        {
+          "name": "Colonia Ybycuí",
+          "code": "293304"
+        },
+        {
+          "name": "Comunidad",
+          "code": "293321"
+        },
+        {
+          "name": "Corpus Christi",
+          "code": "293332"
+        },
+        {
+          "name": "Corpus Cristi Viejo",
+          "code": "293333"
+        },
+        {
+          "name": "Estancia El Pinar",
+          "code": "293553"
+        },
+        {
+          "name": "Estancia Pindoty",
+          "code": "293757"
+        },
+        {
+          "name": "Estancia Primavera",
+          "code": "293784"
+        },
+        {
+          "name": "Estancia Santa Lucia",
+          "code": "293897"
+        },
+        {
+          "name": "General Francisco Caballero",
+          "code": "294026"
+        },
+        {
+          "name": "Horqueta-Mí",
+          "code": "294052"
+        },
+        {
+          "name": "Itanara",
+          "code": "294073"
+        },
+        {
+          "name": "Jejuí Guazú",
+          "code": "294089"
+        },
+        {
+          "name": "Las Palomas",
+          "code": "294126"
+        },
+        {
+          "name": "Laurel",
+          "code": "294128"
+        },
+        {
+          "name": "Mbaracayú",
+          "code": "294169"
+        },
+        {
+          "name": "Mbaracayú Guazú",
+          "code": "294170"
+        },
+        {
+          "name": "Menchaca Cué",
+          "code": "294182"
+        },
+        {
+          "name": "Ñanduro Cái",
+          "code": "294228"
+        },
+        {
+          "name": "Pacoyá",
+          "code": "294238"
+        },
+        {
+          "name": "Parodi",
+          "code": "294256"
+        },
+        {
+          "name": "Paso Itá",
+          "code": "294264"
+        },
+        {
+          "name": "Puerto Adela",
+          "code": "294322"
+        },
+        {
+          "name": "Puerto Marangatú",
+          "code": "294375"
+        },
+        {
+          "name": "Puesto Lata",
+          "code": "294498"
+        },
+        {
+          "name": "Puesto Porá",
+          "code": "294526"
+        },
+        {
+          "name": "Salto del Guairá",
+          "code": "294604"
+        },
+        {
+          "name": "San Isidro de Curuguaty",
+          "code": "294632"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "294716"
+        },
+        {
+          "name": "Tacuaty",
+          "code": "294736"
+        },
+        {
+          "name": "Tayí Caré",
+          "code": "294749"
+        },
+        {
+          "name": "Tuna",
+          "code": "294786"
+        },
+        {
+          "name": "Yajhapé",
+          "code": "294823"
+        },
+        {
+          "name": "Ybyrá-Pytá",
+          "code": "294836"
+        },
+        {
+          "name": "Ybyrarobana",
+          "code": "294837"
+        },
+        {
+          "name": "Ygatimí",
+          "code": "294841"
+        },
+        {
+          "name": "Ypé Jhú",
+          "code": "294847"
+        },
+        {
+          "name": "Yukirí",
+          "code": "294851"
+        }
+      ]
+    },
+    {
+      "name": "Central",
+      "code": "550",
+      "cities": [
+        {
+          "name": "Angostura",
+          "code": "292947"
+        },
+        {
+          "name": "Areguá",
+          "code": "292954"
+        },
+        {
+          "name": "Asunción",
+          "code": "292964"
+        },
+        {
+          "name": "Barrio Caacupé Mí",
+          "code": "292974"
+        },
+        {
+          "name": "Barrio San Blas",
+          "code": "292977"
+        },
+        {
+          "name": "Barrio San Isidro (1)",
+          "code": "292978"
+        },
+        {
+          "name": "Barrio San Isidro (2)",
+          "code": "292979"
+        },
+        {
+          "name": "Candida Aohucarro",
+          "code": "293040"
+        },
+        {
+          "name": "Capiatá",
+          "code": "293049"
+        },
+        {
+          "name": "Colonia Lomas Valentinas",
+          "code": "293187"
+        },
+        {
+          "name": "Colonia Mariano Roque Alonso",
+          "code": "293195"
+        },
+        {
+          "name": "Colonia Thomson",
+          "code": "293289"
+        },
+        {
+          "name": "Cuatro Mojones",
+          "code": "293347"
+        },
+        {
+          "name": "Estancia Surubí",
+          "code": "293931"
+        },
+        {
+          "name": "Fernando de la Mora",
+          "code": "294004"
+        },
+        {
+          "name": "Guarambaré",
+          "code": "294038"
+        },
+        {
+          "name": "Itá",
+          "code": "294067"
+        },
+        {
+          "name": "Itauguá",
+          "code": "294079"
+        },
+        {
+          "name": "J. Saldivar",
+          "code": "294086"
+        },
+        {
+          "name": "Kendall",
+          "code": "294103"
+        },
+        {
+          "name": "La Mercedes",
+          "code": "294112"
+        },
+        {
+          "name": "Lambaré",
+          "code": "294121"
+        },
+        {
+          "name": "Limpio",
+          "code": "294132"
+        },
+        {
+          "name": "Luque",
+          "code": "294152"
+        },
+        {
+          "name": "Mercedes Ibarra",
+          "code": "294184"
+        },
+        {
+          "name": "Nemby",
+          "code": "294219"
+        },
+        {
+          "name": "Nueva Italia",
+          "code": "294223"
+        },
+        {
+          "name": "Patiño",
+          "code": "294268"
+        },
+        {
+          "name": "Pedrozo",
+          "code": "294272"
+        },
+        {
+          "name": "Piquete Cué",
+          "code": "294283"
+        },
+        {
+          "name": "Puerto Alegre",
+          "code": "294325"
+        },
+        {
+          "name": "Puerto Botánico",
+          "code": "294333"
+        },
+        {
+          "name": "Puerto Lobato",
+          "code": "294374"
+        },
+        {
+          "name": "Puerto Santa Elena",
+          "code": "294414"
+        },
+        {
+          "name": "Puerto Sara",
+          "code": "294422"
+        },
+        {
+          "name": "Puesto Areco",
+          "code": "294449"
+        },
+        {
+          "name": "Puesto Deidamia",
+          "code": "294472"
+        },
+        {
+          "name": "Puesto Itacurubi Guazú",
+          "code": "294491"
+        },
+        {
+          "name": "Puesto Sarita",
+          "code": "294547"
+        },
+        {
+          "name": "Puesto Ybyra Guazú",
+          "code": "294565"
+        },
+        {
+          "name": "Puesto Yuasy-y",
+          "code": "294566"
+        },
+        {
+          "name": "San Antonio",
+          "code": "294613"
+        },
+        {
+          "name": "San Carlos",
+          "code": "294621"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "294654"
+        },
+        {
+          "name": "Santa Clara",
+          "code": "294686"
+        },
+        {
+          "name": "Santísima Trinidad",
+          "code": "294712"
+        },
+        {
+          "name": "Tavaí",
+          "code": "294743"
+        },
+        {
+          "name": "Villa Elisa",
+          "code": "294805"
+        },
+        {
+          "name": "Villeta",
+          "code": "294819"
+        },
+        {
+          "name": "Ypacarai",
+          "code": "294845"
+        },
+        {
+          "name": "Ypane",
+          "code": "294846"
+        },
+        {
+          "name": "Zarate Isla",
+          "code": "294855"
+        }
+      ]
+    },
+    {
+      "name": "Concepción",
+      "code": "551",
+      "cities": [
+        {
+          "name": "Agüerito",
+          "code": "292928"
+        },
+        {
+          "name": "Angelito",
+          "code": "292946"
+        },
+        {
+          "name": "Arroyito",
+          "code": "292958"
+        },
+        {
+          "name": "Belén",
+          "code": "292986"
+        },
+        {
+          "name": "Carolina",
+          "code": "293070"
+        },
+        {
+          "name": "Cebolla",
+          "code": "293077"
+        },
+        {
+          "name": "Colonia Agustín R. Pinedo",
+          "code": "293112"
+        },
+        {
+          "name": "Colonia Bogado-cué",
+          "code": "293123"
+        },
+        {
+          "name": "Colonia Cerro Memby",
+          "code": "293136"
+        },
+        {
+          "name": "Colonia Ex Combatiente",
+          "code": "293148"
+        },
+        {
+          "name": "Colonia Ex Enfermera del Chaco",
+          "code": "293149"
+        },
+        {
+          "name": "Colonia Fernando de la Mora",
+          "code": "293154"
+        },
+        {
+          "name": "Colonia General de División A.",
+          "code": "293166"
+        },
+        {
+          "name": "Colonia General Díaz",
+          "code": "293168"
+        },
+        {
+          "name": "Colonia Hernandarias",
+          "code": "293172"
+        },
+        {
+          "name": "Colonia José Berges",
+          "code": "293180"
+        },
+        {
+          "name": "Colonia Miranda",
+          "code": "293211"
+        },
+        {
+          "name": "Colonia Presidente Stroessner",
+          "code": "293232"
+        },
+        {
+          "name": "Colonia Reconstrucción",
+          "code": "293238"
+        },
+        {
+          "name": "Colonia Roberto L. Petit",
+          "code": "293243"
+        },
+        {
+          "name": "Colonia San Alfredo",
+          "code": "293248"
+        },
+        {
+          "name": "Colonia Sargento José E. Lopéz",
+          "code": "293268"
+        },
+        {
+          "name": "Compañía Cañada",
+          "code": "293308"
+        },
+        {
+          "name": "Compañía Curuzu Nú",
+          "code": "293309"
+        },
+        {
+          "name": "Compañía Gumersindo Sosa",
+          "code": "293310"
+        },
+        {
+          "name": "Compañía Potrero Romero",
+          "code": "293312"
+        },
+        {
+          "name": "Compañía Salinas Cué",
+          "code": "293314"
+        },
+        {
+          "name": "Compañía San Antonio",
+          "code": "293315"
+        },
+        {
+          "name": "Compañía Yhuguá Guazú",
+          "code": "293317"
+        },
+        {
+          "name": "Compañía Zanja Cué",
+          "code": "293319"
+        },
+        {
+          "name": "Concepción",
+          "code": "293322"
+        },
+        {
+          "name": "Establecimento Ñanducuá",
+          "code": "293396"
+        },
+        {
+          "name": "Estancia Alambre Tuajhá",
+          "code": "293416"
+        },
+        {
+          "name": "Estancia Ardeba",
+          "code": "293433"
+        },
+        {
+          "name": "Estancia Cabañas",
+          "code": "293467"
+        },
+        {
+          "name": "Estancia Cagatá",
+          "code": "293472"
+        },
+        {
+          "name": "Estancia Cali",
+          "code": "293473"
+        },
+        {
+          "name": "Estancia Caracol",
+          "code": "293490"
+        },
+        {
+          "name": "Estancia Cazal Cué",
+          "code": "293506"
+        },
+        {
+          "name": "Estancia Centurión",
+          "code": "293509"
+        },
+        {
+          "name": "Estancia Cerro Corá",
+          "code": "293515"
+        },
+        {
+          "name": "Estancia Cerro Memby",
+          "code": "293517"
+        },
+        {
+          "name": "Estancia Corralito",
+          "code": "293531"
+        },
+        {
+          "name": "Estancia Delfín",
+          "code": "293541"
+        },
+        {
+          "name": "Estancia Estrellas",
+          "code": "293564"
+        },
+        {
+          "name": "Estancia Garay Cué",
+          "code": "293575"
+        },
+        {
+          "name": "Estancia Gavilán",
+          "code": "293579"
+        },
+        {
+          "name": "Estancia Hermosa",
+          "code": "293593"
+        },
+        {
+          "name": "Estancia Isla Sola",
+          "code": "293602"
+        },
+        {
+          "name": "Estancia Isla Yovai",
+          "code": "293604"
+        },
+        {
+          "name": "Estancia Kilómetro 115",
+          "code": "293614"
+        },
+        {
+          "name": "Estancia La Victoria",
+          "code": "293644"
+        },
+        {
+          "name": "Estancia Laguna Negra",
+          "code": "293650"
+        },
+        {
+          "name": "Estancia Loma Porá",
+          "code": "293673"
+        },
+        {
+          "name": "Estancia Machuca-cué",
+          "code": "293695"
+        },
+        {
+          "name": "Estancia Mancuello",
+          "code": "293700"
+        },
+        {
+          "name": "Estancia Medina",
+          "code": "293716"
+        },
+        {
+          "name": "Estancia Napegue",
+          "code": "293725"
+        },
+        {
+          "name": "Estancia Nú Apu-á",
+          "code": "293731"
+        },
+        {
+          "name": "Estancia Nú Porá",
+          "code": "293733"
+        },
+        {
+          "name": "Estancia Potrero",
+          "code": "293768"
+        },
+        {
+          "name": "Estancia Primavera",
+          "code": "293783"
+        },
+        {
+          "name": "Estancia Prosperidad",
+          "code": "293786"
+        },
+        {
+          "name": "Estancia Rancho Z",
+          "code": "293794"
+        },
+        {
+          "name": "Estancia Recalde-cué",
+          "code": "293795"
+        },
+        {
+          "name": "Estancia Recife",
+          "code": "293796"
+        },
+        {
+          "name": "Estancia Reyes Cué",
+          "code": "293797"
+        },
+        {
+          "name": "Estancia Rosalia",
+          "code": "293808"
+        },
+        {
+          "name": "Estancia Salinares",
+          "code": "293813"
+        },
+        {
+          "name": "Estancia San Alfredo",
+          "code": "293818"
+        },
+        {
+          "name": "Estancia San Antonio",
+          "code": "293822"
+        },
+        {
+          "name": "Estancia San Blas",
+          "code": "293824"
+        },
+        {
+          "name": "Estancia San Diego",
+          "code": "293828"
+        },
+        {
+          "name": "Estancia San Luis",
+          "code": "293850"
+        },
+        {
+          "name": "Estancia San Miguel",
+          "code": "293855"
+        },
+        {
+          "name": "Estancia San Rafael",
+          "code": "293865"
+        },
+        {
+          "name": "Estancia Sanguina",
+          "code": "293875"
+        },
+        {
+          "name": "Estancia Santa Clara",
+          "code": "293886"
+        },
+        {
+          "name": "Estancia Santa Luisa",
+          "code": "293899"
+        },
+        {
+          "name": "Estancia Santa María",
+          "code": "293902"
+        },
+        {
+          "name": "Estancia Sofía",
+          "code": "293921"
+        },
+        {
+          "name": "Estancia Tacho Cué",
+          "code": "293932"
+        },
+        {
+          "name": "Estancia Tacuara",
+          "code": "293935"
+        },
+        {
+          "name": "Estancia Tagatiya",
+          "code": "293937"
+        },
+        {
+          "name": "Estancia Tarumá",
+          "code": "293943"
+        },
+        {
+          "name": "Estancia Terrado",
+          "code": "293947"
+        },
+        {
+          "name": "Estancia Toldo Cué",
+          "code": "293950"
+        },
+        {
+          "name": "Estancia Toldo-Cue",
+          "code": "293952"
+        },
+        {
+          "name": "Estancia Totoré",
+          "code": "293956"
+        },
+        {
+          "name": "Estancia Trementina",
+          "code": "293957"
+        },
+        {
+          "name": "Estancia Ugarte-cué",
+          "code": "293967"
+        },
+        {
+          "name": "Estancia Zapatero-cué",
+          "code": "293994"
+        },
+        {
+          "name": "Gaona-cué",
+          "code": "294016"
+        },
+        {
+          "name": "Horqueta",
+          "code": "294051"
+        },
+        {
+          "name": "Isla Real",
+          "code": "294065"
+        },
+        {
+          "name": "Itacurubí",
+          "code": "294070"
+        },
+        {
+          "name": "La Caída",
+          "code": "294105"
+        },
+        {
+          "name": "Loreto",
+          "code": "294143"
+        },
+        {
+          "name": "Maldonado-cué",
+          "code": "294156"
+        },
+        {
+          "name": "Mirabeau",
+          "code": "294186"
+        },
+        {
+          "name": "Paso Barreto",
+          "code": "294257"
+        },
+        {
+          "name": "Paso Horqueta",
+          "code": "294263"
+        },
+        {
+          "name": "Paso Mbutú",
+          "code": "294265"
+        },
+        {
+          "name": "Paso Tuya",
+          "code": "294266"
+        },
+        {
+          "name": "Pindura-cué",
+          "code": "294282"
+        },
+        {
+          "name": "Puerto Abente",
+          "code": "294321"
+        },
+        {
+          "name": "Puerto Alegre",
+          "code": "294324"
+        },
+        {
+          "name": "Puerto Armandina",
+          "code": "294326"
+        },
+        {
+          "name": "Puerto Arrecife",
+          "code": "294327"
+        },
+        {
+          "name": "Puerto Calera-Cué",
+          "code": "294336"
+        },
+        {
+          "name": "Puerto Fonciere",
+          "code": "294357"
+        },
+        {
+          "name": "Puerto Itapucú Mi",
+          "code": "294368"
+        },
+        {
+          "name": "Puerto Max",
+          "code": "294379"
+        },
+        {
+          "name": "Puerto Napegué",
+          "code": "294385"
+        },
+        {
+          "name": "Puerto Risso",
+          "code": "294403"
+        },
+        {
+          "name": "Puerto Valle Mi",
+          "code": "294434"
+        },
+        {
+          "name": "Puesto Pañuelo",
+          "code": "294522"
+        },
+        {
+          "name": "Ramos",
+          "code": "294576"
+        },
+        {
+          "name": "Retiro",
+          "code": "294586"
+        },
+        {
+          "name": "Retiro Federico-cué",
+          "code": "294588"
+        },
+        {
+          "name": "Retiro Laguna",
+          "code": "294590"
+        },
+        {
+          "name": "Retiro Serranía",
+          "code": "294591"
+        },
+        {
+          "name": "San Carlos",
+          "code": "294623"
+        },
+        {
+          "name": "San José",
+          "code": "294636"
+        },
+        {
+          "name": "San Lázaro",
+          "code": "294652"
+        },
+        {
+          "name": "San Salvador",
+          "code": "294678"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "294691"
+        },
+        {
+          "name": "Sapucai",
+          "code": "294719"
+        },
+        {
+          "name": "Saty",
+          "code": "294723"
+        },
+        {
+          "name": "Toldo Cué",
+          "code": "294770"
+        },
+        {
+          "name": "Tres Ollas",
+          "code": "294781"
+        },
+        {
+          "name": "Villa Sana",
+          "code": "294813"
+        },
+        {
+          "name": "Yby Yaú",
+          "code": "294832"
+        }
+      ]
+    },
+    {
+      "name": "Cordillera",
+      "code": "552",
+      "cities": [
+        {
+          "name": "24 De Julio",
+          "code": "292915"
+        },
+        {
+          "name": "Aguaity",
+          "code": "292924"
+        },
+        {
+          "name": "Altos",
+          "code": "292938"
+        },
+        {
+          "name": "Andres Aquirye",
+          "code": "292944"
+        },
+        {
+          "name": "Arecutacuá",
+          "code": "292953"
+        },
+        {
+          "name": "Arroyos y Esteros",
+          "code": "292961"
+        },
+        {
+          "name": "Atyrá",
+          "code": "292966"
+        },
+        {
+          "name": "Barrio del Carmen",
+          "code": "292975"
+        },
+        {
+          "name": "Barrio Itá-cuá",
+          "code": "292976"
+        },
+        {
+          "name": "Caacupé",
+          "code": "293002"
+        },
+        {
+          "name": "Campo Lobo-cué",
+          "code": "293035"
+        },
+        {
+          "name": "Caraguatay",
+          "code": "293061"
+        },
+        {
+          "name": "Colonia 21 de Julio",
+          "code": "293106"
+        },
+        {
+          "name": "Colonia Acuña Figueroa",
+          "code": "293110"
+        },
+        {
+          "name": "Colonia Aparypa",
+          "code": "293117"
+        },
+        {
+          "name": "Colonia Cleto Romero",
+          "code": "293137"
+        },
+        {
+          "name": "Colonia Curupayty",
+          "code": "293140"
+        },
+        {
+          "name": "Colonia de Mompox",
+          "code": "293141"
+        },
+        {
+          "name": "Colonia General Bernardino Cab",
+          "code": "293162"
+        },
+        {
+          "name": "Colonia J. Cancio Flecha",
+          "code": "293175"
+        },
+        {
+          "name": "Colonia la Pastora",
+          "code": "293183"
+        },
+        {
+          "name": "Colonia Peguajhó",
+          "code": "293225"
+        },
+        {
+          "name": "Colonia Pira Rita",
+          "code": "293226"
+        },
+        {
+          "name": "Colonia Pirareta",
+          "code": "293227"
+        },
+        {
+          "name": "Colonia Piray",
+          "code": "293228"
+        },
+        {
+          "name": "Colonia Primero de Marzo",
+          "code": "293233"
+        },
+        {
+          "name": "Colonia Rubio Ñu",
+          "code": "293244"
+        },
+        {
+          "name": "Colonia San Blas",
+          "code": "293252"
+        },
+        {
+          "name": "Colonia San Marcos",
+          "code": "293259"
+        },
+        {
+          "name": "Colonia Stica",
+          "code": "293276"
+        },
+        {
+          "name": "Colonia Teniente A. Dakak",
+          "code": "293285"
+        },
+        {
+          "name": "Colonia Teniente Farina",
+          "code": "293287"
+        },
+        {
+          "name": "Colonia Veintiuno de Julio",
+          "code": "293295"
+        },
+        {
+          "name": "Coronel Martínez",
+          "code": "293329"
+        },
+        {
+          "name": "Emboscada",
+          "code": "293383"
+        },
+        {
+          "name": "Establecimiento Primavera",
+          "code": "293405"
+        },
+        {
+          "name": "Estancia Andrada",
+          "code": "293425"
+        },
+        {
+          "name": "Estancia Antonio Maki",
+          "code": "293427"
+        },
+        {
+          "name": "Estancia Carandayty",
+          "code": "293493"
+        },
+        {
+          "name": "Estancia Florida",
+          "code": "293569"
+        },
+        {
+          "name": "Estancia Gasory",
+          "code": "293576"
+        },
+        {
+          "name": "Estancia Kennedy",
+          "code": "293613"
+        },
+        {
+          "name": "Estancia La Clementina",
+          "code": "293621"
+        },
+        {
+          "name": "Estancia La Susana",
+          "code": "293640"
+        },
+        {
+          "name": "Estancia López Cué",
+          "code": "293681"
+        },
+        {
+          "name": "Estancia Lugo Cué",
+          "code": "293693"
+        },
+        {
+          "name": "Estancia Margarita",
+          "code": "293701"
+        },
+        {
+          "name": "Estancia Molina Cué",
+          "code": "293719"
+        },
+        {
+          "name": "Estancia Nandypay",
+          "code": "293724"
+        },
+        {
+          "name": "Estancia Pastora",
+          "code": "293753"
+        },
+        {
+          "name": "Estancia Roja-Cué",
+          "code": "293807"
+        },
+        {
+          "name": "Estancia Saladillo",
+          "code": "293812"
+        },
+        {
+          "name": "Estancia San Luis",
+          "code": "293848"
+        },
+        {
+          "name": "Estancia San Marcos",
+          "code": "293851"
+        },
+        {
+          "name": "Estancia Santa María",
+          "code": "293900"
+        },
+        {
+          "name": "Estancia Toro Paso",
+          "code": "293955"
+        },
+        {
+          "name": "Estancia Ypecuá",
+          "code": "293989"
+        },
+        {
+          "name": "Eusebio Ayala",
+          "code": "294001"
+        },
+        {
+          "name": "Isla Pucú",
+          "code": "294064"
+        },
+        {
+          "name": "Itacurubí de la Cordillera",
+          "code": "294071"
+        },
+        {
+          "name": "Juan de Mena",
+          "code": "294098"
+        },
+        {
+          "name": "Loma Grande",
+          "code": "294138"
+        },
+        {
+          "name": "Mbocayaty",
+          "code": "294173"
+        },
+        {
+          "name": "Mbocayaty Del Yhaguy",
+          "code": "294175"
+        },
+        {
+          "name": "Nueva Colombia",
+          "code": "294221"
+        },
+        {
+          "name": "Pedro P. Caballero",
+          "code": "294271"
+        },
+        {
+          "name": "Piribebuy",
+          "code": "294288"
+        },
+        {
+          "name": "Primero de Marzo",
+          "code": "294317"
+        },
+        {
+          "name": "Puerto Olivares",
+          "code": "294388"
+        },
+        {
+          "name": "Puerto Recife",
+          "code": "294401"
+        },
+        {
+          "name": "San Bernardino",
+          "code": "294618"
+        },
+        {
+          "name": "San José Obrero",
+          "code": "294643"
+        },
+        {
+          "name": "Santa Elena",
+          "code": "294688"
+        },
+        {
+          "name": "Tacuary",
+          "code": "294734"
+        },
+        {
+          "name": "Tobatí",
+          "code": "294769"
+        },
+        {
+          "name": "Valenzuela",
+          "code": "294797"
+        },
+        {
+          "name": "Vapor Cué",
+          "code": "294799"
+        }
+      ]
+    },
+    {
+      "name": "Departamento de Alto Paraguay",
+      "code": "553",
+      "cities": [
+        {
+          "name": "Puerto Bahía Negra",
+          "code": "294329"
+        }
+      ]
+    },
+    {
+      "name": "Guairá",
+      "code": "554",
+      "cities": [
+        {
+          "name": "Arroyito",
+          "code": "292957"
+        },
+        {
+          "name": "Borja",
+          "code": "292996"
+        },
+        {
+          "name": "Colonia Boquerón",
+          "code": "293124"
+        },
+        {
+          "name": "Colonia Capitán V. Brizuela",
+          "code": "293129"
+        },
+        {
+          "name": "Colonia Carlos Pfanell",
+          "code": "293131"
+        },
+        {
+          "name": "Colonia Catorce de Mayo",
+          "code": "293134"
+        },
+        {
+          "name": "Colonia Escalada",
+          "code": "293145"
+        },
+        {
+          "name": "Colonia M. Gondra",
+          "code": "293189"
+        },
+        {
+          "name": "Colonia Mauricio José Troche",
+          "code": "293198"
+        },
+        {
+          "name": "Colonia Presbítero A. Molas",
+          "code": "293229"
+        },
+        {
+          "name": "Colonia R.G. de Santa Cruz",
+          "code": "293237"
+        },
+        {
+          "name": "Colonia S. Escobar",
+          "code": "293246"
+        },
+        {
+          "name": "Colonia San Antonio",
+          "code": "293251"
+        },
+        {
+          "name": "Colonia Sudetia",
+          "code": "293278"
+        },
+        {
+          "name": "Coronel Martínez",
+          "code": "293328"
+        },
+        {
+          "name": "Costa Barrio",
+          "code": "293337"
+        },
+        {
+          "name": "Costa Mercado",
+          "code": "293338"
+        },
+        {
+          "name": "Doctor Botrell",
+          "code": "293361"
+        },
+        {
+          "name": "Fassardi",
+          "code": "294002"
+        },
+        {
+          "name": "Félix Pérez Cardozo",
+          "code": "294003"
+        },
+        {
+          "name": "General Eugenio Garay",
+          "code": "294025"
+        },
+        {
+          "name": "Independencia",
+          "code": "294057"
+        },
+        {
+          "name": "Itapé",
+          "code": "294074"
+        },
+        {
+          "name": "Iturbe",
+          "code": "294081"
+        },
+        {
+          "name": "Jhuguá",
+          "code": "294093"
+        },
+        {
+          "name": "Loma",
+          "code": "294136"
+        },
+        {
+          "name": "Mbocayaty",
+          "code": "294174"
+        },
+        {
+          "name": "Monges",
+          "code": "294204"
+        },
+        {
+          "name": "Natalicio Talavera",
+          "code": "294215"
+        },
+        {
+          "name": "Navidad",
+          "code": "294217"
+        },
+        {
+          "name": "Ñumí",
+          "code": "294229"
+        },
+        {
+          "name": "Palmeta",
+          "code": "294245"
+        },
+        {
+          "name": "San Roque",
+          "code": "294675"
+        },
+        {
+          "name": "San Salvador",
+          "code": "294679"
+        },
+        {
+          "name": "Taba-i",
+          "code": "294730"
+        },
+        {
+          "name": "Tayí",
+          "code": "294746"
+        },
+        {
+          "name": "Tebicuary",
+          "code": "294751"
+        },
+        {
+          "name": "Teniento Bogado",
+          "code": "294764"
+        },
+        {
+          "name": "Terbicuary",
+          "code": "294765"
+        },
+        {
+          "name": "Toro-cuá",
+          "code": "294775"
+        },
+        {
+          "name": "Villarrica",
+          "code": "294817"
+        },
+        {
+          "name": "Yataity",
+          "code": "294825"
+        }
+      ]
+    },
+    {
+      "name": "Itapúa",
+      "code": "555",
+      "cities": [
+        {
+          "name": "Alborada Dos",
+          "code": "292934"
+        },
+        {
+          "name": "Alborada Uno",
+          "code": "292935"
+        },
+        {
+          "name": "Alto Verá",
+          "code": "292937"
+        },
+        {
+          "name": "Arquitecto Tomás Romero Pereir",
+          "code": "292955"
+        },
+        {
+          "name": "Asseradero",
+          "code": "292962"
+        },
+        {
+          "name": "Assetadero",
+          "code": "292963"
+        },
+        {
+          "name": "Bella Vista",
+          "code": "292988"
+        },
+        {
+          "name": "Cambyretá",
+          "code": "293019"
+        },
+        {
+          "name": "Campichuelo",
+          "code": "293028"
+        },
+        {
+          "name": "Capitán Meza",
+          "code": "293055"
+        },
+        {
+          "name": "Capitán Miranda",
+          "code": "293056"
+        },
+        {
+          "name": "Capitán Vicente A. Matiauda",
+          "code": "293058"
+        },
+        {
+          "name": "Caraguatá",
+          "code": "293060"
+        },
+        {
+          "name": "Carlos Antonio López",
+          "code": "293066"
+        },
+        {
+          "name": "Carmen del Paraná",
+          "code": "293067"
+        },
+        {
+          "name": "Colonia Ape-Aime",
+          "code": "293118"
+        },
+        {
+          "name": "Colonia Caárendy",
+          "code": "293125"
+        },
+        {
+          "name": "Colonia Capitán F. Leguizamón",
+          "code": "293128"
+        },
+        {
+          "name": "Colonia Fram",
+          "code": "293157"
+        },
+        {
+          "name": "Colonia Herrera Vega",
+          "code": "293173"
+        },
+        {
+          "name": "Colonia Mayor Otaño",
+          "code": "293201"
+        },
+        {
+          "name": "Colonia Rusa",
+          "code": "293245"
+        },
+        {
+          "name": "Colonia Salto",
+          "code": "293247"
+        },
+        {
+          "name": "Colonia Santo Domingo",
+          "code": "293266"
+        },
+        {
+          "name": "Colonia Siete de Agosto",
+          "code": "293273"
+        },
+        {
+          "name": "Colonia Tacuarí",
+          "code": "293280"
+        },
+        {
+          "name": "Compañía Resquín Cué",
+          "code": "293313"
+        },
+        {
+          "name": "Coronel Bogado",
+          "code": "293327"
+        },
+        {
+          "name": "Curuñai",
+          "code": "293348"
+        },
+        {
+          "name": "Edelira",
+          "code": "293373"
+        },
+        {
+          "name": "Encarnación",
+          "code": "293385"
+        },
+        {
+          "name": "Establecimito Juan Benitez",
+          "code": "293409"
+        },
+        {
+          "name": "Estancia Avarenga",
+          "code": "293438"
+        },
+        {
+          "name": "Estancia Barboza",
+          "code": "293440"
+        },
+        {
+          "name": "Estancia Cerrito",
+          "code": "293511"
+        },
+        {
+          "name": "Estancia Gaona",
+          "code": "293574"
+        },
+        {
+          "name": "Estancia Laurel",
+          "code": "293666"
+        },
+        {
+          "name": "Estancia Lavista",
+          "code": "293667"
+        },
+        {
+          "name": "Estancia Loma",
+          "code": "293670"
+        },
+        {
+          "name": "Estancia Marta Ester",
+          "code": "293710"
+        },
+        {
+          "name": "Estancia Pablo Rene Mora",
+          "code": "293744"
+        },
+        {
+          "name": "Estancia Pirity",
+          "code": "293759"
+        },
+        {
+          "name": "Estancia Prado Verde",
+          "code": "293781"
+        },
+        {
+          "name": "Estancia Ramón Dávalos",
+          "code": "293790"
+        },
+        {
+          "name": "Estancia Salitre Cué",
+          "code": "293814"
+        },
+        {
+          "name": "Estancia Salto Cué",
+          "code": "293815"
+        },
+        {
+          "name": "Estancia San Antonio",
+          "code": "293819"
+        },
+        {
+          "name": "Estancia San Isidro",
+          "code": "293835"
+        },
+        {
+          "name": "Estancia Santa Teresa",
+          "code": "293909"
+        },
+        {
+          "name": "Estancia Seripi",
+          "code": "293918"
+        },
+        {
+          "name": "Estancia Tatare",
+          "code": "293945"
+        },
+        {
+          "name": "Estancia Yacuá Nú",
+          "code": "293983"
+        },
+        {
+          "name": "Fram",
+          "code": "294011"
+        },
+        {
+          "name": "General Artigas",
+          "code": "294021"
+        },
+        {
+          "name": "General Delgado",
+          "code": "294022"
+        },
+        {
+          "name": "Hohenau",
+          "code": "294049"
+        },
+        {
+          "name": "Isla Alta",
+          "code": "294061"
+        },
+        {
+          "name": "Itapúa Poty",
+          "code": "294076"
+        },
+        {
+          "name": "Jesús",
+          "code": "294091"
+        },
+        {
+          "name": "José Potrero",
+          "code": "294096"
+        },
+        {
+          "name": "Katupyry",
+          "code": "294102"
+        },
+        {
+          "name": "La Paz",
+          "code": "294115"
+        },
+        {
+          "name": "Leandro Oviedo",
+          "code": "294130"
+        },
+        {
+          "name": "Maciel-cué",
+          "code": "294155"
+        },
+        {
+          "name": "Mayor Julio D. Otaño",
+          "code": "294167"
+        },
+        {
+          "name": "Naranjito",
+          "code": "294213"
+        },
+        {
+          "name": "Natalio",
+          "code": "294216"
+        },
+        {
+          "name": "Nueva Alborada",
+          "code": "294220"
+        },
+        {
+          "name": "Obligado",
+          "code": "294230"
+        },
+        {
+          "name": "Pacú Cuá",
+          "code": "294239"
+        },
+        {
+          "name": "Paraje Linda",
+          "code": "294251"
+        },
+        {
+          "name": "Pareja",
+          "code": "294254"
+        },
+        {
+          "name": "Pelanca",
+          "code": "294275"
+        },
+        {
+          "name": "Pirapo",
+          "code": "294285"
+        },
+        {
+          "name": "Piratey",
+          "code": "294286"
+        },
+        {
+          "name": "Potrero Ybate",
+          "code": "294299"
+        },
+        {
+          "name": "Puerto Arroyo Verde",
+          "code": "294328"
+        },
+        {
+          "name": "Puerto Bella Vista",
+          "code": "294331"
+        },
+        {
+          "name": "Puerto Cantera",
+          "code": "294337"
+        },
+        {
+          "name": "Puerto Carmona",
+          "code": "294340"
+        },
+        {
+          "name": "Puerto Edelira",
+          "code": "294351"
+        },
+        {
+          "name": "Puerto Hohenau",
+          "code": "294361"
+        },
+        {
+          "name": "Puerto Iribo",
+          "code": "294363"
+        },
+        {
+          "name": "Puerto Italia",
+          "code": "294366"
+        },
+        {
+          "name": "Puerto Mayor Otaño",
+          "code": "294380"
+        },
+        {
+          "name": "Puerto Mburajhe",
+          "code": "294381"
+        },
+        {
+          "name": "Puerto Obligado",
+          "code": "294387"
+        },
+        {
+          "name": "Puerto Paloma",
+          "code": "294392"
+        },
+        {
+          "name": "Puerto Paraiso",
+          "code": "294393"
+        },
+        {
+          "name": "Puerto Pirapó",
+          "code": "294398"
+        },
+        {
+          "name": "Puerto Porvenir",
+          "code": "294399"
+        },
+        {
+          "name": "Puerto Samuhú",
+          "code": "294405"
+        },
+        {
+          "name": "Puerto San José",
+          "code": "294410"
+        },
+        {
+          "name": "Puerto San Lorenzo",
+          "code": "294412"
+        },
+        {
+          "name": "Puerto Santa Rosa de Lima",
+          "code": "294420"
+        },
+        {
+          "name": "Puerto Siete de Agosto",
+          "code": "294425"
+        },
+        {
+          "name": "Puerto Tres Palmito",
+          "code": "294430"
+        },
+        {
+          "name": "Puerto Triunfo",
+          "code": "294431"
+        },
+        {
+          "name": "Puerto Turi",
+          "code": "294432"
+        },
+        {
+          "name": "Puerto Vacay",
+          "code": "294433"
+        },
+        {
+          "name": "Puerto Yacare Cué",
+          "code": "294438"
+        },
+        {
+          "name": "Puerto Ybcui Ñaro",
+          "code": "294440"
+        },
+        {
+          "name": "Rancho Cabrera",
+          "code": "294577"
+        },
+        {
+          "name": "San Cosme y Damián",
+          "code": "294625"
+        },
+        {
+          "name": "San José",
+          "code": "294641"
+        },
+        {
+          "name": "San Juan",
+          "code": "294647"
+        },
+        {
+          "name": "San Juan del Paraná",
+          "code": "294649"
+        },
+        {
+          "name": "San Luis",
+          "code": "294656"
+        },
+        {
+          "name": "San Pedro del Paraná",
+          "code": "294666"
+        },
+        {
+          "name": "San Rafael",
+          "code": "294668"
+        },
+        {
+          "name": "San Rafael del Parana",
+          "code": "294670"
+        },
+        {
+          "name": "Santa Maria",
+          "code": "294694"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "294706"
+        },
+        {
+          "name": "Santiago Cué",
+          "code": "294711"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "294714"
+        },
+        {
+          "name": "Trinidad",
+          "code": "294784"
+        },
+        {
+          "name": "Urusapucai",
+          "code": "294793"
+        },
+        {
+          "name": "Vacay",
+          "code": "294796"
+        },
+        {
+          "name": "Yatairy",
+          "code": "294824"
+        }
+      ]
+    },
+    {
+      "name": "Misiones",
+      "code": "556",
+      "cities": [
+        {
+          "name": "Arrocera Softo",
+          "code": "292956"
+        },
+        {
+          "name": "Ayolas",
+          "code": "292969"
+        },
+        {
+          "name": "Caaguazú",
+          "code": "293003"
+        },
+        {
+          "name": "Cocueré",
+          "code": "293102"
+        },
+        {
+          "name": "Colonia Alejo García",
+          "code": "293115"
+        },
+        {
+          "name": "Colonia Tañarandy",
+          "code": "293282"
+        },
+        {
+          "name": "Colonia Teniente Tristán A. Za",
+          "code": "293288"
+        },
+        {
+          "name": "Coratei",
+          "code": "293326"
+        },
+        {
+          "name": "Curupayty",
+          "code": "293351"
+        },
+        {
+          "name": "Espinillo",
+          "code": "293393"
+        },
+        {
+          "name": "Establecimiento San José",
+          "code": "293406"
+        },
+        {
+          "name": "Establecimiento San Luis",
+          "code": "293407"
+        },
+        {
+          "name": "Estancia Aguirre",
+          "code": "293415"
+        },
+        {
+          "name": "Estancia Albardón",
+          "code": "293417"
+        },
+        {
+          "name": "Estancia Anguá",
+          "code": "293426"
+        },
+        {
+          "name": "Estancia Borja",
+          "code": "293453"
+        },
+        {
+          "name": "Estancia Buena Vista",
+          "code": "293458"
+        },
+        {
+          "name": "Estancia Caá Corá",
+          "code": "293461"
+        },
+        {
+          "name": "Estancia Caa Poí",
+          "code": "293462"
+        },
+        {
+          "name": "Estancia Caapucú-mí",
+          "code": "293464"
+        },
+        {
+          "name": "Estancia Caatygue",
+          "code": "293465"
+        },
+        {
+          "name": "Estancia Caballero",
+          "code": "293466"
+        },
+        {
+          "name": "Estancia Cabral Cué",
+          "code": "293470"
+        },
+        {
+          "name": "Estancia Cañete Cué",
+          "code": "293485"
+        },
+        {
+          "name": "Estancia Capurro",
+          "code": "293488"
+        },
+        {
+          "name": "Estancia Carai",
+          "code": "293491"
+        },
+        {
+          "name": "Estancia Carmelita",
+          "code": "293497"
+        },
+        {
+          "name": "Estancia Cerrito",
+          "code": "293510"
+        },
+        {
+          "name": "Estancia Concepción",
+          "code": "293527"
+        },
+        {
+          "name": "Estancia Gauto-cué",
+          "code": "293577"
+        },
+        {
+          "name": "Estancia Graciela",
+          "code": "293585"
+        },
+        {
+          "name": "Estancia Guaviray",
+          "code": "293589"
+        },
+        {
+          "name": "Estancia Las Casnarinas",
+          "code": "293657"
+        },
+        {
+          "name": "Estancia Los Cedros",
+          "code": "293684"
+        },
+        {
+          "name": "Estancia Nueva Esperanza",
+          "code": "293736"
+        },
+        {
+          "name": "Estancia Pindura",
+          "code": "293758"
+        },
+        {
+          "name": "Estancia Ramos",
+          "code": "293791"
+        },
+        {
+          "name": "Estancia Rosario",
+          "code": "293809"
+        },
+        {
+          "name": "Estancia San Juan",
+          "code": "293841"
+        },
+        {
+          "name": "Estancia San Miguelito",
+          "code": "293857"
+        },
+        {
+          "name": "Estancia San Roque",
+          "code": "293867"
+        },
+        {
+          "name": "Estancia Santa Clara",
+          "code": "293885"
+        },
+        {
+          "name": "Estancia Santa Elisa",
+          "code": "293887"
+        },
+        {
+          "name": "Estancia Santa Filomena",
+          "code": "293890"
+        },
+        {
+          "name": "Estancia Santo Tomás",
+          "code": "293914"
+        },
+        {
+          "name": "Estancia Tuyá",
+          "code": "293965"
+        },
+        {
+          "name": "Itayurú",
+          "code": "294080"
+        },
+        {
+          "name": "Lomita",
+          "code": "294142"
+        },
+        {
+          "name": "Oratorio San Antonio",
+          "code": "294234"
+        },
+        {
+          "name": "Panchito López",
+          "code": "294248"
+        },
+        {
+          "name": "Pelada",
+          "code": "294274"
+        },
+        {
+          "name": "Puesto Horqueta",
+          "code": "294489"
+        },
+        {
+          "name": "Puesto Roas Cué",
+          "code": "294529"
+        },
+        {
+          "name": "Puesto San Carlos",
+          "code": "294534"
+        },
+        {
+          "name": "Puesto Siete Palma",
+          "code": "294548"
+        },
+        {
+          "name": "San Juan Bautista",
+          "code": "294648"
+        },
+        {
+          "name": "San Miguel",
+          "code": "294658"
+        },
+        {
+          "name": "San Patricio",
+          "code": "294664"
+        },
+        {
+          "name": "San Ramón",
+          "code": "294671"
+        },
+        {
+          "name": "San Ygnacio",
+          "code": "294682"
+        },
+        {
+          "name": "Santa María",
+          "code": "294695"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "294700"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "294701"
+        },
+        {
+          "name": "Santiago",
+          "code": "294710"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "294713"
+        },
+        {
+          "name": "Tayi",
+          "code": "294748"
+        },
+        {
+          "name": "Villa Florida",
+          "code": "294806"
+        },
+        {
+          "name": "Yabebyry",
+          "code": "294820"
+        }
+      ]
+    },
+    {
+      "name": "Ñeembucú",
+      "code": "557",
+      "cities": [
+        {
+          "name": "Alberdi",
+          "code": "292932"
+        },
+        {
+          "name": "Apipé",
+          "code": "292949"
+        },
+        {
+          "name": "Arroyo Horco",
+          "code": "292960"
+        },
+        {
+          "name": "Blanco Nu",
+          "code": "292992"
+        },
+        {
+          "name": "Boquerón",
+          "code": "292995"
+        },
+        {
+          "name": "Caa Rogue",
+          "code": "292999"
+        },
+        {
+          "name": "Carpincho Cuá",
+          "code": "293071"
+        },
+        {
+          "name": "Castillo Cué",
+          "code": "293075"
+        },
+        {
+          "name": "Cerrito",
+          "code": "293084"
+        },
+        {
+          "name": "Ciervo Blanco",
+          "code": "293099"
+        },
+        {
+          "name": "Colonia Alberdi",
+          "code": "293113"
+        },
+        {
+          "name": "Colonia Gaboto",
+          "code": "293159"
+        },
+        {
+          "name": "Colonia General Roa",
+          "code": "293170"
+        },
+        {
+          "name": "Colonia M. Domínguez",
+          "code": "293188"
+        },
+        {
+          "name": "Colonia M.A. Molas",
+          "code": "293190"
+        },
+        {
+          "name": "Colonia Oliva",
+          "code": "293219"
+        },
+        {
+          "name": "Colonia R. Díaz de Guzmán",
+          "code": "293235"
+        },
+        {
+          "name": "Colonia Sebastián Gaboto",
+          "code": "293270"
+        },
+        {
+          "name": "Colonia Tuyu Cué",
+          "code": "293292"
+        },
+        {
+          "name": "Corá Cué",
+          "code": "293325"
+        },
+        {
+          "name": "Costa Pucú",
+          "code": "293340"
+        },
+        {
+          "name": "Costa Rosado",
+          "code": "293341"
+        },
+        {
+          "name": "Curupayty",
+          "code": "293352"
+        },
+        {
+          "name": "Curuzú",
+          "code": "293353"
+        },
+        {
+          "name": "Desmochado",
+          "code": "293357"
+        },
+        {
+          "name": "El Paraíso",
+          "code": "293378"
+        },
+        {
+          "name": "Estancia Agatapé",
+          "code": "293412"
+        },
+        {
+          "name": "Estancia Aquino",
+          "code": "293429"
+        },
+        {
+          "name": "Estancia Aquino-cué",
+          "code": "293430"
+        },
+        {
+          "name": "Estancia Gadea",
+          "code": "293572"
+        },
+        {
+          "name": "Estancia Herradura",
+          "code": "293595"
+        },
+        {
+          "name": "Estancia Irala",
+          "code": "293597"
+        },
+        {
+          "name": "Estancia Isla Alta",
+          "code": "293599"
+        },
+        {
+          "name": "Estancia Ita-cué",
+          "code": "293606"
+        },
+        {
+          "name": "Estancia Las Palmas",
+          "code": "293663"
+        },
+        {
+          "name": "Estancia Loma",
+          "code": "293671"
+        },
+        {
+          "name": "Estancia Lomita",
+          "code": "293679"
+        },
+        {
+          "name": "Estancia Punta Diamante",
+          "code": "293788"
+        },
+        {
+          "name": "Estancia San Antonio",
+          "code": "293820"
+        },
+        {
+          "name": "Estancia Santa Catalina",
+          "code": "293884"
+        },
+        {
+          "name": "Estancia Santa Isolina",
+          "code": "293894"
+        },
+        {
+          "name": "Estancia Santa Rosa",
+          "code": "293906"
+        },
+        {
+          "name": "Estancia Sosa",
+          "code": "293929"
+        },
+        {
+          "name": "Estancia Sotera",
+          "code": "293930"
+        },
+        {
+          "name": "Estancia Victoriano Ortiz",
+          "code": "293976"
+        },
+        {
+          "name": "Galpones",
+          "code": "294014"
+        },
+        {
+          "name": "Garay-cué",
+          "code": "294017"
+        },
+        {
+          "name": "General José Eduvigis Díaz",
+          "code": "294029"
+        },
+        {
+          "name": "Guazucuá",
+          "code": "294043"
+        },
+        {
+          "name": "Gutiérrez-cué",
+          "code": "294045"
+        },
+        {
+          "name": "Humaitá",
+          "code": "294055"
+        },
+        {
+          "name": "Isla Umbú",
+          "code": "294066"
+        },
+        {
+          "name": "Itacorá",
+          "code": "294069"
+        },
+        {
+          "name": "Itapirú",
+          "code": "294075"
+        },
+        {
+          "name": "Laureles",
+          "code": "294129"
+        },
+        {
+          "name": "Loma",
+          "code": "294137"
+        },
+        {
+          "name": "Mayor Martínez",
+          "code": "294168"
+        },
+        {
+          "name": "Mburica",
+          "code": "294177"
+        },
+        {
+          "name": "Naranjito",
+          "code": "294214"
+        },
+        {
+          "name": "Oratorio San Antonio",
+          "code": "294235"
+        },
+        {
+          "name": "Paso Canoa",
+          "code": "294259"
+        },
+        {
+          "name": "Paso de Patria",
+          "code": "294262"
+        },
+        {
+          "name": "Pedro González",
+          "code": "294269"
+        },
+        {
+          "name": "Pilar",
+          "code": "294279"
+        },
+        {
+          "name": "Platero",
+          "code": "294292"
+        },
+        {
+          "name": "Potrero Esteche",
+          "code": "294296"
+        },
+        {
+          "name": "Puerto Curuzú Abá",
+          "code": "294346"
+        },
+        {
+          "name": "Puerto Ita",
+          "code": "294364"
+        },
+        {
+          "name": "Puerto Itacora",
+          "code": "294365"
+        },
+        {
+          "name": "Puerto Marité",
+          "code": "294378"
+        },
+        {
+          "name": "Puerto Paraiso",
+          "code": "294394"
+        },
+        {
+          "name": "Puerto San Antonio",
+          "code": "294408"
+        },
+        {
+          "name": "Puesto Benjamín",
+          "code": "294451"
+        },
+        {
+          "name": "Puesto Cerrito",
+          "code": "294462"
+        },
+        {
+          "name": "Puesto Ferreira",
+          "code": "294481"
+        },
+        {
+          "name": "Puesto Roy",
+          "code": "294530"
+        },
+        {
+          "name": "Puesto Salinas-Cué",
+          "code": "294532"
+        },
+        {
+          "name": "Puesto San Carlos",
+          "code": "294535"
+        },
+        {
+          "name": "Puesto Typycha",
+          "code": "294558"
+        },
+        {
+          "name": "Puesto Valle",
+          "code": "294560"
+        },
+        {
+          "name": "Puesto Vega",
+          "code": "294561"
+        },
+        {
+          "name": "Ramírez-cué",
+          "code": "294575"
+        },
+        {
+          "name": "Rancho Ocho",
+          "code": "294579"
+        },
+        {
+          "name": "San Fernando",
+          "code": "294629"
+        },
+        {
+          "name": "San Juan Neembucú",
+          "code": "294650"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "294655"
+        },
+        {
+          "name": "Santa María",
+          "code": "294697"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "294699"
+        },
+        {
+          "name": "Sauce Juncal",
+          "code": "294724"
+        },
+        {
+          "name": "Sebastian",
+          "code": "294727"
+        },
+        {
+          "name": "Sebastian mi",
+          "code": "294728"
+        },
+        {
+          "name": "Tacuaraí",
+          "code": "294732"
+        },
+        {
+          "name": "Tacuaras",
+          "code": "294733"
+        },
+        {
+          "name": "Torres-cué",
+          "code": "294777"
+        },
+        {
+          "name": "Tres Boca",
+          "code": "294778"
+        },
+        {
+          "name": "Vacaretá",
+          "code": "294795"
+        },
+        {
+          "name": "Villa Franca",
+          "code": "294807"
+        },
+        {
+          "name": "Villa Oliva",
+          "code": "294810"
+        },
+        {
+          "name": "Villalbin",
+          "code": "294814"
+        },
+        {
+          "name": "Yataity",
+          "code": "294827"
+        },
+        {
+          "name": "Ybyrá Morotí",
+          "code": "294835"
+        }
+      ]
+    },
+    {
+      "name": "Paraguarí",
+      "code": "558",
+      "cities": [
+        {
+          "name": "Acahay",
+          "code": "292919"
+        },
+        {
+          "name": "Areco",
+          "code": "292952"
+        },
+        {
+          "name": "Arroyo Costa",
+          "code": "292959"
+        },
+        {
+          "name": "Barrio Asunción",
+          "code": "292973"
+        },
+        {
+          "name": "Caaguy-rupé",
+          "code": "293006"
+        },
+        {
+          "name": "Caapucú",
+          "code": "293007"
+        },
+        {
+          "name": "Caballero",
+          "code": "293010"
+        },
+        {
+          "name": "Caniza-cué",
+          "code": "293041"
+        },
+        {
+          "name": "Capilla Tuyá",
+          "code": "293052"
+        },
+        {
+          "name": "Carapeguá",
+          "code": "293063"
+        },
+        {
+          "name": "Cerrito",
+          "code": "293085"
+        },
+        {
+          "name": "Cerro León",
+          "code": "293089"
+        },
+        {
+          "name": "Charara",
+          "code": "293093"
+        },
+        {
+          "name": "Colonia A. Goiburú",
+          "code": "293107"
+        },
+        {
+          "name": "Colonia Aca-Yuasa",
+          "code": "293108"
+        },
+        {
+          "name": "Colonia Adriano Iralá",
+          "code": "293111"
+        },
+        {
+          "name": "Colonia Carlos A. López",
+          "code": "293130"
+        },
+        {
+          "name": "Colonia Eligio Ayala",
+          "code": "293144"
+        },
+        {
+          "name": "Colonia Hector L. Vera",
+          "code": "293171"
+        },
+        {
+          "name": "Colonia Jorje L. Moreira",
+          "code": "293179"
+        },
+        {
+          "name": "Colonia Pancho Garmendia",
+          "code": "293222"
+        },
+        {
+          "name": "Colonia R. Scagnoli",
+          "code": "293236"
+        },
+        {
+          "name": "Colonia Santa Isabel",
+          "code": "293264"
+        },
+        {
+          "name": "Colonia Tacuruty",
+          "code": "293281"
+        },
+        {
+          "name": "Colonia Teniente Alfonso Rojas",
+          "code": "293286"
+        },
+        {
+          "name": "Colonia Virgen de Fátima",
+          "code": "293296"
+        },
+        {
+          "name": "Costa Peña",
+          "code": "293339"
+        },
+        {
+          "name": "Creyo-cué",
+          "code": "293342"
+        },
+        {
+          "name": "Duarte",
+          "code": "293372"
+        },
+        {
+          "name": "Escobar",
+          "code": "293388"
+        },
+        {
+          "name": "Establecimiento Cabañas",
+          "code": "293398"
+        },
+        {
+          "name": "Establecimiento Kenneth",
+          "code": "293400"
+        },
+        {
+          "name": "Establecimiento La Norma",
+          "code": "293401"
+        },
+        {
+          "name": "Establecimiento Noguera",
+          "code": "293403"
+        },
+        {
+          "name": "Establecimiento Ortiz",
+          "code": "293404"
+        },
+        {
+          "name": "Establecimiento Sanaóría",
+          "code": "293408"
+        },
+        {
+          "name": "Estancia Alfonso XIII",
+          "code": "293420"
+        },
+        {
+          "name": "Estancia Apsa",
+          "code": "293428"
+        },
+        {
+          "name": "Estancia Barrios Canal",
+          "code": "293443"
+        },
+        {
+          "name": "Estancia Camalote",
+          "code": "293474"
+        },
+        {
+          "name": "Estancia Carayá",
+          "code": "293494"
+        },
+        {
+          "name": "Estancia Cardús",
+          "code": "293495"
+        },
+        {
+          "name": "Estancia Delia Clara",
+          "code": "293542"
+        },
+        {
+          "name": "Estancia Jara-cué",
+          "code": "293610"
+        },
+        {
+          "name": "Estancia La Abelenda",
+          "code": "293615"
+        },
+        {
+          "name": "Estancia Las Palmas",
+          "code": "293662"
+        },
+        {
+          "name": "Estancia Las Rosas",
+          "code": "293665"
+        },
+        {
+          "name": "Estancia Moreno",
+          "code": "293722"
+        },
+        {
+          "name": "Estancia Palma Sola",
+          "code": "293746"
+        },
+        {
+          "name": "Estancia Paraíso",
+          "code": "293750"
+        },
+        {
+          "name": "Estancia San Sinfó",
+          "code": "293870"
+        },
+        {
+          "name": "Estancia Santa Ana",
+          "code": "293879"
+        },
+        {
+          "name": "Estancia Sosa",
+          "code": "293927"
+        },
+        {
+          "name": "Estancia Vargas",
+          "code": "293974"
+        },
+        {
+          "name": "La Colmena",
+          "code": "294108"
+        },
+        {
+          "name": "La Rosada",
+          "code": "294116"
+        },
+        {
+          "name": "Manuel Amarilla",
+          "code": "294160"
+        },
+        {
+          "name": "Mbuyapey",
+          "code": "294179"
+        },
+        {
+          "name": "Moras-cué",
+          "code": "294209"
+        },
+        {
+          "name": "Oratorio Juan Bautista",
+          "code": "294233"
+        },
+        {
+          "name": "Paraguarí",
+          "code": "294249"
+        },
+        {
+          "name": "Pirayú",
+          "code": "294287"
+        },
+        {
+          "name": "Providencia",
+          "code": "294320"
+        },
+        {
+          "name": "Puerto Yngó",
+          "code": "294441"
+        },
+        {
+          "name": "Puesto Aguape",
+          "code": "294444"
+        },
+        {
+          "name": "Puesto Mbocaya",
+          "code": "294505"
+        },
+        {
+          "name": "Quiindy",
+          "code": "294571"
+        },
+        {
+          "name": "Quyquyó",
+          "code": "294573"
+        },
+        {
+          "name": "Robles-cué",
+          "code": "294597"
+        },
+        {
+          "name": "Roque González de Santa Cruz",
+          "code": "294599"
+        },
+        {
+          "name": "Sapucaí",
+          "code": "294718"
+        },
+        {
+          "name": "Tayî",
+          "code": "294747"
+        },
+        {
+          "name": "Tebicuary Mí",
+          "code": "294752"
+        },
+        {
+          "name": "Valle Apúa",
+          "code": "294798"
+        },
+        {
+          "name": "Yaguarón",
+          "code": "294822"
+        },
+        {
+          "name": "Ybycuí",
+          "code": "294834"
+        },
+        {
+          "name": "Ybytymí",
+          "code": "294838"
+        },
+        {
+          "name": "Ypucú",
+          "code": "294848"
+        },
+        {
+          "name": "Zanjita",
+          "code": "294854"
+        }
+      ]
+    },
+    {
+      "name": "Presidente Hayes",
+      "code": "559",
+      "cities": [
+        {
+          "name": "Arce Rojas",
+          "code": "292951"
+        },
+        {
+          "name": "Batallón Ingeniero Número Cinc",
+          "code": "292983"
+        },
+        {
+          "name": "Benjamín Aceval",
+          "code": "292991"
+        },
+        {
+          "name": "Caballo Muerto",
+          "code": "293011"
+        },
+        {
+          "name": "Cabo Juan",
+          "code": "293012"
+        },
+        {
+          "name": "Cacique Ramón",
+          "code": "293015"
+        },
+        {
+          "name": "Campo Aceval",
+          "code": "293029"
+        },
+        {
+          "name": "Campo Alegre",
+          "code": "293030"
+        },
+        {
+          "name": "Campo Cuarentiocho",
+          "code": "293032"
+        },
+        {
+          "name": "Campo Esperanza",
+          "code": "293033"
+        },
+        {
+          "name": "Campo Lata",
+          "code": "293034"
+        },
+        {
+          "name": "Caña de Castilla",
+          "code": "293042"
+        },
+        {
+          "name": "Cañaverales",
+          "code": "293046"
+        },
+        {
+          "name": "Caracoles",
+          "code": "293059"
+        },
+        {
+          "name": "Cargué",
+          "code": "293065"
+        },
+        {
+          "name": "Celada Cué",
+          "code": "293079"
+        },
+        {
+          "name": "Celia",
+          "code": "293080"
+        },
+        {
+          "name": "Centinela",
+          "code": "293082"
+        },
+        {
+          "name": "Chaco-i",
+          "code": "293091"
+        },
+        {
+          "name": "Colón",
+          "code": "293105"
+        },
+        {
+          "name": "Colonia Cadete Pastor Pando",
+          "code": "293126"
+        },
+        {
+          "name": "Colonia Falcón",
+          "code": "293151"
+        },
+        {
+          "name": "Colonia General Bruguez",
+          "code": "293164"
+        },
+        {
+          "name": "Colonia Maka",
+          "code": "293191"
+        },
+        {
+          "name": "Colonia Ñande Mbaepá",
+          "code": "293218"
+        },
+        {
+          "name": "Colonia Paratodo",
+          "code": "293223"
+        },
+        {
+          "name": "Concordia",
+          "code": "293323"
+        },
+        {
+          "name": "Corral",
+          "code": "293334"
+        },
+        {
+          "name": "Corral de los Paraguayos",
+          "code": "293335"
+        },
+        {
+          "name": "Costa",
+          "code": "293336"
+        },
+        {
+          "name": "Delegación de Gobierno",
+          "code": "293354"
+        },
+        {
+          "name": "Deolinda",
+          "code": "293356"
+        },
+        {
+          "name": "Diez Caballos",
+          "code": "293360"
+        },
+        {
+          "name": "El Cuervo",
+          "code": "293374"
+        },
+        {
+          "name": "El Mojón",
+          "code": "293377"
+        },
+        {
+          "name": "El Quemado",
+          "code": "293380"
+        },
+        {
+          "name": "El Trébol",
+          "code": "293382"
+        },
+        {
+          "name": "Emiliano",
+          "code": "293384"
+        },
+        {
+          "name": "Esmeralda",
+          "code": "293389"
+        },
+        {
+          "name": "Espinillar",
+          "code": "293392"
+        },
+        {
+          "name": "Espinillo",
+          "code": "293394"
+        },
+        {
+          "name": "Esquina",
+          "code": "293395"
+        },
+        {
+          "name": "Estancia Adelina",
+          "code": "293411"
+        },
+        {
+          "name": "Estancia Agualinda",
+          "code": "293413"
+        },
+        {
+          "name": "Estancia Alborada",
+          "code": "293418"
+        },
+        {
+          "name": "Estancia Alegría",
+          "code": "293419"
+        },
+        {
+          "name": "Estancia Algarrobo",
+          "code": "293421"
+        },
+        {
+          "name": "Estancia Alina",
+          "code": "293422"
+        },
+        {
+          "name": "Estancia Amalia",
+          "code": "293423"
+        },
+        {
+          "name": "Estancia Ana Berta",
+          "code": "293424"
+        },
+        {
+          "name": "Estancia Armonia",
+          "code": "293434"
+        },
+        {
+          "name": "Estancia Aurora",
+          "code": "293437"
+        },
+        {
+          "name": "Estancia Barbero",
+          "code": "293439"
+        },
+        {
+          "name": "Estancia Belén",
+          "code": "293445"
+        },
+        {
+          "name": "Estancia Betty",
+          "code": "293449"
+        },
+        {
+          "name": "Estancia Blanca",
+          "code": "293450"
+        },
+        {
+          "name": "Estancia Boca-í",
+          "code": "293451"
+        },
+        {
+          "name": "Estancia Bonanza",
+          "code": "293452"
+        },
+        {
+          "name": "Estancia Bretona",
+          "code": "293455"
+        },
+        {
+          "name": "Estancia Buena Suerte",
+          "code": "293457"
+        },
+        {
+          "name": "Estancia Buena Vista",
+          "code": "293459"
+        },
+        {
+          "name": "Estancia Cabeza de Tigre",
+          "code": "293469"
+        },
+        {
+          "name": "Estancia Caceres Cué",
+          "code": "293471"
+        },
+        {
+          "name": "Estancia Campo León",
+          "code": "293480"
+        },
+        {
+          "name": "Estancia Caña de Castilla",
+          "code": "293484"
+        },
+        {
+          "name": "Estancia Capiípobó",
+          "code": "293486"
+        },
+        {
+          "name": "Estancia Cara ü",
+          "code": "293489"
+        },
+        {
+          "name": "Estancia Carambola",
+          "code": "293492"
+        },
+        {
+          "name": "Estancia Caridad",
+          "code": "293496"
+        },
+        {
+          "name": "Estancia Carmencita",
+          "code": "293498"
+        },
+        {
+          "name": "Estancia Casualidad",
+          "code": "293503"
+        },
+        {
+          "name": "Estancia Catorce de Mayo",
+          "code": "293505"
+        },
+        {
+          "name": "Estancia Ceibo",
+          "code": "293507"
+        },
+        {
+          "name": "Estancia Celia",
+          "code": "293508"
+        },
+        {
+          "name": "Estancia Cerrito",
+          "code": "293512"
+        },
+        {
+          "name": "Estancia Cerrito Amakera",
+          "code": "293513"
+        },
+        {
+          "name": "Estancia Ciervo",
+          "code": "293521"
+        },
+        {
+          "name": "Estancia Clarita",
+          "code": "293522"
+        },
+        {
+          "name": "Estancia Coeyú",
+          "code": "293525"
+        },
+        {
+          "name": "Estancia Copacar",
+          "code": "293528"
+        },
+        {
+          "name": "Estancia Cora-í",
+          "code": "293529"
+        },
+        {
+          "name": "Estancia Corralito",
+          "code": "293530"
+        },
+        {
+          "name": "Estancia Corralón",
+          "code": "293532"
+        },
+        {
+          "name": "Estancia Cuatro Ciervo",
+          "code": "293534"
+        },
+        {
+          "name": "Estancia del Carmen",
+          "code": "293538"
+        },
+        {
+          "name": "Estancia del Medio",
+          "code": "293539"
+        },
+        {
+          "name": "Estancia Diana",
+          "code": "293543"
+        },
+        {
+          "name": "Estancia Douglas",
+          "code": "293548"
+        },
+        {
+          "name": "Estancia El Buen Amigo",
+          "code": "293550"
+        },
+        {
+          "name": "Estancia Elvira",
+          "code": "293555"
+        },
+        {
+          "name": "Estancia Esperanza",
+          "code": "293559"
+        },
+        {
+          "name": "Estancia Espinillo",
+          "code": "293560"
+        },
+        {
+          "name": "Estancia Esteche",
+          "code": "293561"
+        },
+        {
+          "name": "Estancia Esther",
+          "code": "293562"
+        },
+        {
+          "name": "Estancia Estrella",
+          "code": "293563"
+        },
+        {
+          "name": "Estancia Felicidad",
+          "code": "293565"
+        },
+        {
+          "name": "Estancia Fernando Silva",
+          "code": "293567"
+        },
+        {
+          "name": "Estancia Florida",
+          "code": "293568"
+        },
+        {
+          "name": "Estancia Fontana",
+          "code": "293570"
+        },
+        {
+          "name": "Estancia Fortuna",
+          "code": "293571"
+        },
+        {
+          "name": "Estancia Galileo",
+          "code": "293573"
+        },
+        {
+          "name": "Estancia Gavallo",
+          "code": "293578"
+        },
+        {
+          "name": "Estancia Gonzalez",
+          "code": "293584"
+        },
+        {
+          "name": "Estancia Guajhó",
+          "code": "293587"
+        },
+        {
+          "name": "Estancia Guanes",
+          "code": "293588"
+        },
+        {
+          "name": "Estancia Guayaki",
+          "code": "293591"
+        },
+        {
+          "name": "Estancia Isla Alta",
+          "code": "293598"
+        },
+        {
+          "name": "Estancia Itati",
+          "code": "293609"
+        },
+        {
+          "name": "Estancia José Dolores Genes",
+          "code": "293611"
+        },
+        {
+          "name": "Estancia Josefina",
+          "code": "293612"
+        },
+        {
+          "name": "Estancia La Angelica",
+          "code": "293618"
+        },
+        {
+          "name": "Estancia La Bonita",
+          "code": "293619"
+        },
+        {
+          "name": "Estancia La Concepción",
+          "code": "293622"
+        },
+        {
+          "name": "Estancia La Cuca",
+          "code": "293623"
+        },
+        {
+          "name": "Estancia La Delicia",
+          "code": "293624"
+        },
+        {
+          "name": "Estancia La Esperanza",
+          "code": "293627"
+        },
+        {
+          "name": "Estancia La Flecha",
+          "code": "293628"
+        },
+        {
+          "name": "Estancia La Golondrina",
+          "code": "293629"
+        },
+        {
+          "name": "Estancia La Mocha",
+          "code": "293633"
+        },
+        {
+          "name": "Estancia La Nena",
+          "code": "293634"
+        },
+        {
+          "name": "Estancia La Novia",
+          "code": "293635"
+        },
+        {
+          "name": "Estancia La Querencia",
+          "code": "293638"
+        },
+        {
+          "name": "Estancia La Selva",
+          "code": "293639"
+        },
+        {
+          "name": "Estancia La Unión",
+          "code": "293641"
+        },
+        {
+          "name": "Estancia La Victoria",
+          "code": "293645"
+        },
+        {
+          "name": "Estancia Laguna Bella",
+          "code": "293647"
+        },
+        {
+          "name": "Estancia Laguna Chancho",
+          "code": "293648"
+        },
+        {
+          "name": "Estancia Laguna Porá",
+          "code": "293651"
+        },
+        {
+          "name": "Estancia Laguna Rey",
+          "code": "293652"
+        },
+        {
+          "name": "Estancia Laguna Sola",
+          "code": "293653"
+        },
+        {
+          "name": "Estancia Laguna Verde",
+          "code": "293654"
+        },
+        {
+          "name": "Estancia Lamber",
+          "code": "293656"
+        },
+        {
+          "name": "Estancia Las Isidoras",
+          "code": "293658"
+        },
+        {
+          "name": "Estancia Las Mellizas",
+          "code": "293659"
+        },
+        {
+          "name": "Estancia Las Palmas",
+          "code": "293661"
+        },
+        {
+          "name": "Estancia Las Perlas",
+          "code": "293664"
+        },
+        {
+          "name": "Estancia Ledesma",
+          "code": "293668"
+        },
+        {
+          "name": "Estancia Locatti",
+          "code": "293669"
+        },
+        {
+          "name": "Estancia Loma Pora",
+          "code": "293674"
+        },
+        {
+          "name": "Estancia Loma Pytá",
+          "code": "293675"
+        },
+        {
+          "name": "Estancia Lomas",
+          "code": "293677"
+        },
+        {
+          "name": "Estancia Lomita",
+          "code": "293680"
+        },
+        {
+          "name": "Estancia Los Gemelos",
+          "code": "293685"
+        },
+        {
+          "name": "Estancia Los Lapachos",
+          "code": "293687"
+        },
+        {
+          "name": "Estancia Los Milagros",
+          "code": "293689"
+        },
+        {
+          "name": "Estancia Los Tamarindos",
+          "code": "293691"
+        },
+        {
+          "name": "Estancia Luis",
+          "code": "293694"
+        },
+        {
+          "name": "Estancia Magallanes",
+          "code": "293696"
+        },
+        {
+          "name": "Estancia Mamo Reí",
+          "code": "293699"
+        },
+        {
+          "name": "Estancia Marlene",
+          "code": "293708"
+        },
+        {
+          "name": "Estancia Maroma",
+          "code": "293709"
+        },
+        {
+          "name": "Estancia Millón",
+          "code": "293717"
+        },
+        {
+          "name": "Estancia Montiel",
+          "code": "293720"
+        },
+        {
+          "name": "Estancia Nanawa",
+          "code": "293723"
+        },
+        {
+          "name": "Estancia Naranjito",
+          "code": "293726"
+        },
+        {
+          "name": "Estancia Navidad",
+          "code": "293727"
+        },
+        {
+          "name": "Estancia Ninfa",
+          "code": "293729"
+        },
+        {
+          "name": "Estancia Nú Porá",
+          "code": "293732"
+        },
+        {
+          "name": "Estancia Nú Puajhú",
+          "code": "293734"
+        },
+        {
+          "name": "Estancia Nueva Alegría",
+          "code": "293735"
+        },
+        {
+          "name": "Estancia Núñez",
+          "code": "293738"
+        },
+        {
+          "name": "Estancia Obraje",
+          "code": "293740"
+        },
+        {
+          "name": "Estancia Once de Junio",
+          "code": "293742"
+        },
+        {
+          "name": "Estancia Orihuela",
+          "code": "293743"
+        },
+        {
+          "name": "Estancia Palermo",
+          "code": "293745"
+        },
+        {
+          "name": "Estancia Palo Blanco",
+          "code": "293748"
+        },
+        {
+          "name": "Estancia Palo Santo",
+          "code": "293749"
+        },
+        {
+          "name": "Estancia Paredes",
+          "code": "293751"
+        },
+        {
+          "name": "Estancia Parirí",
+          "code": "293752"
+        },
+        {
+          "name": "Estancia Pedernal",
+          "code": "293755"
+        },
+        {
+          "name": "Estancia Pilaga",
+          "code": "293756"
+        },
+        {
+          "name": "Estancia Pirizal",
+          "code": "293760"
+        },
+        {
+          "name": "Estancia Pocito",
+          "code": "293762"
+        },
+        {
+          "name": "Estancia Polvorín",
+          "code": "293763"
+        },
+        {
+          "name": "Estancia Ponderosa",
+          "code": "293764"
+        },
+        {
+          "name": "Estancia Porongo",
+          "code": "293766"
+        },
+        {
+          "name": "Estancia Porvenir",
+          "code": "293767"
+        },
+        {
+          "name": "Estancia Pozo Amarillo",
+          "code": "293770"
+        },
+        {
+          "name": "Estancia Pozo Azul",
+          "code": "293772"
+        },
+        {
+          "name": "Estancia Pozo Blanco",
+          "code": "293773"
+        },
+        {
+          "name": "Estancia Pozo Colorado",
+          "code": "293775"
+        },
+        {
+          "name": "Estancia Pozo Indio",
+          "code": "293776"
+        },
+        {
+          "name": "Estancia Pozo Negro",
+          "code": "293779"
+        },
+        {
+          "name": "Estancia Pozo Verde",
+          "code": "293780"
+        },
+        {
+          "name": "Estancia Primavera",
+          "code": "293785"
+        },
+        {
+          "name": "Estancia Quebrachos",
+          "code": "293789"
+        },
+        {
+          "name": "Estancia Rancho Quemado",
+          "code": "293793"
+        },
+        {
+          "name": "Estancia Riachito",
+          "code": "293798"
+        },
+        {
+          "name": "Estancia Riacho G",
+          "code": "293800"
+        },
+        {
+          "name": "Estancia Rincón Charrúa",
+          "code": "293801"
+        },
+        {
+          "name": "Estancia Río Negro",
+          "code": "293802"
+        },
+        {
+          "name": "Estancia Río Verde",
+          "code": "293803"
+        },
+        {
+          "name": "Estancia Roja Silva",
+          "code": "293806"
+        },
+        {
+          "name": "Estancia Rubí",
+          "code": "293810"
+        },
+        {
+          "name": "Estancia San Antonio",
+          "code": "293821"
+        },
+        {
+          "name": "Estancia San Blas",
+          "code": "293825"
+        },
+        {
+          "name": "Estancia San Carlos",
+          "code": "293826"
+        },
+        {
+          "name": "Estancia San Elisa",
+          "code": "293829"
+        },
+        {
+          "name": "Estancia San Felipe",
+          "code": "293830"
+        },
+        {
+          "name": "Estancia San Fernando",
+          "code": "293831"
+        },
+        {
+          "name": "Estancia San Isidro",
+          "code": "293834"
+        },
+        {
+          "name": "Estancia San José",
+          "code": "293839"
+        },
+        {
+          "name": "Estancia San Juan",
+          "code": "293840"
+        },
+        {
+          "name": "Estancia San Juan Bautista",
+          "code": "293845"
+        },
+        {
+          "name": "Estancia San Lorenzo",
+          "code": "293846"
+        },
+        {
+          "name": "Estancia San Luis",
+          "code": "293849"
+        },
+        {
+          "name": "Estancia San Miguel",
+          "code": "293853"
+        },
+        {
+          "name": "Estancia San Onofre",
+          "code": "293859"
+        },
+        {
+          "name": "Estancia San Pedro",
+          "code": "293862"
+        },
+        {
+          "name": "Estancia San Rafael",
+          "code": "293864"
+        },
+        {
+          "name": "Estancia San Ramón",
+          "code": "293866"
+        },
+        {
+          "name": "Estancia San Roque",
+          "code": "293868"
+        },
+        {
+          "name": "Estancia San Sebastián",
+          "code": "293869"
+        },
+        {
+          "name": "Estancia Santa Ana",
+          "code": "293878"
+        },
+        {
+          "name": "Estancia Santa Arsenia",
+          "code": "293880"
+        },
+        {
+          "name": "Estancia Santa Asunción",
+          "code": "293881"
+        },
+        {
+          "name": "Estancia Santa Aurelia",
+          "code": "293882"
+        },
+        {
+          "name": "Estancia Santa Catalina",
+          "code": "293883"
+        },
+        {
+          "name": "Estancia Santa Elisa",
+          "code": "293888"
+        },
+        {
+          "name": "Estancia Santa Emilia",
+          "code": "293889"
+        },
+        {
+          "name": "Estancia Santa Gabriela",
+          "code": "293892"
+        },
+        {
+          "name": "Estancia Santa Isabel",
+          "code": "293893"
+        },
+        {
+          "name": "Estancia Santa Jacinta",
+          "code": "293895"
+        },
+        {
+          "name": "Estancia Santa Juanita",
+          "code": "293896"
+        },
+        {
+          "name": "Estancia Santa Lucía",
+          "code": "293898"
+        },
+        {
+          "name": "Estancia Santa María",
+          "code": "293901"
+        },
+        {
+          "name": "Estancia Santa Sofía",
+          "code": "293908"
+        },
+        {
+          "name": "Estancia Santa Teresa",
+          "code": "293911"
+        },
+        {
+          "name": "Estancia Santo Domingo",
+          "code": "293912"
+        },
+        {
+          "name": "Estancia Sebastián-cué",
+          "code": "293917"
+        },
+        {
+          "name": "Estancia Siete Puntas",
+          "code": "293920"
+        },
+        {
+          "name": "Estancia Soledad",
+          "code": "293923"
+        },
+        {
+          "name": "Estancia Sombrero Jhovy",
+          "code": "293925"
+        },
+        {
+          "name": "Estancia Sorpresa",
+          "code": "293926"
+        },
+        {
+          "name": "Estancia Sosa",
+          "code": "293928"
+        },
+        {
+          "name": "Estancia Tacuara",
+          "code": "293933"
+        },
+        {
+          "name": "Estancia Talavera",
+          "code": "293938"
+        },
+        {
+          "name": "Estancia Tanco",
+          "code": "293939"
+        },
+        {
+          "name": "Estancia Tarumá",
+          "code": "293942"
+        },
+        {
+          "name": "Estancia Tataré",
+          "code": "293944"
+        },
+        {
+          "name": "Estancia Toja",
+          "code": "293948"
+        },
+        {
+          "name": "Estancia Toldo Cué",
+          "code": "293949"
+        },
+        {
+          "name": "Estancia Toldo Grande",
+          "code": "293951"
+        },
+        {
+          "name": "Estancia Tomas Cué",
+          "code": "293953"
+        },
+        {
+          "name": "Estancia Toro Blanco",
+          "code": "293954"
+        },
+        {
+          "name": "Estancia Tres de Mayo",
+          "code": "293958"
+        },
+        {
+          "name": "Estancia Tuparendá",
+          "code": "293964"
+        },
+        {
+          "name": "Estancia Uruguaya",
+          "code": "293969"
+        },
+        {
+          "name": "Estancia Va y Viene",
+          "code": "293970"
+        },
+        {
+          "name": "Estancia Vallejos",
+          "code": "293972"
+        },
+        {
+          "name": "Estancia Vanguardia",
+          "code": "293973"
+        },
+        {
+          "name": "Estancia Victoria",
+          "code": "293975"
+        },
+        {
+          "name": "Estancia Villa Alegre",
+          "code": "293977"
+        },
+        {
+          "name": "Estancia Villa Real",
+          "code": "293978"
+        },
+        {
+          "name": "Estancia Villa Rey",
+          "code": "293979"
+        },
+        {
+          "name": "Estancia Yacare",
+          "code": "293982"
+        },
+        {
+          "name": "Estancia Yasamathasla",
+          "code": "293985"
+        },
+        {
+          "name": "Estancia Yetyty",
+          "code": "293987"
+        },
+        {
+          "name": "Estancia Yuí",
+          "code": "293991"
+        },
+        {
+          "name": "Estancia Yukyry",
+          "code": "293992"
+        },
+        {
+          "name": "Estancias Guazú",
+          "code": "293997"
+        },
+        {
+          "name": "Estancias La Blanca",
+          "code": "293998"
+        },
+        {
+          "name": "Estancias Paraiso",
+          "code": "293999"
+        },
+        {
+          "name": "Esterito",
+          "code": "294000"
+        },
+        {
+          "name": "Fiore",
+          "code": "294006"
+        },
+        {
+          "name": "Florida",
+          "code": "294008"
+        },
+        {
+          "name": "Fondo",
+          "code": "294009"
+        },
+        {
+          "name": "Garcete",
+          "code": "294018"
+        },
+        {
+          "name": "Gaspar-cué",
+          "code": "294020"
+        },
+        {
+          "name": "Golondrina",
+          "code": "294032"
+        },
+        {
+          "name": "Guajhó",
+          "code": "294035"
+        },
+        {
+          "name": "Horqueta",
+          "code": "294050"
+        },
+        {
+          "name": "Hotel Pirahú",
+          "code": "294053"
+        },
+        {
+          "name": "Hotel Rio Negro",
+          "code": "294054"
+        },
+        {
+          "name": "Insfrán-cué",
+          "code": "294059"
+        },
+        {
+          "name": "José La Haye",
+          "code": "294095"
+        },
+        {
+          "name": "Juan Pirú-cué",
+          "code": "294100"
+        },
+        {
+          "name": "Julio Silva",
+          "code": "294101"
+        },
+        {
+          "name": "La Cañada",
+          "code": "294106"
+        },
+        {
+          "name": "La Cautiva",
+          "code": "294107"
+        },
+        {
+          "name": "Landskrone",
+          "code": "294122"
+        },
+        {
+          "name": "Loma",
+          "code": "294135"
+        },
+        {
+          "name": "Los Exploradores",
+          "code": "294145"
+        },
+        {
+          "name": "Los Pastos",
+          "code": "294147"
+        },
+        {
+          "name": "Los Tigres",
+          "code": "294149"
+        },
+        {
+          "name": "Marina",
+          "code": "294162"
+        },
+        {
+          "name": "Mello-cué",
+          "code": "294181"
+        },
+        {
+          "name": "Ministro Prieto",
+          "code": "294185"
+        },
+        {
+          "name": "Misión Abajo",
+          "code": "294187"
+        },
+        {
+          "name": "Misión Central",
+          "code": "294188"
+        },
+        {
+          "name": "Misión Chica",
+          "code": "294189"
+        },
+        {
+          "name": "Misión Inglesa",
+          "code": "294192"
+        },
+        {
+          "name": "Misión La Esperanza",
+          "code": "294193"
+        },
+        {
+          "name": "Molino-cué",
+          "code": "294203"
+        },
+        {
+          "name": "Monte Lindo",
+          "code": "294205"
+        },
+        {
+          "name": "Mopaii Moro",
+          "code": "294207"
+        },
+        {
+          "name": "Nanawa",
+          "code": "294210"
+        },
+        {
+          "name": "Naranjál",
+          "code": "294211"
+        },
+        {
+          "name": "Necons Wais",
+          "code": "294218"
+        },
+        {
+          "name": "Núñez",
+          "code": "294226"
+        },
+        {
+          "name": "Pairo-cué",
+          "code": "294240"
+        },
+        {
+          "name": "Pajonales",
+          "code": "294241"
+        },
+        {
+          "name": "Palmar",
+          "code": "294243"
+        },
+        {
+          "name": "Paraje Tuyuyú",
+          "code": "294252"
+        },
+        {
+          "name": "Pirizal",
+          "code": "294289"
+        },
+        {
+          "name": "Potrero Nuevo",
+          "code": "294297"
+        },
+        {
+          "name": "Pozo Azul",
+          "code": "294302"
+        },
+        {
+          "name": "Pozo Colorado",
+          "code": "294305"
+        },
+        {
+          "name": "Pozo Favorito",
+          "code": "294308"
+        },
+        {
+          "name": "Primavera",
+          "code": "294315"
+        },
+        {
+          "name": "Primero de Junio",
+          "code": "294316"
+        },
+        {
+          "name": "Princesa",
+          "code": "294319"
+        },
+        {
+          "name": "Puerto Alegre",
+          "code": "294323"
+        },
+        {
+          "name": "Puerto Buena Vista",
+          "code": "294334"
+        },
+        {
+          "name": "Puerto Caravá Vuelta",
+          "code": "294338"
+        },
+        {
+          "name": "Puerto Carlos Pfannl",
+          "code": "294339"
+        },
+        {
+          "name": "Puerto Colón",
+          "code": "294342"
+        },
+        {
+          "name": "Puerto Cooper",
+          "code": "294344"
+        },
+        {
+          "name": "Puerto Elsa",
+          "code": "294352"
+        },
+        {
+          "name": "Puerto Elvira",
+          "code": "294353"
+        },
+        {
+          "name": "Puerto Galileo",
+          "code": "294358"
+        },
+        {
+          "name": "Puerto María",
+          "code": "294376"
+        },
+        {
+          "name": "Puerto Militar",
+          "code": "294384"
+        },
+        {
+          "name": "Puerto Pinasco",
+          "code": "294397"
+        },
+        {
+          "name": "Puerto Río Negro",
+          "code": "294402"
+        },
+        {
+          "name": "Puerto San Antonio",
+          "code": "294407"
+        },
+        {
+          "name": "Puerto San Fernando",
+          "code": "294409"
+        },
+        {
+          "name": "Puerto San Juan",
+          "code": "294411"
+        },
+        {
+          "name": "Puerto San Luis",
+          "code": "294413"
+        },
+        {
+          "name": "Puerto Santa María",
+          "code": "294415"
+        },
+        {
+          "name": "Puerto Santa Rita",
+          "code": "294416"
+        },
+        {
+          "name": "Puerto Santa Rosa",
+          "code": "294418"
+        },
+        {
+          "name": "Puerto Tarumá",
+          "code": "294427"
+        },
+        {
+          "name": "Puerto Yrigoyen",
+          "code": "294442"
+        },
+        {
+          "name": "Puesto Alegre",
+          "code": "294447"
+        },
+        {
+          "name": "Puesto Arazá",
+          "code": "294448"
+        },
+        {
+          "name": "Puesto Bogado",
+          "code": "294452"
+        },
+        {
+          "name": "Puesto Boquerón",
+          "code": "294453"
+        },
+        {
+          "name": "Puesto Buena Vista",
+          "code": "294454"
+        },
+        {
+          "name": "Puesto Caabó Tory",
+          "code": "294456"
+        },
+        {
+          "name": "Puesto Campo Flores",
+          "code": "294459"
+        },
+        {
+          "name": "Puesto Ciento Noveinta",
+          "code": "294463"
+        },
+        {
+          "name": "Puesto Colon-i",
+          "code": "294464"
+        },
+        {
+          "name": "Puesto Corralito",
+          "code": "294466"
+        },
+        {
+          "name": "Puesto Corralón",
+          "code": "294467"
+        },
+        {
+          "name": "Puesto Cuatro Bocas",
+          "code": "294469"
+        },
+        {
+          "name": "Puesto Curupayty",
+          "code": "294470"
+        },
+        {
+          "name": "Puesto Don Manuel",
+          "code": "294473"
+        },
+        {
+          "name": "Puesto Esperanza",
+          "code": "294476"
+        },
+        {
+          "name": "Puesto Estancia-í",
+          "code": "294477"
+        },
+        {
+          "name": "Puesto Estrella",
+          "code": "294478"
+        },
+        {
+          "name": "Puesto Fortuna",
+          "code": "294482"
+        },
+        {
+          "name": "Puesto González",
+          "code": "294485"
+        },
+        {
+          "name": "Puesto Horqueta",
+          "code": "294488"
+        },
+        {
+          "name": "Puesto Isla Sola",
+          "code": "294490"
+        },
+        {
+          "name": "Puesto La Vista",
+          "code": "294495"
+        },
+        {
+          "name": "Puesto Leopoldina",
+          "code": "294499"
+        },
+        {
+          "name": "Puesto Linda Vista",
+          "code": "294500"
+        },
+        {
+          "name": "Puesto Lucy",
+          "code": "294501"
+        },
+        {
+          "name": "Puesto Lugo",
+          "code": "294502"
+        },
+        {
+          "name": "Puesto Luis",
+          "code": "294503"
+        },
+        {
+          "name": "Puesto Michí",
+          "code": "294506"
+        },
+        {
+          "name": "Puesto Misión Chica",
+          "code": "294507"
+        },
+        {
+          "name": "Puesto Monte Lindo",
+          "code": "294509"
+        },
+        {
+          "name": "Puesto Moreno",
+          "code": "294510"
+        },
+        {
+          "name": "Puesto Nanati",
+          "code": "294513"
+        },
+        {
+          "name": "Puesto Olguita",
+          "code": "294515"
+        },
+        {
+          "name": "Puesto Rey",
+          "code": "294528"
+        },
+        {
+          "name": "Puesto Salado",
+          "code": "294531"
+        },
+        {
+          "name": "Puesto San Bartolomé",
+          "code": "294533"
+        },
+        {
+          "name": "Puesto San Javier",
+          "code": "294536"
+        },
+        {
+          "name": "Puesto San Miguel",
+          "code": "294538"
+        },
+        {
+          "name": "Puesto San Timoteo",
+          "code": "294539"
+        },
+        {
+          "name": "Puesto Santa Manuela",
+          "code": "294541"
+        },
+        {
+          "name": "Puesto Santa Maria",
+          "code": "294542"
+        },
+        {
+          "name": "Puesto Santa Rosa",
+          "code": "294543"
+        },
+        {
+          "name": "Puesto Susana",
+          "code": "294551"
+        },
+        {
+          "name": "Puesto Tabla",
+          "code": "294552"
+        },
+        {
+          "name": "Puesto Toldo-í",
+          "code": "294555"
+        },
+        {
+          "name": "Puesto Tres de Mayo",
+          "code": "294556"
+        },
+        {
+          "name": "Puesto Tuyuyú Raity",
+          "code": "294557"
+        },
+        {
+          "name": "Puesto Valinotti-Cué",
+          "code": "294559"
+        },
+        {
+          "name": "Puesto Winchester",
+          "code": "294564"
+        },
+        {
+          "name": "Puesto Zotti",
+          "code": "294567"
+        },
+        {
+          "name": "Rancho Ocho",
+          "code": "294578"
+        },
+        {
+          "name": "Remancillo",
+          "code": "294581"
+        },
+        {
+          "name": "Remancito",
+          "code": "294582"
+        },
+        {
+          "name": "Retiro Dávalos",
+          "code": "294587"
+        },
+        {
+          "name": "Retiro Itú",
+          "code": "294589"
+        },
+        {
+          "name": "Retiro Yrigoyen",
+          "code": "294593"
+        },
+        {
+          "name": "Retiro-cué",
+          "code": "294594"
+        },
+        {
+          "name": "Rojas-cué",
+          "code": "294598"
+        },
+        {
+          "name": "Salto Palmar",
+          "code": "294605"
+        },
+        {
+          "name": "Salvador-cué",
+          "code": "294606"
+        },
+        {
+          "name": "Samaklay",
+          "code": "294607"
+        },
+        {
+          "name": "San Bernardo",
+          "code": "294619"
+        },
+        {
+          "name": "San Francisco",
+          "code": "294631"
+        },
+        {
+          "name": "San José",
+          "code": "294638"
+        },
+        {
+          "name": "San Juan",
+          "code": "294646"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "294653"
+        },
+        {
+          "name": "San Pablo",
+          "code": "294660"
+        },
+        {
+          "name": "San Silvestre",
+          "code": "294680"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "294684"
+        },
+        {
+          "name": "Santa Anuncia",
+          "code": "294685"
+        },
+        {
+          "name": "Santa Elena",
+          "code": "294689"
+        },
+        {
+          "name": "Santa Eva",
+          "code": "294690"
+        },
+        {
+          "name": "Santa Librada",
+          "code": "294692"
+        },
+        {
+          "name": "Tapera B. Madrid",
+          "code": "294738"
+        },
+        {
+          "name": "Tapera El Cuervo",
+          "code": "294739"
+        },
+        {
+          "name": "Tapera Monte Lindo",
+          "code": "294740"
+        },
+        {
+          "name": "Terre Noir",
+          "code": "294766"
+        },
+        {
+          "name": "Toldo-cué",
+          "code": "294771"
+        },
+        {
+          "name": "Triángulo",
+          "code": "294783"
+        },
+        {
+          "name": "Último Rancho",
+          "code": "294790"
+        },
+        {
+          "name": "Vera-cué",
+          "code": "294803"
+        },
+        {
+          "name": "Villa Hayes",
+          "code": "294808"
+        },
+        {
+          "name": "Yatay",
+          "code": "294829"
+        },
+        {
+          "name": "Zeballos-cué",
+          "code": "294856"
+        }
+      ]
+    },
+    {
+      "name": "San Pedro",
+      "code": "560",
+      "cities": [
+        {
+          "name": "Antequera",
+          "code": "292948"
+        },
+        {
+          "name": "Apya",
+          "code": "292950"
+        },
+        {
+          "name": "Capiíbary",
+          "code": "293050"
+        },
+        {
+          "name": "Cerrito",
+          "code": "293083"
+        },
+        {
+          "name": "Chore",
+          "code": "293098"
+        },
+        {
+          "name": "Colonia Defensores del Chaco",
+          "code": "293142"
+        },
+        {
+          "name": "Colonia Felicidad",
+          "code": "293152"
+        },
+        {
+          "name": "Colonia Friesland",
+          "code": "293158"
+        },
+        {
+          "name": "Colonia Liberación",
+          "code": "293185"
+        },
+        {
+          "name": "Colonia Manitoba",
+          "code": "293192"
+        },
+        {
+          "name": "Colonia Maria Auxiliadora",
+          "code": "293193"
+        },
+        {
+          "name": "Colonia Mayor Hermosa",
+          "code": "293199"
+        },
+        {
+          "name": "Colonia Número Dos General Alf",
+          "code": "293217"
+        },
+        {
+          "name": "Colonia Presbítero Fidel Maíz",
+          "code": "293230"
+        },
+        {
+          "name": "Colonia Río Verde",
+          "code": "293242"
+        },
+        {
+          "name": "Colonia San Juan",
+          "code": "293258"
+        },
+        {
+          "name": "Colonia San Pedro",
+          "code": "293260"
+        },
+        {
+          "name": "Colonia Trinacria",
+          "code": "293291"
+        },
+        {
+          "name": "Colonia Volendam",
+          "code": "293297"
+        },
+        {
+          "name": "Colonia Yby Pé",
+          "code": "293302"
+        },
+        {
+          "name": "Colonia Yoaijhú",
+          "code": "293307"
+        },
+        {
+          "name": "Compañía San Jose",
+          "code": "293316"
+        },
+        {
+          "name": "Comparada",
+          "code": "293320"
+        },
+        {
+          "name": "Cororo",
+          "code": "293331"
+        },
+        {
+          "name": "Estancia Aguaray-mí",
+          "code": "293414"
+        },
+        {
+          "name": "Estancia Belén-cué",
+          "code": "293446"
+        },
+        {
+          "name": "Estancia Ciervo",
+          "code": "293520"
+        },
+        {
+          "name": "Estancia Cuatro de Mayo",
+          "code": "293535"
+        },
+        {
+          "name": "Estancia General Díaz",
+          "code": "293580"
+        },
+        {
+          "name": "Estancia Guazu Pyta",
+          "code": "293592"
+        },
+        {
+          "name": "Estancia Itacarú",
+          "code": "293607"
+        },
+        {
+          "name": "Estancia Itacurubí",
+          "code": "293608"
+        },
+        {
+          "name": "Estancia Loma Verde",
+          "code": "293676"
+        },
+        {
+          "name": "Estancia Lomas",
+          "code": "293678"
+        },
+        {
+          "name": "Estancia Lucipar",
+          "code": "293692"
+        },
+        {
+          "name": "Estancia Ocampo-cué",
+          "code": "293741"
+        },
+        {
+          "name": "Estancia Rio Verde",
+          "code": "293804"
+        },
+        {
+          "name": "Estancia San Carlos",
+          "code": "293827"
+        },
+        {
+          "name": "Estancia San Miguel",
+          "code": "293852"
+        },
+        {
+          "name": "Estancia Santa Ana",
+          "code": "293876"
+        },
+        {
+          "name": "Estancia Santa María",
+          "code": "293903"
+        },
+        {
+          "name": "Estancia Serratti",
+          "code": "293919"
+        },
+        {
+          "name": "Estancia Tacuara",
+          "code": "293934"
+        },
+        {
+          "name": "Estancia Tacuru",
+          "code": "293936"
+        },
+        {
+          "name": "Estancia Trés Marías",
+          "code": "293960"
+        },
+        {
+          "name": "Estancia Uruguaitá",
+          "code": "293968"
+        },
+        {
+          "name": "Estancia Valle-i",
+          "code": "293971"
+        },
+        {
+          "name": "Estancia Ybyracapá",
+          "code": "293986"
+        },
+        {
+          "name": "Estancia Ypané",
+          "code": "293988"
+        },
+        {
+          "name": "General Elizardo Aquino",
+          "code": "294023"
+        },
+        {
+          "name": "General Isidoro Resquín",
+          "code": "294028"
+        },
+        {
+          "name": "Guaica",
+          "code": "294034"
+        },
+        {
+          "name": "Guardia-cué",
+          "code": "294040"
+        },
+        {
+          "name": "Guayaybi",
+          "code": "294042"
+        },
+        {
+          "name": "Hachita",
+          "code": "294047"
+        },
+        {
+          "name": "Itá Verá",
+          "code": "294068"
+        },
+        {
+          "name": "Itacurubí del Rosario",
+          "code": "294072"
+        },
+        {
+          "name": "Itaquyry",
+          "code": "294077"
+        },
+        {
+          "name": "Jardín",
+          "code": "294087"
+        },
+        {
+          "name": "Jejuí",
+          "code": "294088"
+        },
+        {
+          "name": "Jhugua Rey",
+          "code": "294094"
+        },
+        {
+          "name": "La Niña",
+          "code": "294113"
+        },
+        {
+          "name": "Lima",
+          "code": "294131"
+        },
+        {
+          "name": "Mercedes",
+          "code": "294183"
+        },
+        {
+          "name": "Nueva Germania",
+          "code": "294222"
+        },
+        {
+          "name": "Paso Curuzu",
+          "code": "294260"
+        },
+        {
+          "name": "Puerto Barranquerita",
+          "code": "294330"
+        },
+        {
+          "name": "Puerto Colorado",
+          "code": "294343"
+        },
+        {
+          "name": "Puerto Curuzú",
+          "code": "294345"
+        },
+        {
+          "name": "Puerto Desaguadero",
+          "code": "294348"
+        },
+        {
+          "name": "Puerto Doria",
+          "code": "294350"
+        },
+        {
+          "name": "Puerto Laurel",
+          "code": "294371"
+        },
+        {
+          "name": "Puerto Milagro",
+          "code": "294383"
+        },
+        {
+          "name": "Puerto Rosario",
+          "code": "294404"
+        },
+        {
+          "name": "Puerto Santa Rosa",
+          "code": "294419"
+        },
+        {
+          "name": "Puerto Tacurú Pyta",
+          "code": "294426"
+        },
+        {
+          "name": "Puerto Ybapobó",
+          "code": "294439"
+        },
+        {
+          "name": "Puesto-cué",
+          "code": "294568"
+        },
+        {
+          "name": "Río Corrientes",
+          "code": "294595"
+        },
+        {
+          "name": "Rosario",
+          "code": "294601"
+        },
+        {
+          "name": "San Antonio",
+          "code": "294615"
+        },
+        {
+          "name": "San Estanislao",
+          "code": "294627"
+        },
+        {
+          "name": "San José",
+          "code": "294639"
+        },
+        {
+          "name": "San José del Rosario",
+          "code": "294642"
+        },
+        {
+          "name": "San José-mí",
+          "code": "294644"
+        },
+        {
+          "name": "San Pablo de Ycuámandyyú",
+          "code": "294662"
+        },
+        {
+          "name": "San Pedro de Ycuamandiyú",
+          "code": "294665"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "294704"
+        },
+        {
+          "name": "Say",
+          "code": "294726"
+        },
+        {
+          "name": "Tacuara",
+          "code": "294731"
+        },
+        {
+          "name": "Tacuatí",
+          "code": "294735"
+        },
+        {
+          "name": "Tavai",
+          "code": "294745"
+        },
+        {
+          "name": "Tayí-caré",
+          "code": "294750"
+        },
+        {
+          "name": "Tres de Noviembre",
+          "code": "294779"
+        },
+        {
+          "name": "Unión",
+          "code": "294791"
+        },
+        {
+          "name": "Vaca Jhu",
+          "code": "294794"
+        },
+        {
+          "name": "Veinticinco de Diciembre",
+          "code": "294800"
+        },
+        {
+          "name": "Yataity del Norte",
+          "code": "294828"
+        }
+      ]
+    }
+  ]
+}

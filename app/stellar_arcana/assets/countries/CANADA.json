@@ -1,0 +1,1146 @@
+{
+  "name": "CANADA",
+  "code": "17",
+  "provinces": [
+    {
+      "name": "ALBERTON",
+      "code": "48",
+      "cities": []
+    },
+    {
+      "name": "ALMA",
+      "code": "76",
+      "cities": []
+    },
+    {
+      "name": "AMHERST",
+      "code": "97",
+      "cities": []
+    },
+    {
+      "name": "ANJOU",
+      "code": "116",
+      "cities": []
+    },
+    {
+      "name": "ANTIGONISH",
+      "code": "127",
+      "cities": []
+    },
+    {
+      "name": "ARVIDA",
+      "code": "160",
+      "cities": []
+    },
+    {
+      "name": "ASBESTOS",
+      "code": "163",
+      "cities": []
+    },
+    {
+      "name": "ASSINIBOIA",
+      "code": "174",
+      "cities": []
+    },
+    {
+      "name": "AURORA",
+      "code": "198",
+      "cities": []
+    },
+    {
+      "name": "BAIE-COMEAU",
+      "code": "220",
+      "cities": []
+    },
+    {
+      "name": "BARRIE",
+      "code": "259",
+      "cities": []
+    },
+    {
+      "name": "BATHURST",
+      "code": "275",
+      "cities": []
+    },
+    {
+      "name": "BEACONSFIELD",
+      "code": "286",
+      "cities": []
+    },
+    {
+      "name": "BELLEVILLE",
+      "code": "314",
+      "cities": []
+    },
+    {
+      "name": "BELOEIL",
+      "code": "324",
+      "cities": []
+    },
+    {
+      "name": "BLAINVILLE",
+      "code": "397",
+      "cities": []
+    },
+    {
+      "name": "BONAVISTA",
+      "code": "422",
+      "cities": []
+    },
+    {
+      "name": "BOTWOOD",
+      "code": "435",
+      "cities": []
+    },
+    {
+      "name": "BOUCHERVILLE",
+      "code": "436",
+      "cities": []
+    },
+    {
+      "name": "BRAMPTON",
+      "code": "455",
+      "cities": []
+    },
+    {
+      "name": "BRANDON",
+      "code": "458",
+      "cities": []
+    },
+    {
+      "name": "BRANTFORD",
+      "code": "460",
+      "cities": []
+    },
+    {
+      "name": "BROCKVILLE",
+      "code": "494",
+      "cities": []
+    },
+    {
+      "name": "BROSSARD",
+      "code": "505",
+      "cities": []
+    },
+    {
+      "name": "BURLINGTON",
+      "code": "536",
+      "cities": []
+    },
+    {
+      "name": "BURNABY",
+      "code": "538",
+      "cities": []
+    },
+    {
+      "name": "CALEDON",
+      "code": "563",
+      "cities": []
+    },
+    {
+      "name": "CALGARY",
+      "code": "565",
+      "cities": []
+    },
+    {
+      "name": "CAMPBELLTON",
+      "code": "583",
+      "cities": []
+    },
+    {
+      "name": "CAMROSE",
+      "code": "588",
+      "cities": []
+    },
+    {
+      "name": "CARBONEAR",
+      "code": "605",
+      "cities": []
+    },
+    {
+      "name": "CHAMBLY",
+      "code": "666",
+      "cities": []
+    },
+    {
+      "name": "CHARLEMAGNE",
+      "code": "673",
+      "cities": []
+    },
+    {
+      "name": "CHARLESBOURG",
+      "code": "676",
+      "cities": []
+    },
+    {
+      "name": "CHARLOTTETOWN",
+      "code": "682",
+      "cities": []
+    },
+    {
+      "name": "CHATEAUGUAY",
+      "code": "684",
+      "cities": []
+    },
+    {
+      "name": "CHATHAM",
+      "code": "688",
+      "cities": []
+    },
+    {
+      "name": "CHATHAM",
+      "code": "689",
+      "cities": []
+    },
+    {
+      "name": "CHICOUTIMI",
+      "code": "727",
+      "cities": []
+    },
+    {
+      "name": "CHILLIWHACK",
+      "code": "733",
+      "cities": []
+    },
+    {
+      "name": "COQUITLAM",
+      "code": "827",
+      "cities": []
+    },
+    {
+      "name": "CORNER BROOK",
+      "code": "836",
+      "cities": []
+    },
+    {
+      "name": "CORNWALL",
+      "code": "837",
+      "cities": []
+    },
+    {
+      "name": "COWANSVILLE",
+      "code": "854",
+      "cities": []
+    },
+    {
+      "name": "DALHOUSIE",
+      "code": "887",
+      "cities": []
+    },
+    {
+      "name": "DARTMOUTH",
+      "code": "908",
+      "cities": []
+    },
+    {
+      "name": "DAUPHIN",
+      "code": "910",
+      "cities": []
+    },
+    {
+      "name": "DEER LAKE",
+      "code": "924",
+      "cities": []
+    },
+    {
+      "name": "DIEPPE",
+      "code": "948",
+      "cities": []
+    },
+    {
+      "name": "DOLLARD D.O.",
+      "code": "956",
+      "cities": []
+    },
+    {
+      "name": "DRUMHELLER",
+      "code": "977",
+      "cities": []
+    },
+    {
+      "name": "DRUMMONDVILLE",
+      "code": "978",
+      "cities": []
+    },
+    {
+      "name": "DUNDAS",
+      "code": "995",
+      "cities": []
+    },
+    {
+      "name": "E.KILDONAN",
+      "code": "1014",
+      "cities": []
+    },
+    {
+      "name": "EDMONTON",
+      "code": "1040",
+      "cities": []
+    },
+    {
+      "name": "EDMUNDSTON",
+      "code": "1041",
+      "cities": []
+    },
+    {
+      "name": "ESTEVAN",
+      "code": "1113",
+      "cities": []
+    },
+    {
+      "name": "FLIN FLON",
+      "code": "1164",
+      "cities": []
+    },
+    {
+      "name": "FORT ERIE",
+      "code": "1182",
+      "cities": []
+    },
+    {
+      "name": "FREDERICTON",
+      "code": "1204",
+      "cities": []
+    },
+    {
+      "name": "FT. GARRY",
+      "code": "1221",
+      "cities": []
+    },
+    {
+      "name": "FT. MCMURRAY",
+      "code": "1223",
+      "cities": []
+    },
+    {
+      "name": "FT. SASKATCHEWAN",
+      "code": "1224",
+      "cities": []
+    },
+    {
+      "name": "GANDER",
+      "code": "1246",
+      "cities": []
+    },
+    {
+      "name": "GASPE",
+      "code": "1255",
+      "cities": []
+    },
+    {
+      "name": "GATINEAU",
+      "code": "1257",
+      "cities": []
+    },
+    {
+      "name": "GEORGETOWN",
+      "code": "1271",
+      "cities": []
+    },
+    {
+      "name": "GIFFARD",
+      "code": "1280",
+      "cities": []
+    },
+    {
+      "name": "GLACE BAY",
+      "code": "1286",
+      "cities": []
+    },
+    {
+      "name": "GRANBY",
+      "code": "1324",
+      "cities": []
+    },
+    {
+      "name": "GRAND FALLS",
+      "code": "1325",
+      "cities": []
+    },
+    {
+      "name": "GRAND FALLS",
+      "code": "1326",
+      "cities": []
+    },
+    {
+      "name": "GRAND MERE",
+      "code": "1330",
+      "cities": []
+    },
+    {
+      "name": "GRAND PRAIRIE",
+      "code": "1331",
+      "cities": []
+    },
+    {
+      "name": "GRIMSBY",
+      "code": "1366",
+      "cities": []
+    },
+    {
+      "name": "GUELPH",
+      "code": "1380",
+      "cities": []
+    },
+    {
+      "name": "HALIFAX",
+      "code": "1411",
+      "cities": []
+    },
+    {
+      "name": "HAMILTON",
+      "code": "1426",
+      "cities": []
+    },
+    {
+      "name": "HAUTERIVE",
+      "code": "1462",
+      "cities": []
+    },
+    {
+      "name": "HAWKESBURY",
+      "code": "1470",
+      "cities": []
+    },
+    {
+      "name": "HINTON",
+      "code": "1520",
+      "cities": []
+    },
+    {
+      "name": "HULL",
+      "code": "1557",
+      "cities": []
+    },
+    {
+      "name": "JOLIETTE",
+      "code": "1663",
+      "cities": []
+    },
+    {
+      "name": "JONQUIERE",
+      "code": "1665",
+      "cities": []
+    },
+    {
+      "name": "KAMLOOPS",
+      "code": "1691",
+      "cities": []
+    },
+    {
+      "name": "KELOWNA",
+      "code": "1734",
+      "cities": []
+    },
+    {
+      "name": "KINGSTON",
+      "code": "1769",
+      "cities": []
+    },
+    {
+      "name": "KITCHENER",
+      "code": "1784",
+      "cities": []
+    },
+    {
+      "name": "LA TUQUE",
+      "code": "1863",
+      "cities": []
+    },
+    {
+      "name": "LACHINE",
+      "code": "1865",
+      "cities": []
+    },
+    {
+      "name": "LACHUTE",
+      "code": "1866",
+      "cities": []
+    },
+    {
+      "name": "LADYSMITH",
+      "code": "1867",
+      "cities": []
+    },
+    {
+      "name": "LANGLEY",
+      "code": "1890",
+      "cities": []
+    },
+    {
+      "name": "LAUZON",
+      "code": "1905",
+      "cities": []
+    },
+    {
+      "name": "LAVAL ILE JESUS",
+      "code": "1906",
+      "cities": []
+    },
+    {
+      "name": "LAVAL NICOLET",
+      "code": "1907",
+      "cities": []
+    },
+    {
+      "name": "LENNOXVILLE",
+      "code": "1939",
+      "cities": []
+    },
+    {
+      "name": "LETHBRIDGE",
+      "code": "1950",
+      "cities": []
+    },
+    {
+      "name": "LEVIS",
+      "code": "1955",
+      "cities": []
+    },
+    {
+      "name": "LINCOLN",
+      "code": "1985",
+      "cities": []
+    },
+    {
+      "name": "LIVERPOOL",
+      "code": "1995",
+      "cities": []
+    },
+    {
+      "name": "LLYODMINSTER",
+      "code": "2001",
+      "cities": []
+    },
+    {
+      "name": "LONDON",
+      "code": "2017",
+      "cities": []
+    },
+    {
+      "name": "LUNENBURG",
+      "code": "2062",
+      "cities": []
+    },
+    {
+      "name": "MAGOG",
+      "code": "2096",
+      "cities": []
+    },
+    {
+      "name": "MARKHAM",
+      "code": "2153",
+      "cities": []
+    },
+    {
+      "name": "MARYSTOWN",
+      "code": "2164",
+      "cities": []
+    },
+    {
+      "name": "MATANE",
+      "code": "2172",
+      "cities": []
+    },
+    {
+      "name": "MEDECINE HAT",
+      "code": "2194",
+      "cities": []
+    },
+    {
+      "name": "MELFORT",
+      "code": "2205",
+      "cities": []
+    },
+    {
+      "name": "MELVILLE",
+      "code": "2209",
+      "cities": []
+    },
+    {
+      "name": "MISSISSAUGA",
+      "code": "2276",
+      "cities": []
+    },
+    {
+      "name": "MONCTON",
+      "code": "2291",
+      "cities": []
+    },
+    {
+      "name": "MONTAGUE",
+      "code": "2297",
+      "cities": []
+    },
+    {
+      "name": "MONTMAGNY",
+      "code": "2308",
+      "cities": []
+    },
+    {
+      "name": "MONTREAL",
+      "code": "2311",
+      "cities": []
+    },
+    {
+      "name": "MOOSEJAW",
+      "code": "2318",
+      "cities": []
+    },
+    {
+      "name": "N.BATTLEFORD",
+      "code": "2368",
+      "cities": []
+    },
+    {
+      "name": "NANAIMO",
+      "code": "2384",
+      "cities": []
+    },
+    {
+      "name": "NEW GLASGOW",
+      "code": "2428",
+      "cities": []
+    },
+    {
+      "name": "NEW WATERFORD",
+      "code": "2436",
+      "cities": []
+    },
+    {
+      "name": "NEW WESTMINSTER",
+      "code": "2437",
+      "cities": []
+    },
+    {
+      "name": "NEWCASTLE",
+      "code": "2448",
+      "cities": []
+    },
+    {
+      "name": "NIAGARA FALLS",
+      "code": "2463",
+      "cities": []
+    },
+    {
+      "name": "NORTH BAY",
+      "code": "2488",
+      "cities": []
+    },
+    {
+      "name": "NORTH SYDNEY",
+      "code": "2493",
+      "cities": []
+    },
+    {
+      "name": "OAK BAY",
+      "code": "2517",
+      "cities": []
+    },
+    {
+      "name": "OAKVILLE",
+      "code": "2527",
+      "cities": []
+    },
+    {
+      "name": "ORILLIA",
+      "code": "2581",
+      "cities": []
+    },
+    {
+      "name": "OSHAWA",
+      "code": "2592",
+      "cities": []
+    },
+    {
+      "name": "OTTAWA",
+      "code": "2602",
+      "cities": []
+    },
+    {
+      "name": "OWEN SOUND",
+      "code": "2608",
+      "cities": []
+    },
+    {
+      "name": "PARKDALE",
+      "code": "2660",
+      "cities": []
+    },
+    {
+      "name": "PEACE RIVER",
+      "code": "2685",
+      "cities": []
+    },
+    {
+      "name": "PEMBROKE",
+      "code": "2691",
+      "cities": []
+    },
+    {
+      "name": "PENTICTON",
+      "code": "2697",
+      "cities": []
+    },
+    {
+      "name": "PETERBOROUGH",
+      "code": "2716",
+      "cities": []
+    },
+    {
+      "name": "PICTOU",
+      "code": "2728",
+      "cities": []
+    },
+    {
+      "name": "PIERREFONDS",
+      "code": "2729",
+      "cities": []
+    },
+    {
+      "name": "POINTE CLAIRE",
+      "code": "2772",
+      "cities": []
+    },
+    {
+      "name": "PORT ALBERNI",
+      "code": "2788",
+      "cities": []
+    },
+    {
+      "name": "PORT COLBORNE",
+      "code": "2792",
+      "cities": []
+    },
+    {
+      "name": "PORT COQUITLAM",
+      "code": "2793",
+      "cities": []
+    },
+    {
+      "name": "PORT HAWKESBURY",
+      "code": "2796",
+      "cities": []
+    },
+    {
+      "name": "PORTAGE L.",
+      "code": "2801",
+      "cities": []
+    },
+    {
+      "name": "PRINCE ALBERT",
+      "code": "2833",
+      "cities": []
+    },
+    {
+      "name": "PRINCE GEORGE",
+      "code": "2834",
+      "cities": []
+    },
+    {
+      "name": "PRINCE RUPERT",
+      "code": "2835",
+      "cities": []
+    },
+    {
+      "name": "PTE.A.TREMBLES",
+      "code": "2840",
+      "cities": []
+    },
+    {
+      "name": "QUEBEC",
+      "code": "2859",
+      "cities": []
+    },
+    {
+      "name": "RED DEER",
+      "code": "2904",
+      "cities": []
+    },
+    {
+      "name": "REGINA",
+      "code": "2917",
+      "cities": []
+    },
+    {
+      "name": "REPENTIGNY",
+      "code": "2927",
+      "cities": []
+    },
+    {
+      "name": "RICHMOND",
+      "code": "2949",
+      "cities": []
+    },
+    {
+      "name": "RICHMOND HILL",
+      "code": "2947",
+      "cities": []
+    },
+    {
+      "name": "RIMOUSKI",
+      "code": "2963",
+      "cities": []
+    },
+    {
+      "name": "RIVIERE-DU-LOUP",
+      "code": "2970",
+      "cities": []
+    },
+    {
+      "name": "SAANICH",
+      "code": "3027",
+      "cities": []
+    },
+    {
+      "name": "SACKVILLE",
+      "code": "3030",
+      "cities": []
+    },
+    {
+      "name": "SAINT ALBERT",
+      "code": "3038",
+      "cities": []
+    },
+    {
+      "name": "SAINT JOHN",
+      "code": "3039",
+      "cities": []
+    },
+    {
+      "name": "SAINTE FOY",
+      "code": "3044",
+      "cities": []
+    },
+    {
+      "name": "SARNIA",
+      "code": "3147",
+      "cities": []
+    },
+    {
+      "name": "SASKATOON",
+      "code": "3149",
+      "cities": []
+    },
+    {
+      "name": "SAULT ST. MARIE",
+      "code": "3152",
+      "cities": []
+    },
+    {
+      "name": "SCARBOROUGH",
+      "code": "3159",
+      "cities": []
+    },
+    {
+      "name": "SELKIRK",
+      "code": "3180",
+      "cities": []
+    },
+    {
+      "name": "SHAWINIGAN",
+      "code": "3197",
+      "cities": []
+    },
+    {
+      "name": "SHERBROOKE",
+      "code": "3209",
+      "cities": []
+    },
+    {
+      "name": "SHERWOOD",
+      "code": "3213",
+      "cities": []
+    },
+    {
+      "name": "SHERWOOD PARK",
+      "code": "3212",
+      "cities": []
+    },
+    {
+      "name": "SOREL",
+      "code": "3268",
+      "cities": []
+    },
+    {
+      "name": "SPRINGHILL",
+      "code": "3301",
+      "cities": []
+    },
+    {
+      "name": "ST. BONIFACE",
+      "code": "3307",
+      "cities": []
+    },
+    {
+      "name": "ST. CATHERINES",
+      "code": "3309",
+      "cities": []
+    },
+    {
+      "name": "ST. HUBERT",
+      "code": "3313",
+      "cities": []
+    },
+    {
+      "name": "ST. HYACINTHE",
+      "code": "3314",
+      "cities": []
+    },
+    {
+      "name": "ST. JAMES",
+      "code": "3315",
+      "cities": []
+    },
+    {
+      "name": "ST. JEAN",
+      "code": "3316",
+      "cities": []
+    },
+    {
+      "name": "ST. JEROME",
+      "code": "3317",
+      "cities": []
+    },
+    {
+      "name": "ST. JOHN'S",
+      "code": "3318",
+      "cities": []
+    },
+    {
+      "name": "ST. THOMAS",
+      "code": "3326",
+      "cities": []
+    },
+    {
+      "name": "ST. VITAL",
+      "code": "3327",
+      "cities": []
+    },
+    {
+      "name": "STE. THERESE",
+      "code": "3340",
+      "cities": []
+    },
+    {
+      "name": "STEINBACH",
+      "code": "3341",
+      "cities": []
+    },
+    {
+      "name": "STELLARTON",
+      "code": "3342",
+      "cities": []
+    },
+    {
+      "name": "STEPHENVILLE",
+      "code": "3343",
+      "cities": []
+    },
+    {
+      "name": "STRATFORD",
+      "code": "3365",
+      "cities": []
+    },
+    {
+      "name": "SUDBURY",
+      "code": "3372",
+      "cities": []
+    },
+    {
+      "name": "SUMMERSIDE",
+      "code": "3379",
+      "cities": []
+    },
+    {
+      "name": "SURREY",
+      "code": "3393",
+      "cities": []
+    },
+    {
+      "name": "SWIFT CURRENT",
+      "code": "3401",
+      "cities": []
+    },
+    {
+      "name": "SYDNEY",
+      "code": "3404",
+      "cities": []
+    },
+    {
+      "name": "SYDNEY MINES",
+      "code": "3403",
+      "cities": []
+    },
+    {
+      "name": "TABER",
+      "code": "3417",
+      "cities": []
+    },
+    {
+      "name": "THE PAS",
+      "code": "3482",
+      "cities": []
+    },
+    {
+      "name": "THETFORD MINES",
+      "code": "3485",
+      "cities": []
+    },
+    {
+      "name": "THOMPSON",
+      "code": "3488",
+      "cities": []
+    },
+    {
+      "name": "THOROLD",
+      "code": "3490",
+      "cities": []
+    },
+    {
+      "name": "THUNDERBAY",
+      "code": "3493",
+      "cities": []
+    },
+    {
+      "name": "TIMMINS",
+      "code": "3502",
+      "cities": []
+    },
+    {
+      "name": "TORONTO",
+      "code": "3526",
+      "cities": []
+    },
+    {
+      "name": "TRANSCOMA",
+      "code": "3543",
+      "cities": []
+    },
+    {
+      "name": "TRENTON",
+      "code": "3548",
+      "cities": []
+    },
+    {
+      "name": "TRENTON",
+      "code": "3549",
+      "cities": []
+    },
+    {
+      "name": "TROIS RIVIERES",
+      "code": "3560",
+      "cities": []
+    },
+    {
+      "name": "TRURO",
+      "code": "3567",
+      "cities": []
+    },
+    {
+      "name": "VALLEYFIELD",
+      "code": "3646",
+      "cities": []
+    },
+    {
+      "name": "VANCOUVER",
+      "code": "3648",
+      "cities": []
+    },
+    {
+      "name": "VANIER",
+      "code": "3650",
+      "cities": []
+    },
+    {
+      "name": "VAUGHAN",
+      "code": "3657",
+      "cities": []
+    },
+    {
+      "name": "VICTORIA",
+      "code": "3677",
+      "cities": []
+    },
+    {
+      "name": "VICTORIAVILLE",
+      "code": "3679",
+      "cities": []
+    },
+    {
+      "name": "W.KILDONAN",
+      "code": "3717",
+      "cities": []
+    },
+    {
+      "name": "WALLACEBURG",
+      "code": "3728",
+      "cities": []
+    },
+    {
+      "name": "WATERLOO",
+      "code": "3758",
+      "cities": []
+    },
+    {
+      "name": "WELLAND",
+      "code": "3779",
+      "cities": []
+    },
+    {
+      "name": "WETASKIWIN",
+      "code": "3806",
+      "cities": []
+    },
+    {
+      "name": "WEYBURN",
+      "code": "3810",
+      "cities": []
+    },
+    {
+      "name": "WHITBY",
+      "code": "3819",
+      "cities": []
+    },
+    {
+      "name": "WINDSOR",
+      "code": "3848",
+      "cities": []
+    },
+    {
+      "name": "WINDSOR",
+      "code": "3849",
+      "cities": []
+    },
+    {
+      "name": "WINDSOR",
+      "code": "3850",
+      "cities": []
+    },
+    {
+      "name": "WINNEPEG",
+      "code": "3851",
+      "cities": []
+    },
+    {
+      "name": "WOODSTOCK",
+      "code": "3871",
+      "cities": []
+    },
+    {
+      "name": "YARMOUTH",
+      "code": "3893",
+      "cities": []
+    },
+    {
+      "name": "YORK",
+      "code": "3904",
+      "cities": []
+    },
+    {
+      "name": "YORKTON",
+      "code": "3907",
+      "cities": []
+    }
+  ]
+}

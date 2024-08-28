@@ -1,0 +1,346 @@
+{
+  "name": "INDIA",
+  "code": "51",
+  "provinces": [
+    {
+      "name": "AGRA",
+      "code": "24",
+      "cities": []
+    },
+    {
+      "name": "AHMADABAD",
+      "code": "28",
+      "cities": []
+    },
+    {
+      "name": "AHMEDABAD",
+      "code": "29",
+      "cities": []
+    },
+    {
+      "name": "ALIGARH",
+      "code": "69",
+      "cities": []
+    },
+    {
+      "name": "ALLAHABAD",
+      "code": "72",
+      "cities": []
+    },
+    {
+      "name": "AMBALA",
+      "code": "92",
+      "cities": []
+    },
+    {
+      "name": "AMRITSAR",
+      "code": "99",
+      "cities": []
+    },
+    {
+      "name": "ASANSOL",
+      "code": "162",
+      "cities": []
+    },
+    {
+      "name": "BALLY",
+      "code": "229",
+      "cities": []
+    },
+    {
+      "name": "BANGALORE",
+      "code": "234",
+      "cities": []
+    },
+    {
+      "name": "BAREILLY",
+      "code": "248",
+      "cities": []
+    },
+    {
+      "name": "BARODA",
+      "code": "255",
+      "cities": []
+    },
+    {
+      "name": "BENARES",
+      "code": "327",
+      "cities": []
+    },
+    {
+      "name": "BHAUNAGAR",
+      "code": "368",
+      "cities": []
+    },
+    {
+      "name": "BHOPAL",
+      "code": "369",
+      "cities": []
+    },
+    {
+      "name": "BOMBAY",
+      "code": "421",
+      "cities": []
+    },
+    {
+      "name": "CALCUTTA",
+      "code": "562",
+      "cities": []
+    },
+    {
+      "name": "CALICUT",
+      "code": "567",
+      "cities": []
+    },
+    {
+      "name": "CAWNPORE",
+      "code": "647",
+      "cities": []
+    },
+    {
+      "name": "COIMBATORE",
+      "code": "786",
+      "cities": []
+    },
+    {
+      "name": "CUTTACK",
+      "code": "882",
+      "cities": []
+    },
+    {
+      "name": "DELHI",
+      "code": "929",
+      "cities": []
+    },
+    {
+      "name": "ERNAKULAM",
+      "code": "1099",
+      "cities": []
+    },
+    {
+      "name": "GAUHATI",
+      "code": "1258",
+      "cities": []
+    },
+    {
+      "name": "GAYA",
+      "code": "1260",
+      "cities": []
+    },
+    {
+      "name": "GORAKHPUR",
+      "code": "1311",
+      "cities": []
+    },
+    {
+      "name": "GUNTUR",
+      "code": "1387",
+      "cities": []
+    },
+    {
+      "name": "GWALIOR",
+      "code": "1389",
+      "cities": []
+    },
+    {
+      "name": "HOWRAH",
+      "code": "1551",
+      "cities": []
+    },
+    {
+      "name": "HUBLI",
+      "code": "1554",
+      "cities": []
+    },
+    {
+      "name": "HYDERABAD",
+      "code": "1570",
+      "cities": []
+    },
+    {
+      "name": "INDORE",
+      "code": "1587",
+      "cities": []
+    },
+    {
+      "name": "JABALPUR",
+      "code": "1624",
+      "cities": []
+    },
+    {
+      "name": "JAIPUR",
+      "code": "1635",
+      "cities": []
+    },
+    {
+      "name": "JAMNAGAR",
+      "code": "1640",
+      "cities": []
+    },
+    {
+      "name": "JAMSHEDPUR",
+      "code": "1641",
+      "cities": []
+    },
+    {
+      "name": "JAPALPUR",
+      "code": "1643",
+      "cities": []
+    },
+    {
+      "name": "JHANSI",
+      "code": "1655",
+      "cities": []
+    },
+    {
+      "name": "JODHPUR",
+      "code": "1657",
+      "cities": []
+    },
+    {
+      "name": "JUBBOLPORE",
+      "code": "1667",
+      "cities": []
+    },
+    {
+      "name": "JULLUNDUR",
+      "code": "1671",
+      "cities": []
+    },
+    {
+      "name": "KALYAN",
+      "code": "1689",
+      "cities": []
+    },
+    {
+      "name": "KANPUR",
+      "code": "1698",
+      "cities": []
+    },
+    {
+      "name": "KOLHAPUR",
+      "code": "1796",
+      "cities": []
+    },
+    {
+      "name": "KOTA",
+      "code": "1813",
+      "cities": []
+    },
+    {
+      "name": "KOZHIKODE",
+      "code": "1817",
+      "cities": []
+    },
+    {
+      "name": "LUCKNOW",
+      "code": "2049",
+      "cities": []
+    },
+    {
+      "name": "LUDHIANA",
+      "code": "2051",
+      "cities": []
+    },
+    {
+      "name": "MADRAS",
+      "code": "2090",
+      "cities": []
+    },
+    {
+      "name": "MADURAI",
+      "code": "2092",
+      "cities": []
+    },
+    {
+      "name": "MALEGAON",
+      "code": "2108",
+      "cities": []
+    },
+    {
+      "name": "MANGOLORE",
+      "code": "2119",
+      "cities": []
+    },
+    {
+      "name": "MEERUT",
+      "code": "2199",
+      "cities": []
+    },
+    {
+      "name": "MORADABAD",
+      "code": "2319",
+      "cities": []
+    },
+    {
+      "name": "MYSORE",
+      "code": "2365",
+      "cities": []
+    },
+    {
+      "name": "NAGPUR",
+      "code": "2377",
+      "cities": []
+    },
+    {
+      "name": "NEW DELHI",
+      "code": "2427",
+      "cities": []
+    },
+    {
+      "name": "PATNA",
+      "code": "2677",
+      "cities": []
+    },
+    {
+      "name": "POONA",
+      "code": "2783",
+      "cities": []
+    },
+    {
+      "name": "RAJKOT",
+      "code": "2876",
+      "cities": []
+    },
+    {
+      "name": "SAHARANPUR",
+      "code": "3035",
+      "cities": []
+    },
+    {
+      "name": "SALEM",
+      "code": "3049",
+      "cities": []
+    },
+    {
+      "name": "SHOLAPUR",
+      "code": "3218",
+      "cities": []
+    },
+    {
+      "name": "SRINAGAR",
+      "code": "3303",
+      "cities": []
+    },
+    {
+      "name": "SURAT",
+      "code": "3392",
+      "cities": []
+    },
+    {
+      "name": "TRIVANDRUM",
+      "code": "3558",
+      "cities": []
+    },
+    {
+      "name": "VARANASI",
+      "code": "3651",
+      "cities": []
+    },
+    {
+      "name": "VIJAYAWADA",
+      "code": "3684",
+      "cities": []
+    }
+  ]
+}

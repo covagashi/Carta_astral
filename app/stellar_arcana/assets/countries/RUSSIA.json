@@ -1,0 +1,291 @@
+{
+  "name": "RUSSIA",
+  "code": "92",
+  "provinces": [
+    {
+      "name": "ANDROPOV",
+      "code": "113",
+      "cities": []
+    },
+    {
+      "name": "ASTRAKHAN",
+      "code": "176",
+      "cities": []
+    },
+    {
+      "name": "BABUSHKIN",
+      "code": "208",
+      "cities": []
+    },
+    {
+      "name": "BAKU",
+      "code": "224",
+      "cities": []
+    },
+    {
+      "name": "BRYANSK",
+      "code": "516",
+      "cities": []
+    },
+    {
+      "name": "CHEBOKSARY",
+      "code": "693",
+      "cities": []
+    },
+    {
+      "name": "CHEREPOVETS",
+      "code": "704",
+      "cities": []
+    },
+    {
+      "name": "DMITROV",
+      "code": "953",
+      "cities": []
+    },
+    {
+      "name": "DZERZHINSK",
+      "code": "1013",
+      "cities": []
+    },
+    {
+      "name": "GORKI",
+      "code": "1313",
+      "cities": []
+    },
+    {
+      "name": "IVANOVO",
+      "code": "1618",
+      "cities": []
+    },
+    {
+      "name": "KALININ",
+      "code": "1684",
+      "cities": []
+    },
+    {
+      "name": "KALININGRAD",
+      "code": "1685",
+      "cities": []
+    },
+    {
+      "name": "KALININGRAD",
+      "code": "1686",
+      "cities": []
+    },
+    {
+      "name": "KALUGA",
+      "code": "1688",
+      "cities": []
+    },
+    {
+      "name": "KAZAN",
+      "code": "1725",
+      "cities": []
+    },
+    {
+      "name": "KHABAROVSK",
+      "code": "1751",
+      "cities": []
+    },
+    {
+      "name": "KOLOMNA",
+      "code": "1799",
+      "cities": []
+    },
+    {
+      "name": "KOSTROMA",
+      "code": "1811",
+      "cities": []
+    },
+    {
+      "name": "KOVROV",
+      "code": "1815",
+      "cities": []
+    },
+    {
+      "name": "KRASNODAR",
+      "code": "1819",
+      "cities": []
+    },
+    {
+      "name": "KRASNOJARSK",
+      "code": "1820",
+      "cities": []
+    },
+    {
+      "name": "KUNTSEVO",
+      "code": "1833",
+      "cities": []
+    },
+    {
+      "name": "KURSK",
+      "code": "1837",
+      "cities": []
+    },
+    {
+      "name": "KUYBYSHEV",
+      "code": "1839",
+      "cities": []
+    },
+    {
+      "name": "LENINGRAD",
+      "code": "1936",
+      "cities": []
+    },
+    {
+      "name": "LENINO",
+      "code": "1937",
+      "cities": []
+    },
+    {
+      "name": "LYUBLINO",
+      "code": "2078",
+      "cities": []
+    },
+    {
+      "name": "MOSCOW",
+      "code": "2329",
+      "cities": []
+    },
+    {
+      "name": "MOSKVA",
+      "code": "2330",
+      "cities": []
+    },
+    {
+      "name": "MURMANSK",
+      "code": "2360",
+      "cities": []
+    },
+    {
+      "name": "MYTISHCHI",
+      "code": "2366",
+      "cities": []
+    },
+    {
+      "name": "NARO-FOMINSK",
+      "code": "2399",
+      "cities": []
+    },
+    {
+      "name": "NOGINSK",
+      "code": "2479",
+      "cities": []
+    },
+    {
+      "name": "NOVOSIBIRSK",
+      "code": "2511",
+      "cities": []
+    },
+    {
+      "name": "OREKHOVO-ZUYEVO",
+      "code": "2577",
+      "cities": []
+    },
+    {
+      "name": "OREL",
+      "code": "2578",
+      "cities": []
+    },
+    {
+      "name": "PERM",
+      "code": "2701",
+      "cities": []
+    },
+    {
+      "name": "PEROVO",
+      "code": "2704",
+      "cities": []
+    },
+    {
+      "name": "PODOLSK",
+      "code": "2771",
+      "cities": []
+    },
+    {
+      "name": "PUSHKINO",
+      "code": "2854",
+      "cities": []
+    },
+    {
+      "name": "RAMENSKOYE",
+      "code": "2880",
+      "cities": []
+    },
+    {
+      "name": "ROSTOV",
+      "code": "3002",
+      "cities": []
+    },
+    {
+      "name": "RYAZAN",
+      "code": "3022",
+      "cities": []
+    },
+    {
+      "name": "RYBINSK",
+      "code": "3023",
+      "cities": []
+    },
+    {
+      "name": "SARATOV",
+      "code": "3145",
+      "cities": []
+    },
+    {
+      "name": "SOBINKA",
+      "code": "3256",
+      "cities": []
+    },
+    {
+      "name": "SVERDLOVSK",
+      "code": "3399",
+      "cities": []
+    },
+    {
+      "name": "TAMBOV",
+      "code": "3430",
+      "cities": []
+    },
+    {
+      "name": "TULA",
+      "code": "3573",
+      "cities": []
+    },
+    {
+      "name": "VLADIVOSTOK",
+      "code": "3705",
+      "cities": []
+    },
+    {
+      "name": "VOLGOGRAD",
+      "code": "3708",
+      "cities": []
+    },
+    {
+      "name": "VOLOGDA",
+      "code": "3709",
+      "cities": []
+    },
+    {
+      "name": "VORONESZH",
+      "code": "3712",
+      "cities": []
+    },
+    {
+      "name": "YAROSLAVL",
+      "code": "3894",
+      "cities": []
+    },
+    {
+      "name": "YEGORYEVSK",
+      "code": "3895",
+      "cities": []
+    },
+    {
+      "name": "ZAGORSK",
+      "code": "3917",
+      "cities": []
+    }
+  ]
+}
