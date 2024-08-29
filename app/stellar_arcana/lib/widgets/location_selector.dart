@@ -1,68 +1,111 @@
 import 'package:flutter/material.dart';
-import '../data/location_data.dart';
+import 'dart:convert';
+import 'package:flutter/services.dart' show rootBundle;
+import '../screens/SCR_ONB_04_Confirmation.dart';
 
 
-class Location extends StatefulWidget {
+class LocationSelector extends StatefulWidget {
   final String backgroundImagePath;
+  final DateTime birthDate;
+  final TimeOfDay birthTime;
 
-  Location({Key? key, required this.backgroundImagePath}) : super(key: key);
+  LocationSelector({
+    Key? key,
+    required this.backgroundImagePath,
+    required this.birthDate,
+    required this.birthTime,
+  }) : super(key: key);
 
   @override
-  _LocationState createState() => _LocationState();
+  _LocationSelectorState createState() => _LocationSelectorState();
 }
 
-class _LocationState extends State<Location> {
+class _LocationSelectorState extends State<LocationSelector> {
+  List<String> countries = [];
+  List<String> provinces = [];
+  List<String> cities = [];
   String? selectedCountry;
+  String? selectedProvince;
   String? selectedCity;
-  List<String> filteredCountries = [];
-  List<String> filteredCities = [];
   bool isLoading = true;
   String? errorMessage;
 
   @override
   void initState() {
     super.initState();
-    _loadCountryData();
+    _loadCountries();
   }
 
-  Future<void> _loadCountryData() async {
+  Future<void> _loadCountries() async {
     try {
-      await LocationData.loadCountryIndex();
+      final String response = await rootBundle.loadString('assets/countries_index.json');
+      final data = json.decode(response);
       setState(() {
-        filteredCountries = LocationData.getCountryNames();
+        countries = List<String>.from(data['countries'].map((country) => country['name']));
         isLoading = false;
       });
     } catch (e) {
       setState(() {
-        errorMessage = "Error al cargar los datos de países: $e";
+        errorMessage = "Error al cargar los países: $e";
         isLoading = false;
       });
     }
   }
 
-  void filterCountries(String query) {
-    setState(() {
-      filteredCountries = LocationData.getCountryNames()
-          .where((country) => country.toLowerCase().contains(query.toLowerCase()))
-          .toList();
-    });
-  }
-
-  Future<void> filterCities(String query) async {
-    if (selectedCountry == null) return;
-    String? countryCode = LocationData.getCountryCodeByName(selectedCountry!);
-    if (countryCode == null) return;
-
+  Future<void> _loadProvinces(String countryName) async {
     setState(() {
       isLoading = true;
+      provinces = [];
+      cities = [];
+      selectedProvince = null;
+      selectedCity = null;
     });
 
     try {
-      List<String> allCities = await LocationData.getCitiesForCountry(countryCode);
+      final String indexResponse = await rootBundle.loadString('assets/countries_index.json');
+      final indexData = json.decode(indexResponse);
+      final countryData = indexData['countries'].firstWhere((c) => c['name'] == countryName);
+
+      final String countryResponse = await rootBundle.loadString('assets/countries/${countryData['file']}');
+      final countryJson = json.decode(countryResponse);
+
       setState(() {
-        filteredCities = allCities
-            .where((city) => city.toLowerCase().contains(query.toLowerCase()))
-            .toList();
+        provinces = List<String>.from(countryJson['provinces'].map((province) => province['name']));
+        isLoading = false;
+      });
+    } catch (e) {
+      setState(() {
+        errorMessage = "Error al cargar las provincias: $e";
+        isLoading = false;
+      });
+    }
+  }
+
+  Future<void> _loadCities(String provinceName) async {
+    setState(() {
+      isLoading = true;
+      cities = [];
+      selectedCity = null;
+    });
+
+    try {
+      final String indexResponse = await rootBundle.loadString('assets/countries_index.json');
+      final indexData = json.decode(indexResponse);
+      final countryData = indexData['countries'].firstWhere((c) => c['name'] == selectedCountry);
+
+      final String countryResponse = await rootBundle.loadString('assets/countries/${countryData['file']}');
+      final countryJson = json.decode(countryResponse);
+
+      final provinceData = countryJson['provinces'].firstWhere((p) => p['name'] == provinceName);
+
+      setState(() {
+        if (provinceData['cities'] != null && provinceData['cities'].isNotEmpty) {
+          cities = List<String>.from(provinceData['cities'].map((city) => city['name']));
+        } else {
+          // Si no hay ciudades, tratamos la provincia como una ciudad
+          cities = [provinceName];
+          selectedCity = provinceName;
+        }
         isLoading = false;
       });
     } catch (e) {
@@ -73,176 +116,120 @@ class _LocationState extends State<Location> {
     }
   }
 
-  Future<void> _verifyCity() async {
-    if (selectedCountry == null || selectedCity == null) return;
-
-    setState(() {
-      isLoading = true;
-      errorMessage = null;
-    });
-
-    try {
-      String? countryCode = LocationData.getCountryCodeByName(selectedCountry!);
-      if (countryCode == null) {
-        throw Exception("País no encontrado en nuestros datos");
-      }
-
-      List<String> cities = await LocationData.getCitiesForCountry(countryCode);
-      if (!cities.contains(selectedCity)) {
-        throw Exception("Ciudad no encontrada en nuestros datos para este país");
-      }
-
-      // Si llegamos aquí, la ciudad es válida
-      print('País seleccionado: $selectedCountry, Ciudad seleccionada: $selectedCity');
-      // Aquí puedes navegar a la siguiente pantalla o guardar los datos
-    } catch (e) {
-      setState(() {
-        errorMessage = e.toString();
-      });
-    } finally {
-      setState(() {
-        isLoading = false;
-      });
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
-    return ParallaxBackground(
-      imagePath: widget.backgroundImagePath,
-      child: SafeArea(
-        child: Padding(
-          padding: EdgeInsets.symmetric(horizontal: 20),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.stretch,
-            children: [
-              SizedBox(height: 40),
-              Text(
-                "¿DÓNDE NACISTE?",
-                textAlign: TextAlign.center,
-                style: GoogleFonts.cinzel(
-                  textStyle: TextStyle(
-                    fontWeight: FontWeight.bold,
-                    fontSize: 28,
-                    color: Colors.white,
-                    shadows: [
-                      Shadow(
-                        blurRadius: 10.0,
-                        color: Colors.black.withOpacity(0.5),
-                        offset: Offset(2, 2),
-                      ),
-                    ],
-                  ),
+    return SingleChildScrollView(
+      child: Padding(
+        padding: EdgeInsets.all(16.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            if (isLoading)
+              Center(child: CircularProgressIndicator())
+            else if (errorMessage != null)
+              Text(errorMessage!, style: TextStyle(color: Colors.red))
+            else ...[
+                DropdownButton<String>(
+                  value: selectedCountry,
+                  hint: Text('Selecciona un país', style: TextStyle(color: Colors.white70)),
+                  isExpanded: true,
+                  dropdownColor: Colors.grey[800],
+                  style: TextStyle(color: Colors.white),
+                  onChanged: (String? newValue) {
+                    setState(() {
+                      selectedCountry = newValue;
+                      selectedProvince = null;
+                      selectedCity = null;
+                    });
+                    if (newValue != null) {
+                      _loadProvinces(newValue);
+                    }
+                  },
+                  items: countries.map<DropdownMenuItem<String>>((String value) {
+                    return DropdownMenuItem<String>(
+                      value: value,
+                      child: Text(value),
+                    );
+                  }).toList(),
                 ),
-              ),
-              SizedBox(height: 20),
-              Text(
-                "Tu lugar de nacimiento es crucial para calcular tu carta astral con precisión.",
-                textAlign: TextAlign.center,
-                style: GoogleFonts.comfortaa(
-                  textStyle: TextStyle(
-                    fontSize: 16,
-                    color: Colors.white.withOpacity(0.8),
-                  ),
-                ),
-              ),
-              SizedBox(height: 40),
-              if (isLoading)
-                Center(child: CircularProgressIndicator())
-              else if (errorMessage != null)
-                Text(errorMessage!, style: TextStyle(color: Colors.red))
-              else ...[
-                  TextField(
+                SizedBox(height: 20),
+                if (selectedCountry != null) ...[
+                  DropdownButton<String>(
+                    value: selectedProvince,
+                    hint: Text('Selecciona una provincia o ciudad', style: TextStyle(color: Colors.white70)),
+                    isExpanded: true,
+                    dropdownColor: Colors.grey[800],
                     style: TextStyle(color: Colors.white),
-                    decoration: InputDecoration(
-                      hintText: 'Buscar país...',
-                      hintStyle: TextStyle(color: Colors.white.withOpacity(0.5)),
-                      filled: true,
-                      fillColor: Colors.white.withOpacity(0.1),
-                      border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(15),
-                        borderSide: BorderSide.none,
-                      ),
-                    ),
-                    onChanged: filterCountries,
+                    onChanged: (String? newValue) {
+                      setState(() {
+                        selectedProvince = newValue;
+                        selectedCity = null;
+                      });
+                      if (newValue != null) {
+                        _loadCities(newValue);
+                      }
+                    },
+                    items: provinces.map<DropdownMenuItem<String>>((String value) {
+                      return DropdownMenuItem<String>(
+                        value: value,
+                        child: Text(value),
+                      );
+                    }).toList(),
                   ),
                   SizedBox(height: 20),
-                  Expanded(
-                    child: ListView.builder(
-                      itemCount: filteredCountries.length,
-                      itemBuilder: (context, index) {
-                        return ListTile(
-                          title: Text(
-                            filteredCountries[index],
-                            style: TextStyle(color: Colors.white),
-                          ),
-                          onTap: () {
-                            setState(() {
-                              selectedCountry = filteredCountries[index];
-                              selectedCity = null;
-                              filteredCities = [];
-                            });
-                            filterCities('');
-                          },
-                        );
-                      },
-                    ),
-                  ),
-                  if (selectedCountry != null) ...[
-                    SizedBox(height: 20),
-                    TextField(
-                      style: TextStyle(color: Colors.white),
-                      decoration: InputDecoration(
-                        hintText: 'Buscar ciudad...',
-                        hintStyle: TextStyle(color: Colors.white.withOpacity(0.5)),
-                        filled: true,
-                        fillColor: Colors.white.withOpacity(0.1),
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(15),
-                          borderSide: BorderSide.none,
-                        ),
-                      ),
-                      onChanged: (query) => filterCities(query),
-                    ),
-                    SizedBox(height: 20),
-                    Expanded(
-                      child: ListView.builder(
-                        itemCount: filteredCities.length,
-                        itemBuilder: (context, index) {
-                          return ListTile(
-                            title: Text(
-                              filteredCities[index],
-                              style: TextStyle(color: Colors.white),
-                            ),
-                            onTap: () {
-                              setState(() {
-                                selectedCity = filteredCities[index];
-                              });
-                            },
-                          );
-                        },
-                      ),
-                    ),
-                  ],
                 ],
-              if (selectedCountry != null && selectedCity != null)
-                ElevatedButton(
-                  onPressed: isLoading ? null : _verifyCity,
-                  child: isLoading
-                      ? CircularProgressIndicator(color: Colors.white)
-                      : Text('Confirmar ubicación'),
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.white.withOpacity(0.2),
-                    foregroundColor: Colors.white,
-                    padding: EdgeInsets.symmetric(vertical: 15),
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(30),
+                if (selectedProvince != null && cities.isNotEmpty) ...[
+                  DropdownButton<String>(
+                    value: selectedCity,
+                    hint: Text('Selecciona una ciudad', style: TextStyle(color: Colors.white70)),
+                    isExpanded: true,
+                    dropdownColor: Colors.grey[800],
+                    style: TextStyle(color: Colors.white),
+                    onChanged: (String? newValue) {
+                      setState(() {
+                        selectedCity = newValue;
+                      });
+                    },
+                    items: cities.map<DropdownMenuItem<String>>((String value) {
+                      return DropdownMenuItem<String>(
+                        value: value,
+                        child: Text(value),
+                      );
+                    }).toList(),
+                  ),
+                  SizedBox(height: 20),
+                ],
+                if (selectedCountry != null && selectedProvince != null &&
+                    (selectedCity != null || cities.isEmpty)) ...[
+                  ElevatedButton(
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => Confirmation(
+                            backgroundImagePath: widget.backgroundImagePath,
+                            birthDate: widget.birthDate,
+                            birthTime: widget.birthTime,
+                            country: selectedCountry!,
+                            province: selectedProvince!,
+                            city: selectedCity ?? selectedProvince!,
+                          ),
+                        ),
+                      );
+                    },
+                    child: Text('Confirmar ubicación'),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.white.withOpacity(0.2),
+                      foregroundColor: Colors.white,
+                      padding: EdgeInsets.symmetric(vertical: 15),
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(30),
+                      ),
                     ),
                   ),
-                ),
-              SizedBox(height: 20),
-            ],
-          ),
+                ],
+              ],
+          ],
         ),
       ),
     );

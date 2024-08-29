@@ -50,20 +50,18 @@ class DevHomeScreen extends StatelessWidget {
             ),
             SizedBox(height: 20),
             ElevatedButton(
-              child: Text('Pantalla de hora de Nacimiento'),
+              child: Text('Pantalla de Fecha y Hora de Nacimiento'),
               onPressed: () => Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => BirthInfo(backgroundImagePath: 'assets/welcome.webp')),
+                MaterialPageRoute(
+                  builder: (context) => BirthInfo(
+                    backgroundImagePath: 'assets/welcome.webp',
+                  ),
+                ),
               ),
             ),
-            SizedBox(height: 20),
-            ElevatedButton(
-              child: Text('Pantalla de pais'),
-              onPressed: () => Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => Location(backgroundImagePath: 'assets/welcome.webp')),
-              ),
-            ),
+
+
             // Añade más botones aquí para otras pantallas que quieras probar
           ],
         ),

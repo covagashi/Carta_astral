@@ -13,6 +13,8 @@ dependencies:
   shared_preferences: ^2.1.0
   cupertino_icons: ^1.0.8
   google_fonts: ^5.1.0
+  country_state_city_picker: ^1.2.8
+  path_provider: ^2.0.0
 
   flutter_localizations:
     sdk: flutter
@@ -32,5 +34,8 @@ flutter:
      - assets/splash3.webp
      - assets/splash4.webp
      - assets/splash5.webp
+     - assets/countries_index.json
+     - assets/countries/
+     - assets/
 
 

@@ -1,8 +1,8 @@
 {
   "countries": [
-    {"name": "Afghanistan", "code": "1", "file": "Afghanistan.json"},
-    {"name": "Albania", "code": "2", "file": "Albania.json"},
-    {"name": "alemania", "code": "36", "file": "alemania.json"},
+    {"name": "AFGHANISTAN", "code": "1", "file": "AFGHANISTAN.json"},
+    {"name": "ALBANIA", "code": "2", "file": "ALBANIA.json"},
+    {"name": "ALEMANIA", "code": "36", "file": "ALEMANIA.json"},
     {"name": "ALGERIA", "code": "3", "file": "ALGERIA.json"},
     {"name": "ANDORRA", "code": "128", "file": "ANDORRA.json"},
     {"name": "ANGOLA", "code": "4", "file": "ANGOLA.json"},

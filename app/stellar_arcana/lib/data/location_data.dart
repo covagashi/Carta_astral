@@ -3,62 +3,60 @@
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
 
-class Country {
-  final String name;
-  final String code;
-  final String file;
-
-  Country({required this.name, required this.code, required this.file});
-
-  factory Country.fromJson(Map<String, dynamic> json) {
-    return Country(
-      name: json['name'],
-      code: json['code'],
-      file: json['file'],
-    );
-  }
-}
-
 class LocationData {
-  static List<Country>? _countries;
-  static Map<String, List<String>> _citiesByCountry = {};
+  static Map<String, dynamic>? _countryData;
 
   static Future<void> loadCountryIndex() async {
-    if (_countries != null) return;
+    if (_countryData != null) return;
 
-    final String response = await rootBundle.loadString('assets/countries_index.json');
-    final data = await json.decode(response);
-    
-    _countries = (data['countries'] as List)
-        .map((countryJson) => Country.fromJson(countryJson))
-        .toList();
+    try {
+      final String response = await rootBundle.loadString('assets/countries_index.json');
+      _countryData = json.decode(response);
+    } catch (e) {
+      print('Error loading country index: $e');
+      _countryData = {"countries": []};
+    }
   }
 
   static List<String> getCountryNames() {
-    return _countries?.map((country) => country.name).toList() ?? [];
+    if (_countryData == null) {
+      return [];
+    }
+    return (_countryData!['countries'] as List)
+        .map((country) => country['name'] as String)
+        .toList();
   }
 
   static String? getCountryCodeByName(String countryName) {
-    return _countries?.firstWhere((country) => country.name == countryName).code;
+    if (_countryData == null) return null;
+    var country = _countryData!['countries'].firstWhere(
+            (c) => c['name'].toLowerCase() == countryName.toLowerCase(),
+        orElse: () => null
+    );
+    return country?['code'];
   }
 
   static Future<List<String>> getCitiesForCountry(String countryCode) async {
-    if (_citiesByCountry.containsKey(countryCode)) {
-      return _citiesByCountry[countryCode]!;
-    }
-
-    final country = _countries?.firstWhere((country) => country.code == countryCode);
+    if (_countryData == null) await loadCountryIndex();
+    var country = _countryData!['countries'].firstWhere(
+            (c) => c['code'] == countryCode,
+        orElse: () => null
+    );
     if (country == null) return [];
 
-    final String response = await rootBundle.loadString('assets/countries/${country.file}');
-    final data = await json.decode(response);
-    
-    List<String> cities = [];
-    for (var province in data['provinces']) {
-      cities.addAll(province['cities'].map((city) => city['name'] as String));
-    }
+    try {
+      final String response = await rootBundle.loadString('assets/countries/${country['file']}');
+      final data = json.decode(response);
 
-    _citiesByCountry[countryCode] = cities;
-    return cities;
+      List<String> cities = [];
+      for (var province in data['provinces']) {
+        cities.addAll(province['cities'].map((city) => city['name'] as String));
+      }
+
+      return cities;
+    } catch (e) {
+      print('Error loading cities for country $countryCode: $e');
+      return [];
+    }
   }
 }

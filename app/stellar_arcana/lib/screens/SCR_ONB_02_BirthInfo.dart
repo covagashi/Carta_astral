@@ -8,7 +8,10 @@ import 'SCR_ONB_03_Location.dart';
 class BirthInfo extends StatefulWidget {
   final String backgroundImagePath;
 
-  BirthInfo({Key? key, required this.backgroundImagePath}) : super(key: key);
+  BirthInfo({
+    Key? key,
+    required this.backgroundImagePath,
+  }) : super(key: key);
 
   @override
   _BirthInfoState createState() => _BirthInfoState();
@@ -53,7 +56,11 @@ class _BirthInfoState extends State<BirthInfo> {
                   },
                   children: [
                     _buildBirthInfoPage(),
-                    Location(),
+                    LocationScreen(
+                      backgroundImagePath: widget.backgroundImagePath,
+                      birthDate: selectedDate ?? DateTime.now(),
+                      birthTime: selectedTime ?? TimeOfDay.now(),
+                    ),
                   ],
                 ),
               ),
@@ -185,7 +192,9 @@ class _BirthInfoState extends State<BirthInfo> {
                     setState(() {
                       unknownTime = value;
                       if (value) {
-                        selectedTime = null;
+                        selectedTime = TimeOfDay(hour: 12, minute: 0); // Establecer a 12:00
+                      } else {
+                        selectedTime = TimeOfDay.now(); // Restablecer a la hora actual
                       }
                     });
                   },
