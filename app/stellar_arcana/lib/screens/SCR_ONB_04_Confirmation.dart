@@ -4,8 +4,7 @@ import '../widgets/parallax_background.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'SCR_01_Home.dart';
-import '../services/chart_storage_service.dart';
-
+import '../services/json_profile_storage_service.dart';
 
 class Confirmation extends StatelessWidget {
   final String backgroundImagePath;
@@ -35,7 +34,7 @@ class Confirmation extends StatelessWidget {
         url,
         headers: {'Content-Type': 'application/json'},
         body: json.encode({
-          'nombre': 'Espíritu Estelar',  // Asumiendo que este es el nombre del perfil
+          'nombre': 'Espíritu Estelar',  // Nombre del perfil
           'dia': birthDate.day.toString().padLeft(2, '0'),
           'mes': birthDate.month.toString().padLeft(2, '0'),
           'ano': birthDate.year.toString(),
@@ -53,13 +52,20 @@ class Confirmation extends StatelessWidget {
         final jsonResponse = json.decode(response.body);
         print('Respuesta JSON recibida: ${jsonResponse.toString().substring(0, 100)}...');
 
-        // Guardar los datos en caché
-        await ChartStorageService.saveChartData('Espíritu Estelar', jsonResponse['data']);
+        // Guardar los datos en un archivo JSON asociado al perfil
+        await JsonProfileStorageService.saveProfileData('Espíritu Estelar', {
+          'chartData': jsonResponse['data'],
+          'birthDate': birthDate.toIso8601String(),
+          'birthTime': '${birthTime.hour}:${birthTime.minute}',
+          'country': country,
+          'province': province,
+          'city': city,
+        });
 
         Navigator.push(
           context,
           MaterialPageRoute(
-            builder: (context) => Home(chartData: jsonResponse['data']),
+            builder: (context) => Home(profileName: 'Espíritu Estelar'),
           ),
         );
       } else {

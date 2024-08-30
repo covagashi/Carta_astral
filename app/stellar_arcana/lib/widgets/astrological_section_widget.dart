@@ -1,0 +1,93 @@
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'dart:convert';
+
+class AstrologicalSectionWidget extends StatelessWidget {
+  final dynamic chartData;
+  final List<String> titleKeywords;
+  final String sectionType;
+
+  AstrologicalSectionWidget({
+    Key? key,
+    required this.chartData,
+    required this.titleKeywords,
+    required this.sectionType,
+  }) : super(key: key);
+
+  bool _titleMatchesKeywords(String title) {
+    switch (sectionType) {
+      case 'casas':
+        return title.toLowerCase().contains('casa');
+      case 'planetas':
+        return titleKeywords.any((keyword) => title.toLowerCase().startsWith(keyword.toLowerCase())) &&
+            !title.toLowerCase().contains('casa');
+      case 'resumen':
+      case 'aspectos':
+      default:
+        return titleKeywords.any((keyword) => title.toLowerCase().contains(keyword.toLowerCase()));
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    Map<String, dynamic>? data;
+    if (chartData is String) {
+      try {
+        data = json.decode(chartData);
+      } catch (e) {
+        print('Error al decodificar chartData: $e');
+      }
+    } else if (chartData is Map<String, dynamic>) {
+      data = chartData;
+    }
+
+    if (data == null || !data.containsKey('content')) {
+      return Center(child: Text('No hay datos disponibles', style: TextStyle(color: Colors.white)));
+    }
+
+    final List<dynamic> sections = data['content'] as List<dynamic>;
+    final filteredSections = sections.where((section) => _titleMatchesKeywords(section['title'])).toList();
+
+    if (filteredSections.isEmpty) {
+      return Center(child: Text('No se encontraron secciones relevantes', style: TextStyle(color: Colors.white)));
+    }
+
+    return ListView.builder(
+      itemCount: filteredSections.length,
+      itemBuilder: (context, index) {
+        final section = filteredSections[index];
+        return Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              section['title'],
+              style: GoogleFonts.cinzel(
+                textStyle: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 18,
+                  color: Colors.white,
+                ),
+              ),
+            ),
+            SizedBox(height: 10),
+            ...(section['paragraphs'] as List<dynamic>).map<Widget>((paragraph) =>
+                Padding(
+                  padding: EdgeInsets.only(bottom: 10),
+                  child: Text(
+                    paragraph.toString(),
+                    style: GoogleFonts.comfortaa(
+                      textStyle: TextStyle(
+                        fontSize: 14,
+                        color: Colors.white.withOpacity(0.8),
+                      ),
+                    ),
+                  ),
+                )
+            ).toList(),
+            SizedBox(height: 20),
+          ],
+        );
+      },
+    );
+  }
+}

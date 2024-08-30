@@ -3,7 +3,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'screens/SCR_ONB_01_Welcome.dart';
 import 'screens/SCR_ONB_02_BirthInfo.dart';
-import 'screens/SCR_ONB_03_Location.dart';
+
 
 void main() {
   initializeDateFormatting('es_ES', null).then((_) => runApp(AstrologiaApp()));
