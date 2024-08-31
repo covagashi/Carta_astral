@@ -3,10 +3,10 @@ import 'package:google_fonts/google_fonts.dart';
 import '../widgets/parallax_background.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import 'SCR_01_Home.dart';
+import 'SCR_ONB_05_LoadingAnimation.dart';
 import '../services/json_profile_storage_service.dart';
 
-class Confirmation extends StatelessWidget {
+class Confirmation extends StatefulWidget {
   final String backgroundImagePath;
   final DateTime birthDate;
   final TimeOfDay birthTime;
@@ -24,7 +24,21 @@ class Confirmation extends StatelessWidget {
     required this.city,
   }) : super(key: key);
 
+  @override
+  _ConfirmationState createState() => _ConfirmationState();
+}
+
+class _ConfirmationState extends State<Confirmation> {
+  final TextEditingController _nameController = TextEditingController(text: 'Espíritu Estelar');
+
   Future<void> _generateChart(BuildContext context) async {
+    if (_nameController.text.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Por favor, ingresa un nombre para tu perfil.')),
+      );
+      return;
+    }
+
     try {
       print('Iniciando generación de carta astral');
       final url = Uri.parse('http://10.0.2.2:5000/generate_carta_natal');
@@ -34,15 +48,15 @@ class Confirmation extends StatelessWidget {
         url,
         headers: {'Content-Type': 'application/json'},
         body: json.encode({
-          'nombre': 'Espíritu Estelar',  // Nombre del perfil
-          'dia': birthDate.day.toString().padLeft(2, '0'),
-          'mes': birthDate.month.toString().padLeft(2, '0'),
-          'ano': birthDate.year.toString(),
-          'hora': birthTime.hour.toString().padLeft(2, '0'),
-          'minutos': birthTime.minute.toString().padLeft(2, '0'),
-          'pais': country,
-          'estado': province,
-          'ciudad': city,
+          'nombre': _nameController.text,
+          'dia': widget.birthDate.day.toString().padLeft(2, '0'),
+          'mes': widget.birthDate.month.toString().padLeft(2, '0'),
+          'ano': widget.birthDate.year.toString(),
+          'hora': widget.birthTime.hour.toString().padLeft(2, '0'),
+          'minutos': widget.birthTime.minute.toString().padLeft(2, '0'),
+          'pais': widget.country,
+          'estado': widget.province,
+          'ciudad': widget.city,
         }),
       );
 
@@ -53,19 +67,19 @@ class Confirmation extends StatelessWidget {
         print('Respuesta JSON recibida: ${jsonResponse.toString().substring(0, 100)}...');
 
         // Guardar los datos en un archivo JSON asociado al perfil
-        await JsonProfileStorageService.saveProfileData('Espíritu Estelar', {
+        await JsonProfileStorageService.saveProfileData(_nameController.text, {
           'chartData': jsonResponse['data'],
-          'birthDate': birthDate.toIso8601String(),
-          'birthTime': '${birthTime.hour}:${birthTime.minute}',
-          'country': country,
-          'province': province,
-          'city': city,
+          'birthDate': widget.birthDate.toIso8601String(),
+          'birthTime': '${widget.birthTime.hour}:${widget.birthTime.minute}',
+          'country': widget.country,
+          'province': widget.province,
+          'city': widget.city,
         });
 
         Navigator.push(
           context,
           MaterialPageRoute(
-            builder: (context) => Home(profileName: 'Espíritu Estelar'),
+            builder: (context) => LoadingAnimation(profileName: _nameController.text),
           ),
         );
       } else {
@@ -83,7 +97,7 @@ class Confirmation extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: ParallaxBackground(
-        imagePath: backgroundImagePath,
+        imagePath: widget.backgroundImagePath,
         child: SafeArea(
           child: Column(
             children: [
@@ -125,15 +139,29 @@ class Confirmation extends StatelessWidget {
                           ),
                         ),
                         SizedBox(height: 20),
-                        _buildInfoCard("Nombre", "Espíritu Estelar"),
-                        _buildInfoCard("Fecha de Nacimiento", "${birthDate.day}/${birthDate.month}/${birthDate.year}"),
-                        _buildInfoCard("Hora de Nacimiento", "${birthTime.format(context)}"),
-                        _buildInfoCard("País", country),
-                        _buildInfoCard("Provincia", province),
-                        _buildInfoCard("Ciudad", city),
+                        TextField(
+                          controller: _nameController,
+                          style: TextStyle(color: Colors.white),
+                          decoration: InputDecoration(
+                            labelText: 'Nombre del Perfil',
+                            labelStyle: TextStyle(color: Colors.white70),
+                            enabledBorder: OutlineInputBorder(
+                              borderSide: BorderSide(color: Colors.white54),
+                            ),
+                            focusedBorder: OutlineInputBorder(
+                              borderSide: BorderSide(color: Colors.white),
+                            ),
+                          ),
+                        ),
+                        SizedBox(height: 20),
+                        _buildInfoCard("Fecha de Nacimiento", "${widget.birthDate.day}/${widget.birthDate.month}/${widget.birthDate.year}"),
+                        _buildInfoCard("Hora de Nacimiento", "${widget.birthTime.format(context)}"),
+                        _buildInfoCard("País", widget.country),
+                        _buildInfoCard("Provincia", widget.province),
+                        _buildInfoCard("Ciudad", widget.city),
                         SizedBox(height: 20),
                         ElevatedButton(
-                          onPressed: () => _generateChart(context),  // Modificado aquí
+                          onPressed: () => _generateChart(context),
                           child: Text(
                             "GENERAR CARTA ASTRAL",
                             style: GoogleFonts.comfortaa(

@@ -3,6 +3,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'screens/SCR_ONB_01_Welcome.dart';
 import 'screens/SCR_ONB_02_BirthInfo.dart';
+import 'screens/SCR_01_Home.dart';
 
 
 void main() {
@@ -56,6 +57,18 @@ class DevHomeScreen extends StatelessWidget {
                 MaterialPageRoute(
                   builder: (context) => BirthInfo(
                     backgroundImagePath: 'assets/welcome.webp',
+                  ),
+                ),
+              ),
+            ),
+            SizedBox(height: 20),
+            ElevatedButton(
+              child: Text('Pantalla main'),
+              onPressed: () => Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => Home(
+                    profileName: 'Estelar',
                   ),
                 ),
               ),

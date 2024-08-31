@@ -29,13 +29,39 @@ flutter:
   uses-material-design: true
   assets:
      - assets/welcome.webp
-     - assets/splash1.webp
-     - assets/splash2.webp
-     - assets/splash3.webp
-     - assets/splash4.webp
-     - assets/splash5.webp
+     - assets/fondos/bg1.webp
+     - assets/fondos/bg2.webp
+     - assets/fondos/bg3.webp
+     - assets/fondos/bg4.webp
+     - assets/fondos/bg5.webp
      - assets/countries_index.json
      - assets/countries/
      - assets/
+     - assets/avatar/aquariusF.webp
+     - assets/avatar/aquariusM.webp
+     - assets/avatar/ariesF.webp
+     - assets/avatar/ariesM.webp
+     - assets/avatar/cancerF.webp
+     - assets/avatar/cancerM.webp
+     - assets/avatar/capricornF.webp
+     - assets/avatar/capricornM.webp
+     - assets/avatar/geminisF.webp
+     - assets/avatar/geminisM.webp
+     - assets/avatar/leoF.webp
+     - assets/avatar/leoM.webp
+     - assets/avatar/libraF.webp
+     - assets/avatar/libraM.webp
+     - assets/avatar/piscisF.webp
+     - assets/avatar/piscisM.webp
+     - assets/avatar/sagitarioM.webp
+     - assets/avatar/sagitarioF.webp
+     - assets/avatar/scorpioF.webp
+     - assets/avatar/scorpioM.webp
+     - assets/avatar/taurusF.webp
+     - assets/avatar/taurusM.webp
+     - assets/avatar/virgoF.webp
+     - assets/avatar/virgoM.webp
+
+
 
 

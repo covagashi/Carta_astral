@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../widgets/parallax_background.dart';
+import 'SCR_ONB_02_BirthInfo.dart'; // Importamos la siguiente pantalla
 
 class Welcome extends StatelessWidget {
   final String backgroundImagePath;
@@ -83,7 +84,15 @@ class Welcome extends StatelessWidget {
                   padding: EdgeInsets.only(bottom: 40),
                   child: ElevatedButton(
                     onPressed: () {
-                      // Lógica para navegar a la siguiente pantalla
+                      // Navegamos a la siguiente pantalla
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => BirthInfo(
+                            backgroundImagePath: backgroundImagePath,
+                          ),
+                        ),
+                      );
                     },
                     child: Text(
                       "EXPLORAR",

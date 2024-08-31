@@ -24,7 +24,7 @@ class _SplashScreenState extends State<SplashScreen> {
   void _selectRandomBackground() {
     final random = Random();
     final imageNumber = random.nextInt(5) + 1;
-    backgroundImagePath = 'assets/splash$imageNumber.webp';
+    backgroundImagePath = 'assets/fondos/bg$imageNumber.webp';
   }
 
   void _navigateToMainScreen() {
