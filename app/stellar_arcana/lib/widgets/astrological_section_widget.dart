@@ -16,17 +16,26 @@ class AstrologicalSectionWidget extends StatelessWidget {
 
   bool _titleMatchesKeywords(String title) {
     switch (sectionType) {
+      case 'aspectos':
+        return titleKeywords.any((keyword) => title.toLowerCase().contains(keyword.toLowerCase()));
       case 'casas':
         return title.toLowerCase().contains('casa');
       case 'planetas':
         return titleKeywords.any((keyword) => title.toLowerCase().startsWith(keyword.toLowerCase())) &&
-            !title.toLowerCase().contains('casa');
+            !title.toLowerCase().contains('casa') &&
+            !_isAspectTitle(title);
       case 'resumen':
-      case 'aspectos':
       default:
-        return titleKeywords.any((keyword) => title.toLowerCase().contains(keyword.toLowerCase()));
+        return titleKeywords.any((keyword) => title.toLowerCase().contains(keyword.toLowerCase())) &&
+            !_isAspectTitle(title);
     }
   }
+
+  bool _isAspectTitle(String title) {
+    final aspectKeywords = ['Aspectos', 'Trigono', 'Cuadratura', 'Oposición', 'Sextil', 'Conjunción'];
+    return aspectKeywords.any((keyword) => title.toLowerCase().contains(keyword.toLowerCase()));
+  }
+
 
   String _getAsciiSymbol(String title) {
     // Añadir más símbolos según sea necesario
@@ -65,7 +74,13 @@ class AstrologicalSectionWidget extends StatelessWidget {
     }
 
     final List<dynamic> sections = data['content'] as List<dynamic>;
-    final filteredSections = sections.where((section) => _titleMatchesKeywords(section['title'])).toList();
+    List<dynamic> filteredSections;
+
+    if (sectionType == 'aspectos') {
+      filteredSections = sections.where((section) => _isAspectTitle(section['title'])).toList();
+    } else {
+      filteredSections = sections.where((section) => _titleMatchesKeywords(section['title'])).toList();
+    }
 
     if (filteredSections.isEmpty) {
       return Center(child: Text('No se encontraron secciones relevantes', style: TextStyle(color: Colors.white)));
