@@ -15,6 +15,9 @@ dependencies:
   google_fonts: ^5.1.0
   country_state_city_picker: ^1.2.8
   path_provider: ^2.0.0
+  webview_flutter: ^4.0.0
+  flutter_svg: ^1.0.0
+
 
   flutter_localizations:
     sdk: flutter
@@ -61,6 +64,7 @@ flutter:
      - assets/avatar/taurusM.webp
      - assets/avatar/virgoF.webp
      - assets/avatar/virgoM.webp
+
 
 
 
