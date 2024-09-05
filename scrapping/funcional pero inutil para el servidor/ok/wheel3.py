@@ -6,6 +6,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
+from io import BytesIO
+from PIL import Image
+import cairosvg
 
 # Configurar el driver de Chrome en modo headless
 chrome_options = Options()
@@ -37,11 +40,6 @@ driver.find_element(By.ID, "date").send_keys(date)
 driver.find_element(By.ID, "time").clear()
 driver.find_element(By.ID, "time").send_keys(time)
 
-# Seleccionar el idioma español
-#select = Select(driver.find_element(By.ID, "language-select"))
-#select.select_by_visible_text("español")
-
-
 # Hacer clic en el botón Submit
 driver.find_element(By.CSS_SELECTOR, "button[type='submit']").click()
 
@@ -52,11 +50,15 @@ svg = wait.until(EC.presence_of_element_located((By.TAG_NAME, "svg")))
 # Obtener el contenido del SVG
 svg_content = svg.get_attribute("outerHTML")
 
-# Guardar el SVG en un archivo
-svg_path = Path('carta_natal.svg')
-svg_path.write_text(svg_content, encoding='utf-8')
+# Convertir SVG a PNG
+png_data = cairosvg.svg2png(bytestring=svg_content)
 
-print(f"SVG guardado como '{svg_path.absolute()}'")
+# Guardar el PNG
+png_path = Path('carta_natal.png')
+with png_path.open('wb') as f:
+    f.write(png_data)
+
+print(f"PNG guardado como '{png_path.absolute()}'")
 
 # Cerrar el navegador
 driver.quit()
