@@ -67,7 +67,7 @@ class DevHomeScreen extends StatelessWidget {
               onPressed: () => Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => Home(
+                  builder: (context) => HomeContainer(
                     profileName: 'Estelar',
                   ),
                 ),

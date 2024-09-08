@@ -4,7 +4,9 @@ import '../widgets/parallax_background.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'SCR_ONB_05_LoadingAnimation.dart';
+import 'SCR_01_Home.dart';
 import '../services/json_profile_storage_service.dart';
+
 
 class Confirmation extends StatefulWidget {
   final String backgroundImagePath;
@@ -39,6 +41,15 @@ class _ConfirmationState extends State<Confirmation> {
       return;
     }
 
+    // Navegar inmediatamente a la pantalla de carga
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => LoadingAnimation(profileName: _nameController.text),
+      ),
+    );
+
+    // Iniciar el proceso de generación de la carta astral en segundo plano
     try {
       print('Iniciando generación de carta astral');
       final url = Uri.parse('http://10.0.2.2:5000/generate_carta_natal');
@@ -76,10 +87,11 @@ class _ConfirmationState extends State<Confirmation> {
           'city': widget.city,
         });
 
-        Navigator.push(
+        // Navegar a la pantalla principal una vez que los datos estén listos
+        Navigator.pushReplacement(
           context,
           MaterialPageRoute(
-            builder: (context) => LoadingAnimation(profileName: _nameController.text),
+            builder: (context) => HomeContainer(profileName: _nameController.text),
           ),
         );
       } else {
@@ -87,9 +99,12 @@ class _ConfirmationState extends State<Confirmation> {
       }
     } catch (e) {
       print('Error detallado: $e');
+      // Mostrar un mensaje de error en la pantalla de carga
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text('Error al generar la carta astral: $e')),
       );
+      // Opcional: Navegar de vuelta a la pantalla de confirmación en caso de error
+      Navigator.pop(context);
     }
   }
 

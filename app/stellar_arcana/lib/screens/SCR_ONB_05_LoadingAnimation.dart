@@ -25,7 +25,17 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
   void initState() {
     super.initState();
 
-    // Animación del fondo
+    // Inicializar animaciones
+    _initializeAnimations();
+
+    // Generar estrellas
+    _generateStars();
+
+    // Iniciar animaciones
+    _startAnimations();
+  }
+
+  void _initializeAnimations() {
     _backgroundController = AnimationController(
       duration: Duration(seconds: 2),
       vsync: this,
@@ -35,7 +45,6 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
       end: Colors.black,
     ).animate(_backgroundController);
 
-    // Animación del texto
     _textController = AnimationController(
       duration: Duration(seconds: 3),
       vsync: this,
@@ -44,29 +53,21 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
       CurvedAnimation(parent: _textController, curve: Curves.easeInOut),
     );
 
-    // Animación de las estrellas
     _starController = AnimationController(
       duration: Duration(seconds: 10),
       vsync: this,
     )..repeat();
+  }
 
-    // Generar estrellas
+  void _generateStars() {
     for (int i = 0; i < 100; i++) {
       _stars.add(_createStar());
     }
+  }
 
-    // Iniciar animaciones
+  void _startAnimations() {
     _backgroundController.forward();
     _textController.forward();
-
-    // Navegar a la pantalla principal después de la animación
-    Future.delayed(Duration(seconds: 5), () {
-      Navigator.of(context).pushReplacement(
-        MaterialPageRoute(
-          builder: (context) => Home(profileName: widget.profileName),
-        ),
-      );
-    });
   }
 
   Widget _createStar() {

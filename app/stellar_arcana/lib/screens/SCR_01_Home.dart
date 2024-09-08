@@ -1,19 +1,19 @@
 import 'package:flutter/material.dart';
 import '../widgets/cosmic_background.dart';
 import '../services/json_profile_storage_service.dart';
-import '../widgets/astrological_section_widget.dart';
 import '../widgets/custom_app_bar.dart';
+import 'SCR_05_HomeContent.dart';
 
-class Home extends StatefulWidget {
+class HomeContainer extends StatefulWidget {
   final String profileName;
 
-  Home({Key? key, required this.profileName}) : super(key: key);
+  HomeContainer({Key? key, required this.profileName}) : super(key: key);
 
   @override
-  _HomeState createState() => _HomeState();
+  _HomeContainerState createState() => _HomeContainerState();
 }
 
-class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
+class _HomeContainerState extends State<HomeContainer> with SingleTickerProviderStateMixin {
   Map<String, dynamic>? _profileData;
   late TabController _tabController;
   bool _isLoading = true;
@@ -36,7 +36,6 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
         _profileData = data;
         _isLoading = false;
         // Aquí deberías determinar el avatar correcto basado en los datos del perfil
-        // Por ejemplo:
         // _avatarPath = _determineAvatarPath(data['sunSign'], data['gender']);
       });
       print("Datos del perfil cargados con éxito");
@@ -100,26 +99,10 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
       return TabBarView(
         controller: _tabController,
         children: [
-          AstrologicalSectionWidget(
-            chartData: _profileData!['chartData'],
-            titleKeywords: ['Prólogo', 'Cualidades', 'Elementos', 'Polaridad'],
-            sectionType: 'resumen',
-          ),
-          AstrologicalSectionWidget(
-            chartData: _profileData!['chartData'],
-            titleKeywords: ['Sol', 'Luna', 'Mercurio', 'Venus', 'Marte', 'Júpiter', 'Saturno', 'Urano', 'Neptuno', 'Plutón', 'Lilith'],
-            sectionType: 'planetas',
-          ),
-          AstrologicalSectionWidget(
-            chartData: _profileData!['chartData'],
-            titleKeywords: ['Casa'],
-            sectionType: 'casas',
-          ),
-          AstrologicalSectionWidget(
-            chartData: _profileData!['chartData'],
-            titleKeywords: ['Aspectos', 'Trigono', 'Cuadratura', 'Oposición', 'Sextil', 'Conjunción','Cuadrantes', 'Ascendente'],
-            sectionType: 'aspectos',
-          ),
+          HomeContent(chartData: _profileData!['chartData'], sectionType: 'resumen'),
+          HomeContent(chartData: _profileData!['chartData'], sectionType: 'planetas'),
+          HomeContent(chartData: _profileData!['chartData'], sectionType: 'casas'),
+          HomeContent(chartData: _profileData!['chartData'], sectionType: 'aspectos'),
         ],
       );
     } else {
