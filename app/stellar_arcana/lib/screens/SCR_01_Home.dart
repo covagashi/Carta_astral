@@ -96,13 +96,22 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
     } else if (_errorMessage != null) {
       return Center(child: Text(_errorMessage!, style: TextStyle(color: Colors.white)));
     } else if (_profileData != null) {
+      // Verificar si chartData y chartImage existen en _profileData
+      final chartData = _profileData!['chartData'];
+      final base64Image = _profileData!['chartImage'] as String? ?? '';
+      print("Longitud de base64Image en _buildTabBarView: ${base64Image.length}");
+
+      if (chartData == null) {
+        return Center(child: Text("Datos de la carta no disponibles", style: TextStyle(color: Colors.white)));
+      }
+
       return TabBarView(
         controller: _tabController,
         children: [
-          HomeContent(chartData: _profileData!['chartData'], sectionType: 'resumen'),
-          HomeContent(chartData: _profileData!['chartData'], sectionType: 'planetas'),
-          HomeContent(chartData: _profileData!['chartData'], sectionType: 'casas'),
-          HomeContent(chartData: _profileData!['chartData'], sectionType: 'aspectos'),
+          HomeContent(chartData: chartData, sectionType: 'resumen', base64Image: base64Image),
+          HomeContent(chartData: chartData, sectionType: 'planetas', base64Image: base64Image),
+          HomeContent(chartData: chartData, sectionType: 'casas', base64Image: base64Image),
+          HomeContent(chartData: chartData, sectionType: 'aspectos', base64Image: base64Image),
         ],
       );
     } else {

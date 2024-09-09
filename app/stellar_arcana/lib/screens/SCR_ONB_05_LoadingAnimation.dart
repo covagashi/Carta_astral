@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'dart:math' as math;
-import 'SCR_01_Home.dart';
+
 
 class LoadingAnimation extends StatefulWidget {
   final String profileName;

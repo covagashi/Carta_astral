@@ -24,6 +24,12 @@ class JsonProfileStorageService {
         jsonData['chartData'] = json.decode(jsonData['chartData']);
       }
 
+      if (jsonData['image'] != null) {
+        print('Longitud de la imagen base64 leída: ${jsonData['image'].length}');
+      } else {
+        print('No se encontró imagen base64 en los datos del perfil');
+      }
+
       return jsonData;
     } catch (e) {
       print('Error al leer los datos del perfil: $e');

@@ -80,6 +80,7 @@ class _ConfirmationState extends State<Confirmation> {
         // Guardar los datos en un archivo JSON asociado al perfil
         await JsonProfileStorageService.saveProfileData(_nameController.text, {
           'chartData': jsonResponse['data'],
+          'chartImage': jsonResponse['image'], // Añade esta línea
           'birthDate': widget.birthDate.toIso8601String(),
           'birthTime': '${widget.birthTime.hour}:${widget.birthTime.minute}',
           'country': widget.country,
