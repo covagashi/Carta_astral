@@ -5,142 +5,198 @@
     {
       "name": "ARMENIA",
       "code": "4045",
-      "cities": []
+      "cities": [],
+      "latitude": 4.536307,
+      "longitude": -75.6723751
     },
     {
       "name": "BARRANQUILLA",
       "code": "257",
-      "cities": []
+      "cities": [],
+      "latitude": 10.9938599,
+      "longitude": -74.7926118
     },
     {
       "name": "BOGOTA",
       "code": "416",
-      "cities": []
+      "cities": [],
+      "latitude": 4.6533816,
+      "longitude": -74.0836333
     },
     {
       "name": "BUCARAMANGA",
       "code": "517",
-      "cities": []
+      "cities": [],
+      "latitude": 7.1255169,
+      "longitude": -73.1182624
     },
     {
       "name": "BUENAVENTURA",
       "code": "522",
-      "cities": []
+      "cities": [],
+      "latitude": 3.8881929,
+      "longitude": -77.0738324
     },
     {
       "name": "BUGA",
       "code": "525",
-      "cities": []
+      "cities": [],
+      "latitude": 3.9000578,
+      "longitude": -76.302013
     },
     {
       "name": "CALI",
       "code": "566",
-      "cities": []
+      "cities": [],
+      "latitude": 3.4519238,
+      "longitude": -76.5328732
     },
     {
       "name": "CARTAGENA",
       "code": "624",
-      "cities": []
+      "cities": [],
+      "latitude": 10.4265566,
+      "longitude": -75.5441671
     },
     {
       "name": "CIENAGA",
       "code": "747",
-      "cities": []
+      "cities": [],
+      "latitude": 7.3500275,
+      "longitude": -73.8950238
     },
     {
       "name": "CUCUTA",
       "code": "870",
-      "cities": []
+      "cities": [],
+      "latitude": 7.8971458,
+      "longitude": -72.5080387
     },
     {
       "name": "GENOVA (QUINDIO)",
       "code": "4046",
-      "cities": []
+      "cities": [],
+      "latitude": 4.1929922,
+      "longitude": -75.74481182662177
     },
     {
       "name": "IBAQUE",
       "code": "1574",
-      "cities": []
+      "cities": [],
+      "latitude": 4.536307,
+      "longitude": -75.6723751
     },
     {
       "name": "MAGANGUE",
       "code": "2093",
-      "cities": []
+      "cities": [],
+      "latitude": 9.2412097,
+      "longitude": -74.7567413
     },
     {
       "name": "MANIZALES",
       "code": "2124",
-      "cities": []
+      "cities": [],
+      "latitude": 5.0668907,
+      "longitude": -75.5066661
     },
     {
       "name": "MEDELLIN",
       "code": "2195",
-      "cities": []
+      "cities": [],
+      "latitude": 6.2443382,
+      "longitude": -75.573553
     },
     {
       "name": "MONTERIA",
       "code": "2305",
-      "cities": []
+      "cities": [],
+      "latitude": 8.6046053,
+      "longitude": -75.97832027208273
     },
     {
       "name": "NEIVA",
       "code": "2411",
-      "cities": []
+      "cities": [],
+      "latitude": 2.9257038,
+      "longitude": -75.2893937
     },
     {
       "name": "PALMIRA",
       "code": "2637",
-      "cities": []
+      "cities": [],
+      "latitude": 3.5308373,
+      "longitude": -76.2988048
     },
     {
       "name": "PAMPLONA",
       "code": "4048",
-      "cities": []
+      "cities": [],
+      "latitude": 7.3763807,
+      "longitude": -72.6482628
     },
     {
       "name": "PASTO",
       "code": "2674",
-      "cities": []
+      "cities": [],
+      "latitude": 1.2140275,
+      "longitude": -77.2785096
     },
     {
       "name": "PEREIRA",
       "code": "2699",
-      "cities": []
+      "cities": [],
+      "latitude": 4.8143159,
+      "longitude": -75.6946778
     },
     {
       "name": "POPAYAN",
       "code": "2784",
-      "cities": []
+      "cities": [],
+      "latitude": 2.4422295,
+      "longitude": -76.6072368
     },
     {
       "name": "SANTA MARTA",
       "code": "3123",
-      "cities": []
+      "cities": [],
+      "latitude": 11.2320944,
+      "longitude": -74.1950916
     },
     {
       "name": "SINCELEJO",
       "code": "3232",
-      "cities": []
+      "cities": [],
+      "latitude": 9.315429349999999,
+      "longitude": -75.42832991993517
     },
     {
       "name": "SOGAMOSO",
       "code": "3259",
-      "cities": []
+      "cities": [],
+      "latitude": 5.7148307,
+      "longitude": -72.9279328
     },
     {
       "name": "TULUA",
       "code": "3578",
-      "cities": []
+      "cities": [],
+      "latitude": 4.0856667,
+      "longitude": -76.1972779
     },
     {
       "name": "TUNJA",
       "code": "3581",
-      "cities": []
+      "cities": [],
+      "latitude": 5.5324313,
+      "longitude": -73.3616014
     },
     {
       "name": "VILLAVICENCIO",
       "code": "3689",
-      "cities": []
+      "cities": [],
+      "latitude": 4.11145945,
+      "longitude": -73.4967836258948
     }
   ]
 }

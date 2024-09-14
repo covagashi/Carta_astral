@@ -8,15 +8,21 @@
       "cities": [
         {
           "name": "GYUMRI",
-          "code": "1393"
+          "code": "1393",
+          "latitude": 40.78413735,
+          "longitude": 43.84394146962765
         },
         {
           "name": "LENINAKAN",
-          "code": "1935"
+          "code": "1935",
+          "latitude": 40.1864475,
+          "longitude": 44.4616464
         },
         {
           "name": "YEREVAN",
-          "code": "3896"
+          "code": "3896",
+          "latitude": 40.1777112,
+          "longitude": 44.5126233
         }
       ]
     }

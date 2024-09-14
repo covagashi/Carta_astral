@@ -5,37 +5,51 @@
     {
       "name": "CHON'JU",
       "code": "740",
-      "cities": []
+      "cities": [],
+      "latitude": 35.1594647,
+      "longitude": 126.8515034
     },
     {
       "name": "INCH'ON",
       "code": "1582",
-      "cities": []
+      "cities": [],
+      "latitude": 35.1594647,
+      "longitude": 126.8515034
     },
     {
       "name": "KWANGJU",
       "code": "1840",
-      "cities": []
+      "cities": [],
+      "latitude": 35.1594647,
+      "longitude": 126.8515034
     },
     {
       "name": "PUSAN",
       "code": "2853",
-      "cities": []
+      "cities": [],
+      "latitude": 35.1799528,
+      "longitude": 129.0752365
     },
     {
       "name": "SEOUL",
       "code": "3184",
-      "cities": []
+      "cities": [],
+      "latitude": 37.5666791,
+      "longitude": 126.9782914
     },
     {
       "name": "TAEGU",
       "code": "3421",
-      "cities": []
+      "cities": [],
+      "latitude": 35.8713,
+      "longitude": 128.6018
     },
     {
       "name": "TAEJON",
       "code": "3422",
-      "cities": []
+      "cities": [],
+      "latitude": 36.3497007,
+      "longitude": 127.3849016
     }
   ]
 }

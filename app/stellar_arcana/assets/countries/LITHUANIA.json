@@ -5,17 +5,23 @@
     {
       "name": "KAUNAS",
       "code": "1720",
-      "cities": []
+      "cities": [],
+      "latitude": 54.8982139,
+      "longitude": 23.9044817
     },
     {
       "name": "KLAIPAEDA",
       "code": "1787",
-      "cities": []
+      "cities": [],
+      "latitude": 54.8982139,
+      "longitude": 23.9044817
     },
     {
       "name": "VILNIUS",
       "code": "3691",
-      "cities": []
+      "cities": [],
+      "latitude": 54.6870458,
+      "longitude": 25.2829111
     }
   ]
 }

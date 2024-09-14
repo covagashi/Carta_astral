@@ -5,7 +5,9 @@
     {
       "name": "TRIPOLI",
       "code": "3556",
-      "cities": []
+      "cities": [],
+      "latitude": 32.896672,
+      "longitude": 13.1777923
     }
   ]
 }

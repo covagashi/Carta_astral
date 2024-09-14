@@ -5,7 +5,9 @@
     {
       "name": "ADDIS ABABA",
       "code": "18",
-      "cities": []
+      "cities": [],
+      "latitude": 9.0358287,
+      "longitude": 38.7524127
     }
   ]
 }

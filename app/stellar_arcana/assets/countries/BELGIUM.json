@@ -5,152 +5,212 @@
     {
       "name": "AALST",
       "code": "3",
-      "cities": []
+      "cities": [],
+      "latitude": 50.9383226,
+      "longitude": 4.0392147
     },
     {
       "name": "ANDERLECHT",
       "code": "109",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8390983,
+      "longitude": 4.3296526
     },
     {
       "name": "ANTWERP",
       "code": "133",
-      "cities": []
+      "cities": [],
+      "latitude": 51.2211097,
+      "longitude": 4.3997081
     },
     {
       "name": "BERCHEM",
       "code": "342",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8649231,
+      "longitude": 4.2946734
     },
     {
       "name": "BORGERHOUT",
       "code": "428",
-      "cities": []
+      "cities": [],
+      "latitude": 51.2128453,
+      "longitude": 4.4462406
     },
     {
       "name": "BRUGES",
       "code": "510",
-      "cities": []
+      "cities": [],
+      "latitude": 51.2085526,
+      "longitude": 3.226772
     },
     {
       "name": "BRUSSELS",
       "code": "514",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8550018,
+      "longitude": 4.3512333761166175
     },
     {
       "name": "CHARLEROIS",
       "code": "675",
-      "cities": []
+      "cities": [],
+      "latitude": 50.9383226,
+      "longitude": 4.0392147
     },
     {
       "name": "COURTRAI",
       "code": "849",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8276429,
+      "longitude": 3.2659884
     },
     {
       "name": "DEURNE",
       "code": "942",
-      "cities": []
+      "cities": [],
+      "latitude": 51.20849,
+      "longitude": 4.4719297
     },
     {
       "name": "ETTERBEEK",
       "code": "1116",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8361447,
+      "longitude": 4.3861737
     },
     {
       "name": "GENT",
       "code": "1269",
-      "cities": []
+      "cities": [],
+      "latitude": 51.0538286,
+      "longitude": 3.7250121
     },
     {
       "name": "HASSELT",
       "code": "1455",
-      "cities": []
+      "cities": [],
+      "latitude": 50.9303735,
+      "longitude": 5.3378043
     },
     {
       "name": "IXELLES",
       "code": "1620",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8331141,
+      "longitude": 4.3668279
     },
     {
       "name": "KORTRIJK",
       "code": "1809",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8276429,
+      "longitude": 3.2659884
     },
     {
       "name": "LA LOUVIERE",
       "code": "1854",
-      "cities": []
+      "cities": [],
+      "latitude": 50.4791337,
+      "longitude": 4.161348292428827
     },
     {
       "name": "LEUVEN",
       "code": "1951",
-      "cities": []
+      "cities": [],
+      "latitude": 50.879202,
+      "longitude": 4.7011675
     },
     {
       "name": "LIEGE",
       "code": "1970",
-      "cities": []
+      "cities": [],
+      "latitude": 50.47081585,
+      "longitude": 5.773545903524977
     },
     {
       "name": "LOUVAIN",
       "code": "2037",
-      "cities": []
+      "cities": [],
+      "latitude": 50.879202,
+      "longitude": 4.7011675
     },
     {
       "name": "LUIK",
       "code": "2057",
-      "cities": []
+      "cities": [],
+      "latitude": 50.6450944,
+      "longitude": 5.5736112
     },
     {
       "name": "MECHELEN",
       "code": "2192",
-      "cities": []
+      "cities": [],
+      "latitude": 51.0281381,
+      "longitude": 4.4803453
     },
     {
       "name": "MERKSEM",
       "code": "2224",
-      "cities": []
+      "cities": [],
+      "latitude": 51.2438894,
+      "longitude": 4.4397179
     },
     {
       "name": "OOSTENDE",
       "code": "2565",
-      "cities": []
+      "cities": [],
+      "latitude": 51.2258565,
+      "longitude": 2.919496
     },
     {
       "name": "ROESELARE",
       "code": "2989",
-      "cities": []
+      "cities": [],
+      "latitude": 50.9444948,
+      "longitude": 3.124765
     },
     {
       "name": "SCHAERBEEK",
       "code": "3160",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8676041,
+      "longitude": 4.3737121
     },
     {
       "name": "SERAING",
       "code": "3185",
-      "cities": []
+      "cities": [],
+      "latitude": 50.6152381,
+      "longitude": 5.5089437
     },
     {
       "name": "SINT-NIKLAAS",
       "code": "3234",
-      "cities": []
+      "cities": [],
+      "latitude": 51.1646685,
+      "longitude": 4.1395124
     },
     {
       "name": "TURNHOUT",
       "code": "3586",
-      "cities": []
+      "cities": [],
+      "latitude": 51.3233812,
+      "longitude": 4.948461
     },
     {
       "name": "UCCLE",
       "code": "3599",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8035441,
+      "longitude": 4.3338445
     },
     {
       "name": "WILRIJK",
       "code": "3840",
-      "cities": []
+      "cities": [],
+      "latitude": 51.1700864,
+      "longitude": 4.3942577
     }
   ]
 }

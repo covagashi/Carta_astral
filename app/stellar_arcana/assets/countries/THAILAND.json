@@ -5,7 +5,9 @@
     {
       "name": "BANGKOK",
       "code": "235",
-      "cities": []
+      "cities": [],
+      "latitude": 13.7524938,
+      "longitude": 100.4935089
     }
   ]
 }

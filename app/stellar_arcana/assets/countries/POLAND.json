@@ -5,257 +5,359 @@
     {
       "name": "BEDZIN",
       "code": "296",
-      "cities": []
+      "cities": [],
+      "latitude": 50.3230785,
+      "longitude": 19.1322201
     },
     {
       "name": "BIALYSTOK",
       "code": "370",
-      "cities": []
+      "cities": [],
+      "latitude": 53.132398,
+      "longitude": 23.1591679
     },
     {
       "name": "BYDGOSZCZ",
       "code": "549",
-      "cities": []
+      "cities": [],
+      "latitude": 53.12971265,
+      "longitude": 18.02944875572119
     },
     {
       "name": "BYTOM",
       "code": "550",
-      "cities": []
+      "cities": [],
+      "latitude": 50.3470387,
+      "longitude": 18.9231857
     },
     {
       "name": "CHELM",
       "code": "695",
-      "cities": []
+      "cities": [],
+      "latitude": 51.1339221,
+      "longitude": 23.4711548
     },
     {
       "name": "CHORZOW",
       "code": "741",
-      "cities": []
+      "cities": [],
+      "latitude": 50.288556299999996,
+      "longitude": 18.97044253093511
     },
     {
       "name": "CRACOW",
       "code": "856",
-      "cities": []
+      "cities": [],
+      "latitude": 50.0606452,
+      "longitude": 19.9370985
     },
     {
       "name": "DANZIG",
       "code": "901",
-      "cities": []
+      "cities": [],
+      "latitude": 54.3482907,
+      "longitude": 18.6540233
     },
     {
       "name": "GDANSK",
       "code": "1261",
-      "cities": []
+      "cities": [],
+      "latitude": 54.3482907,
+      "longitude": 18.6540233
     },
     {
       "name": "GDYNIA",
       "code": "1262",
-      "cities": []
+      "cities": [],
+      "latitude": 54.5164982,
+      "longitude": 18.5402738
     },
     {
       "name": "GLIWICE",
       "code": "1298",
-      "cities": []
+      "cities": [],
+      "latitude": 50.30113145,
+      "longitude": 18.662347227971978
     },
     {
       "name": "GNIEZNO",
       "code": "1302",
-      "cities": []
+      "cities": [],
+      "latitude": 52.5359736,
+      "longitude": 17.595889
     },
     {
       "name": "GRUDZIADZ",
       "code": "1371",
-      "cities": []
+      "cities": [],
+      "latitude": 53.47251195,
+      "longitude": 18.761893676880046
     },
     {
       "name": "INOWROCLAW",
       "code": "1592",
-      "cities": []
+      "cities": [],
+      "latitude": 52.7952408,
+      "longitude": 18.2595624
     },
     {
       "name": "JAROSLAW",
       "code": "1644",
-      "cities": []
+      "cities": [],
+      "latitude": 50.0106216,
+      "longitude": 22.6783904
     },
     {
       "name": "JAWORZNO",
       "code": "1646",
-      "cities": []
+      "cities": [],
+      "latitude": 50.1894999,
+      "longitude": 19.272511168425055
     },
     {
       "name": "JELENIA GORA",
       "code": "1649",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8501049,
+      "longitude": 15.653749235408073
     },
     {
       "name": "KATOWICE",
       "code": "1718",
-      "cities": []
+      "cities": [],
+      "latitude": 50.2137321,
+      "longitude": 19.00588775660632
     },
     {
       "name": "KIELCE",
       "code": "1762",
-      "cities": []
+      "cities": [],
+      "latitude": 50.85402845,
+      "longitude": 20.60991568734511
     },
     {
       "name": "KOSZALIN",
       "code": "1812",
-      "cities": []
+      "cities": [],
+      "latitude": 54.19092,
+      "longitude": 16.17707
     },
     {
       "name": "KRAKOW",
       "code": "1818",
-      "cities": []
+      "cities": [],
+      "latitude": 50.0619474,
+      "longitude": 19.9368564
     },
     {
       "name": "LEGNICA",
       "code": "1928",
-      "cities": []
+      "cities": [],
+      "latitude": 51.204768900000005,
+      "longitude": 16.174675034638256
     },
     {
       "name": "LODZ",
       "code": "2010",
-      "cities": []
+      "cities": [],
+      "latitude": 51.7687323,
+      "longitude": 19.4569911
     },
     {
       "name": "LUBLIN",
       "code": "2045",
-      "cities": []
+      "cities": [],
+      "latitude": 51.218194499999996,
+      "longitude": 22.554677562145155
     },
     {
       "name": "OLSZTYN",
       "code": "2555",
-      "cities": []
+      "cities": [],
+      "latitude": 53.77664395,
+      "longitude": 20.477753092192152
     },
     {
       "name": "OPOLE",
       "code": "2567",
-      "cities": []
+      "cities": [],
+      "latitude": 50.678792900000005,
+      "longitude": 17.929884436033525
     },
     {
       "name": "PABIANICE",
       "code": "2617",
-      "cities": []
+      "cities": [],
+      "latitude": 51.6639859,
+      "longitude": 19.3535024
     },
     {
       "name": "PABJANICE",
       "code": "2618",
-      "cities": []
+      "cities": [],
+      "latitude": 51.6639859,
+      "longitude": 19.3535024
     },
     {
       "name": "PLOCK",
       "code": "2763",
-      "cities": []
+      "cities": [],
+      "latitude": 52.535347099999996,
+      "longitude": 19.713630138580008
     },
     {
       "name": "POZNAN",
       "code": "2823",
-      "cities": []
+      "cities": [],
+      "latitude": 52.4082663,
+      "longitude": 16.9335199
     },
     {
       "name": "PRZEMJSL",
       "code": "2839",
-      "cities": []
+      "cities": [],
+      "latitude": 50.3230785,
+      "longitude": 19.1322201
     },
     {
       "name": "RADOM",
       "code": "2871",
-      "cities": []
+      "cities": [],
+      "latitude": 51.41716055,
+      "longitude": 21.160944780832743
     },
     {
       "name": "RUDA SLASKA",
       "code": "3014",
-      "cities": []
+      "cities": [],
+      "latitude": 50.2858001,
+      "longitude": 18.8747933
     },
     {
       "name": "RYBNIK",
       "code": "3024",
-      "cities": []
+      "cities": [],
+      "latitude": 50.0955793,
+      "longitude": 18.5419933
     },
     {
       "name": "RZESZOV",
       "code": "3026",
-      "cities": []
+      "cities": [],
+      "latitude": 50.3230785,
+      "longitude": 19.1322201
     },
     {
       "name": "SLUPSK",
       "code": "3250",
-      "cities": []
+      "cities": [],
+      "latitude": 54.46357705,
+      "longitude": 17.02094802171876
     },
     {
       "name": "SOPOT",
       "code": "3266",
-      "cities": []
+      "cities": [],
+      "latitude": 54.4430399,
+      "longitude": 18.561309520130756
     },
     {
       "name": "SOSNOWIEC",
       "code": "3270",
-      "cities": []
+      "cities": [],
+      "latitude": 50.2712401,
+      "longitude": 19.21556284229424
     },
     {
       "name": "STARACHOWICE",
       "code": "3335",
-      "cities": []
+      "cities": [],
+      "latitude": 51.0518865,
+      "longitude": 21.0761377
     },
     {
       "name": "STETTIN",
       "code": "3345",
-      "cities": []
+      "cities": [],
+      "latitude": 53.42968095,
+      "longitude": 14.592912670292268
     },
     {
       "name": "SWIDNICA",
       "code": "3400",
-      "cities": []
+      "cities": [],
+      "latitude": 50.8424835,
+      "longitude": 16.4870549
     },
     {
       "name": "SZCZECIN",
       "code": "3408",
-      "cities": []
+      "cities": [],
+      "latitude": 53.4301818,
+      "longitude": 14.5509623
     },
     {
       "name": "TARNOW",
       "code": "3447",
-      "cities": []
+      "cities": [],
+      "latitude": 50.0123784,
+      "longitude": 20.9880739
     },
     {
       "name": "TORUN",
       "code": "3531",
-      "cities": []
+      "cities": [],
+      "latitude": 53.0145361,
+      "longitude": 18.596583144651557
     },
     {
       "name": "TYCHY",
       "code": "3593",
-      "cities": []
+      "cities": [],
+      "latitude": 50.126498049999995,
+      "longitude": 19.006784585824853
     },
     {
       "name": "WALBRZYCH",
       "code": "3726",
-      "cities": []
+      "cities": [],
+      "latitude": 50.785221,
+      "longitude": 16.284640336127822
     },
     {
       "name": "WARSAW",
       "code": "3748",
-      "cities": []
+      "cities": [],
+      "latitude": 52.2337172,
+      "longitude": 21.071432235636493
     },
     {
       "name": "WLOCLAWEK",
       "code": "3861",
-      "cities": []
+      "cities": [],
+      "latitude": 52.6603872,
+      "longitude": 19.071948
     },
     {
       "name": "WROCLAW",
       "code": "3879",
-      "cities": []
+      "cities": [],
+      "latitude": 51.1089776,
+      "longitude": 17.0326689
     },
     {
       "name": "ZABRZE",
       "code": "3914",
-      "cities": []
+      "cities": [],
+      "latitude": 50.31428055,
+      "longitude": 18.781576310579183
     },
     {
       "name": "ZIELONA GORA",
       "code": "3932",
-      "cities": []
+      "cities": [],
+      "latitude": 51.9383777,
+      "longitude": 15.5050408
     }
   ]
 }

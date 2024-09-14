@@ -8,179 +8,267 @@
       "cities": [
         {
           "name": "ALKMAAR",
-          "code": "71"
+          "code": "71",
+          "latitude": 52.600853799999996,
+          "longitude": 4.817099446443963
         },
         {
           "name": "ALMELO",
-          "code": "78"
+          "code": "78",
+          "latitude": 52.3567956,
+          "longitude": 6.66725277634109
         },
         {
           "name": "AMERSFOORT",
-          "code": "95"
+          "code": "95",
+          "latitude": 52.16377025,
+          "longitude": 5.408884537568014
         },
         {
           "name": "AMSTELVEEN",
-          "code": "100"
+          "code": "100",
+          "latitude": 52.2862177,
+          "longitude": 4.852649259746028
         },
         {
           "name": "AMSTERDAM",
-          "code": "101"
+          "code": "101",
+          "latitude": 52.3730796,
+          "longitude": 4.8924534
         },
         {
           "name": "APELDOORN",
-          "code": "135"
+          "code": "135",
+          "latitude": 52.17957375,
+          "longitude": 5.930077460807249
         },
         {
           "name": "ARNHEIM",
-          "code": "155"
+          "code": "155",
+          "latitude": 51.984257,
+          "longitude": 5.9108573
         },
         {
           "name": "ASSEN",
-          "code": "173"
+          "code": "173",
+          "latitude": 52.9952273,
+          "longitude": 6.560498
         },
         {
           "name": "BERGEN OP ZOOM",
-          "code": "347"
+          "code": "347",
+          "latitude": 51.4944756,
+          "longitude": 4.2871541
         },
         {
           "name": "BREDA",
-          "code": "469"
+          "code": "469",
+          "latitude": 51.5887845,
+          "longitude": 4.7760237
         },
         {
           "name": "DELFT",
-          "code": "3992"
+          "code": "3992",
+          "latitude": 52.0114017,
+          "longitude": 4.35839
         },
         {
           "name": "DEN HELDER",
-          "code": "932"
+          "code": "932",
+          "latitude": 52.9529894,
+          "longitude": 4.8267592494488
         },
         {
           "name": "DEVENTER",
-          "code": "943"
+          "code": "943",
+          "latitude": 52.26948965,
+          "longitude": 6.236488628052996
         },
         {
           "name": "DORDRECHT",
-          "code": "962"
+          "code": "962",
+          "latitude": 51.814429,
+          "longitude": 4.6692438
         },
         {
           "name": "EDE",
-          "code": "1032"
+          "code": "1032",
+          "latitude": 52.07168255,
+          "longitude": 5.745510631034939
         },
         {
           "name": "EINDHOVEN",
-          "code": "1045"
+          "code": "1045",
+          "latitude": 51.4392648,
+          "longitude": 5.478633
         },
         {
           "name": "EMMEN",
-          "code": "1080"
+          "code": "1080",
+          "latitude": 52.788937,
+          "longitude": 6.8939001
         },
         {
           "name": "ENSCHEDE",
-          "code": "1090"
+          "code": "1090",
+          "latitude": 52.2209855,
+          "longitude": 6.8940537
         },
         {
           "name": "GOUDA",
-          "code": "1320"
+          "code": "1320",
+          "latitude": 52.0114922,
+          "longitude": 4.7106094
         },
         {
           "name": "GRAVENHAGE",
-          "code": "1337"
+          "code": "1337",
+          "latitude": 52.0799838,
+          "longitude": 4.3113461
         },
         {
           "name": "GRAVENHAGE",
-          "code": "1338"
+          "code": "1338",
+          "latitude": 52.0799838,
+          "longitude": 4.3113461
         },
         {
           "name": "GRONINGEN",
-          "code": "1368"
+          "code": "1368",
+          "latitude": 53.2190652,
+          "longitude": 6.5680077
         },
         {
           "name": "HAARLEM",
-          "code": "1394"
+          "code": "1394",
+          "latitude": 52.3885317,
+          "longitude": 4.6388048
         },
         {
           "name": "HAGUE",
-          "code": "1404"
+          "code": "1404",
+          "latitude": 52.0799838,
+          "longitude": 4.3113461
         },
         {
           "name": "HEERLEN",
-          "code": "1476"
+          "code": "1476",
+          "latitude": 50.8775239,
+          "longitude": 5.981506585454879
         },
         {
           "name": "HELMOND",
-          "code": "1482"
+          "code": "1482",
+          "latitude": 51.4790956,
+          "longitude": 5.6557686
         },
         {
           "name": "HENGELO",
-          "code": "1491"
+          "code": "1491",
+          "latitude": 52.2658726,
+          "longitude": 6.7924049
         },
         {
           "name": "HILVERSUM",
-          "code": "1517"
+          "code": "1517",
+          "latitude": 52.2241375,
+          "longitude": 5.1719396
         },
         {
           "name": "LEEUWARDEN",
-          "code": "1927"
+          "code": "1927",
+          "latitude": 53.2005936,
+          "longitude": 5.7918548
         },
         {
           "name": "LEIDEN",
-          "code": "1930"
+          "code": "1930",
+          "latitude": 52.1594747,
+          "longitude": 4.4908843
         },
         {
           "name": "MAASTRICHT",
-          "code": "2079"
+          "code": "2079",
+          "latitude": 50.8512438,
+          "longitude": 5.6909768
         },
         {
           "name": "NIJMEGEN",
-          "code": "2466"
+          "code": "2466",
+          "latitude": 51.842574850000005,
+          "longitude": 5.838960628748229
         },
         {
           "name": "RIJSWIJK",
-          "code": "2961"
+          "code": "2961",
+          "latitude": 52.0446265,
+          "longitude": 4.3188215
         },
         {
           "name": "ROTTERDAM",
-          "code": "3007"
+          "code": "3007",
+          "latitude": 51.9244424,
+          "longitude": 4.47775
         },
         {
           "name": "SCHEVENINGEN",
-          "code": "3163"
+          "code": "3163",
+          "latitude": 52.1067449,
+          "longitude": 4.2736937
         },
         {
           "name": "SCHIEDAM",
-          "code": "3164"
+          "code": "3164",
+          "latitude": 51.9300454,
+          "longitude": 4.386451052615731
         },
         {
           "name": "THE HAGUE",
-          "code": "3481"
+          "code": "3481",
+          "latitude": 52.0799838,
+          "longitude": 4.3113461
         },
         {
           "name": "TILBURG",
-          "code": "3499"
+          "code": "3499",
+          "latitude": 51.58561845,
+          "longitude": 5.0660616131367675
         },
         {
           "name": "UTRECHT",
-          "code": "3631"
+          "code": "3631",
+          "latitude": 52.0907006,
+          "longitude": 5.1215634
         },
         {
           "name": "VELSEN",
-          "code": "3660"
+          "code": "3660",
+          "latitude": 52.451910299999994,
+          "longitude": 4.603891145874141
         },
         {
           "name": "VENLO",
-          "code": "3663"
+          "code": "3663",
+          "latitude": 51.3702109,
+          "longitude": 6.1688954
         },
         {
           "name": "ZAANDAM",
-          "code": "3913"
+          "code": "3913",
+          "latitude": 52.4424926,
+          "longitude": 4.8298607
         },
         {
           "name": "ZEIST",
-          "code": "3927"
+          "code": "3927",
+          "latitude": 52.0892832,
+          "longitude": 5.2276307
         },
         {
           "name": "ZWOLLE",
-          "code": "3937"
+          "code": "3937",
+          "latitude": 52.5089759,
+          "longitude": 6.0943765
         }
       ]
     }

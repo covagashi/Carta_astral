@@ -5,267 +5,373 @@
     {
       "name": "ANDROPOV",
       "code": "113",
-      "cities": []
+      "cities": [],
+      "latitude": 61.7923317,
+      "longitude": 34.3614356
     },
     {
       "name": "ASTRAKHAN",
       "code": "176",
-      "cities": []
+      "cities": [],
+      "latitude": 46.3498308,
+      "longitude": 48.0326203
     },
     {
       "name": "BABUSHKIN",
       "code": "208",
-      "cities": []
+      "cities": [],
+      "latitude": 51.7161749,
+      "longitude": 105.8635328
     },
     {
       "name": "BAKU",
       "code": "224",
-      "cities": []
+      "cities": [],
+      "latitude": 40.38886115,
+      "longitude": 49.83337764561068
     },
     {
       "name": "BRYANSK",
       "code": "516",
-      "cities": []
+      "cities": [],
+      "latitude": 53.2423778,
+      "longitude": 34.3668288
     },
     {
       "name": "CHEBOKSARY",
       "code": "693",
-      "cities": []
+      "cities": [],
+      "latitude": 56.1307195,
+      "longitude": 47.2449597
     },
     {
       "name": "CHEREPOVETS",
       "code": "704",
-      "cities": []
+      "cities": [],
+      "latitude": 59.128696,
+      "longitude": 37.916389
     },
     {
       "name": "DMITROV",
       "code": "953",
-      "cities": []
+      "cities": [],
+      "latitude": 56.3450695,
+      "longitude": 37.5200723
     },
     {
       "name": "DZERZHINSK",
       "code": "1013",
-      "cities": []
+      "cities": [],
+      "latitude": 56.2382157,
+      "longitude": 43.4617405
     },
     {
       "name": "GORKI",
       "code": "1313",
-      "cities": []
+      "cities": [],
+      "latitude": 56.3264816,
+      "longitude": 44.0051395
     },
     {
       "name": "IVANOVO",
       "code": "1618",
-      "cities": []
+      "cities": [],
+      "latitude": 56.9984452,
+      "longitude": 40.9737394
     },
     {
       "name": "KALININ",
       "code": "1684",
-      "cities": []
+      "cities": [],
+      "latitude": 44.7029825,
+      "longitude": 40.1339464
     },
     {
       "name": "KALININGRAD",
       "code": "1685",
-      "cities": []
+      "cities": [],
+      "latitude": 54.70464845,
+      "longitude": 20.456566646621738
     },
     {
       "name": "KALININGRAD",
       "code": "1686",
-      "cities": []
+      "cities": [],
+      "latitude": 54.70464845,
+      "longitude": 20.456566646621738
     },
     {
       "name": "KALUGA",
       "code": "1688",
-      "cities": []
+      "cities": [],
+      "latitude": 54.5101087,
+      "longitude": 36.2598115
     },
     {
       "name": "KAZAN",
       "code": "1725",
-      "cities": []
+      "cities": [],
+      "latitude": 55.7823547,
+      "longitude": 49.1242266
     },
     {
       "name": "KHABAROVSK",
       "code": "1751",
-      "cities": []
+      "cities": [],
+      "latitude": 48.4812568,
+      "longitude": 135.0762968
     },
     {
       "name": "KOLOMNA",
       "code": "1799",
-      "cities": []
+      "cities": [],
+      "latitude": 55.0995509,
+      "longitude": 38.7811165
     },
     {
       "name": "KOSTROMA",
       "code": "1811",
-      "cities": []
+      "cities": [],
+      "latitude": 57.79648535,
+      "longitude": 40.96933053522937
     },
     {
       "name": "KOVROV",
       "code": "1815",
-      "cities": []
+      "cities": [],
+      "latitude": 56.374603,
+      "longitude": 41.311676
     },
     {
       "name": "KRASNODAR",
       "code": "1819",
-      "cities": []
+      "cities": [],
+      "latitude": 45.0351532,
+      "longitude": 38.9772396
     },
     {
       "name": "KRASNOJARSK",
       "code": "1820",
-      "cities": []
+      "cities": [],
+      "latitude": 56.0091173,
+      "longitude": 92.872586
     },
     {
       "name": "KUNTSEVO",
       "code": "1833",
-      "cities": []
+      "cities": [],
+      "latitude": 55.7426325,
+      "longitude": 37.3974723
     },
     {
       "name": "KURSK",
       "code": "1837",
-      "cities": []
+      "cities": [],
+      "latitude": 51.7309249,
+      "longitude": 36.1923123
     },
     {
       "name": "KUYBYSHEV",
       "code": "1839",
-      "cities": []
+      "cities": [],
+      "latitude": 55.4454258,
+      "longitude": 78.3222294
     },
     {
       "name": "LENINGRAD",
       "code": "1936",
-      "cities": []
+      "cities": [],
+      "latitude": 59.938732,
+      "longitude": 30.316229
     },
     {
       "name": "LENINO",
       "code": "1937",
-      "cities": []
+      "cities": [],
+      "latitude": 43.4821138,
+      "longitude": 47.0201549
     },
     {
       "name": "LYUBLINO",
       "code": "2078",
-      "cities": []
+      "cities": [],
+      "latitude": 55.6757211,
+      "longitude": 37.7619581
     },
     {
       "name": "MOSCOW",
       "code": "2329",
-      "cities": []
+      "cities": [],
+      "latitude": 55.625578,
+      "longitude": 37.6063916
     },
     {
       "name": "MOSKVA",
       "code": "2330",
-      "cities": []
+      "cities": [],
+      "latitude": 55.7505412,
+      "longitude": 37.6174782
     },
     {
       "name": "MURMANSK",
       "code": "2360",
-      "cities": []
+      "cities": [],
+      "latitude": 68.970665,
+      "longitude": 33.07497
     },
     {
       "name": "MYTISHCHI",
       "code": "2366",
-      "cities": []
+      "cities": [],
+      "latitude": 55.9094928,
+      "longitude": 37.7339358
     },
     {
       "name": "NARO-FOMINSK",
       "code": "2399",
-      "cities": []
+      "cities": [],
+      "latitude": 55.3842784,
+      "longitude": 36.723507
     },
     {
       "name": "NOGINSK",
       "code": "2479",
-      "cities": []
+      "cities": [],
+      "latitude": 55.8553511,
+      "longitude": 38.4411898
     },
     {
       "name": "NOVOSIBIRSK",
       "code": "2511",
-      "cities": []
+      "cities": [],
+      "latitude": 54.96781445,
+      "longitude": 82.95159894278376
     },
     {
       "name": "OREKHOVO-ZUYEVO",
       "code": "2577",
-      "cities": []
+      "cities": [],
+      "latitude": 55.8083278,
+      "longitude": 38.9790038
     },
     {
       "name": "OREL",
       "code": "2578",
-      "cities": []
+      "cities": [],
+      "latitude": 52.9687747,
+      "longitude": 36.0694937
     },
     {
       "name": "PERM",
       "code": "2701",
-      "cities": []
+      "cities": [],
+      "latitude": 58.014965,
+      "longitude": 56.246723
     },
     {
       "name": "PEROVO",
       "code": "2704",
-      "cities": []
+      "cities": [],
+      "latitude": 55.7511973,
+      "longitude": 37.7864823
     },
     {
       "name": "PODOLSK",
       "code": "2771",
-      "cities": []
+      "cities": [],
+      "latitude": 55.4308841,
+      "longitude": 37.5453056
     },
     {
       "name": "PUSHKINO",
       "code": "2854",
-      "cities": []
+      "cities": [],
+      "latitude": 56.0104274,
+      "longitude": 37.8461892
     },
     {
       "name": "RAMENSKOYE",
       "code": "2880",
-      "cities": []
+      "cities": [],
+      "latitude": 55.5709361,
+      "longitude": 38.2282099
     },
     {
       "name": "ROSTOV",
       "code": "3002",
-      "cities": []
+      "cities": [],
+      "latitude": 47.6222451,
+      "longitude": 40.7957942
     },
     {
       "name": "RYAZAN",
       "code": "3022",
-      "cities": []
+      "cities": [],
+      "latitude": 54.6295687,
+      "longitude": 39.7425039
     },
     {
       "name": "RYBINSK",
       "code": "3023",
-      "cities": []
+      "cities": [],
+      "latitude": 58.050373,
+      "longitude": 38.834637
     },
     {
       "name": "SARATOV",
       "code": "3145",
-      "cities": []
+      "cities": [],
+      "latitude": 51.530018,
+      "longitude": 46.034683
     },
     {
       "name": "SOBINKA",
       "code": "3256",
-      "cities": []
+      "cities": [],
+      "latitude": 55.9903976,
+      "longitude": 40.0150802
     },
     {
       "name": "SVERDLOVSK",
       "code": "3399",
-      "cities": []
+      "cities": [],
+      "latitude": 56.839104,
+      "longitude": 60.60825
     },
     {
       "name": "TAMBOV",
       "code": "3430",
-      "cities": []
+      "cities": [],
+      "latitude": 52.731118499999994,
+      "longitude": 41.434199146086904
     },
     {
       "name": "TULA",
       "code": "3573",
-      "cities": []
+      "cities": [],
+      "latitude": 54.1930321,
+      "longitude": 37.61754
     },
     {
       "name": "VLADIVOSTOK",
       "code": "3705",
-      "cities": []
+      "cities": [],
+      "latitude": 43.1150678,
+      "longitude": 131.8855768
     },
     {
       "name": "VOLGOGRAD",
       "code": "3708",
-      "cities": []
+      "cities": [],
+      "latitude": 48.7081906,
+      "longitude": 44.5153353
     },
     {
       "name": "VOLOGDA",
       "code": "3709",
-      "cities": []
+      "cities": [],
+      "latitude": 60.0391461,
+      "longitude": 43.1215213
     },
     {
       "name": "VORONESZH",
@@ -275,17 +381,23 @@
     {
       "name": "YAROSLAVL",
       "code": "3894",
-      "cities": []
+      "cities": [],
+      "latitude": 57.6263877,
+      "longitude": 39.8933705
     },
     {
       "name": "YEGORYEVSK",
       "code": "3895",
-      "cities": []
+      "cities": [],
+      "latitude": 55.3829765,
+      "longitude": 39.0356223
     },
     {
       "name": "ZAGORSK",
       "code": "3917",
-      "cities": []
+      "cities": [],
+      "latitude": 51.8620618,
+      "longitude": 107.73563138782353
     }
   ]
 }

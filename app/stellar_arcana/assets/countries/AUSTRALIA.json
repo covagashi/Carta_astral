@@ -5,262 +5,366 @@
     {
       "name": "ADELAIDE",
       "code": "20",
-      "cities": []
+      "cities": [],
+      "latitude": -34.9281805,
+      "longitude": 138.5999312
     },
     {
       "name": "ALBURY",
       "code": "51",
-      "cities": []
+      "cities": [],
+      "latitude": -36.0737734,
+      "longitude": 146.9135265
     },
     {
       "name": "BALLARAT",
       "code": "228",
-      "cities": []
+      "cities": [],
+      "latitude": -37.5623013,
+      "longitude": 143.8605645
     },
     {
       "name": "BENDIGO",
       "code": "329",
-      "cities": []
+      "cities": [],
+      "latitude": -36.7590183,
+      "longitude": 144.2826718
     },
     {
       "name": "BLACKTOWN",
       "code": "395",
-      "cities": []
+      "cities": [],
+      "latitude": -33.7401885,
+      "longitude": 150.86483553289474
     },
     {
       "name": "BRIGHTON",
       "code": "484",
-      "cities": []
+      "cities": [],
+      "latitude": -37.9081962,
+      "longitude": 144.9957991
     },
     {
       "name": "BRISBANE",
       "code": "486",
-      "cities": []
+      "cities": [],
+      "latitude": -27.4689682,
+      "longitude": 153.0234991
     },
     {
       "name": "BROKEN HILL",
       "code": "496",
-      "cities": []
+      "cities": [],
+      "latitude": -31.965,
+      "longitude": 141.4511111
     },
     {
       "name": "BUNDABERG",
       "code": "526",
-      "cities": []
+      "cities": [],
+      "latitude": -24.8653253,
+      "longitude": 152.3516785
     },
     {
       "name": "CAIRNS",
       "code": "556",
-      "cities": []
+      "cities": [],
+      "latitude": -16.9206657,
+      "longitude": 145.7721854
     },
     {
       "name": "CAMBELLTOWN",
       "code": "573",
-      "cities": []
+      "cities": [],
+      "latitude": -34.0397104,
+      "longitude": 150.8471487
     },
     {
       "name": "CAMBERWELL",
       "code": "574",
-      "cities": []
+      "cities": [],
+      "latitude": -37.8384623,
+      "longitude": 145.0740767
     },
     {
       "name": "CANBERRA",
       "code": "589",
-      "cities": []
+      "cities": [],
+      "latitude": -35.2975906,
+      "longitude": 149.1012676
     },
     {
       "name": "CAULFIELD",
       "code": "645",
-      "cities": []
+      "cities": [],
+      "latitude": -37.8840642,
+      "longitude": 145.02637
     },
     {
       "name": "CESSNOCK",
       "code": "662",
-      "cities": []
+      "cities": [],
+      "latitude": -32.8316667,
+      "longitude": 151.3511111
     },
     {
       "name": "COBURG",
       "code": "783",
-      "cities": []
+      "cities": [],
+      "latitude": -37.7449752,
+      "longitude": 144.9643314
     },
     {
       "name": "DANDENONG",
       "code": "894",
-      "cities": []
+      "cities": [],
+      "latitude": -37.98749,
+      "longitude": 145.2147923
     },
     {
       "name": "ELIZABETH",
       "code": "1066",
-      "cities": []
+      "cities": [],
+      "latitude": -34.7202612,
+      "longitude": 138.6693371
     },
     {
       "name": "ESSENDON",
       "code": "1108",
-      "cities": []
+      "cities": [],
+      "latitude": -37.7498293,
+      "longitude": 144.9109062
     },
     {
       "name": "FOOTSCRAY",
       "code": "1176",
-      "cities": []
+      "cities": [],
+      "latitude": -37.8018081,
+      "longitude": 144.9017571
     },
     {
       "name": "FRANKSTON",
       "code": "1200",
-      "cities": []
+      "cities": [],
+      "latitude": -38.1444729,
+      "longitude": 145.1268808
     },
     {
       "name": "FREMANTLE",
       "code": "1212",
-      "cities": []
+      "cities": [],
+      "latitude": -32.0534086,
+      "longitude": 115.7586172
     },
     {
       "name": "GEELONG",
       "code": "1263",
-      "cities": []
+      "cities": [],
+      "latitude": -38.1493248,
+      "longitude": 144.3598241
     },
     {
       "name": "HEILDELBERG",
       "code": "1480",
-      "cities": []
+      "cities": [],
+      "latitude": -34.9281805,
+      "longitude": 138.5999312
     },
     {
       "name": "HOBART",
       "code": "1523",
-      "cities": []
+      "cities": [],
+      "latitude": -42.8825088,
+      "longitude": 147.3281233
     },
     {
       "name": "HURTSVILLE",
       "code": "1566",
-      "cities": []
+      "cities": [],
+      "latitude": -42.8825088,
+      "longitude": 147.3281233
     },
     {
       "name": "IPSWICH",
       "code": "1598",
-      "cities": []
+      "cities": [],
+      "latitude": -27.6160323,
+      "longitude": 152.7608348
     },
     {
       "name": "KALGOORLIE",
       "code": "1683",
-      "cities": []
+      "cities": [],
+      "latitude": -30.7464139,
+      "longitude": 121.473223
     },
     {
       "name": "LIVERPOOL",
       "code": "1996",
-      "cities": []
+      "cities": [],
+      "latitude": -33.952588649999996,
+      "longitude": 150.89884316797682
     },
     {
       "name": "MAITLAND",
       "code": "2100",
-      "cities": []
+      "cities": [],
+      "latitude": -32.7316683,
+      "longitude": 151.5511123
     },
     {
       "name": "MARION",
       "code": "2151",
-      "cities": []
+      "cities": [],
+      "latitude": -35.0261988,
+      "longitude": 138.5459021266757
     },
     {
       "name": "MELBOURNE",
       "code": "2204",
-      "cities": []
+      "cities": [],
+      "latitude": -37.8142454,
+      "longitude": 144.9631732
     },
     {
       "name": "NEWCASTLE",
       "code": "2449",
-      "cities": []
+      "cities": [],
+      "latitude": -32.9192953,
+      "longitude": 151.7795348
     },
     {
       "name": "PARRAMATTA",
       "code": "2668",
-      "cities": []
+      "cities": [],
+      "latitude": -33.8139843,
+      "longitude": 151.002666
     },
     {
       "name": "PENRITH",
       "code": "2695",
-      "cities": []
+      "cities": [],
+      "latitude": -33.74779624999999,
+      "longitude": 150.71478824217297
     },
     {
       "name": "PERTH",
       "code": "2707",
-      "cities": []
+      "cities": [],
+      "latitude": -31.9558933,
+      "longitude": 115.8605855
     },
     {
       "name": "PORT ADELAIDE",
       "code": "2787",
-      "cities": []
+      "cities": [],
+      "latitude": -34.8342755,
+      "longitude": 138.5123548
     },
     {
       "name": "RANDWICK",
       "code": "2888",
-      "cities": []
+      "cities": [],
+      "latitude": -33.945516749999996,
+      "longitude": 151.24403017442353
     },
     {
       "name": "RICHMOND",
       "code": "2953",
-      "cities": []
+      "cities": [],
+      "latitude": -37.80745,
+      "longitude": 144.99071761295892
     },
     {
       "name": "ROCKDALE",
       "code": "2981",
-      "cities": []
+      "cities": [],
+      "latitude": -33.9542619,
+      "longitude": 151.1403655
     },
     {
       "name": "ROCKHAMPTON",
       "code": "2983",
-      "cities": []
+      "cities": [],
+      "latitude": -23.3782137,
+      "longitude": 150.5134227
     },
     {
       "name": "RYDE",
       "code": "3025",
-      "cities": []
+      "cities": [],
+      "latitude": -33.801575099999994,
+      "longitude": 151.1046051513023
     },
     {
       "name": "SAINT KILDA",
       "code": "3040",
-      "cities": []
+      "cities": [],
+      "latitude": -33.9999379,
+      "longitude": 151.122295
     },
     {
       "name": "SYDNEY",
       "code": "3405",
-      "cities": []
+      "cities": [],
+      "latitude": -33.8698439,
+      "longitude": 151.2082848
     },
     {
       "name": "TOOWOOMBA",
       "code": "3522",
-      "cities": []
+      "cities": [],
+      "latitude": -27.5610193,
+      "longitude": 151.953351
     },
     {
       "name": "TOWNSVILLE",
       "code": "3535",
-      "cities": []
+      "cities": [],
+      "latitude": -19.2569391,
+      "longitude": 146.8239537
     },
     {
       "name": "WAGGA WAGGA",
       "code": "3720",
-      "cities": []
+      "cities": [],
+      "latitude": -35.115,
+      "longitude": 147.3677778
     },
     {
       "name": "WARWICK",
       "code": "3749",
-      "cities": []
+      "cities": [],
+      "latitude": -28.2163204,
+      "longitude": 152.0327039
     },
     {
       "name": "WAVERLY",
       "code": "3769",
-      "cities": []
+      "cities": [],
+      "latitude": -31.9235,
+      "longitude": 151.0512
     },
     {
       "name": "WILLOUGHBY",
       "code": "3835",
-      "cities": []
+      "cities": [],
+      "latitude": -33.80159955,
+      "longitude": 151.1836478125075
     },
     {
       "name": "WOLLONGONG",
       "code": "3866",
-      "cities": []
+      "cities": [],
+      "latitude": -34.4278083,
+      "longitude": 150.893054
     },
     {
       "name": "YORK",
       "code": "3906",
-      "cities": []
+      "cities": [],
+      "latitude": -31.8889034,
+      "longitude": 116.7691483
     }
   ]
 }

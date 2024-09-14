@@ -5,317 +5,443 @@
     {
       "name": "AKITA",
       "code": "37",
-      "cities": []
+      "cities": [],
+      "latitude": 39.6898802,
+      "longitude": 140.342608
     },
     {
       "name": "AMAGASAKI",
       "code": "89",
-      "cities": []
+      "cities": [],
+      "latitude": 34.7288995,
+      "longitude": 135.412989
     },
     {
       "name": "AOMORI",
       "code": "134",
-      "cities": []
+      "cities": [],
+      "latitude": 40.886943,
+      "longitude": 140.590121
     },
     {
       "name": "ASAHIKAWA",
       "code": "161",
-      "cities": []
+      "cities": [],
+      "latitude": 43.7627501,
+      "longitude": 142.3579263
     },
     {
       "name": "CHIBA",
       "code": "721",
-      "cities": []
+      "cities": [],
+      "latitude": 35.549399,
+      "longitude": 140.2647303
     },
     {
       "name": "FUKUI",
       "code": "1226",
-      "cities": []
+      "cities": [],
+      "latitude": 35.9263502,
+      "longitude": 136.6068127
     },
     {
       "name": "FUKUOKA",
       "code": "1227",
-      "cities": []
+      "cities": [],
+      "latitude": 33.6251241,
+      "longitude": 130.6180016
     },
     {
       "name": "FUKUSHIMA",
       "code": "1228",
-      "cities": []
+      "cities": [],
+      "latitude": 37.760777,
+      "longitude": 140.4745807
     },
     {
       "name": "FUKUYAMA",
       "code": "1229",
-      "cities": []
+      "cities": [],
+      "latitude": 34.4857039,
+      "longitude": 133.3623097
     },
     {
       "name": "FUNABASHI",
       "code": "1231",
-      "cities": []
+      "cities": [],
+      "latitude": 35.699997,
+      "longitude": 139.988668
     },
     {
       "name": "GIFU",
       "code": "1281",
-      "cities": []
+      "cities": [],
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
     },
     {
       "name": "HACHINOHE",
       "code": "1395",
-      "cities": []
+      "cities": [],
+      "latitude": 40.5122388,
+      "longitude": 141.4882959
     },
     {
       "name": "HAKODATE",
       "code": "1407",
-      "cities": []
+      "cities": [],
+      "latitude": 41.768793,
+      "longitude": 140.729008
     },
     {
       "name": "HAMAMATSU",
       "code": "1419",
-      "cities": []
+      "cities": [],
+      "latitude": 34.7109786,
+      "longitude": 137.7259431
     },
     {
       "name": "HIGASHIOSAKA",
       "code": "1505",
-      "cities": []
+      "cities": [],
+      "latitude": 34.678147,
+      "longitude": 135.597728
     },
     {
       "name": "HIROSHIMA",
       "code": "1521",
-      "cities": []
+      "cities": [],
+      "latitude": 34.3917241,
+      "longitude": 132.4517589
     },
     {
       "name": "ICHIKAWA",
       "code": "1575",
-      "cities": []
+      "cities": [],
+      "latitude": 35.729412,
+      "longitude": 139.928568
     },
     {
       "name": "IWAKI",
       "code": "1619",
-      "cities": []
+      "cities": [],
+      "latitude": 37.0504227,
+      "longitude": 140.8876338
     },
     {
       "name": "KAGOSHIMA",
       "code": "1678",
-      "cities": []
+      "cities": [],
+      "latitude": 31.521587,
+      "longitude": 130.5474077
     },
     {
       "name": "KANAZAWA",
       "code": "1692",
-      "cities": []
+      "cities": [],
+      "latitude": 36.561627,
+      "longitude": 136.6568822
     },
     {
       "name": "KAWAGUCHI",
       "code": "1722",
-      "cities": []
+      "cities": [],
+      "latitude": 35.8078228,
+      "longitude": 139.7241054
     },
     {
       "name": "KAWASAKI",
       "code": "1723",
-      "cities": []
+      "cities": [],
+      "latitude": 35.5305307,
+      "longitude": 139.7028012
     },
     {
       "name": "KITAKYUSHO",
       "code": "1783",
-      "cities": []
+      "cities": [],
+      "latitude": 35.5305307,
+      "longitude": 139.7028012
     },
     {
       "name": "KOBE",
       "code": "1791",
-      "cities": []
+      "cities": [],
+      "latitude": 34.6932379,
+      "longitude": 135.1943764
     },
     {
       "name": "KOCHI",
       "code": "1793",
-      "cities": []
+      "cities": [],
+      "latitude": 33.5680384,
+      "longitude": 133.5394221
     },
     {
       "name": "KUMAMOTO",
       "code": "1830",
-      "cities": []
+      "cities": [],
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
     },
     {
       "name": "KURASHIKI",
       "code": "1835",
-      "cities": []
+      "cities": [],
+      "latitude": 34.5850791,
+      "longitude": 133.7719957
     },
     {
       "name": "KURE",
       "code": "1836",
-      "cities": []
+      "cities": [],
+      "latitude": 34.2484488,
+      "longitude": 132.5652498
     },
     {
       "name": "KUSHIRO",
       "code": "1838",
-      "cities": []
+      "cities": [],
+      "latitude": 42.9906837,
+      "longitude": 144.3820381
     },
     {
       "name": "KYOTO",
       "code": "1842",
-      "cities": []
+      "cities": [],
+      "latitude": 35.021041,
+      "longitude": 135.7556075
     },
     {
       "name": "MIYAZAKI",
       "code": "2281",
-      "cities": []
+      "cities": [],
+      "latitude": 32.097681,
+      "longitude": 131.294542
     },
     {
       "name": "MORIOKA",
       "code": "2325",
-      "cities": []
+      "cities": [],
+      "latitude": 39.7021331,
+      "longitude": 141.1545397
     },
     {
       "name": "MURORAN",
       "code": "2361",
-      "cities": []
+      "cities": [],
+      "latitude": 42.3152461,
+      "longitude": 140.9740731
     },
     {
       "name": "NAGANO",
       "code": "2374",
-      "cities": []
+      "cities": [],
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
     },
     {
       "name": "NAGASAKI",
       "code": "2375",
-      "cities": []
+      "cities": [],
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
     },
     {
       "name": "NAGOYA",
       "code": "2376",
-      "cities": []
+      "cities": [],
+      "latitude": 35.1851045,
+      "longitude": 136.8998438
     },
     {
       "name": "NAHA",
       "code": "2380",
-      "cities": []
+      "cities": [],
+      "latitude": 26.2122345,
+      "longitude": 127.6791452
     },
     {
       "name": "NIIGATA",
       "code": "2465",
-      "cities": []
+      "cities": [],
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
     },
     {
       "name": "NISHINOMIYA",
       "code": "2473",
-      "cities": []
+      "cities": [],
+      "latitude": 34.7386033,
+      "longitude": 135.3394138
     },
     {
       "name": "OKAYAMA",
       "code": "2543",
-      "cities": []
+      "cities": [],
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
     },
     {
       "name": "OKAZAKI",
       "code": "2544",
-      "cities": []
+      "cities": [],
+      "latitude": 34.950974,
+      "longitude": 137.260842
     },
     {
       "name": "OMIYA",
       "code": "2561",
-      "cities": []
+      "cities": [],
+      "latitude": 35.9063869,
+      "longitude": 139.6243304
     },
     {
       "name": "OMUTA",
       "code": "2562",
-      "cities": []
+      "cities": [],
+      "latitude": 33.047013,
+      "longitude": 130.464155
     },
     {
       "name": "OSAKA",
       "code": "2591",
-      "cities": []
+      "cities": [],
+      "latitude": 34.6198813,
+      "longitude": 135.490357
     },
     {
       "name": "OTARU",
       "code": "2601",
-      "cities": []
+      "cities": [],
+      "latitude": 43.1906806,
+      "longitude": 140.9946021
     },
     {
       "name": "SAPPORO",
       "code": "3139",
-      "cities": []
+      "cities": [],
+      "latitude": 43.061936,
+      "longitude": 141.3542924
     },
     {
       "name": "SASEBO",
       "code": "3148",
-      "cities": []
+      "cities": [],
+      "latitude": 33.1799965,
+      "longitude": 129.7152872
     },
     {
       "name": "SENDAI",
       "code": "3183",
-      "cities": []
+      "cities": [],
+      "latitude": 38.2677554,
+      "longitude": 140.8691498
     },
     {
       "name": "SHIMIZU",
       "code": "3214",
-      "cities": []
+      "cities": [],
+      "latitude": 35.10764,
+      "longitude": 138.898974
     },
     {
       "name": "SHIZUOKA",
       "code": "3216",
-      "cities": []
+      "cities": [],
+      "latitude": 34.9332488,
+      "longitude": 138.0955398
     },
     {
       "name": "SUITA",
       "code": "3375",
-      "cities": []
+      "cities": [],
+      "latitude": 34.764884,
+      "longitude": 135.51735
     },
     {
       "name": "TOKUSHIMA",
       "code": "3514",
-      "cities": []
+      "cities": [],
+      "latitude": 33.9196418,
+      "longitude": 134.2509634
     },
     {
       "name": "TOKYO",
       "code": "3515",
-      "cities": []
+      "cities": [],
+      "latitude": 35.6821936,
+      "longitude": 139.762221
     },
     {
       "name": "TOYAMA",
       "code": "3537",
-      "cities": []
+      "cities": [],
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
     },
     {
       "name": "TOYOHASHI",
       "code": "3538",
-      "cities": []
+      "cities": [],
+      "latitude": 34.769123,
+      "longitude": 137.391461
     },
     {
       "name": "TOYONAKA",
       "code": "3539",
-      "cities": []
+      "cities": [],
+      "latitude": 34.7862025,
+      "longitude": 135.4737093
     },
     {
       "name": "URAWA",
       "code": "3622",
-      "cities": []
+      "cities": [],
+      "latitude": 35.8589883,
+      "longitude": 139.6571882
     },
     {
       "name": "UTSUNOMIYA",
       "code": "3633",
-      "cities": []
+      "cities": [],
+      "latitude": 36.5549677,
+      "longitude": 139.8828776
     },
     {
       "name": "WAKAYAMA",
       "code": "3722",
-      "cities": []
+      "cities": [],
+      "latitude": 33.8070292,
+      "longitude": 135.5930743
     },
     {
       "name": "YAMAGATA",
       "code": "3889",
-      "cities": []
+      "cities": [],
+      "latitude": 38.4746705,
+      "longitude": 140.083237
     },
     {
       "name": "YAO",
       "code": "3892",
-      "cities": []
+      "cities": [],
+      "latitude": 34.626275,
+      "longitude": 135.605845
     },
     {
       "name": "YOKOHAMA",
       "code": "3899",
-      "cities": []
+      "cities": [],
+      "latitude": 35.4443947,
+      "longitude": 139.6367727
     },
     {
       "name": "YOKOSUKA",
       "code": "3900",
-      "cities": []
+      "cities": [],
+      "latitude": 35.2730564,
+      "longitude": 139.6653829
     }
   ]
 }

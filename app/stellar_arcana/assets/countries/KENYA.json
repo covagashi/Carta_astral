@@ -5,12 +5,16 @@
     {
       "name": "MOMBASA",
       "code": "2289",
-      "cities": []
+      "cities": [],
+      "latitude": -4.05052,
+      "longitude": 39.667169
     },
     {
       "name": "NAIROBI",
       "code": "2381",
-      "cities": []
+      "cities": [],
+      "latitude": -1.3026148499999999,
+      "longitude": 36.82884201813725
     }
   ]
 }

@@ -5,27 +5,37 @@
     {
       "name": "BASSEIN",
       "code": "268",
-      "cities": []
+      "cities": [],
+      "latitude": 16.783333,
+      "longitude": 94.733333
     },
     {
       "name": "HENZADA",
       "code": "1492",
-      "cities": []
+      "cities": [],
+      "latitude": 17.6457472,
+      "longitude": 95.4609517
     },
     {
       "name": "MANDALAY",
       "code": "2117",
-      "cities": []
+      "cities": [],
+      "latitude": 21.9596834,
+      "longitude": 96.0948743
     },
     {
       "name": "MOULMEIN",
       "code": "2339",
-      "cities": []
+      "cities": [],
+      "latitude": 16.4908026,
+      "longitude": 97.6284825
     },
     {
       "name": "RANGOON",
       "code": "2889",
-      "cities": []
+      "cities": [],
+      "latitude": 16.7967129,
+      "longitude": 96.1609916
     }
   ]
 }

@@ -5,67 +5,93 @@
     {
       "name": "BENONI",
       "code": "336",
-      "cities": []
+      "cities": [],
+      "latitude": -26.1930356,
+      "longitude": 28.3082376
     },
     {
       "name": "BLOEMFONTEIN",
       "code": "399",
-      "cities": []
+      "cities": [],
+      "latitude": -29.116395,
+      "longitude": 26.215496
     },
     {
       "name": "CAPETOWN",
       "code": "601",
-      "cities": []
+      "cities": [],
+      "latitude": -33.9285616,
+      "longitude": 18.4094545
     },
     {
       "name": "DURBAN",
       "code": "1005",
-      "cities": []
+      "cities": [],
+      "latitude": -29.861825,
+      "longitude": 31.009909
     },
     {
       "name": "EAST LONDON",
       "code": "1021",
-      "cities": []
+      "cities": [],
+      "latitude": -33.0191604,
+      "longitude": 27.8998573
     },
     {
       "name": "GERMISTON",
       "code": "1274",
-      "cities": []
+      "cities": [],
+      "latitude": -26.229444,
+      "longitude": 28.180556
     },
     {
       "name": "GOODWOOD",
       "code": "1309",
-      "cities": []
+      "cities": [],
+      "latitude": -33.9066667,
+      "longitude": 18.5491667
     },
     {
       "name": "JOHANNESBURG",
       "code": "1658",
-      "cities": []
+      "cities": [],
+      "latitude": -26.205,
+      "longitude": 28.049722
     },
     {
       "name": "KROONSTAD",
       "code": "1826",
-      "cities": []
+      "cities": [],
+      "latitude": -27.6532701,
+      "longitude": 27.235515
     },
     {
       "name": "PAARL",
       "code": "2616",
-      "cities": []
+      "cities": [],
+      "latitude": -33.7310282,
+      "longitude": 18.9642117
     },
     {
       "name": "PORT ELIZABETH",
       "code": "2794",
-      "cities": []
+      "cities": [],
+      "latitude": -33.9618359,
+      "longitude": 25.6186512
     },
     {
       "name": "PRETORIA",
       "code": "2830",
-      "cities": []
+      "cities": [],
+      "latitude": -25.7459277,
+      "longitude": 28.1879101
     },
     {
       "name": "UITENHAGE",
       "code": "3602",
-      "cities": []
+      "cities": [],
+      "latitude": -33.7678979,
+      "longitude": 25.3978174
     }
   ]
 }

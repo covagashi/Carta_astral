@@ -5,7 +5,9 @@
     {
       "name": "P'YONGYANG",
       "code": "2615",
-      "cities": []
+      "cities": [],
+      "latitude": 39.0167979,
+      "longitude": 125.7473609
     }
   ]
 }

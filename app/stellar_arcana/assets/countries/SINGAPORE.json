@@ -5,7 +5,9 @@
     {
       "name": "SINGAPORE",
       "code": "3233",
-      "cities": []
+      "cities": [],
+      "latitude": 1.2899175,
+      "longitude": 103.8519072
     }
   ]
 }

@@ -5,57 +5,79 @@
     {
       "name": "GUJRANWALA",
       "code": "1384",
-      "cities": []
+      "cities": [],
+      "latitude": 32.1525312,
+      "longitude": 74.1933745
     },
     {
       "name": "HYDERABAD",
       "code": "1571",
-      "cities": []
+      "cities": [],
+      "latitude": 25.3868287,
+      "longitude": 68.3714971
     },
     {
       "name": "ISLAMABAD",
       "code": "1611",
-      "cities": []
+      "cities": [],
+      "latitude": 33.6938118,
+      "longitude": 73.0651511
     },
     {
       "name": "KARACHI",
       "code": "1705",
-      "cities": []
+      "cities": [],
+      "latitude": 24.8546842,
+      "longitude": 67.0207055
     },
     {
       "name": "LAHORE",
       "code": "1873",
-      "cities": []
+      "cities": [],
+      "latitude": 31.5656822,
+      "longitude": 74.3141829
     },
     {
       "name": "LYALLPUR",
       "code": "2069",
-      "cities": []
+      "cities": [],
+      "latitude": 24.9058595,
+      "longitude": 67.0475532
     },
     {
       "name": "MULTAN",
       "code": "2353",
-      "cities": []
+      "cities": [],
+      "latitude": 30.197838,
+      "longitude": 71.4719683
     },
     {
       "name": "PESHAWAR",
       "code": "2712",
-      "cities": []
+      "cities": [],
+      "latitude": 34.0123846,
+      "longitude": 71.5787458
     },
     {
       "name": "RAWALPINDI",
       "code": "2895",
-      "cities": []
+      "cities": [],
+      "latitude": 33.5914237,
+      "longitude": 73.0535122
     },
     {
       "name": "SARGODHA",
       "code": "3146",
-      "cities": []
+      "cities": [],
+      "latitude": 32.0889657,
+      "longitude": 72.6776943
     },
     {
       "name": "SUKKUR",
       "code": "3376",
-      "cities": []
+      "cities": [],
+      "latitude": 27.7004292,
+      "longitude": 68.8664623
     }
   ]
 }

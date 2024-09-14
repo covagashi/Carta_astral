@@ -5,342 +5,478 @@
     {
       "name": "AGRA",
       "code": "24",
-      "cities": []
+      "cities": [],
+      "latitude": 27.1752554,
+      "longitude": 78.0098161
     },
     {
       "name": "AHMADABAD",
       "code": "28",
-      "cities": []
+      "cities": [],
+      "latitude": 23.0215374,
+      "longitude": 72.5800568
     },
     {
       "name": "AHMEDABAD",
       "code": "29",
-      "cities": []
+      "cities": [],
+      "latitude": 23.0215374,
+      "longitude": 72.5800568
     },
     {
       "name": "ALIGARH",
       "code": "69",
-      "cities": []
+      "cities": [],
+      "latitude": 27.8761073,
+      "longitude": 78.13581531245276
     },
     {
       "name": "ALLAHABAD",
       "code": "72",
-      "cities": []
+      "cities": [],
+      "latitude": 25.4381302,
+      "longitude": 81.8338005
     },
     {
       "name": "AMBALA",
       "code": "92",
-      "cities": []
+      "cities": [],
+      "latitude": 30.3843674,
+      "longitude": 76.770421
     },
     {
       "name": "AMRITSAR",
       "code": "99",
-      "cities": []
+      "cities": [],
+      "latitude": 31.6343083,
+      "longitude": 74.8736788
     },
     {
       "name": "ASANSOL",
       "code": "162",
-      "cities": []
+      "cities": [],
+      "latitude": 23.6871297,
+      "longitude": 86.9746587
     },
     {
       "name": "BALLY",
       "code": "229",
-      "cities": []
+      "cities": [],
+      "latitude": 22.6469581,
+      "longitude": 88.343612
     },
     {
       "name": "BANGALORE",
       "code": "234",
-      "cities": []
+      "cities": [],
+      "latitude": 12.98815675,
+      "longitude": 77.62260003796
     },
     {
       "name": "BAREILLY",
       "code": "248",
-      "cities": []
+      "cities": [],
+      "latitude": 28.45823445,
+      "longitude": 79.40474517998476
     },
     {
       "name": "BARODA",
       "code": "255",
-      "cities": []
+      "cities": [],
+      "latitude": 22.2973142,
+      "longitude": 73.1942567
     },
     {
       "name": "BENARES",
       "code": "327",
-      "cities": []
+      "cities": [],
+      "latitude": 25.3356491,
+      "longitude": 83.0076292
     },
     {
       "name": "BHAUNAGAR",
       "code": "368",
-      "cities": []
+      "cities": [],
+      "latitude": 22.8015194,
+      "longitude": 86.2029579
     },
     {
       "name": "BHOPAL",
       "code": "369",
-      "cities": []
+      "cities": [],
+      "latitude": 23.2584857,
+      "longitude": 77.401989
     },
     {
       "name": "BOMBAY",
       "code": "421",
-      "cities": []
+      "cities": [],
+      "latitude": 19.08157715,
+      "longitude": 72.88662753964906
     },
     {
       "name": "CALCUTTA",
       "code": "562",
-      "cities": []
+      "cities": [],
+      "latitude": 22.5726459,
+      "longitude": 88.3638953
     },
     {
       "name": "CALICUT",
       "code": "567",
-      "cities": []
+      "cities": [],
+      "latitude": 11.2450558,
+      "longitude": 75.7754716
     },
     {
       "name": "CAWNPORE",
       "code": "647",
-      "cities": []
+      "cities": [],
+      "latitude": 26.453925599999998,
+      "longitude": 80.37080735554045
     },
     {
       "name": "COIMBATORE",
       "code": "786",
-      "cities": []
+      "cities": [],
+      "latitude": 11.0018115,
+      "longitude": 76.9628425
     },
     {
       "name": "CUTTACK",
       "code": "882",
-      "cities": []
+      "cities": [],
+      "latitude": 20.4686,
+      "longitude": 85.8792
     },
     {
       "name": "DELHI",
       "code": "929",
-      "cities": []
+      "cities": [],
+      "latitude": 28.6273928,
+      "longitude": 77.1716954
     },
     {
       "name": "ERNAKULAM",
       "code": "1099",
-      "cities": []
+      "cities": [],
+      "latitude": 10.038394700000001,
+      "longitude": 76.50741452482532
     },
     {
       "name": "GAUHATI",
       "code": "1258",
-      "cities": []
+      "cities": [],
+      "latitude": 26.1805978,
+      "longitude": 91.753943
     },
     {
       "name": "GAYA",
       "code": "1260",
-      "cities": []
+      "cities": [],
+      "latitude": 24.7964355,
+      "longitude": 85.0079563
     },
     {
       "name": "GORAKHPUR",
       "code": "1311",
-      "cities": []
+      "cities": [],
+      "latitude": 26.6677977,
+      "longitude": 83.364233378331
     },
     {
       "name": "GUNTUR",
       "code": "1387",
-      "cities": []
+      "cities": [],
+      "latitude": 16.2915189,
+      "longitude": 80.4541588
     },
     {
       "name": "GWALIOR",
       "code": "1389",
-      "cities": []
+      "cities": [],
+      "latitude": 26.2037247,
+      "longitude": 78.1573628
     },
     {
       "name": "HOWRAH",
       "code": "1551",
-      "cities": []
+      "cities": [],
+      "latitude": 22.5736296,
+      "longitude": 88.3251045
     },
     {
       "name": "HUBLI",
       "code": "1554",
-      "cities": []
+      "cities": [],
+      "latitude": 15.3518378,
+      "longitude": 75.1379848
     },
     {
       "name": "HYDERABAD",
       "code": "1570",
-      "cities": []
+      "cities": [],
+      "latitude": 17.360589,
+      "longitude": 78.4740613
     },
     {
       "name": "INDORE",
       "code": "1587",
-      "cities": []
+      "cities": [],
+      "latitude": 22.7203616,
+      "longitude": 75.8681996
     },
     {
       "name": "JABALPUR",
       "code": "1624",
-      "cities": []
+      "cities": [],
+      "latitude": 23.1608938,
+      "longitude": 79.9497702
     },
     {
       "name": "JAIPUR",
       "code": "1635",
-      "cities": []
+      "cities": [],
+      "latitude": 26.9154576,
+      "longitude": 75.8189817
     },
     {
       "name": "JAMNAGAR",
       "code": "1640",
-      "cities": []
+      "cities": [],
+      "latitude": 22.4732415,
+      "longitude": 70.0552102
     },
     {
       "name": "JAMSHEDPUR",
       "code": "1641",
-      "cities": []
+      "cities": [],
+      "latitude": 22.8015194,
+      "longitude": 86.2029579
     },
     {
       "name": "JAPALPUR",
       "code": "1643",
-      "cities": []
+      "cities": [],
+      "latitude": 22.8015194,
+      "longitude": 86.2029579
     },
     {
       "name": "JHANSI",
       "code": "1655",
-      "cities": []
+      "cities": [],
+      "latitude": 25.529855,
+      "longitude": 78.65278023546288
     },
     {
       "name": "JODHPUR",
       "code": "1657",
-      "cities": []
+      "cities": [],
+      "latitude": 26.2967719,
+      "longitude": 73.0351433
     },
     {
       "name": "JUBBOLPORE",
       "code": "1667",
-      "cities": []
+      "cities": [],
+      "latitude": 22.8015194,
+      "longitude": 86.2029579
     },
     {
       "name": "JULLUNDUR",
       "code": "1671",
-      "cities": []
+      "cities": [],
+      "latitude": 31.416667,
+      "longitude": 75.616667
     },
     {
       "name": "KALYAN",
       "code": "1689",
-      "cities": []
+      "cities": [],
+      "latitude": 19.2396742,
+      "longitude": 73.1366482
     },
     {
       "name": "KANPUR",
       "code": "1698",
-      "cities": []
+      "cities": [],
+      "latitude": 26.4609135,
+      "longitude": 80.3217588
     },
     {
       "name": "KOLHAPUR",
       "code": "1796",
-      "cities": []
+      "cities": [],
+      "latitude": 16.7028412,
+      "longitude": 74.2405329
     },
     {
       "name": "KOTA",
       "code": "1813",
-      "cities": []
+      "cities": [],
+      "latitude": 25.196682950000003,
+      "longitude": 76.00096873038872
     },
     {
       "name": "KOZHIKODE",
       "code": "1817",
-      "cities": []
+      "cities": [],
+      "latitude": 11.2450558,
+      "longitude": 75.7754716
     },
     {
       "name": "LUCKNOW",
       "code": "2049",
-      "cities": []
+      "cities": [],
+      "latitude": 26.8381,
+      "longitude": 80.9346001
     },
     {
       "name": "LUDHIANA",
       "code": "2051",
-      "cities": []
+      "cities": [],
+      "latitude": 30.9090157,
+      "longitude": 75.851601
     },
     {
       "name": "MADRAS",
       "code": "2090",
-      "cities": []
+      "cities": [],
+      "latitude": 13.0836939,
+      "longitude": 80.270186
     },
     {
       "name": "MADURAI",
       "code": "2092",
-      "cities": []
+      "cities": [],
+      "latitude": 9.9261153,
+      "longitude": 78.1140983
     },
     {
       "name": "MALEGAON",
       "code": "2108",
-      "cities": []
+      "cities": [],
+      "latitude": 20.2585033,
+      "longitude": 76.97657401490227
     },
     {
       "name": "MANGOLORE",
       "code": "2119",
-      "cities": []
+      "cities": [],
+      "latitude": 22.8015194,
+      "longitude": 86.2029579
     },
     {
       "name": "MEERUT",
       "code": "2199",
-      "cities": []
+      "cities": [],
+      "latitude": 29.0018557,
+      "longitude": 77.76796714992041
     },
     {
       "name": "MORADABAD",
       "code": "2319",
-      "cities": []
+      "cities": [],
+      "latitude": 28.879655300000003,
+      "longitude": 78.80953353954959
     },
     {
       "name": "MYSORE",
       "code": "2365",
-      "cities": []
+      "cities": [],
+      "latitude": 12.3051828,
+      "longitude": 76.6553609
     },
     {
       "name": "NAGPUR",
       "code": "2377",
-      "cities": []
+      "cities": [],
+      "latitude": 21.1498134,
+      "longitude": 79.0820556
     },
     {
       "name": "NEW DELHI",
       "code": "2427",
-      "cities": []
+      "cities": [],
+      "latitude": 28.6138954,
+      "longitude": 77.2090057
     },
     {
       "name": "PATNA",
       "code": "2677",
-      "cities": []
+      "cities": [],
+      "latitude": 25.6093239,
+      "longitude": 85.1235252
     },
     {
       "name": "POONA",
       "code": "2783",
-      "cities": []
+      "cities": [],
+      "latitude": 18.5213738,
+      "longitude": 73.8545071
     },
     {
       "name": "RAJKOT",
       "code": "2876",
-      "cities": []
+      "cities": [],
+      "latitude": 22.3053263,
+      "longitude": 70.8028377
     },
     {
       "name": "SAHARANPUR",
       "code": "3035",
-      "cities": []
+      "cities": [],
+      "latitude": 29.9856799,
+      "longitude": 77.50406459058038
     },
     {
       "name": "SALEM",
       "code": "3049",
-      "cities": []
+      "cities": [],
+      "latitude": 11.64696155,
+      "longitude": 78.21069575456464
     },
     {
       "name": "SHOLAPUR",
       "code": "3218",
-      "cities": []
+      "cities": [],
+      "latitude": 17.8103533,
+      "longitude": 75.6376212
     },
     {
       "name": "SRINAGAR",
       "code": "3303",
-      "cities": []
+      "cities": [],
+      "latitude": 34.0747444,
+      "longitude": 74.8204443
     },
     {
       "name": "SURAT",
       "code": "3392",
-      "cities": []
+      "cities": [],
+      "latitude": 21.2094892,
+      "longitude": 72.8317058
     },
     {
       "name": "TRIVANDRUM",
       "code": "3558",
-      "cities": []
+      "cities": [],
+      "latitude": 8.4882267,
+      "longitude": 76.947551
     },
     {
       "name": "VARANASI",
       "code": "3651",
-      "cities": []
+      "cities": [],
+      "latitude": 25.3356491,
+      "longitude": 83.0076292
     },
     {
       "name": "VIJAYAWADA",
       "code": "3684",
-      "cities": []
+      "cities": [],
+      "latitude": 16.5087573,
+      "longitude": 80.6185089
     }
   ]
 }

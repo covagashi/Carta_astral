@@ -5,97 +5,135 @@
     {
       "name": "ANSHAN",
       "code": "123",
-      "cities": []
+      "cities": [],
+      "latitude": 40.822222,
+      "longitude": 122.8275
     },
     {
       "name": "BEIJING",
       "code": "299",
-      "cities": []
+      "cities": [],
+      "latitude": 40.190632,
+      "longitude": 116.412144
     },
     {
       "name": "CANTON",
       "code": "595",
-      "cities": []
+      "cities": [],
+      "latitude": 23.1301964,
+      "longitude": 113.2592945
     },
     {
       "name": "CHANGCHUN",
       "code": "670",
-      "cities": []
+      "cities": [],
+      "latitude": 43.8844201,
+      "longitude": 125.3180998
     },
     {
       "name": "GUANGZHOU",
       "code": "1375",
-      "cities": []
+      "cities": [],
+      "latitude": 23.1301964,
+      "longitude": 113.2592945
     },
     {
       "name": "HANGCHOW",
       "code": "1435",
-      "cities": []
+      "cities": [],
+      "latitude": 30.2489634,
+      "longitude": 120.2052342
     },
     {
       "name": "HARBIN",
       "code": "1439",
-      "cities": []
+      "cities": [],
+      "latitude": 45.7593633,
+      "longitude": 126.6276177
     },
     {
       "name": "HONG KONG",
       "code": "1539",
-      "cities": []
+      "cities": [],
+      "latitude": 22.350627,
+      "longitude": 114.1849161
     },
     {
       "name": "KANTON",
       "code": "1701",
-      "cities": []
+      "cities": [],
+      "latitude": 23.1301964,
+      "longitude": 113.2592945
     },
     {
       "name": "KUNMING",
       "code": "1832",
-      "cities": []
+      "cities": [],
+      "latitude": 25.0363006,
+      "longitude": 102.7086139
     },
     {
       "name": "LHASA",
       "code": "1964",
-      "cities": []
+      "cities": [],
+      "latitude": 29.6542054,
+      "longitude": 91.1173015
     },
     {
       "name": "NANJING",
       "code": "2386",
-      "cities": []
+      "cities": [],
+      "latitude": 32.0438284,
+      "longitude": 118.7788631
     },
     {
       "name": "NANJING",
       "code": "2387",
-      "cities": []
+      "cities": [],
+      "latitude": 32.0438284,
+      "longitude": 118.7788631
     },
     {
       "name": "SHANGHAI",
       "code": "3195",
-      "cities": []
+      "cities": [],
+      "latitude": 31.2312707,
+      "longitude": 121.4700152
     },
     {
       "name": "SHENYANG",
       "code": "3207",
-      "cities": []
+      "cities": [],
+      "latitude": 41.8026095,
+      "longitude": 123.4279105
     },
     {
       "name": "SICHUAN",
       "code": "4047",
-      "cities": []
+      "cities": [],
+      "latitude": 30.5000001,
+      "longitude": 102.4999999
     },
     {
       "name": "TANGXIAN",
       "code": "3439",
-      "cities": []
+      "cities": [],
+      "latitude": 38.906653,
+      "longitude": 114.7969001
     },
     {
       "name": "TIENTSIN",
       "code": "3496",
-      "cities": []
+      "cities": [],
+      "latitude": 39.1175488,
+      "longitude": 117.1913008
     },
     {
       "name": "WUHAN",
       "code": "3880",
-      "cities": []
+      "cities": [],
+      "latitude": 30.5951051,
+      "longitude": 114.2999353
     }
   ]
 }

@@ -8,23 +8,33 @@
       "cities": [
         {
           "name": "BANJA LUKA",
-          "code": "239"
+          "code": "239",
+          "latitude": 44.7720845,
+          "longitude": 17.1917651
         },
         {
           "name": "MOSTAR",
-          "code": "2335"
+          "code": "2335",
+          "latitude": 43.3435855,
+          "longitude": 17.8076584
         },
         {
           "name": "SARAJEVO",
-          "code": "3141"
+          "code": "3141",
+          "latitude": 43.8519774,
+          "longitude": 18.3866868
         },
         {
           "name": "TUZLA",
-          "code": "3591"
+          "code": "3591",
+          "latitude": 44.5391105,
+          "longitude": 18.675193
         },
         {
           "name": "ZENICA",
-          "code": "3928"
+          "code": "3928",
+          "latitude": 44.199828,
+          "longitude": 17.9093012
         }
       ]
     }

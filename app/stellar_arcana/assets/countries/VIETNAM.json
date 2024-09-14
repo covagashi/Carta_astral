@@ -5,17 +5,23 @@
     {
       "name": "HAIPHONG",
       "code": "1406",
-      "cities": []
+      "cities": [],
+      "latitude": 20.858864,
+      "longitude": 106.6749591
     },
     {
       "name": "HANOI",
       "code": "1437",
-      "cities": []
+      "cities": [],
+      "latitude": 21.0283334,
+      "longitude": 105.854041
     },
     {
       "name": "SAIGON",
       "code": "3036",
-      "cities": []
+      "cities": [],
+      "latitude": 10.7763897,
+      "longitude": 106.7011391
     }
   ]
 }

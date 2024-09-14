@@ -8,243 +8,363 @@
       "cities": [
         {
           "name": "BERDICHIV",
-          "code": "343"
+          "code": "343",
+          "latitude": 49.8940442,
+          "longitude": 28.5814912
         },
         {
           "name": "BEREHOVO",
-          "code": "345"
+          "code": "345",
+          "latitude": 48.2050985,
+          "longitude": 22.6453246
         },
         {
           "name": "BORISLAV",
-          "code": "429"
+          "code": "429",
+          "latitude": 49.2824381,
+          "longitude": 23.4138765
         },
         {
           "name": "CHERKASSY",
-          "code": "705"
+          "code": "705",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "CHERNEHIV",
-          "code": "706"
+          "code": "706",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "CHERNEVITSY",
-          "code": "707"
+          "code": "707",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "DNEPRODZERZINSK",
-          "code": "954"
+          "code": "954",
+          "latitude": 48.5167748,
+          "longitude": 34.6068797
         },
         {
           "name": "DNEPROPETROVSK",
-          "code": "955"
+          "code": "955",
+          "latitude": 48.4680221,
+          "longitude": 35.0417711
         },
         {
           "name": "DONETSKE",
-          "code": "960"
+          "code": "960",
+          "latitude": 48.93431,
+          "longitude": 37.6904
         },
         {
           "name": "DROHOBYCH",
-          "code": "976"
+          "code": "976",
+          "latitude": 49.3513996,
+          "longitude": 23.5061662
         },
         {
           "name": "DUBNO",
-          "code": "981"
+          "code": "981",
+          "latitude": 50.4187918,
+          "longitude": 25.7455972
         },
         {
           "name": "FASTOV",
-          "code": "1150"
+          "code": "1150",
+          "latitude": 50.0792658,
+          "longitude": 29.9301192
         },
         {
           "name": "IVANO-FRANKIVSK",
-          "code": "1617"
+          "code": "1617",
+          "latitude": 48.7481718,
+          "longitude": 24.5207477
         },
         {
           "name": "KADIYEVKA",
-          "code": "1676"
+          "code": "1676",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "KAMANETZ-PODOL.",
-          "code": "1690"
+          "code": "1690",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "KAZATIN",
-          "code": "1727"
+          "code": "1727",
+          "latitude": 49.7050724,
+          "longitude": 28.8299274
         },
         {
           "name": "KHARKIV",
-          "code": "1755"
+          "code": "1755",
+          "latitude": 49.9923181,
+          "longitude": 36.2310146
         },
         {
           "name": "KHERSON",
-          "code": "1757"
+          "code": "1757",
+          "latitude": 46.5421715,
+          "longitude": 33.4079326
         },
         {
           "name": "KHMELNITSKIY",
-          "code": "1759"
+          "code": "1759",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "KIROVOHRAD",
-          "code": "1778"
+          "code": "1778",
+          "latitude": 48.5105805,
+          "longitude": 32.2656283
         },
         {
           "name": "KISHINIV",
-          "code": "1780"
+          "code": "1780",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "KOMMUNARSK",
-          "code": "1801"
+          "code": "1801",
+          "latitude": 48.4835896,
+          "longitude": 38.7770551
         },
         {
           "name": "KOROSTEN",
-          "code": "1807"
+          "code": "1807",
+          "latitude": 50.9575934,
+          "longitude": 28.6350547
         },
         {
           "name": "KOVEL",
-          "code": "1814"
+          "code": "1814",
+          "latitude": 51.2120538,
+          "longitude": 24.708894
         },
         {
           "name": "KREMENCHUG",
-          "code": "1822"
+          "code": "1822",
+          "latitude": 49.0629553,
+          "longitude": 33.403516
         },
         {
           "name": "KREMENETS",
-          "code": "1823"
+          "code": "1823",
+          "latitude": 50.0960966,
+          "longitude": 25.7260783
         },
         {
           "name": "KRYVYJ RIH",
-          "code": "1827"
+          "code": "1827",
+          "latitude": 47.9102734,
+          "longitude": 33.3917703
         },
         {
           "name": "KYIV",
-          "code": "1841"
+          "code": "1841",
+          "latitude": 50.4500336,
+          "longitude": 30.5241361
         },
         {
           "name": "LUTSK",
-          "code": "2064"
+          "code": "2064",
+          "latitude": 50.7450733,
+          "longitude": 25.320078
         },
         {
           "name": "LVIV",
-          "code": "2068"
+          "code": "2068",
+          "latitude": 49.841952,
+          "longitude": 24.0315921
         },
         {
           "name": "MAKEYEVKA",
-          "code": "2102"
+          "code": "2102",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "MELITOPOL",
-          "code": "2206"
+          "code": "2206",
+          "latitude": 46.8467267,
+          "longitude": 35.3827281
         },
         {
           "name": "MERETA",
-          "code": "2219"
+          "code": "2219",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "MIKOLAJIV",
-          "code": "2254"
+          "code": "2254",
+          "latitude": 46.9758615,
+          "longitude": 31.9939666
         },
         {
           "name": "MIRHOROD",
-          "code": "2272"
+          "code": "2272",
+          "latitude": 49.9658333,
+          "longitude": 33.6113889
         },
         {
           "name": "MUKACHEVO",
-          "code": "2350"
+          "code": "2350",
+          "latitude": 48.4421119,
+          "longitude": 22.7185408
         },
         {
           "name": "NEZHIN",
-          "code": "2461"
+          "code": "2461",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "NIKOPOL",
-          "code": "2467"
+          "code": "2467",
+          "latitude": 47.5692061,
+          "longitude": 34.3917272
         },
         {
           "name": "NIZHIN",
-          "code": "2476"
+          "code": "2476",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "NOVOHRAD-VOLIN.",
-          "code": "2510"
+          "code": "2510",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "ODESSA",
-          "code": "2535"
+          "code": "2535",
+          "latitude": 46.4843023,
+          "longitude": 30.7322878
         },
         {
           "name": "PERVOMAYSK",
-          "code": "2709"
+          "code": "2709",
+          "latitude": 48.5882715,
+          "longitude": 38.0291475
         },
         {
           "name": "POLTAVA",
-          "code": "2775"
+          "code": "2775",
+          "latitude": 49.8607809,
+          "longitude": 33.7498787
         },
         {
           "name": "RIVNE",
-          "code": "2971"
+          "code": "2971",
+          "latitude": 51.2074112,
+          "longitude": 26.5208033
         },
         {
           "name": "SAMBOR",
-          "code": "3066"
+          "code": "3066",
+          "latitude": 49.5182487,
+          "longitude": 23.1969805
         },
         {
           "name": "SEVASTOPOL",
-          "code": "3190"
+          "code": "3190",
+          "latitude": 44.6054434,
+          "longitude": 33.5220842
         },
         {
           "name": "SHEPETIVKA",
-          "code": "3208"
+          "code": "3208",
+          "latitude": 50.1809437,
+          "longitude": 27.0651783
         },
         {
           "name": "SIMFEROPOL",
-          "code": "3230"
+          "code": "3230",
+          "latitude": 44.9521459,
+          "longitude": 34.1024858
         },
         {
           "name": "SMELA",
-          "code": "3252"
+          "code": "3252",
+          "latitude": 49.2336897,
+          "longitude": 31.8829216
         },
         {
           "name": "STRYJ",
-          "code": "3369"
+          "code": "3369",
+          "latitude": 49.255875,
+          "longitude": 23.8530863
         },
         {
           "name": "TERNOPIL",
-          "code": "3473"
+          "code": "3473",
+          "latitude": 49.6630002,
+          "longitude": 25.6167516
         },
         {
           "name": "UMAN",
-          "code": "3608"
+          "code": "3608",
+          "latitude": 48.7497621,
+          "longitude": 30.2203052
         },
         {
           "name": "UZH'HOROD",
-          "code": "3634"
+          "code": "3634",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "VINNITSA",
-          "code": "3695"
+          "code": "3695",
+          "latitude": 49.2392809,
+          "longitude": 28.5110617
         },
         {
           "name": "VOROSHILOVHRAD",
-          "code": "3713"
+          "code": "3713",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "YALTA",
-          "code": "3888"
+          "code": "3888",
+          "latitude": 44.4970713,
+          "longitude": 34.1586871
         },
         {
           "name": "ZAPORIZHJA",
-          "code": "3924"
+          "code": "3924",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "ZHDANOV",
-          "code": "3929"
+          "code": "3929",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         },
         {
           "name": "ZHITOMIR",
-          "code": "3930"
+          "code": "3930",
+          "latitude": 50.2601065,
+          "longitude": 28.6696281
         },
         {
           "name": "ZHMERINKA",
-          "code": "3931"
+          "code": "3931",
+          "latitude": 49.428024949999994,
+          "longitude": 32.05736420399052
         }
       ]
     }

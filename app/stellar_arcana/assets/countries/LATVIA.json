@@ -5,22 +5,30 @@
     {
       "name": "DAUGAVPILS",
       "code": "909",
-      "cities": []
+      "cities": [],
+      "latitude": 55.8712267,
+      "longitude": 26.5159337
     },
     {
       "name": "JELGAVA",
       "code": "1650",
-      "cities": []
+      "cities": [],
+      "latitude": 56.6514394,
+      "longitude": 23.7339143
     },
     {
       "name": "LIEPAJA",
       "code": "1972",
-      "cities": []
+      "cities": [],
+      "latitude": 56.5048435,
+      "longitude": 21.0070903
     },
     {
       "name": "RIGA",
       "code": "2959",
-      "cities": []
+      "cities": [],
+      "latitude": 56.9493977,
+      "longitude": 24.1051846
     }
   ]
 }

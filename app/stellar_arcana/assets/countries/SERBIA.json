@@ -5,47 +5,65 @@
     {
       "name": "BANJA LUKA",
       "code": "240",
-      "cities": []
+      "cities": [],
+      "latitude": 44.7720845,
+      "longitude": 17.1917651
     },
     {
       "name": "BELGRADE",
       "code": "307",
-      "cities": []
+      "cities": [],
+      "latitude": 44.8178131,
+      "longitude": 20.4568974
     },
     {
       "name": "BEOGRAD",
       "code": "340",
-      "cities": []
+      "cities": [],
+      "latitude": 44.8178131,
+      "longitude": 20.4568974
     },
     {
       "name": "KARLOVAC",
       "code": "1711",
-      "cities": []
+      "cities": [],
+      "latitude": 45.0500316,
+      "longitude": 21.0176284
     },
     {
       "name": "NIS",
       "code": "2472",
-      "cities": []
+      "cities": [],
+      "latitude": 43.3211301,
+      "longitude": 21.8959232
     },
     {
       "name": "NOVI SAD",
       "code": "2508",
-      "cities": []
+      "cities": [],
+      "latitude": 45.2551338,
+      "longitude": 19.8451756
     },
     {
       "name": "SKOPYE",
       "code": "3246",
-      "cities": []
+      "cities": [],
+      "latitude": 41.9887313,
+      "longitude": 21.414138744580796
     },
     {
       "name": "VUKOVAR",
       "code": "3715",
-      "cities": []
+      "cities": [],
+      "latitude": 45.35161495,
+      "longitude": 19.020424955267607
     },
     {
       "name": "ZADAR",
       "code": "3916",
-      "cities": []
+      "cities": [],
+      "latitude": 44.7720845,
+      "longitude": 17.1917651
     }
   ]
 }

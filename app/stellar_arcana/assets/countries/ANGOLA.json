@@ -5,27 +5,37 @@
     {
       "name": "BENGUELA",
       "code": "331",
-      "cities": []
+      "cities": [],
+      "latitude": -12.9104657,
+      "longitude": 14.0356608
     },
     {
       "name": "GANDA",
       "code": "1245",
-      "cities": []
+      "cities": [],
+      "latitude": -13.0172603,
+      "longitude": 14.6358601
     },
     {
       "name": "LOBITO",
       "code": "2002",
-      "cities": []
+      "cities": [],
+      "latitude": -12.3506867,
+      "longitude": 13.5464318
     },
     {
       "name": "LUANDA",
       "code": "2042",
-      "cities": []
+      "cities": [],
+      "latitude": -8.8272699,
+      "longitude": 13.2439512
     },
     {
       "name": "NOVA LISBOA",
       "code": "2504",
-      "cities": []
+      "cities": [],
+      "latitude": -12.7772455,
+      "longitude": 15.7346713
     }
   ]
 }

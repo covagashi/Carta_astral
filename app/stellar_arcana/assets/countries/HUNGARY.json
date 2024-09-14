@@ -8,211 +8,315 @@
       "cities": [
         {
           "name": "ABONY",
-          "code": "12"
+          "code": "12",
+          "latitude": 47.1887402,
+          "longitude": 20.0047823
         },
         {
           "name": "BAJA",
-          "code": "221"
+          "code": "221",
+          "latitude": 46.1785471,
+          "longitude": 18.9517255
         },
         {
           "name": "BEKES",
-          "code": "303"
+          "code": "303",
+          "latitude": 46.7862993,
+          "longitude": 20.9820736
         },
         {
           "name": "BESCSABA",
-          "code": "358"
+          "code": "358",
+          "latitude": 47.1887402,
+          "longitude": 20.0047823
         },
         {
           "name": "BUDAFOK",
-          "code": "519"
+          "code": "519",
+          "latitude": 47.4275301,
+          "longitude": 19.0260778
         },
         {
           "name": "BUDAPEST",
-          "code": "520"
+          "code": "520",
+          "latitude": 47.48138955,
+          "longitude": 19.14609412691246
         },
         {
           "name": "CEGLED",
-          "code": "653"
+          "code": "653",
+          "latitude": 47.1716447,
+          "longitude": 19.7977516
         },
         {
           "name": "CSEPEL",
-          "code": "867"
+          "code": "867",
+          "latitude": 47.4217019,
+          "longitude": 19.0662891
         },
         {
           "name": "CSONGRAD",
-          "code": "868"
+          "code": "868",
+          "latitude": 46.7096643,
+          "longitude": 20.1531646
         },
         {
           "name": "DEBRECEN",
-          "code": "918"
+          "code": "918",
+          "latitude": 47.531399,
+          "longitude": 21.6259782
         },
         {
           "name": "DOMBOVAR",
-          "code": "958"
+          "code": "958",
+          "latitude": 46.3778989,
+          "longitude": 18.1332865
         },
         {
           "name": "DUNAUJVAROS",
-          "code": "990"
+          "code": "990",
+          "latitude": 46.9669545,
+          "longitude": 18.9393976
         },
         {
           "name": "EGER",
-          "code": "1043"
+          "code": "1043",
+          "latitude": 47.8989887,
+          "longitude": 20.3743665
         },
         {
           "name": "ESZTERGOM",
-          "code": "1115"
+          "code": "1115",
+          "latitude": 47.7856939,
+          "longitude": 18.7403377
         },
         {
           "name": "GYONGYOS",
-          "code": "1390"
+          "code": "1390",
+          "latitude": 47.7799838,
+          "longitude": 19.9291176
         },
         {
           "name": "GYOR",
-          "code": "1391"
+          "code": "1391",
+          "latitude": 47.687609,
+          "longitude": 17.6346815
         },
         {
           "name": "GYULA",
-          "code": "1392"
+          "code": "1392",
+          "latitude": 46.6438656,
+          "longitude": 21.2747575
         },
         {
           "name": "HATVAN",
-          "code": "1460"
+          "code": "1460",
+          "latitude": 47.6683971,
+          "longitude": 19.6743874
         },
         {
           "name": "HODMEZOVASARHEL",
-          "code": "1525"
+          "code": "1525",
+          "latitude": 47.1887402,
+          "longitude": 20.0047823
         },
         {
           "name": "JASZBERENY",
-          "code": "1645"
+          "code": "1645",
+          "latitude": 47.5030505,
+          "longitude": 19.9117887
         },
         {
           "name": "KAPOSVAR",
-          "code": "1704"
+          "code": "1704",
+          "latitude": 46.3564692,
+          "longitude": 17.7886886
         },
         {
           "name": "KARCAG",
-          "code": "1707"
+          "code": "1707",
+          "latitude": 47.314646,
+          "longitude": 20.9240941
         },
         {
           "name": "KAZINCBARCIKA",
-          "code": "1728"
+          "code": "1728",
+          "latitude": 48.2544414,
+          "longitude": 20.6223251
         },
         {
           "name": "KECSKEMET",
-          "code": "1730"
+          "code": "1730",
+          "latitude": 46.9073883,
+          "longitude": 19.6917206
         },
         {
           "name": "KISKUNHALAS",
-          "code": "1781"
+          "code": "1781",
+          "latitude": 46.4278497,
+          "longitude": 19.4833076
         },
         {
           "name": "KISPEST",
-          "code": "1782"
+          "code": "1782",
+          "latitude": 47.4484411,
+          "longitude": 19.1465176
         },
         {
           "name": "MAKO",
-          "code": "2103"
+          "code": "2103",
+          "latitude": 46.2150438,
+          "longitude": 20.4751022
         },
         {
           "name": "MEZOTUR",
-          "code": "2241"
+          "code": "2241",
+          "latitude": 47.0004724,
+          "longitude": 20.6299513
         },
         {
           "name": "MISKOLC",
-          "code": "2274"
+          "code": "2274",
+          "latitude": 48.1030643,
+          "longitude": 20.7900429
         },
         {
           "name": "NAGYKANIZSA",
-          "code": "2378"
+          "code": "2378",
+          "latitude": 46.4548261,
+          "longitude": 16.9923923
         },
         {
           "name": "NAGYKOROS",
-          "code": "2379"
+          "code": "2379",
+          "latitude": 47.0374257,
+          "longitude": 19.7863141
         },
         {
           "name": "NYIREGYHAZA",
-          "code": "2515"
+          "code": "2515",
+          "latitude": 47.9557802,
+          "longitude": 21.7167982
         },
         {
           "name": "OROSHAZA",
-          "code": "2588"
+          "code": "2588",
+          "latitude": 46.5603339,
+          "longitude": 20.6693477
         },
         {
           "name": "OZD",
-          "code": "2613"
+          "code": "2613",
+          "latitude": 48.2239095,
+          "longitude": 20.2895983
         },
         {
           "name": "PAPA",
-          "code": "2644"
+          "code": "2644",
+          "latitude": 47.3261087,
+          "longitude": 17.4705293
         },
         {
           "name": "PECS",
-          "code": "2688"
+          "code": "2688",
+          "latitude": 46.0765092,
+          "longitude": 18.2280317
         },
         {
           "name": "RAKOSPALOTA",
-          "code": "2877"
+          "code": "2877",
+          "latitude": 47.5634365,
+          "longitude": 19.1365016
         },
         {
           "name": "SALGOTARJAN",
-          "code": "3055"
+          "code": "3055",
+          "latitude": 48.0960676,
+          "longitude": 19.8005642
         },
         {
           "name": "SOPRON",
-          "code": "3267"
+          "code": "3267",
+          "latitude": 47.6803063,
+          "longitude": 16.5983457
         },
         {
           "name": "SZARVAS",
-          "code": "3407"
+          "code": "3407",
+          "latitude": 46.8621434,
+          "longitude": 20.5521466
         },
         {
           "name": "SZEGED",
-          "code": "3409"
+          "code": "3409",
+          "latitude": 46.2546312,
+          "longitude": 20.1486016
         },
         {
           "name": "SZEKESFEHERVAR",
-          "code": "3410"
+          "code": "3410",
+          "latitude": 47.1910169,
+          "longitude": 18.410811
         },
         {
           "name": "SZEKSZARD",
-          "code": "3411"
+          "code": "3411",
+          "latitude": 46.3484884,
+          "longitude": 18.701663
         },
         {
           "name": "SZENTES",
-          "code": "3412"
+          "code": "3412",
+          "latitude": 46.6524049,
+          "longitude": 20.2566408
         },
         {
           "name": "SZOLNOK",
-          "code": "3413"
+          "code": "3413",
+          "latitude": 47.1753833,
+          "longitude": 20.1946279
         },
         {
           "name": "SZOMBATHELY",
-          "code": "3414"
+          "code": "3414",
+          "latitude": 47.2291184,
+          "longitude": 16.6187625
         },
         {
           "name": "TATABANYA",
-          "code": "3452"
+          "code": "3452",
+          "latitude": 47.583845,
+          "longitude": 18.3979855
         },
         {
           "name": "UJPEST",
-          "code": "3603"
+          "code": "3603",
+          "latitude": 47.5761686,
+          "longitude": 19.0955082
         },
         {
           "name": "VAC",
-          "code": "3635"
+          "code": "3635",
+          "latitude": 47.7782873,
+          "longitude": 19.1278294
         },
         {
           "name": "VARPALOTA",
-          "code": "3655"
+          "code": "3655",
+          "latitude": 47.198695,
+          "longitude": 18.138157
         },
         {
           "name": "VESZPREM",
-          "code": "3671"
+          "code": "3671",
+          "latitude": 47.0933824,
+          "longitude": 17.9080406
         },
         {
           "name": "ZALAEGERSZEG",
-          "code": "3920"
+          "code": "3920",
+          "latitude": 46.8415803,
+          "longitude": 16.8456316
         }
       ]
     }

@@ -3,6 +3,7 @@ from carta_natal import main as generate_carta_natal
 import os
 import logging
 import json
+import base64  
 
 app = Flask(__name__)
 
@@ -23,16 +24,21 @@ def generate_carta_natal_endpoint():
         with open(json_file, 'r', encoding='utf-8') as file:
             carta_natal_data = json.load(file)
 
+        # Leer el contenido del archivo PNG y codificarlo en base64
+        with open(png_file, 'rb') as image_file:
+            encoded_image = base64.b64encode(image_file.read()).decode('utf-8')
+
         # Preparar la respuesta
         response = {
             "success": True,
             "data": carta_natal_data,
-            "image_url": f"/get_image/{png_file.name}"  # URL para obtener la imagen
+            "image": encoded_image
         }
 
-        # Eliminar el archivo JSON temporal
+        # Eliminar archivos temporales
         os.remove(json_file)
-        logger.info("Archivo JSON temporal eliminado")
+        os.remove(png_file)
+        logger.info("Archivos temporales eliminados")
 
         return jsonify(response)
     else:

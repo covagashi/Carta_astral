@@ -8,7 +8,9 @@
       "cities": [
         {
           "name": "NICOSIA",
-          "code": "4024"
+          "code": "4024",
+          "latitude": 35.1746503,
+          "longitude": 33.3638783
         }
       ]
     }

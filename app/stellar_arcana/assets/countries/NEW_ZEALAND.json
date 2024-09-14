@@ -5,92 +5,128 @@
     {
       "name": "AUCKLAND",
       "code": "192",
-      "cities": []
+      "cities": [],
+      "latitude": -36.852095,
+      "longitude": 174.7631803
     },
     {
       "name": "CHRISTCHURCH",
       "code": "742",
-      "cities": []
+      "cities": [],
+      "latitude": -43.530955,
+      "longitude": 172.6364343
     },
     {
       "name": "DUNEDIN",
       "code": "997",
-      "cities": []
+      "cities": [],
+      "latitude": -45.8740984,
+      "longitude": 170.5035755
     },
     {
       "name": "GISBORNE",
       "code": "1284",
-      "cities": []
+      "cities": [],
+      "latitude": -38.661326,
+      "longitude": 178.0206487
     },
     {
       "name": "HAMILTON",
       "code": "1423",
-      "cities": []
+      "cities": [],
+      "latitude": -37.7878809,
+      "longitude": 175.281788
     },
     {
       "name": "HASTINGS",
       "code": "1457",
-      "cities": []
+      "cities": [],
+      "latitude": -39.6417678,
+      "longitude": 176.8430781
     },
     {
       "name": "INVERCARGILL",
       "code": "1593",
-      "cities": []
+      "cities": [],
+      "latitude": -46.4118465,
+      "longitude": 168.3470632
     },
     {
       "name": "LOWER HUTT",
       "code": "2040",
-      "cities": []
+      "cities": [],
+      "latitude": -41.2125751,
+      "longitude": 174.9057626
     },
     {
       "name": "NAPIER",
       "code": "2395",
-      "cities": []
+      "cities": [],
+      "latitude": -39.4902099,
+      "longitude": 176.917839
     },
     {
       "name": "NELSON",
       "code": "2412",
-      "cities": []
+      "cities": [],
+      "latitude": -41.2710849,
+      "longitude": 173.2836756
     },
     {
       "name": "NEW PLYMOUTH",
       "code": "2434",
-      "cities": []
+      "cities": [],
+      "latitude": -39.0579941,
+      "longitude": 174.0806474
     },
     {
       "name": "PALMERSTON N.",
       "code": "2636",
-      "cities": []
+      "cities": [],
+      "latitude": -40.356317,
+      "longitude": 175.6112388
     },
     {
       "name": "ROTORUA",
       "code": "3006",
-      "cities": []
+      "cities": [],
+      "latitude": -38.1381493,
+      "longitude": 176.252922
     },
     {
       "name": "TAURANGA",
       "code": "3455",
-      "cities": []
+      "cities": [],
+      "latitude": -37.6859006,
+      "longitude": 176.167505
     },
     {
       "name": "TIMARU",
       "code": "3500",
-      "cities": []
+      "cities": [],
+      "latitude": -44.3930254,
+      "longitude": 171.2509786
     },
     {
       "name": "WANGANUI",
       "code": "3738",
-      "cities": []
+      "cities": [],
+      "latitude": -39.9324904,
+      "longitude": 175.0519306
     },
     {
       "name": "WELLINGTON",
       "code": "3782",
-      "cities": []
+      "cities": [],
+      "latitude": -41.2887953,
+      "longitude": 174.7772114
     },
     {
       "name": "WHANGAREI",
       "code": "3813",
-      "cities": []
+      "cities": [],
+      "latitude": -35.7275268,
+      "longitude": 174.3194202
     }
   ]
 }

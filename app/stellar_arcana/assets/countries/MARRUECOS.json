@@ -5,62 +5,86 @@
     {
       "name": "CASABLANCA",
       "code": "632",
-      "cities": []
+      "cities": [],
+      "latitude": 33.5945144,
+      "longitude": -7.6200284
     },
     {
       "name": "FEZ",
       "code": "1159",
-      "cities": []
+      "cities": [],
+      "latitude": 34.0346534,
+      "longitude": -5.0161926
     },
     {
       "name": "KENITRA",
       "code": "1737",
-      "cities": []
+      "cities": [],
+      "latitude": 34.26457,
+      "longitude": -6.570169
     },
     {
       "name": "MARRAKECH",
       "code": "2157",
-      "cities": []
+      "cities": [],
+      "latitude": 31.6258257,
+      "longitude": -7.9891608
     },
     {
       "name": "MEKNES",
       "code": "2202",
-      "cities": []
+      "cities": [],
+      "latitude": 33.8984131,
+      "longitude": -5.5321582
     },
     {
       "name": "OUJDA",
       "code": "2603",
-      "cities": []
+      "cities": [],
+      "latitude": 34.677874,
+      "longitude": -1.929306
     },
     {
       "name": "RABAT",
       "code": "2867",
-      "cities": []
+      "cities": [],
+      "latitude": 34.02236,
+      "longitude": -6.8340222
     },
     {
       "name": "SAFI",
       "code": "3032",
-      "cities": []
+      "cities": [],
+      "latitude": 32.299424,
+      "longitude": -9.239533
     },
     {
       "name": "SAHARA",
       "code": "4044",
-      "cities": []
+      "cities": [],
+      "latitude": 31.5635806,
+      "longitude": -4.7113896
     },
     {
       "name": "TANGER",
       "code": "3437",
-      "cities": []
+      "cities": [],
+      "latitude": 35.7642313,
+      "longitude": -5.842961427833071
     },
     {
       "name": "TANGIER",
       "code": "3438",
-      "cities": []
+      "cities": [],
+      "latitude": 35.7642313,
+      "longitude": -5.842961427833071
     },
     {
       "name": "TETOUAN",
       "code": "3475",
-      "cities": []
+      "cities": [],
+      "latitude": 35.570175,
+      "longitude": -5.3742776
     }
   ]
 }

@@ -5,52 +5,72 @@
     {
       "name": "AN NAJAF",
       "code": "103",
-      "cities": []
+      "cities": [],
+      "latitude": 32.0010227,
+      "longitude": 44.3299926
     },
     {
       "name": "ARBELA",
       "code": "140",
-      "cities": []
+      "cities": [],
+      "latitude": 36.1911744,
+      "longitude": 44.0094145
     },
     {
       "name": "BAGHDAD",
       "code": "215",
-      "cities": []
+      "cities": [],
+      "latitude": 33.3061701,
+      "longitude": 44.3872213
     },
     {
       "name": "BASRA",
       "code": "267",
-      "cities": []
+      "cities": [],
+      "latitude": 30.4952371,
+      "longitude": 47.8090981
     },
     {
       "name": "ERBIL",
       "code": "1095",
-      "cities": []
+      "cities": [],
+      "latitude": 36.1911744,
+      "longitude": 44.0094145
     },
     {
       "name": "HILLA",
       "code": "1512",
-      "cities": []
+      "cities": [],
+      "latitude": 32.482245,
+      "longitude": 44.4328131
     },
     {
       "name": "KARBALA",
       "code": "1706",
-      "cities": []
+      "cities": [],
+      "latitude": 32.6156423,
+      "longitude": 44.0348194
     },
     {
       "name": "KIRKUK",
       "code": "1776",
-      "cities": []
+      "cities": [],
+      "latitude": 35.4719308,
+      "longitude": 44.3953896
     },
     {
       "name": "MOSUL",
       "code": "2336",
-      "cities": []
+      "cities": [],
+      "latitude": 36.343694049999996,
+      "longitude": 43.099715597302286
     },
     {
       "name": "SULAIMANIYA",
       "code": "3377",
-      "cities": []
+      "cities": [],
+      "latitude": 35.5570501,
+      "longitude": 45.4425963
     }
   ]
 }

@@ -5,102 +5,142 @@
     {
       "name": "BANDUNG",
       "code": "233",
-      "cities": []
+      "cities": [],
+      "latitude": -6.9215529,
+      "longitude": 107.6110212
     },
     {
       "name": "BATAVIA",
       "code": "272",
-      "cities": []
+      "cities": [],
+      "latitude": -6.175247,
+      "longitude": 106.8270488
     },
     {
       "name": "BOGOR",
       "code": "415",
-      "cities": []
+      "cities": [],
+      "latitude": -6.5453255,
+      "longitude": 107.00174246832204
     },
     {
       "name": "DJAKARTA",
       "code": "952",
-      "cities": []
+      "cities": [],
+      "latitude": -6.175247,
+      "longitude": 106.8270488
     },
     {
       "name": "JAKARTA",
       "code": "1636",
-      "cities": []
+      "cities": [],
+      "latitude": -6.175247,
+      "longitude": 106.8270488
     },
     {
       "name": "KEDIRI",
       "code": "1731",
-      "cities": []
+      "cities": [],
+      "latitude": -7.8111057,
+      "longitude": 112.0046051
     },
     {
       "name": "MADIUN",
       "code": "2089",
-      "cities": []
+      "cities": [],
+      "latitude": -7.61188765,
+      "longitude": 111.67319262808837
     },
     {
       "name": "MAKASSAR",
       "code": "2101",
-      "cities": []
+      "cities": [],
+      "latitude": -5.1342962,
+      "longitude": 119.4124282
     },
     {
       "name": "MALANG",
       "code": "2105",
-      "cities": []
+      "cities": [],
+      "latitude": -7.9771308,
+      "longitude": 112.6340265
     },
     {
       "name": "MANADO",
       "code": "2110",
-      "cities": []
+      "cities": [],
+      "latitude": 1.4900578,
+      "longitude": 124.8408708
     },
     {
       "name": "MEDAN",
       "code": "2193",
-      "cities": []
+      "cities": [],
+      "latitude": 3.5896654,
+      "longitude": 98.6738261
     },
     {
       "name": "PADANG",
       "code": "2621",
-      "cities": []
+      "cities": [],
+      "latitude": -0.9247587,
+      "longitude": 100.3632561
     },
     {
       "name": "PALEMBANG",
       "code": "2628",
-      "cities": []
+      "cities": [],
+      "latitude": -2.9888243,
+      "longitude": 104.7568507
     },
     {
       "name": "PONTIANAK",
       "code": "2781",
-      "cities": []
+      "cities": [],
+      "latitude": -0.0226903,
+      "longitude": 109.3447488
     },
     {
       "name": "SEMARANG",
       "code": "3182",
-      "cities": []
+      "cities": [],
+      "latitude": -6.9903988,
+      "longitude": 110.4229104
     },
     {
       "name": "SURABAJA",
       "code": "3390",
-      "cities": []
+      "cities": [],
+      "latitude": -7.2459717,
+      "longitude": 112.7378266
     },
     {
       "name": "SURAKARTA",
       "code": "3391",
-      "cities": []
+      "cities": [],
+      "latitude": -7.5692489,
+      "longitude": 110.828448
     },
     {
       "name": "TANJUNGPRIOK",
       "code": "3440",
-      "cities": []
+      "cities": [],
+      "latitude": -6.9215529,
+      "longitude": 107.6110212
     },
     {
       "name": "TJIREBON",
       "code": "3510",
-      "cities": []
+      "cities": [],
+      "latitude": -6.7137044,
+      "longitude": 108.5608483
     },
     {
       "name": "UJUNG PANDANG",
       "code": "3604",
-      "cities": []
+      "cities": [],
+      "latitude": 0.7801882,
+      "longitude": 112.4996583
     }
   ]
 }

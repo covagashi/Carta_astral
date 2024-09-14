@@ -4,907 +4,1357 @@
   "provinces": [
     {
       "name": "ALDERSHOT",
-      "code": "55",
+      "code": "55",      
       "cities": [
         {
           "name": "ALDERSHOT",
-          "code": "55"
+          "code": "55",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ALDRIDGE BROWN.",
-          "code": "56"
+          "code": "56",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ALTRINCHAM",
-          "code": "86"
+          "code": "86",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ASHTON-U-LYNNE",
-          "code": "171"
+          "code": "171",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BANSTEAD",
-          "code": "243"
+          "code": "243",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BARKING",
-          "code": "251"
+          "code": "251",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BARNET",
-          "code": "252"
+          "code": "252",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BARNSLEY",
-          "code": "253"
+          "code": "253",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BARROW-FURNESS",
-          "code": "261"
+          "code": "261",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BASILDON",
-          "code": "265"
+          "code": "265",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BASINGSTOKE",
-          "code": "266"
+          "code": "266",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BATH",
-          "code": "273"
+          "code": "273",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BATLEY",
-          "code": "276"
+          "code": "276",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BEBINGTON",
-          "code": "292"
+          "code": "292",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BEDFORD",
-          "code": "295"
+          "code": "295",
+          "latitude": 53.7899368,
+          "longitude": -1.7484954
         },
         {
           "name": "BEESTON",
-          "code": "298"
+          "code": "298",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BEXLEY",
-          "code": "366"
+          "code": "366",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BIRKENHEAD",
-          "code": "382"
+          "code": "382",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BIRMINGHAM",
-          "code": "383"
+          "code": "383",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BLACKBURN",
-          "code": "392"
+          "code": "392",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BLACKPOOL",
-          "code": "393"
+          "code": "393",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BOLTON",
-          "code": "419"
+          "code": "419",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BOOTLE",
-          "code": "425"
+          "code": "425",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BOURNEMOUTH",
-          "code": "442"
+          "code": "442",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BRADFORD",
-          "code": "448"
+          "code": "448",
+          "latitude": 53.7912775,
+          "longitude": -1.7666110188908903
         },
         {
           "name": "BRAMHALL",
-          "code": "454"
+          "code": "454",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BRENT",
-          "code": "474"
+          "code": "474",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BRENTWOOD",
-          "code": "475"
+          "code": "475",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BRIGHTON",
-          "code": "481"
+          "code": "481",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BRISTOL",
-          "code": "487"
+          "code": "487",
+          "latitude": 51.44914805,
+          "longitude": -2.609087726550849
         },
         {
           "name": "BROMLEY",
-          "code": "497"
+          "code": "497",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BROWNHILLS",
-          "code": "506"
+          "code": "506",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BURNLEY",
-          "code": "539"
+          "code": "539",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BURTON",
-          "code": "541"
+          "code": "541",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BURTON-U-TRENT",
-          "code": "543"
+          "code": "543",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "BURY",
-          "code": "544"
+          "code": "544",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CAMBORNE",
-          "code": "575"
+          "code": "575",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CAMBRIDGE",
-          "code": "576"
+          "code": "576",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CAMDON",
-          "code": "581"
+          "code": "581",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CANNOCK",
-          "code": "592"
+          "code": "592",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CANTERBURY",
-          "code": "594"
+          "code": "594",
+          "latitude": 53.7804348,
+          "longitude": -1.7697457
         },
         {
           "name": "CARLISLE",
-          "code": "608"
+          "code": "608",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CARLTON",
-          "code": "612"
+          "code": "612",
+          "latitude": 53.7922413,
+          "longitude": -1.7624604
         },
         {
           "name": "CHATHAM",
-          "code": "686"
+          "code": "686",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CHEADLE GATLEY",
-          "code": "691"
+          "code": "691",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CHELMSFORD",
-          "code": "696"
+          "code": "696",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CHELSEA",
-          "code": "698"
+          "code": "698",
+          "latitude": 51.5110023,
+          "longitude": -0.195342
         },
         {
           "name": "CHELTENHAM",
-          "code": "700"
+          "code": "700",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CHERTSEY",
-          "code": "709"
+          "code": "709",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CHESHAM",
-          "code": "711"
+          "code": "711",
+          "latitude": 53.79050745,
+          "longitude": -1.7656102306351007
         },
         {
           "name": "CHESHUNT",
-          "code": "712"
+          "code": "712",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CHESTER",
-          "code": "713"
+          "code": "713",
+          "latitude": 52.9250588,
+          "longitude": -1.4539571
         },
         {
           "name": "CHESTERFIELD",
-          "code": "716"
+          "code": "716",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CHIGWELL",
-          "code": "729"
+          "code": "729",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "COLCHESTER",
-          "code": "788"
+          "code": "788",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CORBY",
-          "code": "831"
+          "code": "831",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "COVENTRY",
-          "code": "850"
+          "code": "850",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CREWE",
-          "code": "862"
+          "code": "862",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CROSBY",
-          "code": "863"
+          "code": "863",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "CROYDON",
-          "code": "865"
+          "code": "865",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "DARLINGTON",
-          "code": "904"
+          "code": "904",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "DARTFORD",
-          "code": "907"
+          "code": "907",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "DERBY",
-          "code": "936"
+          "code": "936",
+          "latitude": 52.9250588,
+          "longitude": -1.4539571
         },
         {
           "name": "DEWSBURY",
-          "code": "945"
+          "code": "945",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "DONCASTER",
-          "code": "959"
+          "code": "959",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "DUDLEY",
-          "code": "984"
+          "code": "984",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "DURHAM",
-          "code": "1007"
+          "code": "1007",
+          "latitude": -37.68872905,
+          "longitude": 143.86433559710912
         },
         {
           "name": "EALING",
-          "code": "1015"
+          "code": "1015",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "EASTBOURNE",
-          "code": "1027"
+          "code": "1027",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "EASTLEIGH",
-          "code": "1028"
+          "code": "1028",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ELLESMERE PORT",
-          "code": "1068"
+          "code": "1068",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ELY",
-          "code": "1074"
+          "code": "1074",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ENFIELD",
-          "code": "1083"
+          "code": "1083",
+          "latitude": 53.7691081,
+          "longitude": -1.7880748
         },
         {
           "name": "EPSOM EWELL",
-          "code": "1093"
+          "code": "1093",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ESHER",
-          "code": "1105"
+          "code": "1105",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ESTON",
-          "code": "1114"
+          "code": "1114",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "EXETER",
-          "code": "1129"
+          "code": "1129",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "FAREHAM",
-          "code": "1142"
+          "code": "1142",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "FARNBOROUGH",
-          "code": "1147"
+          "code": "1147",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "FELLING",
-          "code": "1155"
+          "code": "1155",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "FOLKESTONE",
-          "code": "1173"
+          "code": "1173",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "GLOUCESTER",
-          "code": "1300"
+          "code": "1300",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "GOSPORT",
-          "code": "1316"
+          "code": "1316",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "GRAVESEND",
-          "code": "1339"
+          "code": "1339",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "GREAT YARMOUTH",
-          "code": "1343"
+          "code": "1343",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "GREENWICH",
-          "code": "1355"
+          "code": "1355",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "GUILDFORD",
-          "code": "1381"
+          "code": "1381",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HACKNEY",
-          "code": "1398"
+          "code": "1398",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HALESOWEN",
-          "code": "1409"
+          "code": "1409",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HALIFAX",
-          "code": "1410"
+          "code": "1410",
+          "latitude": 53.794587,
+          "longitude": -1.7529882504487275
         },
         {
           "name": "HAMMERSMITH",
-          "code": "1429"
+          "code": "1429",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HARINGEY",
-          "code": "1440"
+          "code": "1440",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HARLOW",
-          "code": "1442"
+          "code": "1442",
+          "latitude": 53.7870907,
+          "longitude": -1.7867666
         },
         {
           "name": "HAROGATE",
-          "code": "1443"
+          "code": "1443",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HARROW",
-          "code": "1449"
+          "code": "1449",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HARROW",
-          "code": "1450"
+          "code": "1450",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HASTINGS",
-          "code": "1456"
+          "code": "1456",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HAVANT",
-          "code": "1464"
+          "code": "1464",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HAVERING",
-          "code": "1468"
+          "code": "1468",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HAZEL GROVE",
-          "code": "1473"
+          "code": "1473",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HEREFORD",
-          "code": "1495"
+          "code": "1495",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HIGH WYCOMBE",
-          "code": "1507"
+          "code": "1507",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HILLINGDON",
-          "code": "1514"
+          "code": "1514",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HINCKLEY",
-          "code": "1518"
+          "code": "1518",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HOUNSLOW",
-          "code": "1548"
+          "code": "1548",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HOVE",
-          "code": "1550"
+          "code": "1550",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HULL",
-          "code": "1556"
+          "code": "1556",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "HUTTON",
-          "code": "1568"
+          "code": "1568",
+          "latitude": 53.7728299,
+          "longitude": -1.7682566
         },
         {
           "name": "IPSWICH",
-          "code": "1597"
+          "code": "1597",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ISLINGTON",
-          "code": "1612"
+          "code": "1612",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "KENSINGTON",
-          "code": "1741"
+          "code": "1741",
+          "latitude": 51.5110023,
+          "longitude": -0.195342
         },
         {
           "name": "KETTERING",
-          "code": "1747"
+          "code": "1747",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "KIDDERMINSTER",
-          "code": "1760"
+          "code": "1760",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "KIRKBY",
-          "code": "1774"
+          "code": "1774",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LAMBETH",
-          "code": "1883"
+          "code": "1883",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LANCASTER",
-          "code": "1885"
+          "code": "1885",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LEATHERHEAD",
-          "code": "1917"
+          "code": "1917",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LEEDS",
-          "code": "1924"
+          "code": "1924",
+          "latitude": 53.7933435,
+          "longitude": -1.7501588
         },
         {
           "name": "LEICESTER",
-          "code": "1929"
+          "code": "1929",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LEIGH",
-          "code": "1931"
+          "code": "1931",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LEWISHAM",
-          "code": "1957"
+          "code": "1957",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LINCOLN",
-          "code": "1983"
+          "code": "1983",
+          "latitude": 0.3366658,
+          "longitude": 32.5841375
         },
         {
           "name": "LIVERPOOL",
-          "code": "1994"
+          "code": "1994",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LONDON",
-          "code": "2016"
+          "code": "2016",
+          "latitude": 51.52378255,
+          "longitude": -0.1399490000000005
         },
         {
           "name": "LOUGHBOROUGH",
-          "code": "2035"
+          "code": "2035",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LOWESTOFT",
-          "code": "2041"
+          "code": "2041",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LUTON",
-          "code": "2063"
+          "code": "2063",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "LYTHAM",
-          "code": "2077"
+          "code": "2077",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "MACCLESFIELD",
-          "code": "2081"
+          "code": "2081",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "MAIDENHEAD",
-          "code": "2097"
+          "code": "2097",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "MAIDSTONE",
-          "code": "2098"
+          "code": "2098",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "MANCHESTER",
-          "code": "2114"
+          "code": "2114",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "MANSFIELD",
-          "code": "2127"
+          "code": "2127",
+          "latitude": 53.9135917,
+          "longitude": -1.758048
         },
         {
           "name": "MARGATE",
-          "code": "2142"
+          "code": "2142",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "MERTON",
-          "code": "2228"
+          "code": "2228",
+          "latitude": 53.7887336,
+          "longitude": -1.7651186
         },
         {
           "name": "MIDDLETON",
-          "code": "2246"
+          "code": "2246",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "MILTON KEYNES",
-          "code": "2262"
+          "code": "2262",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "NANTWICH",
-          "code": "2391"
+          "code": "2391",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "NEWCASTLE LYME",
-          "code": "2445"
+          "code": "2445",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "NEWCASTLE TYNE",
-          "code": "2446"
+          "code": "2446",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "NEWCASTLE TYNE",
-          "code": "2447"
+          "code": "2447",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "NEWHAM",
-          "code": "2450"
+          "code": "2450",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "NORTHAMPTON",
-          "code": "2494"
+          "code": "2494",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "NORWICH",
-          "code": "2499"
+          "code": "2499",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "NOTTINGHAM",
-          "code": "2503"
+          "code": "2503",
+          "latitude": 52.9250588,
+          "longitude": -1.4539571
         },
         {
           "name": "OLDHAM",
-          "code": "2552"
+          "code": "2552",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "OXFORD",
-          "code": "2610"
+          "code": "2610",
+          "latitude": 51.7412674,
+          "longitude": -1.2245951
         },
         {
           "name": "PETERBOROUGH",
-          "code": "2715"
+          "code": "2715",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "PLYMOUTH",
-          "code": "2766"
+          "code": "2766",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "POOLE",
-          "code": "2782"
+          "code": "2782",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "PORTSMOUTH",
-          "code": "2809"
+          "code": "2809",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "PRESTON",
-          "code": "2829"
+          "code": "2829",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "RAMSGATE",
-          "code": "2882"
+          "code": "2882",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "READING",
-          "code": "2897"
+          "code": "2897",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "REDBRIDGE",
-          "code": "2905"
+          "code": "2905",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "REDCAR",
-          "code": "2906"
+          "code": "2906",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "REDDITCH",
-          "code": "2908"
+          "code": "2908",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "REIGATE",
-          "code": "2919"
+          "code": "2919",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "RICHMOND THAM.",
-          "code": "2948"
+          "code": "2948",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ROCHDALE",
-          "code": "2973"
+          "code": "2973",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ROCHESTER",
-          "code": "2975"
+          "code": "2975",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "ROTHERHAM",
-          "code": "3005"
+          "code": "3005",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "RUGBY",
-          "code": "3015"
+          "code": "3015",
+          "latitude": 53.7864252,
+          "longitude": -1.7920552580010238
         },
         {
           "name": "RUNCORN",
-          "code": "3016"
+          "code": "3016",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SAINT ALBANS",
-          "code": "3037"
+          "code": "3037",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SALE",
-          "code": "3048"
+          "code": "3048",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SCARBOROUGH",
-          "code": "3158"
+          "code": "3158",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SCUNTHORPE",
-          "code": "3174"
+          "code": "3174",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SHEFFIELD",
-          "code": "3201"
+          "code": "3201",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SHREWSBURY",
-          "code": "3220"
+          "code": "3220",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SLOUGH",
-          "code": "3249"
+          "code": "3249",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SMETHWICK",
-          "code": "3253"
+          "code": "3253",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SOLIHULL",
-          "code": "3261"
+          "code": "3261",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SOUTH SHIELDS",
-          "code": "3274"
+          "code": "3274",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SOUTHAMPTON",
-          "code": "3275"
+          "code": "3275",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SOUTHEND-ON-SEA",
-          "code": "3276"
+          "code": "3276",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SOUTHPORT",
-          "code": "3280"
+          "code": "3280",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SOUTHWARK",
-          "code": "3281"
+          "code": "3281",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "STAFFORD",
-          "code": "3330"
+          "code": "3330",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "STAINES",
-          "code": "3331"
+          "code": "3331",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "STEVENAGE",
-          "code": "3347"
+          "code": "3347",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "STOCKPORT",
-          "code": "3353"
+          "code": "3353",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "STOCKTON TEES",
-          "code": "3354"
+          "code": "3354",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "STOKE-ON-TRENT",
-          "code": "3356"
+          "code": "3356",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "STRETFORD",
-          "code": "3367"
+          "code": "3367",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SUNBURY THAMES",
-          "code": "3382"
+          "code": "3382",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SUNDERLAND",
-          "code": "3384"
+          "code": "3384",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SUTTON",
-          "code": "3396"
+          "code": "3396",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SUTTON ASHFIELD",
-          "code": "3394"
+          "code": "3394",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SUTTON COLDFLD.",
-          "code": "3395"
+          "code": "3395",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SUTTON-AT-HONE",
-          "code": "3397"
+          "code": "3397",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "SWINDON",
-          "code": "3402"
+          "code": "3402",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "TAMWORTH",
-          "code": "3435"
+          "code": "3435",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "TELFORD",
-          "code": "3464"
+          "code": "3464",
+          "latitude": 53.79208,
+          "longitude": -1.7800816
         },
         {
           "name": "THURROCK",
-          "code": "3494"
+          "code": "3494",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "TORBAY",
-          "code": "3524"
+          "code": "3524",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "TORQUAY",
-          "code": "3527"
+          "code": "3527",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "TOWER HAMLETS",
-          "code": "3534"
+          "code": "3534",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "TUNBRIDGE W.",
-          "code": "3579"
+          "code": "3579",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "TYNEMOUTH",
-          "code": "3595"
+          "code": "3595",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "URMSTON",
-          "code": "3627"
+          "code": "3627",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WAKEFIELD",
-          "code": "3723"
+          "code": "3723",
+          "latitude": 53.63518895,
+          "longitude": -1.3826086264152968
         },
         {
           "name": "WALLASEY",
-          "code": "3729"
+          "code": "3729",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WALLSEND",
-          "code": "3730"
+          "code": "3730",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WALSALL",
-          "code": "3732"
+          "code": "3732",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WALTHAM FOREST",
-          "code": "3734"
+          "code": "3734",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WALTON",
-          "code": "3736"
+          "code": "3736",
+          "latitude": 51.8003619,
+          "longitude": -0.8012831
         },
         {
           "name": "WANDSWORTH",
-          "code": "3737"
+          "code": "3737",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WARLEY",
-          "code": "3741"
+          "code": "3741",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WARRINGTON",
-          "code": "3747"
+          "code": "3747",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WATERLOO",
-          "code": "3756"
+          "code": "3756",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WATFORD",
-          "code": "3763"
+          "code": "3763",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WELLINGBOROUGH",
-          "code": "3781"
+          "code": "3781",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WEST BROMWICH",
-          "code": "3788"
+          "code": "3788",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WEYBRIDGE",
-          "code": "3809"
+          "code": "3809",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WEYMOUTH",
-          "code": "3811"
+          "code": "3811",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WIDNES",
-          "code": "3824"
+          "code": "3824",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WIGAN",
-          "code": "3827"
+          "code": "3827",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WINCHESTER",
-          "code": "3843"
+          "code": "3843",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WOKING",
-          "code": "3863"
+          "code": "3863",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WOLVERHAMPTON",
-          "code": "3867"
+          "code": "3867",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WORCESTER",
-          "code": "3874"
+          "code": "3874",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WORSLEY",
-          "code": "3877"
+          "code": "3877",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "WORTHING",
-          "code": "3878"
+          "code": "3878",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         },
         {
           "name": "YORK",
-          "code": "3903"
+          "code": "3903",
+          "latitude": 51.89180265,
+          "longitude": 0.9189071815944849
         }
       ]
     }

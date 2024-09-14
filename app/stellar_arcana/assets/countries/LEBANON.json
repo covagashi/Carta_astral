@@ -5,17 +5,23 @@
     {
       "name": "BEIRUT",
       "code": "300",
-      "cities": []
+      "cities": [],
+      "latitude": 33.8959203,
+      "longitude": 35.47843
     },
     {
       "name": "TARABULUS",
       "code": "3443",
-      "cities": []
+      "cities": [],
+      "latitude": 32.8934822,
+      "longitude": 13.3448372
     },
     {
       "name": "TRIPOLI",
       "code": "3555",
-      "cities": []
+      "cities": [],
+      "latitude": 34.4373616,
+      "longitude": 35.8348551
     }
   ]
 }

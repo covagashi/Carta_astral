@@ -36,8 +36,8 @@ class HomeContent extends StatelessWidget {
 
     return Column(
       children: [
-        // Mostrar la imagen con manejo de errores
-        _buildImageWidget(),
+        // Mostrar la imagen solo en la sección de resumen
+        if (sectionType == 'resumen') _buildImageWidget(),
         // Mostrar el contenido astrológico
         Expanded(
           child: AstrologicalSectionWidget(
@@ -52,7 +52,7 @@ class HomeContent extends StatelessWidget {
 
   Widget _buildImageWidget() {
     if (base64Image.isEmpty) {
-      return Text('No hay imagen disponible', style: TextStyle(color: Colors.black));
+      return SizedBox.shrink(); // No mostrar nada si no hay imagen
     }
 
     try {
@@ -68,8 +68,8 @@ class HomeContent extends StatelessWidget {
               gradient: RadialGradient(
                 center: Alignment.center,
                 radius: 0.7,
-                colors: [Colors.white, Colors.blue.withOpacity(0.3)],
-                stops: [0.6, 1.0],
+                colors: [Colors.white, Colors.blue.withOpacity(0)],
+                stops: [0.5, 1.0],
               ),
             ),
           ),
@@ -84,7 +84,7 @@ class HomeContent extends StatelessWidget {
       );
     } catch (e) {
       print('Error al decodificar la imagen: $e');
-      return Text('Error al cargar la imagen', style: TextStyle(color: Colors.black));
+      return SizedBox.shrink(); // No mostrar nada en caso de error
     }
   }
 }

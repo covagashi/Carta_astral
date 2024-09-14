@@ -5,52 +5,51 @@
     {
       "name": "BERAT",
       "code": "341",
-      "cities": [
-        
-      ]
+      "cities": [],
+      "latitude": 40.7018636,
+      "longitude": 19.9580758
     },
     {
       "name": "DURRES",
       "code": "1009",
-      "cities": [
-        
-      ]
+      "cities": [],
+      "latitude": 41.313255,
+      "longitude": 19.4462348
     },
     {
       "name": "ELBASAN",
       "code": "1061",
-      "cities": [
-        
-      ]
+      "cities": [],
+      "latitude": 41.1105874,
+      "longitude": 20.0794072
     },
     {
       "name": "KORCE",
       "code": "1805",
-      "cities": [
-        
-      ]
+      "cities": [],
+      "latitude": 40.6158967,
+      "longitude": 20.7772187
     },
     {
       "name": "SHKODER",
       "code": "3217",
-      "cities": [
-        
-      ]
+      "cities": [],
+      "latitude": 42.0681371,
+      "longitude": 19.5121437
     },
     {
       "name": "TIRANE",
       "code": "3504",
-      "cities": [
-        
-      ]
+      "cities": [],
+      "latitude": 41.3281482,
+      "longitude": 19.8184435
     },
     {
       "name": "VLORE",
       "code": "3706",
-      "cities": [
-        
-      ]
+      "cities": [],
+      "latitude": 40.4707602,
+      "longitude": 19.4912716
     }
   ]
 }
-

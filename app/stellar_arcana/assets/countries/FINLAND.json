@@ -8,43 +8,63 @@
       "cities": [
         {
           "name": "BJORNEBORG",
-          "code": "391"
+          "code": "391",
+          "latitude": 61.4866126,
+          "longitude": 21.7972071
         },
         {
           "name": "HELSINKI",
-          "code": "1484"
+          "code": "1484",
+          "latitude": 60.1674881,
+          "longitude": 24.9427473
         },
         {
           "name": "JYVASKYLA",
-          "code": "1674"
+          "code": "1674",
+          "latitude": 62.2417066,
+          "longitude": 25.7495727
         },
         {
           "name": "KUOPIO",
-          "code": "1834"
+          "code": "1834",
+          "latitude": 62.8924601,
+          "longitude": 27.6781839
         },
         {
           "name": "OULU",
-          "code": "2604"
+          "code": "2604",
+          "latitude": 65.0118734,
+          "longitude": 25.4716809
         },
         {
           "name": "PORI",
-          "code": "2786"
+          "code": "2786",
+          "latitude": 61.4866126,
+          "longitude": 21.7972071
         },
         {
           "name": "TAMMERFORS",
-          "code": "3431"
+          "code": "3431",
+          "latitude": 61.4980214,
+          "longitude": 23.7603118
         },
         {
           "name": "TAMPERE",
-          "code": "3433"
+          "code": "3433",
+          "latitude": 61.4980214,
+          "longitude": 23.7603118
         },
         {
           "name": "TURKU",
-          "code": "3584"
+          "code": "3584",
+          "latitude": 60.4517531,
+          "longitude": 22.2670522
         },
         {
           "name": "ULEABORG",
-          "code": "3606"
+          "code": "3606",
+          "latitude": 65.0118734,
+          "longitude": 25.4716809
         }
       ]
     }
