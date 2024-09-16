@@ -22,7 +22,7 @@ import cairosvg
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def fetch_astrology_data(nombre, dia, mes, ano, hora, minutos, pais, estado, ciudad):
+def fetch_astrology_data(nombre, dia, mes, ano, hora, minutos, pais, estado, ciudad, latitud, longitud):
     url = "https://www.losarcanos.com/carta-astral-2.php"
     session = requests.Session()
     headers = {
@@ -171,8 +171,8 @@ def generate_png_from_data(data):
     driver = webdriver.Chrome(options=chrome_options)
 
     try:
-        latitude = "71"  # Reemplaza esto con la lógica para obtener la latitud real
-        longitude = "-114"  # Reemplaza esto con la lógica para obtener la longitud real
+        latitude = data['latitud']  # Usamos la latitud recibida
+        longitude = data['longitud']  # Usamos la longitud recibida
         date = f"{data['ano']}-{data['mes'].zfill(2)}-{data['dia'].zfill(2)}"
         time_str = f"{data['hora'].zfill(2)}:{data['minutos'].zfill(2)}:00"
 
@@ -225,8 +225,10 @@ def main(data):
     pais = data['pais']
     estado = data['estado']
     ciudad = data['ciudad']
+    latitud = data['latitud']  # Nueva línea
+    longitud = data['longitud']  # Nueva línea
 
-    html_content = fetch_astrology_data(nombre, dia, mes, ano, hora, minutos, pais, estado, ciudad)
+    html_content = fetch_astrology_data(nombre, dia, mes, ano, hora, minutos, pais, estado, ciudad, latitud, longitud)
     
     if html_content:
         cleaned_content = clean_html_content(html_content)
