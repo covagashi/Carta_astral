@@ -15,6 +15,8 @@ class Confirmation extends StatefulWidget {
   final String country;
   final String province;
   final String city;
+  final double latitude;
+  final double longitude;
 
   Confirmation({
     Key? key,
@@ -24,6 +26,8 @@ class Confirmation extends StatefulWidget {
     required this.country,
     required this.province,
     required this.city,
+    required this.latitude,
+    required this.longitude,
   }) : super(key: key);
 
   @override
@@ -68,6 +72,8 @@ class _ConfirmationState extends State<Confirmation> {
           'pais': widget.country,
           'estado': widget.province,
           'ciudad': widget.city,
+          'latitud': widget.latitude.toString(),  // Añadimos la latitud
+          'longitud': widget.longitude.toString(),  // Añadimos la longitud
         }),
       );
 
@@ -80,12 +86,14 @@ class _ConfirmationState extends State<Confirmation> {
         // Guardar los datos en un archivo JSON asociado al perfil
         await JsonProfileStorageService.saveProfileData(_nameController.text, {
           'chartData': jsonResponse['data'],
-          'chartImage': jsonResponse['image'], // Añade esta línea
+          'chartImage': jsonResponse['image'],
           'birthDate': widget.birthDate.toIso8601String(),
           'birthTime': '${widget.birthTime.hour}:${widget.birthTime.minute}',
           'country': widget.country,
           'province': widget.province,
           'city': widget.city,
+          'latitude': widget.latitude,  // Añadimos la latitud
+          'longitude': widget.longitude,  // Añadimos la longitud
         });
 
         // Navegar a la pantalla principal una vez que los datos estén listos

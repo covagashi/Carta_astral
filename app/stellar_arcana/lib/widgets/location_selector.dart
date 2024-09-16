@@ -27,6 +27,8 @@ class _LocationSelectorState extends State<LocationSelector> {
   String? selectedCountry;
   String? selectedProvince;
   String? selectedCity;
+  double? selectedLatitude;
+  double? selectedLongitude;
   bool isLoading = true;
   String? errorMessage;
 
@@ -71,6 +73,14 @@ class _LocationSelectorState extends State<LocationSelector> {
 
       setState(() {
         provinces = List<String>.from(countryJson['provinces'].map((province) => province['name']));
+        // Si el país tiene latitud y longitud, las guardamos
+        if (countryJson['latitude'] != null && countryJson['longitude'] != null) {
+          selectedLatitude = countryJson['latitude'];
+          selectedLongitude = countryJson['longitude'];
+        } else {
+          selectedLatitude = null;
+          selectedLongitude = null;
+        }
         isLoading = false;
       });
     } catch (e) {
@@ -102,10 +112,12 @@ class _LocationSelectorState extends State<LocationSelector> {
         if (provinceData['cities'] != null && provinceData['cities'].isNotEmpty) {
           cities = List<String>.from(provinceData['cities'].map((city) => city['name']));
         } else {
-          // Si no hay ciudades, tratamos la provincia como una ciudad
           cities = [provinceName];
           selectedCity = provinceName;
         }
+        // Actualizamos la latitud y longitud de la provincia
+        selectedLatitude = provinceData['latitude'];
+        selectedLongitude = provinceData['longitude'];
         isLoading = false;
       });
     } catch (e) {
@@ -213,6 +225,8 @@ class _LocationSelectorState extends State<LocationSelector> {
                             country: selectedCountry!,
                             province: selectedProvince!,
                             city: selectedCity ?? selectedProvince!,
+                            latitude: selectedLatitude ?? 0.0,  // Agregamos la latitud
+                            longitude: selectedLongitude ?? 0.0,  // Agregamos la longitud
                           ),
                         ),
                       );
