@@ -7,7 +7,6 @@ import 'SCR_ONB_05_LoadingAnimation.dart';
 import 'SCR_01_Home.dart';
 import '../services/json_profile_storage_service.dart';
 
-
 class Confirmation extends StatefulWidget {
   final String backgroundImagePath;
   final DateTime birthDate;
@@ -35,7 +34,9 @@ class Confirmation extends StatefulWidget {
 }
 
 class _ConfirmationState extends State<Confirmation> {
-  final TextEditingController _nameController = TextEditingController(text: 'Espíritu Estelar');
+  final TextEditingController _nameController =
+      TextEditingController(text: 'Espíritu Estelar');
+  final String serverUrl = 'https://covaga.xyz/generate_carta_natal';
 
   Future<void> _generateChart(BuildContext context) async {
     if (_nameController.text.isEmpty) {
@@ -49,19 +50,25 @@ class _ConfirmationState extends State<Confirmation> {
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (context) => LoadingAnimation(profileName: _nameController.text),
+        builder: (context) =>
+            LoadingAnimation(profileName: _nameController.text),
       ),
     );
 
     // Iniciar el proceso de generación de la carta astral en segundo plano
     try {
       print('Iniciando generación de carta astral');
-      final url = Uri.parse('http://10.0.2.2:5000/generate_carta_natal');
+      final url = Uri.parse(serverUrl);
       print('URL del servidor: $url');
 
-      final response = await http.post(
+      final client = http.Client();
+      final response = await client
+          .post(
         url,
-        headers: {'Content-Type': 'application/json'},
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json',
+        },
         body: json.encode({
           'nombre': _nameController.text,
           'dia': widget.birthDate.day.toString().padLeft(2, '0'),
@@ -72,16 +79,25 @@ class _ConfirmationState extends State<Confirmation> {
           'pais': widget.country,
           'estado': widget.province,
           'ciudad': widget.city,
-          'latitud': widget.latitude.toString(),  // Añadimos la latitud
-          'longitud': widget.longitude.toString(),  // Añadimos la longitud
+          'latitud': widget.latitude.toString(),
+          'longitud': widget.longitude.toString(),
         }),
+      )
+          .timeout(
+        Duration(minutes: 1), // Aumenta el timeout a 1 minuto
+        onTimeout: () {
+          client.close();
+          throw Exception('Tiempo de espera agotado');
+        },
       );
 
       print('Respuesta recibida. Código de estado: ${response.statusCode}');
+      client.close();
 
       if (response.statusCode == 200) {
         final jsonResponse = json.decode(response.body);
-        print('Respuesta JSON recibida: ${jsonResponse.toString().substring(0, 100)}...');
+        print(
+            'Respuesta JSON recibida: ${jsonResponse.toString().substring(0, 100)}...');
 
         // Guardar los datos en un archivo JSON asociado al perfil
         await JsonProfileStorageService.saveProfileData(_nameController.text, {
@@ -92,28 +108,36 @@ class _ConfirmationState extends State<Confirmation> {
           'country': widget.country,
           'province': widget.province,
           'city': widget.city,
-          'latitude': widget.latitude,  // Añadimos la latitud
-          'longitude': widget.longitude,  // Añadimos la longitud
+          'latitude': widget.latitude, // Añadimos la latitud
+          'longitude': widget.longitude, // Añadimos la longitud
         });
 
-        // Navegar a la pantalla principal una vez que los datos estén listos
+        // Navegar a la pantalla principal
         Navigator.pushReplacement(
           context,
           MaterialPageRoute(
-            builder: (context) => HomeContainer(profileName: _nameController.text),
+            builder: (context) =>
+                HomeContainer(profileName: _nameController.text),
           ),
         );
       } else {
-        throw Exception('Failed to generate chart: ${response.statusCode}');
+        throw Exception('Error del servidor: ${response.statusCode}');
       }
     } catch (e) {
       print('Error detallado: $e');
-      // Mostrar un mensaje de error en la pantalla de carga
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Error al generar la carta astral: $e')),
-      );
-      // Opcional: Navegar de vuelta a la pantalla de confirmación en caso de error
+      // Mostrar error y volver a la pantalla anterior
       Navigator.pop(context);
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+              'Error al generar la carta astral. Por favor, intenta nuevamente.'),
+          duration: Duration(seconds: 5),
+          action: SnackBarAction(
+            label: 'OK',
+            onPressed: () {},
+          ),
+        ),
+      );
     }
   }
 
@@ -178,8 +202,10 @@ class _ConfirmationState extends State<Confirmation> {
                           ),
                         ),
                         SizedBox(height: 20),
-                        _buildInfoCard("Fecha de Nacimiento", "${widget.birthDate.day}/${widget.birthDate.month}/${widget.birthDate.year}"),
-                        _buildInfoCard("Hora de Nacimiento", "${widget.birthTime.format(context)}"),
+                        _buildInfoCard("Fecha de Nacimiento",
+                            "${widget.birthDate.day}/${widget.birthDate.month}/${widget.birthDate.year}"),
+                        _buildInfoCard("Hora de Nacimiento",
+                            "${widget.birthTime.format(context)}"),
                         _buildInfoCard("País", widget.country),
                         _buildInfoCard("Provincia", widget.province),
                         _buildInfoCard("Ciudad", widget.city),

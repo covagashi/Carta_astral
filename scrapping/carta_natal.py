@@ -65,7 +65,6 @@ def fetch_astrology_data(nombre, dia, mes, ano, hora, minutos, pais, estado, ciu
         import traceback
         logger.error(f"Traceback: {traceback.format_exc()}")
         return None
-
 def clean_html_content(html_content):
     tags_to_remove = ['img', 'button', 'head', 'script', 'ins', 'hr', 'button', 'style', 'svg', 'footer', 'a', 'br', 'table', 'ul']
 
@@ -118,7 +117,6 @@ def clean_html_content(html_content):
     modified_content = clean_abandoned_characters(modified_content)
 
     return modified_content
-
 def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     content = []
@@ -150,52 +148,88 @@ def html_to_json(html_content):
     return result
 
 def generate_optimized_chart_id(nombre, fecha_nacimiento, hora_nacimiento):
-    # Crear una cadena con los datos de entrada
-    input_data = f"{nombre}{fecha_nacimiento}{hora_nacimiento}"
     
-    # Generar un hash MD5 de los datos de entrada
+    input_data = f"{nombre}{fecha_nacimiento}{hora_nacimiento}"
+
+    
     hash_object = hashlib.md5(input_data.encode())
     hash_hex = hash_object.hexdigest()
     
-    # Obtener un timestamp actual en milisegundos
     timestamp = int(time.time() * 1000)
-    
-    # Combinar el timestamp con los primeros 8 caracteres del hash
-    return f"{timestamp}_{hash_hex[:8]}"
 
+    return f"{timestamp}_{hash_hex[:8]}"
 
 
 def generate_png_from_data(data):
     chrome_options = Options()
     chrome_options.add_argument("--headless")
-    driver = webdriver.Chrome(options=chrome_options)
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920,1080")
+    chrome_options.add_argument("--disable-extensions")
+    chrome_options.add_argument("--disable-setuid-sandbox")
+    chrome_options.add_argument("--disable-web-security")
+    chrome_options.add_argument('--remote-debugging-port=9222')
+    chrome_options.binary_location = "/usr/bin/chromium-browser"  
 
+    service = webdriver.chrome.service.Service('/usr/bin/chromedriver')  
     try:
-        latitude = data['latitud']  # Usamos la latitud recibida
-        longitude = data['longitud']  # Usamos la longitud recibida
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+
+        latitude = data['latitud']
+        longitude = data['longitud']
         date = f"{data['ano']}-{data['mes'].zfill(2)}-{data['dia'].zfill(2)}"
         time_str = f"{data['hora'].zfill(2)}:{data['minutos'].zfill(2)}:00"
 
         logger.info(f"Generando PNG con: Lat: {latitude}, Long: {longitude}, Fecha: {date}, Hora: {time_str}")
 
-        html_path = Path(r'C:\Users\daviann\Documents\Scripts\PROGRAMACION\Carta_astral\scrapping\demo.html').absolute()
+        html_path = Path(r'/home/ubuntu/carta_astral/demo.html').absolute()
+        if not html_path.exists():
+            raise FileNotFoundError(f"No se encontró el archivo HTML en {html_path}")
+
         driver.get(f"file:///{html_path}")
+        logger.info("HTML cargado correctamente")
 
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        
+        try:
+            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+            logger.info("Body encontrado")
+        except Exception as e:
+            logger.error(f"Timeout esperando el body: {str(e)}")
+            raise
+ 
+        try:
+            driver.execute_script(f"""
+                document.getElementById('latitude').value = '{latitude}';
+                document.getElementById('longitude').value = '{longitude}';
+                document.getElementById('date').value = '{date}';
+                document.getElementById('time').value = '{time_str}';
+                document.querySelector('button[type="submit"]').click();
+            """)
+            logger.info("Script ejecutado correctamente")
+        except Exception as e:
+            logger.error(f"Error ejecutando script: {str(e)}")
+            raise
 
-        driver.execute_script(f"""
-            document.getElementById('latitude').value = '{latitude}';
-            document.getElementById('longitude').value = '{longitude}';
-            document.getElementById('date').value = '{date}';
-            document.getElementById('time').value = '{time_str}';
-            document.querySelector('button[type="submit"]').click();
-        """)
-
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "svg")))
+       
+        try:
+            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, "svg")))
+            logger.info("SVG encontrado")
+        except Exception as e:
+            logger.error(f"Timeout esperando el SVG: {str(e)}")
+            raise
 
         svg_content = driver.find_element(By.TAG_NAME, "svg").get_attribute("outerHTML")
+        logger.info("SVG extraído correctamente")
 
-        png_data = cairosvg.svg2png(bytestring=svg_content)
+        
+        try:
+            png_data = cairosvg.svg2png(bytestring=svg_content.encode('utf-8'))
+            logger.info("SVG convertido a PNG correctamente")
+        except Exception as e:
+            logger.error(f"Error convirtiendo SVG a PNG: {str(e)}")
+            raise
 
         timestamp = int(time.time() * 1000)
         png_filename = f'carta_natal_{timestamp}.png'
@@ -209,13 +243,21 @@ def generate_png_from_data(data):
 
     except Exception as e:
         logger.error(f"Error al generar PNG: {str(e)}")
-        logger.error(f"Traceback: {traceback.format_exc()}")
+        logger.error(f"Traceback completo: {traceback.format_exc()}")
         return None
 
     finally:
-        driver.quit()
+            if 'driver' in locals():
+                try:
+                    driver.quit()
+                    logger.info("Driver cerrado correctamente")
+                except Exception as e:
+                    logger.error(f"Error al cerrar el driver: {str(e)}")
+
 
 def main(data):
+
+
     nombre = data['nombre']
     dia = data['dia']
     mes = data['mes']
@@ -225,25 +267,24 @@ def main(data):
     pais = data['pais']
     estado = data['estado']
     ciudad = data['ciudad']
-    latitud = data['latitud']  # Nueva línea
-    longitud = data['longitud']  # Nueva línea
-
+    latitud = data['latitud'] 
+    longitud = data['longitud'] 
     html_content = fetch_astrology_data(nombre, dia, mes, ano, hora, minutos, pais, estado, ciudad, latitud, longitud)
-    
+
     if html_content:
         cleaned_content = clean_html_content(html_content)
         json_data = html_to_json(cleaned_content)
-        
+
         chart_id = generate_optimized_chart_id(nombre, f"{dia}/{mes}/{ano}", f"{hora}:{minutos}")
         json_filename = f"carta_natal_{chart_id}.json"
-        
+
         with open(json_filename, 'w', encoding='utf-8') as json_file:
             json.dump(json_data, json_file, ensure_ascii=False, indent=2)
-        
+
         logger.info(f"JSON guardado como '{json_filename}'")
-        
+
         png_path = generate_png_from_data(data)
-        
+
         if png_path:
             logger.info(f"PNG generado correctamente: {png_path}")
             return json_filename, png_path
