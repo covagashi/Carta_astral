@@ -171,10 +171,16 @@ def generate_png_from_data(data):
     chrome_options.add_argument("--disable-setuid-sandbox")
     chrome_options.add_argument("--disable-web-security")
     chrome_options.add_argument('--remote-debugging-port=9222')
-    chrome_options.binary_location = "/usr/bin/chromium-browser"  
 
-    service = webdriver.chrome.service.Service('/usr/bin/chromedriver')  
+    # Usar la ruta exacta verificada
+    chrome_options.binary_location = "/usr/bin/chromium"
+
     try:
+        service = webdriver.chrome.service.Service(
+            executable_path="/usr/bin/chromedriver",
+            log_path="/tmp/chromedriver.log"
+        )
+        
         driver = webdriver.Chrome(service=service, options=chrome_options)
 
         latitude = data['latitud']

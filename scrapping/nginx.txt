@@ -1,0 +1,78 @@
+# /etc/nginx/sites-available/covaga.xyz
+
+# Servidor HTTPS principal
+server {
+    listen [::]:443 ssl ipv6only=on;
+    listen 443 ssl;
+    server_name covaga.xyz www.covaga.xyz;
+
+    # SSL configurado por Certbot
+    ssl_certificate /etc/letsencrypt/live/covaga.xyz/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/covaga.xyz/privkey.pem;
+    include /etc/letsencrypt/options-ssl-nginx.conf;
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+
+    # Directorio raíz
+    root /var/www/covaga.xyz;
+    index index.html;
+
+    # Configuración específica para la API de scraping
+    location /generate_carta_natal {
+        proxy_pass http://127.0.0.1:5000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+
+        # Timeouts más largos para el scraping
+        proxy_connect_timeout 300s;
+        proxy_send_timeout 300s;
+        proxy_read_timeout 300s;
+    }
+
+    # Configuración para el monitor
+    location /monitor {
+        auth_basic "Restricted Access";
+        auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://127.0.0.1:5001/monitor;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        
+        # Asegurarse de que la autenticación básica se mantenga
+        proxy_set_header Authorization $http_authorization;
+        proxy_pass_header Authorization;
+        
+        # Timeouts específicos para el monitor
+        proxy_connect_timeout 60s;
+        proxy_send_timeout 60s;
+        proxy_read_timeout 60s;
+    }
+
+    # Otras rutas devuelven 404
+    location / {
+        try_files $uri $uri/ /index.html =404;
+    }
+
+    # Logs específicos
+    access_log /var/log/nginx/covaga.xyz.access.log;
+    error_log /var/log/nginx/covaga.xyz.error.log debug;
+}
+
+# Redirección HTTP a HTTPS
+server {
+    listen 80;
+    listen [::]:80;
+    server_name covaga.xyz www.covaga.xyz;
+
+    # Permitir verificación de Let's Encrypt
+    location /.well-known/acme-challenge/ {
+        root /var/www/html;
+    }
+
+    # Redireccionar todo lo demás a HTTPS
+    location / {
+        return 301 https://$host$request_uri;
+    }
+}
