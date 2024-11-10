@@ -1,23 +1,25 @@
-from flask import Flask, render_template_string, request
-import time
+from flask import Flask, render_template_string, jsonify, request
 import requests
-from datetime import datetime, timedelta 
+from datetime import datetime, timedelta
 import json
 from pathlib import Path
 import logging
+import threading
+import time
 
-LAST_CHECK_TIME = 0
-THROTTLE_TIME = 30  # segundos
-
+# Configuración de logging
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
 
+# Configuración básica
+THROTTLE_TIME = 900  # 15 minutos en segundos
+STATUS_FILE = 'monitor_status.json'
+
 monitor_app = Flask(__name__)
 
-STATUS_FILE = 'monitor_status.json'
 
 HTML_TEMPLATE = '''
 <!DOCTYPE html>
@@ -95,43 +97,33 @@ HTML_TEMPLATE = '''
         }
     </style>
     <script>
-        let lastCheckTime = new Date().getTime();
-        const THROTTLE_TIME = 30000; // 30 segundos entre verificaciones
-        
         function updateCountdown() {
-            const nextCheckElement = document.getElementById('next-check-time');
-            if (!nextCheckElement) return;
-            
-            const nextCheck = new Date(nextCheckElement.dataset.time);
-            const now = new Date();
-            const diff = Math.max(0, nextCheck - now);
-            
-            const minutes = Math.floor(diff / 60000);
-            const seconds = Math.floor((diff % 60000) / 1000);
-            
-            const countdownElement = document.getElementById('countdown');
-            if (countdownElement) {
-                countdownElement.textContent = `${minutes}m ${seconds}s`;
+            // Obtener los segundos restantes del servidor
+            let timeLeft = parseInt({{ seconds_left }});
+
+            function tick() {
+                if (timeLeft < 0) {
+                    location.reload();
+                    return;
+                }
+
+                const minutes = Math.floor(timeLeft / 60);
+                const seconds = timeLeft % 60;
+                
+                const countdownElement = document.getElementById('countdown');
+                if (countdownElement) {
+                    countdownElement.textContent = 
+                        `${minutes.toString().padStart(2, '0')}m ${seconds.toString().padStart(2, '0')}s`;
+                }
+
+                timeLeft--;
+                setTimeout(tick, 1000);
             }
+
+            tick();
         }
 
-        function checkNow() {
-            const now = new Date().getTime();
-            const timeSinceLastCheck = now - lastCheckTime;
-            
-            if (timeSinceLastCheck < THROTTLE_TIME) {
-                alert(`Por favor espera ${Math.ceil((THROTTLE_TIME - timeSinceLastCheck) / 1000)} segundos antes de verificar nuevamente.`);
-                return;
-            }
-            
-            lastCheckTime = now;
-            window.location.href = '/monitor';
-        }
-
-        // Actualizar el contador cada segundo sin recargar
-        setInterval(updateCountdown, 1000);
-
-        // Primera actualización
+        // Iniciar el contador cuando carga la página
         document.addEventListener('DOMContentLoaded', updateCountdown);
     </script>
 </head>
@@ -162,13 +154,10 @@ HTML_TEMPLATE = '''
 
             <div class="next-check">
                 Próxima verificación en: 
-                <span id="countdown"></span>
-                <span id="next-check-time" 
-                      data-time="{{next_check}}" 
-                      style="display: none;">{{next_check}}</span>
+                <span id="countdown">{{ '%02d' % (seconds_left // 60) }}m {{ '%02d' % (seconds_left % 60) }}s</span>
             </div>
 
-            <button class="button" onclick="window.location.reload()">
+            <button class="button" onclick="checkNow()" type="button">
                 Verificar ahora
             </button>
         </div>
@@ -182,59 +171,17 @@ HTML_TEMPLATE = '''
 </html>
 '''
 
-def load_status():
-    try:
-        if Path(STATUS_FILE).exists():
-            with open(STATUS_FILE, 'r') as f:
-                return json.load(f)
-    except Exception:
-        pass
-    
-    return {
-        'last_check': None,
-        'current_status': 'unknown',
-        'response_time': 0,
-        'success_count': 0,
-        'error_count': 0,
-        'history': []
-    }
 
-def save_status(status_data):
-    with open(STATUS_FILE, 'w') as f:
-        json.dump(status_data, f)
+# Configuración básica
+THROTTLE_TIME = 900  # 15 minutos en segundos
+STATUS_FILE = 'monitor_status.json'
+
+monitor_app = Flask(__name__)
 
 def check_api():
-    # Ruta absoluta para el archivo de bloqueo
-    lock_file = Path('/tmp/api_check.lock')
-    
-    # Verificar bloqueo con tiempo de expiración
-    if lock_file.exists():
-        try:
-            lock_time = datetime.fromtimestamp(lock_file.stat().st_mtime)
-            if (datetime.now() - lock_time).total_seconds() < 30:
-                logger.info("Verificación omitida - muy reciente")
-                # Usar el último estado conocido
-                status_data = load_status()
-                return {
-                    'status': status_data.get('current_status', 'unknown'),
-                    'response_time': status_data.get('response_time', 0),
-                    'error': 'Verificación en progreso'
-                }
-        except Exception as e:
-            logger.error(f"Error al verificar bloqueo: {e}")
-            # Si hay error al verificar el bloqueo, intentamos eliminarlo
-            try:
-                lock_file.unlink()
-            except Exception:
-                pass
-
     try:
-        # Crear archivo de bloqueo
-        lock_file.touch()
-        
-        logger.info("Iniciando verificación de API")
         response = requests.post(
-            "http://127.0.0.1:5000/generate_carta_natal",  # Cambiado a 127.0.0.1
+            "http://127.0.0.1:5000/generate_carta_natal",
             json={
                 "nombre": "Test",
                 "dia": "01",
@@ -248,129 +195,108 @@ def check_api():
                 "latitud": "40.4168",
                 "longitud": "-3.7038"
             },
-            headers={"Content-Type": "application/json"},
             timeout=300
         )
         
-        # Loguear la respuesta completa para debug
-        logger.info(f"Respuesta completa: {response.text[:500]}")
-        
-        try:
-            response_data = response.json()
-            is_success = (
-                response.status_code == 200 and
-                isinstance(response_data, dict) and
-                'success' in response_data
-            )
-            
-            result = {
-                'status': 'online' if is_success else 'offline',
-                'response_time': round(response.elapsed.total_seconds(), 3),
-                'status_code': response.status_code,
-                'details': response_data
-            }
-        except json.JSONDecodeError as e:
-            logger.error(f"Error decodificando JSON: {e}")
-            result = {
-                'status': 'offline',
-                'response_time': round(response.elapsed.total_seconds(), 3),
-                'status_code': response.status_code,
-                'error': 'Invalid JSON response'
-            }
-
-    except requests.exceptions.Timeout:
-        logger.error("Timeout al verificar la API")
-        result = {
-            'status': 'offline',
-            'response_time': 300,
-            'error': 'Timeout'
+        return {
+            'status': 'online' if response.status_code == 200 else 'offline',
+            'response_time': round(response.elapsed.total_seconds(), 3),
+            'status_code': response.status_code
         }
     except Exception as e:
-        logger.error(f"Error al verificar la API: {str(e)}")
-        result = {
+        logger.error(f"API check error: {e}")
+        return {
             'status': 'offline',
             'response_time': 0,
             'error': str(e)
         }
+
+def load_status():
+    try:
+        if Path(STATUS_FILE).exists():
+            with open(STATUS_FILE, 'r') as f:
+                return json.load(f)
+    except Exception as e:
+        logger.error(f"Error loading status: {e}")
     
-    finally:
-        # Eliminar el archivo de bloqueo
+    return {
+        'last_check': None,
+        'current_status': 'unknown',
+        'response_time': 0,
+        'success_count': 0,
+        'error_count': 0,
+        'history': []
+    }
+
+def save_status(status_data):
+    try:
+        with open(STATUS_FILE, 'w') as f:
+            json.dump(status_data, f)
+    except Exception as e:
+        logger.error(f"Error saving status: {e}")
+
+def background_check():
+    while True:
         try:
-            if lock_file.exists():
-                lock_file.unlink()
+            status_data = load_status()
+            check_result = check_api()
+            now = datetime.now()
+            
+            # Actualizar estado
+            status_data.update({
+                'last_check': now.isoformat(),
+                'current_status': check_result['status'],
+                'response_time': check_result['response_time'],
+                'success_count': status_data.get('success_count', 0) + (1 if check_result['status'] == 'online' else 0),
+                'error_count': status_data.get('error_count', 0) + (1 if check_result['status'] == 'offline' else 0),
+                'history': (status_data.get('history', [])[-9:] + [{
+                    'time': now.strftime('%H:%M:%S'),
+                    'status': check_result['status'],
+                    'response_time': check_result['response_time']
+                }])
+            })
+            
+            save_status(status_data)
+            logger.info(f"API Check completed: {check_result['status']}")
+            
         except Exception as e:
-            logger.error(f"Error eliminando archivo de bloqueo: {e}")
-    
-    return result
+            logger.error(f"Error in background check: {e}")
+        
+        # Esperar 15 minutos
+        time.sleep(THROTTLE_TIME)
+
 
 @monitor_app.route('/monitor')
 def monitor():
-    global LAST_CHECK_TIME
-    current_time = time.time()
-    
-    # Si ha pasado menos del tiempo mínimo, usar datos existentes
-    if current_time - LAST_CHECK_TIME < THROTTLE_TIME:
+    try:
         status_data = load_status()
-        if status_data['last_check'] is not None:  # Si tenemos datos previos
-            return render_template_string(
-                HTML_TEMPLATE,
-                current_status=status_data['current_status'],
-                last_check=status_data['last_check'],
-                response_time=status_data['response_time'],
-                success_count=status_data['success_count'],
-                error_count=status_data['error_count'],
-                history='\n'.join(
-                    f"[{h['time']}] {'✅' if h['status'] == 'online' else '❌'} ({h['response_time']}s)"
-                    for h in reversed(status_data.get('history', []))
-                ),
-                next_check=(datetime.fromtimestamp(LAST_CHECK_TIME + THROTTLE_TIME)).strftime('%Y-%m-%d %H:%M:%S')
-            )
-    
-    # Actualizar el tiempo de la última verificación
-    LAST_CHECK_TIME = current_time
-    
-    # Realizar la verificación
-    status_data = load_status()
-    check_result = check_api()
-    
-    now = datetime.now()
-    status_data['last_check'] = now.strftime('%Y-%m-%d %H:%M:%S')
-    status_data['current_status'] = check_result['status']
-    status_data['response_time'] = check_result['response_time']
-    
-    if check_result['status'] == 'online':
-        status_data['success_count'] = status_data.get('success_count', 0) + 1
-    else:
-        status_data['error_count'] = status_data.get('error_count', 0) + 1
-    
-    status_data['history'] = status_data.get('history', [])[-9:]
-    status_data['history'].append({
-        'time': now.strftime('%H:%M:%S'),
-        'status': check_result['status'],
-        'response_time': check_result['response_time']
-    })
-    
-    save_status(status_data)
-    
-    next_check = (now + timedelta(seconds=THROTTLE_TIME)).strftime('%Y-%m-%d %H:%M:%S')
-    
-    history_text = '\n'.join(
-        f"[{h['time']}] {'✅' if h['status'] == 'online' else '❌'} ({h['response_time']}s)"
-        for h in reversed(status_data['history'])
-    )
-    
-    return render_template_string(
-        HTML_TEMPLATE,
-        current_status=check_result['status'],
-        last_check=status_data['last_check'],
-        response_time=check_result['response_time'],
-        success_count=status_data['success_count'],
-        error_count=status_data['error_count'],
-        history=history_text,
-        next_check=next_check
-    )
-    
- 
+        now = datetime.now()
+        last_check = datetime.fromisoformat(status_data['last_check'])
+        time_since_check = (now - last_check).total_seconds()
+        time_until_next = THROTTLE_TIME - time_since_check
+        
+        # Añadir seconds_left al contexto del template
+        return render_template_string(
+            HTML_TEMPLATE,
+            current_status=status_data.get('current_status', 'unknown'),
+            last_check=last_check.strftime('%Y-%m-%d %H:%M:%S'),
+            response_time=status_data.get('response_time', 0),
+            success_count=status_data.get('success_count', 0),
+            error_count=status_data.get('error_count', 0),
+            history='\n'.join(
+                f"[{h['time']}] {'✅' if h['status'] == 'online' else '❌'} ({h['response_time']}s)"
+                for h in reversed(status_data.get('history', []))
+            ),
+            seconds_left=int(time_until_next)  # Pasar los segundos restantes al frontend
+        )
+    except Exception as e:
+        logger.error(f"Error in monitor route: {e}")
+        return "Error loading monitor", 500
 
 if __name__ == '__main__':
+    # Iniciar el thread de monitorización
+    monitor_thread = threading.Thread(target=background_check, daemon=True)
+    monitor_thread.start()
+    
+    # Iniciar la aplicación Flask
     monitor_app.run(host='127.0.0.1', port=5001)
