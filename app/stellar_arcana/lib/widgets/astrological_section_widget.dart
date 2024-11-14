@@ -38,14 +38,44 @@ class AstrologicalSectionWidget extends StatelessWidget {
 
 
   String _getAsciiSymbol(String title) {
-    // Añadir más símbolos según sea necesario
+    // Mapa de símbolos usando códigos Unicode
     final Map<String, String> symbols = {
-      'Sol': '☉', 'Luna': '☽', 'Mercurio': '☿', 'Venus': '♀', 'Marte': '♂',
-      'Júpiter': '♃', 'Saturno': '♄', 'Urano': '♅', 'Neptuno': '♆', 'Plutón': '♇',
-      'Aries': '♈', 'Tauro': '♉', 'Géminis': '♊', 'Cáncer': '♋', 'Leo': '♌',
-      'Virgo': '♍', 'Libra': '♎', 'Escorpio': '♏', 'Sagitario': '♐', 'Pluton': '♇',
-      'Capricornio': '♑', 'Acuario': '♒', 'Piscis': '♓', 'Lilith': '⚸',
-      'Conjunción': '☌', 'Oposición': '☍', 'Trígono': '△', 'Cuadratura': '□', 'Sextil': '⚹',
+      // Planetas
+      'Sol': '\u2609',      // ☉
+      'Luna': '\u263D',     // ☽
+      'Mercurio': '\u263F', // ☿
+      'Venus': '\u2640',    // ♀
+      'Marte': '\u2642',    // ♂
+      'Júpiter': '\u2643',  // ♃
+      'Saturno': '\u2644',  // ♄
+      'Urano': '\u2645',    // ♅
+      'Neptuno': '\u2646',  // ♆
+      'Plutón': '\u2647',   // ♇
+      'Pluton': '\u2647',   // ♇
+
+      // Signos zodiacales
+      'Aries': '\u2648',    // ♈
+      'Tauro': '\u2649',    // ♉
+      'Géminis': '\u264A',  // ♊
+      'Cáncer': '\u264B',   // ♋
+      'Leo': '\u264C',      // ♌
+      'Virgo': '\u264D',    // ♍
+      'Libra': '\u264E',    // ♎
+      'Escorpio': '\u264F', // ♏
+      'Sagitario': '\u2650',// ♐
+      'Capricornio': '\u2651', // ♑
+      'Acuario': '\u2652',  // ♒
+      'Piscis': '\u2653',   // ♓
+
+      // Aspectos
+      'Conjunción': '\u260C',  // ☌
+      'Oposición': '\u260D',   // ☍
+      'Trígono': '\u25B3',     // △
+      'Cuadratura': '\u25A1',  // □
+      'Sextil': '\u26B9',      // ⚹
+
+      // Otros
+      'Lilith': '\u26B8',      // ⚸
     };
 
     for (var key in symbols.keys) {

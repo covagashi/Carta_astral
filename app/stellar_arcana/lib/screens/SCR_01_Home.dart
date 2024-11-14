@@ -29,18 +29,12 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
 
   Future<void> _loadProfileData() async {
     try {
-      print("Intentando cargar datos para el perfil: ${widget.profileName}");
       final data = await JsonProfileStorageService.readProfileData(widget.profileName);
-      print("Datos cargados: $data");
       setState(() {
         _profileData = data;
         _isLoading = false;
-        // Aquí deberías determinar el avatar correcto basado en los datos del perfil
-        // _avatarPath = _determineAvatarPath(data['sunSign'], data['gender']);
       });
-      print("Datos del perfil cargados con éxito");
     } catch (e) {
-      print("Error al cargar los datos del perfil: $e");
       setState(() {
         _errorMessage = "Error al cargar los datos: $e";
         _isLoading = false;
@@ -51,6 +45,7 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      extendBodyBehindAppBar: true,
       appBar: CustomAppBar(
         profileName: widget.profileName,
         avatarPath: _avatarPath,
@@ -58,6 +53,7 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
       body: CosmicBackground(
         child: Column(
           children: [
+            SizedBox(height: MediaQuery.of(context).padding.top + kToolbarHeight),
             TabBar(
               controller: _tabController,
               tabs: [
@@ -73,7 +69,6 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
             Expanded(
               child: _buildTabBarView(),
             ),
-            // Cuadro de publicidad
             Container(
               height: 60,
               color: Colors.black.withOpacity(0.5),
