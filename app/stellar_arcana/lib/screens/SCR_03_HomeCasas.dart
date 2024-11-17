@@ -4,13 +4,13 @@ import '../widgets/astrological_section_widget.dart';
 class SCR_03_HomeCasas extends StatelessWidget {
   final Map<String, dynamic> profileData;
 
-  SCR_03_HomeCasas({Key? key, required this.profileData}) : super(key: key);
+  const SCR_03_HomeCasas({super.key, required this.profileData});
 
   @override
   Widget build(BuildContext context) {
     return AstrologicalSectionWidget(
       chartData: profileData['chartData'],
-      titleKeywords: ['Casa'],
+      titleKeywords: const ['Casa'],
       sectionType: 'casas',
     );
   }

@@ -1,45 +1,326 @@
 import 'package:flutter/material.dart';
 import '../widgets/cosmic_background.dart';
+import '../services/json_profile_storage_service.dart';
+import '../widgets/ZodiacInfo.dart';
 
-class SCR_01_perfil extends StatelessWidget {
+class Scr01Perfil extends StatefulWidget {
+  final String profileName;
+
+  const Scr01Perfil({
+    super.key,
+    required this.profileName,
+  });
+
+  @override
+  State<Scr01Perfil> createState() => _Scr01PerfilState();
+}
+
+class _Scr01PerfilState extends State<Scr01Perfil> {
+  Map<String, dynamic>? profileData;
+  String currentAvatar = 'ariesF.webp';
+  final List<String> availableAvatars = [
+    'aquariusF.webp', 'aquariusM.webp',
+    'ariesF.webp', 'ariesM.webp',
+    'cancerF.webp', 'cancerM.webp',
+    'capricornF.webp', 'capricornM.webp',
+    'geminisF.webp', 'geminisM.webp',
+    'leoF.webp', 'leoM.webp',
+    'libraF.webp', 'libraM.webp',
+    'piscisF.webp', 'piscisM.webp',
+    'sagitarioF.webp', 'sagitarioM.webp',
+    'scorpioF.webp', 'scorpioM.webp',
+    'taurusF.webp', 'taurusM.webp',
+    'virgoF.webp', 'virgoM.webp'
+  ];
+
+  @override
+  void initState() {
+    super.initState();
+    _loadProfileData();
+  }
+
+  Future<void> _loadProfileData() async {
+    try {
+      final data = await JsonProfileStorageService.readProfileData(widget.profileName);
+      setState(() {
+        profileData = data;
+        currentAvatar = data['image'] ?? 'ariesF.webp';
+      });
+    } catch (e) {
+      debugPrint('Error cargando datos del perfil: $e');
+    }
+  }
+
+  Future<void> _saveAvatar(String newAvatar) async {
+    try {
+      if (profileData != null) {
+        profileData!['image'] = newAvatar;
+        await JsonProfileStorageService.saveProfileData(
+          widget.profileName,
+          profileData!,
+        );
+        setState(() {
+          currentAvatar = newAvatar;
+        });
+      }
+    } catch (e) {
+      debugPrint('Error guardando avatar: $e');
+    }
+  }
+  void _showAvatarSelector() {
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: Colors.transparent,
+      builder: (context) => Container(
+        height: 160,
+        decoration: BoxDecoration(
+          color: Colors.indigoAccent.withOpacity(0.5),
+          borderRadius: const BorderRadius.vertical(
+            top: Radius.circular(20),
+          ),
+        ),
+        child: Column(
+          children: [
+            Container(
+              width: 40,
+              height: 4,
+              margin: const EdgeInsets.symmetric(vertical: 8),
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.5),
+                borderRadius: BorderRadius.circular(2),
+              ),
+            ),
+            Expanded(
+              child: ListView.builder(
+                scrollDirection: Axis.horizontal,
+                padding: const EdgeInsets.symmetric(horizontal: 8),
+                itemCount: availableAvatars.length,
+                itemBuilder: (context, index) {
+                  final avatarName = availableAvatars[index];
+                  final isSelected = currentAvatar == avatarName;
+
+                  return GestureDetector(
+                    onTap: () {
+                      _saveAvatar(avatarName);
+                      Navigator.pop(context);
+                    },
+                    child: Container(
+                      width: 70,
+                      margin: const EdgeInsets.symmetric(horizontal: 4),
+                      decoration: BoxDecoration(
+                        shape: BoxShape.circle,
+                        border: Border.all(
+                          color: isSelected ? Colors.white : Colors.transparent,
+                          width: 2,
+                        ),
+                      ),
+                      child: CircleAvatar(
+                        backgroundImage: AssetImage('assets/avatar/$avatarName'),
+                        backgroundColor: Colors.transparent,
+                      ),
+                    ),
+                  );
+                },
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Mi Perfil'),
         backgroundColor: Colors.transparent,
         elevation: 0,
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back, color: Colors.white),
+          onPressed: () => Navigator.pop(context), // Este es el cambio
+        ),
+        title: const Text(
+          'Tu Esencia Cósmica',
+          style: TextStyle(color: Colors.white),
+        ),
       ),
+      extendBodyBehindAppBar: true,
       body: CosmicBackground(
         child: SafeArea(
-          child: Center(
+          child: SingleChildScrollView(
+            padding: const EdgeInsets.symmetric(horizontal: 20.0),
             child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                CircleAvatar(
-                  radius: 50,
-                  backgroundImage: AssetImage('assets/avatar/ariesF.webp'), // Placeholder avatar
-                ),
-                SizedBox(height: 20),
-                Text(
-                  'Nombre del Usuario',
-                  style: TextStyle(
-                    fontSize: 24,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
-                ),
-                SizedBox(height: 40),
-                // Aquí puedes añadir más widgets para mostrar información del perfil
-                Text(
-                  'Detalles del perfil irán aquí',
-                  style: TextStyle(color: Colors.white),
-                ),
+                const SizedBox(height: 20),
+                _buildProfileAvatar(),
+                const SizedBox(height: 20),
+                _buildProfileInfo(),
               ],
             ),
           ),
         ),
       ),
     );
+  }
+
+  Widget _buildProfileAvatar() {
+    return Stack(
+      children: [
+        Container(
+          width: 120,
+          height: 120,
+          decoration: BoxDecoration(
+            shape: BoxShape.circle,
+            gradient: LinearGradient(
+              colors: [
+                Colors.indigo.withOpacity(0.5),
+                Colors.purple.withOpacity(0.5),
+              ],
+            ),
+            boxShadow: [
+              BoxShadow(
+                color: Colors.white.withOpacity(0.2),
+                blurRadius: 20,
+                spreadRadius: 5,
+              ),
+            ],
+          ),
+          child: Padding(
+            padding: const EdgeInsets.all(3.0),
+            child: CircleAvatar(
+              backgroundImage: AssetImage('assets/avatar/$currentAvatar'),
+              backgroundColor: Colors.transparent,
+            ),
+          ),
+        ),
+        Positioned(
+          bottom: 0,
+          right: 0,
+          child: Container(
+            width: 25,
+            height: 25,
+            decoration: BoxDecoration(
+              color: Colors.black26.withOpacity(0.4),
+              shape: BoxShape.circle,
+              border: Border.all(
+                color: Colors.indigoAccent,
+                width: 0.7,
+              ),
+            ),
+            child: IconButton(
+              icon: const Icon(Icons.edit, size: 16),
+              color: Colors.white,
+              padding: const EdgeInsets.all(4),
+              constraints: const BoxConstraints(
+                minWidth: 12,    // Ajusta este valor para cambiar el tamaño del círculo
+                minHeight: 12,
+              ),
+              onPressed: () => _showAvatarSelector(),
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildProfileInfo() {
+    if (profileData == null) {
+      return const Center(
+        child: CircularProgressIndicator(color: Colors.white),
+      );
+    }
+
+    return Column(
+      children: [
+        Container(
+          padding: const EdgeInsets.all(16),
+          decoration: BoxDecoration(
+            gradient: LinearGradient(
+              colors: [
+                Colors.indigo.withOpacity(0.7),
+                Colors.purple.withOpacity(0.7),
+              ],
+            ),
+            borderRadius: BorderRadius.circular(15),
+          ),
+          child: Column(
+            children: [
+              Text(
+                widget.profileName,
+                style: const TextStyle(
+                  color: Colors.white,
+                  fontSize: 28,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              const SizedBox(height: 16),
+              _buildInfoRow(
+                'Fecha de\nnacimiento:',
+                _formatDate(profileData?['birthDate']),
+              ),
+              const SizedBox(height: 8),
+              _buildInfoRow(
+                'Hora de\nnacimiento:',
+                '${profileData?['birthTime'] ?? 'No disponible'}',
+              ),
+              const SizedBox(height: 8),
+              _buildInfoRow(
+                'Lugar de\nnacimiento:',
+                '${profileData?['city']}, ${profileData?['country']}',
+              ),
+            ],
+          ),
+        ),
+        const SizedBox(height: 16),
+        if (profileData?['birthDate'] != null)
+          ZodiacInfo(birthDate: profileData!['birthDate']),
+      ],
+    );
+  }
+
+  Widget _buildInfoRow(String label, String value) {
+    return Container(
+      padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 12),
+      decoration: BoxDecoration(
+        color: Colors.white.withOpacity(0.1),
+        borderRadius: BorderRadius.circular(10),
+      ),
+      child: Row(
+        children: [
+          Expanded(
+            flex: 2,
+            child: Text(
+              label,
+              style: TextStyle(
+                color: Colors.white.withOpacity(0.8),
+                fontSize: 14,
+                height: 1.2,
+              ),
+            ),
+          ),
+          Expanded(
+            flex: 3,
+            child: Text(
+              value,
+              style: const TextStyle(
+                color: Colors.white,
+                fontSize: 16,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  String _formatDate(String? dateString) {
+    if (dateString == null) return 'No disponible';
+    try {
+      final date = DateTime.parse(dateString);
+      return '${date.day}/${date.month}/${date.year}';
+    } catch (e) {
+      return dateString;
+    }
   }
 }

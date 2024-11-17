@@ -4,7 +4,7 @@ import 'dart:math' as math;
 class CosmicBackground extends StatefulWidget {
   final Widget child;
 
-  CosmicBackground({required this.child});
+  const CosmicBackground({super.key, required this.child});
 
   @override
   _CosmicBackgroundState createState() => _CosmicBackgroundState();

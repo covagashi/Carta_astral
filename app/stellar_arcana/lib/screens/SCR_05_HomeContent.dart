@@ -6,12 +6,12 @@ class HomeContent extends StatelessWidget {
   final String sectionType;
   final String base64Image;
 
-  HomeContent({
-    Key? key,
+  const HomeContent({
+    super.key,
     required this.chartData,
     required this.sectionType,
     required this.base64Image,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -58,7 +58,7 @@ class HomeContent extends StatelessWidget {
               children: _buildSections(titleKeywords, sectionSymbols),
             ),
           ),
-          SizedBox(height: 16),
+          const SizedBox(height: 16),
         ],
       ),
     );
@@ -66,7 +66,7 @@ class HomeContent extends StatelessWidget {
 
   Widget _buildImageWidget(BuildContext context) {
     if (base64Image.isEmpty) {
-      return SizedBox.shrink();
+      return const SizedBox.shrink();
     }
 
     try {
@@ -105,7 +105,7 @@ class HomeContent extends StatelessWidget {
                         Colors.white.withOpacity(0.8),
                         Colors.transparent,
                       ],
-                      stops: [0.0, 0.5, 1.0],
+                      stops: const [0.0, 0.5, 1.0],
                     ),
                   ),
                 ),
@@ -124,13 +124,13 @@ class HomeContent extends StatelessWidget {
       );
     } catch (e) {
       print('Error al decodificar la imagen: $e');
-      return SizedBox.shrink();
+      return const SizedBox.shrink();
     }
   }
 
   List<Widget> _buildSections(List<String> titleKeywords, Map<String, String> sectionSymbols) {
     if (chartData['content'] == null) {
-      return [Center(child: Text('No hay datos disponibles', style: TextStyle(color: Colors.white)))];
+      return [const Center(child: Text('No hay datos disponibles', style: TextStyle(color: Colors.white)))];
     }
 
     final List<dynamic> sections = chartData['content'];
@@ -167,7 +167,7 @@ class _ExpandableSection extends StatefulWidget {
   final String? symbol;
   final List<dynamic> content;
 
-  _ExpandableSection({
+  const _ExpandableSection({
     required this.title,
     this.symbol,
     required this.content,
@@ -187,7 +187,7 @@ class _ExpandableSectionState extends State<_ExpandableSection> {
         InkWell(
           onTap: () => setState(() => _isExpanded = !_isExpanded),
           child: Container(
-            padding: EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
             decoration: BoxDecoration(
               gradient: LinearGradient(
                 begin: Alignment.centerLeft,
@@ -208,17 +208,17 @@ class _ExpandableSectionState extends State<_ExpandableSection> {
                 if (widget.symbol != null) ...[
                   Text(
                     widget.symbol!,
-                    style: TextStyle(
+                    style: const TextStyle(
                       color: Colors.white,
                       fontSize: 20,
                     ),
                   ),
-                  SizedBox(width: 12),
+                  const SizedBox(width: 12),
                 ],
                 Expanded(
                   child: Text(
                     widget.title,
-                    style: TextStyle(
+                    style: const TextStyle(
                       color: Colors.white,
                       fontSize: 16,
                       fontWeight: FontWeight.w500,
@@ -236,8 +236,8 @@ class _ExpandableSectionState extends State<_ExpandableSection> {
         AnimatedCrossFade(
           firstChild: Container(height: 0),
           secondChild: Container(
-            padding: EdgeInsets.all(16),
-            margin: EdgeInsets.only(top: 8),
+            padding: const EdgeInsets.all(16),
+            margin: const EdgeInsets.only(top: 8),
             decoration: BoxDecoration(
               color: Colors.indigo.withOpacity(0.55),
               borderRadius: BorderRadius.circular(12),
@@ -250,7 +250,7 @@ class _ExpandableSectionState extends State<_ExpandableSection> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: widget.content.map<Widget>((paragraph) {
                 return Padding(
-                  padding: EdgeInsets.only(bottom: 8),
+                  padding: const EdgeInsets.only(bottom: 8),
                   child: Text(
                     paragraph.toString(),
                     style: TextStyle(
@@ -264,7 +264,7 @@ class _ExpandableSectionState extends State<_ExpandableSection> {
             ),
           ),
           crossFadeState: _isExpanded ? CrossFadeState.showSecond : CrossFadeState.showFirst,
-          duration: Duration(milliseconds: 300),
+          duration: const Duration(milliseconds: 300),
         ),
       ],
     );

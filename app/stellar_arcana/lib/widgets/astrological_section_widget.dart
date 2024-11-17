@@ -7,12 +7,12 @@ class AstrologicalSectionWidget extends StatelessWidget {
   final List<String> titleKeywords;
   final String sectionType;
 
-  AstrologicalSectionWidget({
-    Key? key,
+  const AstrologicalSectionWidget({
+    super.key,
     required this.chartData,
     required this.titleKeywords,
     required this.sectionType,
-  }) : super(key: key);
+  });
 
   bool _titleMatchesKeywords(String title) {
     switch (sectionType) {
@@ -100,7 +100,7 @@ class AstrologicalSectionWidget extends StatelessWidget {
     }
 
     if (data == null || !data.containsKey('content')) {
-      return Center(child: Text('No hay datos disponibles', style: TextStyle(color: Colors.white)));
+      return const Center(child: Text('No hay datos disponibles', style: TextStyle(color: Colors.white)));
     }
 
     final List<dynamic> sections = data['content'] as List<dynamic>;
@@ -113,7 +113,7 @@ class AstrologicalSectionWidget extends StatelessWidget {
     }
 
     if (filteredSections.isEmpty) {
-      return Center(child: Text('No se encontraron secciones relevantes', style: TextStyle(color: Colors.white)));
+      return const Center(child: Text('No se encontraron secciones relevantes', style: TextStyle(color: Colors.white)));
     }
 
     return ListView.builder(
@@ -121,7 +121,7 @@ class AstrologicalSectionWidget extends StatelessWidget {
       itemBuilder: (context, index) {
         final section = filteredSections[index];
         return Padding(
-          padding: EdgeInsets.symmetric(vertical: 4, horizontal: 8),
+          padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 8),
           child: Theme(
             data: Theme.of(context).copyWith(dividerColor: Colors.transparent),
             child: ExpansionTile(
@@ -134,19 +134,19 @@ class AstrologicalSectionWidget extends StatelessWidget {
                   ),
                   borderRadius: BorderRadius.circular(10),
                 ),
-                padding: EdgeInsets.symmetric(vertical: 8, horizontal: 12),
+                padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 12),
                 child: Row(
                   children: [
                     Text(
                       _getAsciiSymbol(section['title']),
-                      style: TextStyle(fontSize: 24, color: Colors.white),
+                      style: const TextStyle(fontSize: 24, color: Colors.white),
                     ),
-                    SizedBox(width: 10),
+                    const SizedBox(width: 10),
                     Expanded(
                       child: Text(
                         section['title'],
                         style: GoogleFonts.cinzel(
-                          textStyle: TextStyle(
+                          textStyle: const TextStyle(
                             fontWeight: FontWeight.bold,
                             fontSize: 16,
                             color: Colors.white,
@@ -159,11 +159,11 @@ class AstrologicalSectionWidget extends StatelessWidget {
                   ],
                 ),
               ),
-              trailing: SizedBox.shrink(), // Elimina el icono de expansión
+              trailing: const SizedBox.shrink(), // Elimina el icono de expansión
               children: [
                 Container(
                   width: MediaQuery.of(context).size.width - 16,
-                  padding: EdgeInsets.all(16),
+                  padding: const EdgeInsets.all(16),
                   decoration: BoxDecoration(
                     color: Colors.black.withOpacity(0.7),
                     borderRadius: BorderRadius.circular(10),
@@ -172,7 +172,7 @@ class AstrologicalSectionWidget extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: (section['paragraphs'] as List<dynamic>).map<Widget>((paragraph) =>
                         Padding(
-                          padding: EdgeInsets.only(bottom: 10),
+                          padding: const EdgeInsets.only(bottom: 10),
                           child: Text(
                             paragraph.toString(),
                             style: GoogleFonts.comfortaa(

@@ -7,10 +7,12 @@ import 'screens/SCR_01_Home.dart';
 
 
 void main() {
-  initializeDateFormatting('es_ES', null).then((_) => runApp(AstrologiaApp()));
+  initializeDateFormatting('es_ES', null).then((_) => runApp(const AstrologiaApp()));
 }
 
 class AstrologiaApp extends StatelessWidget {
+  const AstrologiaApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -19,55 +21,57 @@ class AstrologiaApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         // Puedes personalizar más el tema aquí
       ),
-      localizationsDelegates: [
+      localizationsDelegates: const [
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
       ],
-      supportedLocales: [
-        const Locale('es', 'ES'),
+      supportedLocales: const [
+        Locale('es', 'ES'),
       ],
-      home: DevHomeScreen(),
+      home: const DevHomeScreen(),
       debugShowCheckedModeBanner: false,
     );
   }
 }
 
 class DevHomeScreen extends StatelessWidget {
+  const DevHomeScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Desarrollo - Seleccionar Pantalla')),
+      appBar: AppBar(title: const Text('Desarrollo - Seleccionar Pantalla')),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             ElevatedButton(
-              child: Text('Pantalla de Bienvenida'),
+              child: const Text('Pantalla de Bienvenida'),
               onPressed: () => Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => Welcome(backgroundImagePath: 'assets/welcome.webp')),
+                MaterialPageRoute(builder: (context) => const Welcome(backgroundImagePath: 'assets/welcome.webp')),
               ),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             ElevatedButton(
-              child: Text('Pantalla de Fecha y Hora de Nacimiento'),
+              child: const Text('Pantalla de Fecha y Hora de Nacimiento'),
               onPressed: () => Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => BirthInfo(
+                  builder: (context) => const BirthInfo(
                     backgroundImagePath: 'assets/welcome.webp',
                   ),
                 ),
               ),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             ElevatedButton(
-              child: Text('Pantalla main'),
+              child: const Text('Pantalla main'),
               onPressed: () => Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => HomeContainer(
+                  builder: (context) => const HomeContainer(
                     profileName: 'Estelar',
                   ),
                 ),

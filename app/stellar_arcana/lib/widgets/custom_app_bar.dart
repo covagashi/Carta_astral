@@ -7,11 +7,11 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   final String profileName;
   final String avatarPath;
 
-  CustomAppBar({
-    Key? key,
+  const CustomAppBar({
+    super.key,
     required this.profileName,
     required this.avatarPath,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -23,10 +23,10 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
           colors: [
-            Color(0xFF1A1B2E).withOpacity(0.85),
-            Color(0xFF0D0E1C).withOpacity(0.95),
+            const Color(0xFF1A1B2E).withOpacity(0.85),
+            const Color(0xFF0D0E1C).withOpacity(0.95),
           ],
-          stops: [0.0, 1.0],
+          stops: const [0.0, 1.0],
         ),
       ),
       child: ClipRRect(
@@ -65,11 +65,15 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
       onTap: () {
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => SCR_01_perfil()),
+          MaterialPageRoute(
+            builder: (context) => Scr01Perfil(
+              profileName: profileName, // Añadimos el profileName requerido
+            ),
+          ),
         );
       },
       child: Container(
-        padding: EdgeInsets.symmetric(horizontal: 8, vertical: 4), // Reducido de 12,6 a 8,4
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4), // Reducido de 12,6 a 8,4
         decoration: BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topLeft,
@@ -91,15 +95,15 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
               onBackgroundImageError: (exception, stackTrace) {
                 print('Error loading avatar image: $exception');
               },
+              radius: 14,
               child: avatarPath.isEmpty
-                  ? Icon(Icons.person, color: Colors.white, size: 16) // Reducido tamaño del icono
-                  : null,
-              radius: 14, // Reducido de 18 a 14
+                  ? const Icon(Icons.person, color: Colors.white, size: 16) // Reducido tamaño del icono
+                  : null, // Reducido de 18 a 14
             ),
-            SizedBox(width: 6), // Reducido de 8 a 6
+            const SizedBox(width: 6), // Reducido de 8 a 6
             Text(
               profileName,
-              style: TextStyle(
+              style: const TextStyle(
                 color: Colors.white,
                 fontWeight: FontWeight.w500,
                 fontSize: 13, // Reducido de 15 a 13
@@ -120,13 +124,13 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
             // Implementar funcionalidad de notificaciones
           },
         ),
-        SizedBox(width: 2), // Reducido de 4 a 2
+        const SizedBox(width: 2), // Reducido de 4 a 2
         _buildIconButton(
           icon: Icons.dashboard_outlined,
           onPressed: () {
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => SCR_01_HubTarot()),
+              MaterialPageRoute(builder: (context) => const SCR_01_HubTarot()),
             );
           },
         ),
@@ -158,8 +162,8 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           size: 18, // Reducido de 22 a 18
         ),
         onPressed: onPressed,
-        padding: EdgeInsets.all(8), // Reducido padding del IconButton
-        constraints: BoxConstraints(
+        padding: const EdgeInsets.all(8), // Reducido padding del IconButton
+        constraints: const BoxConstraints(
           minWidth: 36, // Reducido de 48 a 36
           minHeight: 36, // Reducido de 48 a 36
         ),
@@ -169,5 +173,5 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   }
 
   @override
-  Size get preferredSize => Size.fromHeight(kToolbarHeight); // Quitado el +20 extra
+  Size get preferredSize => const Size.fromHeight(kToolbarHeight); // Quitado el +20 extra
 }

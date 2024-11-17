@@ -9,12 +9,12 @@ class LocationSelector extends StatefulWidget {
   final DateTime birthDate;
   final TimeOfDay birthTime;
 
-  LocationSelector({
-    Key? key,
+  const LocationSelector({
+    super.key,
     required this.backgroundImagePath,
     required this.birthDate,
     required this.birthTime,
-  }) : super(key: key);
+  });
 
   @override
   _LocationSelectorState createState() => _LocationSelectorState();
@@ -132,21 +132,21 @@ class _LocationSelectorState extends State<LocationSelector> {
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       child: Padding(
-        padding: EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             if (isLoading)
-              Center(child: CircularProgressIndicator())
+              const Center(child: CircularProgressIndicator())
             else if (errorMessage != null)
-              Text(errorMessage!, style: TextStyle(color: Colors.red))
+              Text(errorMessage!, style: const TextStyle(color: Colors.red))
             else ...[
                 DropdownButton<String>(
                   value: selectedCountry,
-                  hint: Text('Selecciona un país', style: TextStyle(color: Colors.white70)),
+                  hint: const Text('Selecciona un país', style: TextStyle(color: Colors.white70)),
                   isExpanded: true,
                   dropdownColor: Colors.grey[800],
-                  style: TextStyle(color: Colors.white),
+                  style: const TextStyle(color: Colors.white),
                   onChanged: (String? newValue) {
                     setState(() {
                       selectedCountry = newValue;
@@ -164,14 +164,14 @@ class _LocationSelectorState extends State<LocationSelector> {
                     );
                   }).toList(),
                 ),
-                SizedBox(height: 20),
+                const SizedBox(height: 20),
                 if (selectedCountry != null) ...[
                   DropdownButton<String>(
                     value: selectedProvince,
-                    hint: Text('Selecciona una provincia o ciudad', style: TextStyle(color: Colors.white70)),
+                    hint: const Text('Selecciona una provincia o ciudad', style: TextStyle(color: Colors.white70)),
                     isExpanded: true,
                     dropdownColor: Colors.grey[800],
-                    style: TextStyle(color: Colors.white),
+                    style: const TextStyle(color: Colors.white),
                     onChanged: (String? newValue) {
                       setState(() {
                         selectedProvince = newValue;
@@ -188,15 +188,15 @@ class _LocationSelectorState extends State<LocationSelector> {
                       );
                     }).toList(),
                   ),
-                  SizedBox(height: 20),
+                  const SizedBox(height: 20),
                 ],
                 if (selectedProvince != null && cities.isNotEmpty) ...[
                   DropdownButton<String>(
                     value: selectedCity,
-                    hint: Text('Selecciona una ciudad', style: TextStyle(color: Colors.white70)),
+                    hint: const Text('Selecciona una ciudad', style: TextStyle(color: Colors.white70)),
                     isExpanded: true,
                     dropdownColor: Colors.grey[800],
-                    style: TextStyle(color: Colors.white),
+                    style: const TextStyle(color: Colors.white),
                     onChanged: (String? newValue) {
                       setState(() {
                         selectedCity = newValue;
@@ -209,7 +209,7 @@ class _LocationSelectorState extends State<LocationSelector> {
                       );
                     }).toList(),
                   ),
-                  SizedBox(height: 20),
+                  const SizedBox(height: 20),
                 ],
                 if (selectedCountry != null && selectedProvince != null &&
                     (selectedCity != null || cities.isEmpty)) ...[
@@ -231,15 +231,15 @@ class _LocationSelectorState extends State<LocationSelector> {
                         ),
                       );
                     },
-                    child: Text('Confirmar ubicación'),
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.white.withOpacity(0.2),
                       foregroundColor: Colors.white,
-                      padding: EdgeInsets.symmetric(vertical: 15),
+                      padding: const EdgeInsets.symmetric(vertical: 15),
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(30),
                       ),
                     ),
+                    child: const Text('Confirmar ubicación'),
                   ),
                 ],
               ],

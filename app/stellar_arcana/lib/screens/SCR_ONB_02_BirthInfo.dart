@@ -8,10 +8,10 @@ import 'SCR_ONB_03_Location.dart';
 class BirthInfo extends StatefulWidget {
   final String backgroundImagePath;
 
-  BirthInfo({
-    Key? key,
+  const BirthInfo({
+    super.key,
     required this.backgroundImagePath,
-  }) : super(key: key);
+  });
 
   @override
   _BirthInfoState createState() => _BirthInfoState();
@@ -65,7 +65,7 @@ class _BirthInfoState extends State<BirthInfo> {
                 ),
               ),
               // Indicador de puntos deslizables
-              Container(
+              SizedBox(
                 height: 50,
                 child: _buildPageIndicator(),
               ),
@@ -90,11 +90,11 @@ class _BirthInfoState extends State<BirthInfo> {
   Widget _buildBirthInfoPage() {
     return SingleChildScrollView(
       child: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 20),
+        padding: const EdgeInsets.symmetric(horizontal: 20),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            SizedBox(height: 40),
+            const SizedBox(height: 40),
             Text(
               "¿CUÁNDO NACISTE?",
               textAlign: TextAlign.center,
@@ -107,13 +107,13 @@ class _BirthInfoState extends State<BirthInfo> {
                     Shadow(
                       blurRadius: 10.0,
                       color: Colors.black.withOpacity(0.5),
-                      offset: Offset(2, 2),
+                      offset: const Offset(2, 2),
                     ),
                   ],
                 ),
               ),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             Text(
               "Tu fecha y hora de nacimiento son esenciales para crear tu carta natal precisa.",
               textAlign: TextAlign.center,
@@ -124,9 +124,9 @@ class _BirthInfoState extends State<BirthInfo> {
                 ),
               ),
             ),
-            SizedBox(height: 40),
+            const SizedBox(height: 40),
             // Date Picker
-            Container(
+            SizedBox(
               height: 200,
               child: CustomWheelDatePicker(
                 onDateSelected: (date) {
@@ -136,25 +136,25 @@ class _BirthInfoState extends State<BirthInfo> {
                 },
               ),
             ),
-            SizedBox(height: 40),
+            const SizedBox(height: 40),
             // Time Picker
             Text(
               "HORA DE NACIMIENTO",
               textAlign: TextAlign.center,
               style: GoogleFonts.cinzel(
-                textStyle: TextStyle(
+                textStyle: const TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 20,
                   color: Colors.white,
                 ),
               ),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             if (!unknownTime)
               InkWell(
                 onTap: () => _selectTime(context),
                 child: Container(
-                  padding: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
+                  padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 20),
                   decoration: BoxDecoration(
                     color: Colors.white.withOpacity(0.1),
                     borderRadius: BorderRadius.circular(15),
@@ -163,7 +163,7 @@ class _BirthInfoState extends State<BirthInfo> {
                     selectedTime?.format(context) ?? 'Seleccionar hora',
                     textAlign: TextAlign.center,
                     style: GoogleFonts.lato(
-                      textStyle: TextStyle(
+                      textStyle: const TextStyle(
                         fontSize: 24,
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
@@ -172,27 +172,27 @@ class _BirthInfoState extends State<BirthInfo> {
                   ),
                 ),
               ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
                   "No conozco la hora exacta",
                   style: GoogleFonts.comfortaa(
-                    textStyle: TextStyle(
+                    textStyle: const TextStyle(
                       fontSize: 16,
                       color: Colors.white,
                     ),
                   ),
                 ),
-                SizedBox(width: 10),
+                const SizedBox(width: 10),
                 Switch(
                   value: unknownTime,
                   onChanged: (value) {
                     setState(() {
                       unknownTime = value;
                       if (value) {
-                        selectedTime = TimeOfDay(hour: 12, minute: 0); // Establecer a 12:00
+                        selectedTime = const TimeOfDay(hour: 12, minute: 0); // Establecer a 12:00
                       } else {
                         selectedTime = TimeOfDay.now(); // Restablecer a la hora actual
                       }
@@ -203,7 +203,7 @@ class _BirthInfoState extends State<BirthInfo> {
                 ),
               ],
             ),
-            SizedBox(height: 40),
+            const SizedBox(height: 40),
           ],
         ),
       ),
@@ -218,14 +218,14 @@ class _BirthInfoState extends State<BirthInfo> {
           onTap: () {
             _pageController.animateToPage(
               index,
-              duration: Duration(milliseconds: 500),
+              duration: const Duration(milliseconds: 500),
               curve: Curves.ease,
             );
           },
           child: Container(
             width: 8.0,
             height: 8.0,
-            margin: EdgeInsets.symmetric(horizontal: 4.0),
+            margin: const EdgeInsets.symmetric(horizontal: 4.0),
             decoration: BoxDecoration(
               shape: BoxShape.circle,
               color: _currentPage == index ? Colors.white : Colors.white.withOpacity(0.4),

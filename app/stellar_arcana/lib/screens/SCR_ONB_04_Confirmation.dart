@@ -17,8 +17,8 @@ class Confirmation extends StatefulWidget {
   final double latitude;
   final double longitude;
 
-  Confirmation({
-    Key? key,
+  const Confirmation({
+    super.key,
     required this.backgroundImagePath,
     required this.birthDate,
     required this.birthTime,
@@ -27,7 +27,7 @@ class Confirmation extends StatefulWidget {
     required this.city,
     required this.latitude,
     required this.longitude,
-  }) : super(key: key);
+  });
 
   @override
   _ConfirmationState createState() => _ConfirmationState();
@@ -41,7 +41,7 @@ class _ConfirmationState extends State<Confirmation> {
   Future<void> _generateChart(BuildContext context) async {
     if (_nameController.text.isEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Por favor, ingresa un nombre para tu perfil.')),
+        const SnackBar(content: Text('Por favor, ingresa un nombre para tu perfil.')),
       );
       return;
     }
@@ -84,7 +84,7 @@ class _ConfirmationState extends State<Confirmation> {
         }),
       )
           .timeout(
-        Duration(minutes: 1), // Aumenta el timeout a 1 minuto
+        const Duration(minutes: 1), // Aumenta el timeout a 1 minuto
         onTimeout: () {
           client.close();
           throw Exception('Tiempo de espera agotado');
@@ -129,9 +129,9 @@ class _ConfirmationState extends State<Confirmation> {
       Navigator.pop(context);
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text(
+          content: const Text(
               'Error al generar la carta astral. Por favor, intenta nuevamente.'),
-          duration: Duration(seconds: 5),
+          duration: const Duration(seconds: 5),
           action: SnackBarAction(
             label: 'OK',
             onPressed: () {},
@@ -152,11 +152,11 @@ class _ConfirmationState extends State<Confirmation> {
               Expanded(
                 child: SingleChildScrollView(
                   child: Padding(
-                    padding: EdgeInsets.symmetric(horizontal: 20),
+                    padding: const EdgeInsets.symmetric(horizontal: 20),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.stretch,
                       children: [
-                        SizedBox(height: 20),
+                        const SizedBox(height: 20),
                         Text(
                           "CONFIRMA TUS DATOS",
                           textAlign: TextAlign.center,
@@ -169,13 +169,13 @@ class _ConfirmationState extends State<Confirmation> {
                                 Shadow(
                                   blurRadius: 10.0,
                                   color: Colors.black.withOpacity(0.5),
-                                  offset: Offset(2, 2),
+                                  offset: const Offset(2, 2),
                                 ),
                               ],
                             ),
                           ),
                         ),
-                        SizedBox(height: 10),
+                        const SizedBox(height: 10),
                         Text(
                           "Verifica que la información sea correcta",
                           textAlign: TextAlign.center,
@@ -186,11 +186,11 @@ class _ConfirmationState extends State<Confirmation> {
                             ),
                           ),
                         ),
-                        SizedBox(height: 20),
+                        const SizedBox(height: 20),
                         TextField(
                           controller: _nameController,
-                          style: TextStyle(color: Colors.white),
-                          decoration: InputDecoration(
+                          style: const TextStyle(color: Colors.white),
+                          decoration: const InputDecoration(
                             labelText: 'Nombre del Perfil',
                             labelStyle: TextStyle(color: Colors.white70),
                             enabledBorder: OutlineInputBorder(
@@ -201,33 +201,33 @@ class _ConfirmationState extends State<Confirmation> {
                             ),
                           ),
                         ),
-                        SizedBox(height: 20),
+                        const SizedBox(height: 20),
                         _buildInfoCard("Fecha de Nacimiento",
                             "${widget.birthDate.day}/${widget.birthDate.month}/${widget.birthDate.year}"),
                         _buildInfoCard("Hora de Nacimiento",
-                            "${widget.birthTime.format(context)}"),
+                            widget.birthTime.format(context)),
                         _buildInfoCard("País", widget.country),
                         _buildInfoCard("Provincia", widget.province),
                         _buildInfoCard("Ciudad", widget.city),
-                        SizedBox(height: 20),
+                        const SizedBox(height: 20),
                         ElevatedButton(
                           onPressed: () => _generateChart(context),
+                          style: ElevatedButton.styleFrom(
+                            backgroundColor: Colors.white.withOpacity(0.2),
+                            foregroundColor: Colors.white,
+                            padding: const EdgeInsets.symmetric(vertical: 12),
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(30),
+                            ),
+                          ),
                           child: Text(
                             "GENERAR CARTA ASTRAL",
                             style: GoogleFonts.comfortaa(
-                              textStyle: TextStyle(
+                              textStyle: const TextStyle(
                                 fontWeight: FontWeight.bold,
                                 fontSize: 14,
                                 letterSpacing: 1,
                               ),
-                            ),
-                          ),
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: Colors.white.withOpacity(0.2),
-                            foregroundColor: Colors.white,
-                            padding: EdgeInsets.symmetric(vertical: 12),
-                            shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(30),
                             ),
                           ),
                         ),
@@ -261,7 +261,7 @@ class _ConfirmationState extends State<Confirmation> {
         borderRadius: BorderRadius.circular(10),
       ),
       child: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 15, vertical: 10),
+        padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 10),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
@@ -277,7 +277,7 @@ class _ConfirmationState extends State<Confirmation> {
             Text(
               value,
               style: GoogleFonts.comfortaa(
-                textStyle: TextStyle(
+                textStyle: const TextStyle(
                   fontSize: 14,
                   color: Colors.white,
                   fontWeight: FontWeight.bold,

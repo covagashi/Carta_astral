@@ -6,7 +6,7 @@ import 'SCR_ONB_02_BirthInfo.dart'; // Importamos la siguiente pantalla
 class Welcome extends StatelessWidget {
   final String backgroundImagePath;
 
-  Welcome({Key? key, required this.backgroundImagePath}) : super(key: key);
+  const Welcome({super.key, required this.backgroundImagePath});
 
   @override
   Widget build(BuildContext context) {
@@ -15,7 +15,7 @@ class Welcome extends StatelessWidget {
         imagePath: backgroundImagePath,
         child: SafeArea(
           child: Padding(
-            padding: EdgeInsets.symmetric(horizontal: 20),
+            padding: const EdgeInsets.symmetric(horizontal: 20),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
@@ -37,13 +37,13 @@ class Welcome extends StatelessWidget {
                                 Shadow(
                                   blurRadius: 10.0,
                                   color: Colors.black.withOpacity(0.5),
-                                  offset: Offset(2, 2),
+                                  offset: const Offset(2, 2),
                                 ),
                               ],
                             ),
                           ),
                         ),
-                        SizedBox(height: 8),
+                        const SizedBox(height: 8),
                         Text(
                           "INSIGHTS",
                           textAlign: TextAlign.center,
@@ -57,13 +57,13 @@ class Welcome extends StatelessWidget {
                                 Shadow(
                                   blurRadius: 8.0,
                                   color: Colors.black.withOpacity(0.4),
-                                  offset: Offset(1, 1),
+                                  offset: const Offset(1, 1),
                                 ),
                               ],
                             ),
                           ),
                         ),
-                        SizedBox(height: 24),
+                        const SizedBox(height: 24),
                         Text(
                           "Explora tu destino a través de tu carta natal",
                           textAlign: TextAlign.center,
@@ -81,7 +81,7 @@ class Welcome extends StatelessWidget {
                   ),
                 ),
                 Padding(
-                  padding: EdgeInsets.only(bottom: 40),
+                  padding: const EdgeInsets.only(bottom: 40),
                   child: ElevatedButton(
                     onPressed: () {
                       // Navegamos a la siguiente pantalla
@@ -94,23 +94,23 @@ class Welcome extends StatelessWidget {
                         ),
                       );
                     },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.white.withOpacity(0.15),
+                      foregroundColor: Colors.white,
+                      padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 15),
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(30),
+                        side: BorderSide(color: Colors.white.withOpacity(0.3)),
+                      ),
+                    ),
                     child: Text(
                       "EXPLORAR",
                       style: GoogleFonts.comfortaa(
-                        textStyle: TextStyle(
+                        textStyle: const TextStyle(
                           fontWeight: FontWeight.bold,
                           fontSize: 16,
                           letterSpacing: 2,
                         ),
-                      ),
-                    ),
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.white.withOpacity(0.15),
-                      foregroundColor: Colors.white,
-                      padding: EdgeInsets.symmetric(horizontal: 40, vertical: 15),
-                      shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(30),
-                        side: BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                     ),
                   ),

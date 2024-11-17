@@ -5,7 +5,7 @@ import 'package:intl/intl.dart';
 class CustomWheelDatePicker extends StatefulWidget {
   final Function(DateTime) onDateSelected;
 
-  CustomWheelDatePicker({required this.onDateSelected});
+  const CustomWheelDatePicker({super.key, required this.onDateSelected});
 
   @override
   _CustomWheelDatePickerState createState() => _CustomWheelDatePickerState();
@@ -24,7 +24,7 @@ class _CustomWheelDatePickerState extends State<CustomWheelDatePicker> {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       height: 200,
       child: Row(
         children: [
@@ -41,7 +41,7 @@ class _CustomWheelDatePickerState extends State<CustomWheelDatePicker> {
               return Center(
                 child: Text(
                   _monthFormat.format(month),
-                  style: TextStyle(color: Colors.white, fontSize: 16),
+                  style: const TextStyle(color: Colors.white, fontSize: 16),
                 ),
               );
             },
@@ -58,7 +58,7 @@ class _CustomWheelDatePickerState extends State<CustomWheelDatePicker> {
               return Center(
                 child: Text(
                   '${index + 1}',
-                  style: TextStyle(color: Colors.white, fontSize: 16),
+                  style: const TextStyle(color: Colors.white, fontSize: 16),
                 ),
               );
             },
@@ -75,7 +75,7 @@ class _CustomWheelDatePickerState extends State<CustomWheelDatePicker> {
               return Center(
                 child: Text(
                   '${_years[index]}',
-                  style: TextStyle(color: Colors.white, fontSize: 16),
+                  style: const TextStyle(color: Colors.white, fontSize: 16),
                 ),
               );
             },

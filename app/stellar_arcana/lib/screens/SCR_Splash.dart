@@ -5,7 +5,7 @@ import 'package:google_fonts/google_fonts.dart';
 import '../widgets/parallax_background.dart';
 
 class SplashScreen extends StatefulWidget {
-  const SplashScreen({Key? key}) : super(key: key);
+  const SplashScreen({super.key});
 
   @override
   _SplashScreenState createState() => _SplashScreenState();
@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
   }
 
   void _navigateToMainScreen() {
-    Timer(Duration(seconds: 2), () {
+    Timer(const Duration(seconds: 2), () {
       Navigator.of(context).pushReplacementNamed('/onboarding');
     });
   }
@@ -56,13 +56,13 @@ class _SplashScreenState extends State<SplashScreen> {
                         Shadow(
                           blurRadius: 10.0,
                           color: Colors.black.withOpacity(0.5),
-                          offset: Offset(2, 2),
+                          offset: const Offset(2, 2),
                         ),
                       ],
                     ),
                   ),
                 ),
-                SizedBox(height: 8),
+                const SizedBox(height: 8),
                 Text(
                   "INSIGHTS",
                   textAlign: TextAlign.center,
@@ -76,7 +76,7 @@ class _SplashScreenState extends State<SplashScreen> {
                         Shadow(
                           blurRadius: 8.0,
                           color: Colors.black.withOpacity(0.4),
-                          offset: Offset(1, 1),
+                          offset: const Offset(1, 1),
                         ),
                       ],
                     ),

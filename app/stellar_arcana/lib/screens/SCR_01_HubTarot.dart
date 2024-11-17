@@ -2,11 +2,13 @@ import 'package:flutter/material.dart';
 import '../widgets/cosmic_background.dart';
 
 class SCR_01_HubTarot extends StatelessWidget {
+  const SCR_01_HubTarot({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Hub de Tarot'),
+        title: const Text('Hub de Tarot'),
         backgroundColor: Colors.transparent,
         elevation: 0,
       ),
@@ -14,7 +16,7 @@ class SCR_01_HubTarot extends StatelessWidget {
         child: SafeArea(
           child: GridView.count(
             crossAxisCount: 2,
-            padding: EdgeInsets.all(16.0),
+            padding: const EdgeInsets.all(16.0),
             childAspectRatio: 1.0,
             mainAxisSpacing: 16.0,
             crossAxisSpacing: 16.0,
@@ -45,10 +47,10 @@ class SCR_01_HubTarot extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Icon(icon, size: 50, color: Colors.white),
-            SizedBox(height: 10),
+            const SizedBox(height: 10),
             Text(
               title,
-              style: TextStyle(color: Colors.white, fontSize: 16),
+              style: const TextStyle(color: Colors.white, fontSize: 16),
               textAlign: TextAlign.center,
             ),
           ],

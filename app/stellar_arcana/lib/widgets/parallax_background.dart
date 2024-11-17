@@ -5,10 +5,10 @@ class ParallaxBackground extends StatefulWidget {
   final Widget child;
 
   const ParallaxBackground({
-    Key? key,
+    super.key,
     required this.imagePath,
     required this.child,
-  }) : super(key: key);
+  });
 
   @override
   _ParallaxBackgroundState createState() => _ParallaxBackgroundState();

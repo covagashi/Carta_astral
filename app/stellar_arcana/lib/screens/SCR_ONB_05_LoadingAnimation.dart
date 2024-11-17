@@ -6,7 +6,7 @@ import 'dart:math' as math;
 class LoadingAnimation extends StatefulWidget {
   final String profileName;
 
-  LoadingAnimation({Key? key, required this.profileName}) : super(key: key);
+  const LoadingAnimation({super.key, required this.profileName});
 
   @override
   _LoadingAnimationState createState() => _LoadingAnimationState();
@@ -19,7 +19,7 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
   late Animation<Color?> _backgroundAnimation;
   late Animation<double> _textAnimation;
 
-  List<Widget> _stars = [];
+  final List<Widget> _stars = [];
 
   @override
   void initState() {
@@ -37,7 +37,7 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
 
   void _initializeAnimations() {
     _backgroundController = AnimationController(
-      duration: Duration(seconds: 2),
+      duration: const Duration(seconds: 2),
       vsync: this,
     );
     _backgroundAnimation = ColorTween(
@@ -46,7 +46,7 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
     ).animate(_backgroundController);
 
     _textController = AnimationController(
-      duration: Duration(seconds: 3),
+      duration: const Duration(seconds: 3),
       vsync: this,
     );
     _textAnimation = Tween<double>(begin: 0, end: 1).animate(
@@ -54,7 +54,7 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
     );
 
     _starController = AnimationController(
-      duration: Duration(seconds: 10),
+      duration: const Duration(seconds: 10),
       vsync: this,
     )..repeat();
   }
@@ -82,7 +82,7 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
             child: Container(
               width: 2,
               height: 2,
-              decoration: BoxDecoration(
+              decoration: const BoxDecoration(
                 color: Colors.white,
                 shape: BoxShape.circle,
               ),
@@ -117,7 +117,7 @@ class _LoadingAnimationState extends State<LoadingAnimation> with TickerProvider
                             Shadow(
                               blurRadius: 10.0,
                               color: Colors.white.withOpacity(0.7),
-                              offset: Offset(0, 0),
+                              offset: const Offset(0, 0),
                             ),
                           ],
                         ),

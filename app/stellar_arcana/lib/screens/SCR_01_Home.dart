@@ -7,7 +7,7 @@ import 'SCR_05_HomeContent.dart';
 class HomeContainer extends StatefulWidget {
   final String profileName;
 
-  HomeContainer({Key? key, required this.profileName}) : super(key: key);
+  const HomeContainer({super.key, required this.profileName});
 
   @override
   _HomeContainerState createState() => _HomeContainerState();
@@ -18,7 +18,7 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
   late TabController _tabController;
   bool _isLoading = true;
   String? _errorMessage;
-  String _avatarPath = 'assets/avatar/ariesF.webp'; // Default avatar
+  final String _avatarPath = 'assets/avatar/ariesF.webp'; // Default avatar
 
   @override
   void initState() {
@@ -56,7 +56,7 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
             SizedBox(height: MediaQuery.of(context).padding.top + kToolbarHeight),
             TabBar(
               controller: _tabController,
-              tabs: [
+              tabs: const [
                 Tab(text: 'Resumen'),
                 Tab(text: 'Astros'),
                 Tab(text: 'Casas'),
@@ -72,7 +72,7 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
             Container(
               height: 60,
               color: Colors.black.withOpacity(0.5),
-              child: Center(
+              child: const Center(
                 child: Text(
                   'Espacio para publicidad',
                   style: TextStyle(color: Colors.white),
@@ -87,9 +87,9 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
 
   Widget _buildTabBarView() {
     if (_isLoading) {
-      return Center(child: CircularProgressIndicator(color: Colors.white));
+      return const Center(child: CircularProgressIndicator(color: Colors.white));
     } else if (_errorMessage != null) {
-      return Center(child: Text(_errorMessage!, style: TextStyle(color: Colors.white)));
+      return Center(child: Text(_errorMessage!, style: const TextStyle(color: Colors.white)));
     } else if (_profileData != null) {
       // Verificar si chartData y chartImage existen en _profileData
       final chartData = _profileData!['chartData'];
@@ -97,7 +97,7 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
       print("Longitud de base64Image en _buildTabBarView: ${base64Image.length}");
 
       if (chartData == null) {
-        return Center(child: Text("Datos de la carta no disponibles", style: TextStyle(color: Colors.white)));
+        return const Center(child: Text("Datos de la carta no disponibles", style: TextStyle(color: Colors.white)));
       }
 
       return TabBarView(
@@ -110,7 +110,7 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
         ],
       );
     } else {
-      return Center(child: Text("No se encontraron datos del perfil", style: TextStyle(color: Colors.white)));
+      return const Center(child: Text("No se encontraron datos del perfil", style: TextStyle(color: Colors.white)));
     }
   }
 
