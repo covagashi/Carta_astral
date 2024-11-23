@@ -2,67 +2,172 @@ import 'package:flutter/material.dart';
 
 class ZodiacInfo extends StatelessWidget {
   final String birthDate;
+  final String? gender;
 
-  const ZodiacInfo({super.key, required this.birthDate});
+  const ZodiacInfo({
+    super.key,
+    required this.birthDate,
+    this.gender = 'F',
+  });
 
-  (String sign, String element, String quality) _calculateZodiacSign(String dateStr) {
+  (String sign, String element, String quality, String avatar) _calculateZodiacInfo(String dateStr) {
     final date = DateTime.parse(dateStr);
     final day = date.day;
     final month = date.month;
+    String sign;
+    String element;
+    String quality;
 
-    // Tupla de (Signo, Elemento, Cualidad)
     switch (month) {
       case 1:
-        return day < 20
-            ? ('Capricornio', 'Tierra', 'Cardinal')
-            : ('Acuario', 'Aire', 'Fijo');
+        if (day < 20) {
+          sign = 'Capricornio';
+          element = 'Tierra';
+          quality = 'Cardinal';
+        } else {
+          sign = 'Acuario';
+          element = 'Aire';
+          quality = 'Fijo';
+        }
       case 2:
-        return day < 19
-            ? ('Acuario', 'Aire', 'Fijo')
-            : ('Piscis', 'Agua', 'Mutable');
+        if (day < 19) {
+          sign = 'Acuario';
+          element = 'Aire';
+          quality = 'Fijo';
+        } else {
+          sign = 'Piscis';
+          element = 'Agua';
+          quality = 'Mutable';
+        }
       case 3:
-        return day < 21
-            ? ('Piscis', 'Agua', 'Mutable')
-            : ('Aries', 'Fuego', 'Cardinal');
+        if (day < 21) {
+          sign = 'Piscis';
+          element = 'Agua';
+          quality = 'Mutable';
+        } else {
+          sign = 'Aries';
+          element = 'Fuego';
+          quality = 'Cardinal';
+        }
       case 4:
-        return day < 20
-            ? ('Aries', 'Fuego', 'Cardinal')
-            : ('Tauro', 'Tierra', 'Fijo');
+        if (day < 20) {
+          sign = 'Aries';
+          element = 'Fuego';
+          quality = 'Cardinal';
+        } else {
+          sign = 'Tauro';
+          element = 'Tierra';
+          quality = 'Fijo';
+        }
       case 5:
-        return day < 21
-            ? ('Tauro', 'Tierra', 'Fijo')
-            : ('Géminis', 'Aire', 'Mutable');
+        if (day < 21) {
+          sign = 'Tauro';
+          element = 'Tierra';
+          quality = 'Fijo';
+        } else {
+          sign = 'Géminis';
+          element = 'Aire';
+          quality = 'Mutable';
+        }
       case 6:
-        return day < 21
-            ? ('Géminis', 'Aire', 'Mutable')
-            : ('Cáncer', 'Agua', 'Cardinal');
+        if (day < 21) {
+          sign = 'Géminis';
+          element = 'Aire';
+          quality = 'Mutable';
+        } else {
+          sign = 'Cáncer';
+          element = 'Agua';
+          quality = 'Cardinal';
+        }
       case 7:
-        return day < 23
-            ? ('Cáncer', 'Agua', 'Cardinal')
-            : ('Leo', 'Fuego', 'Fijo');
+        if (day < 23) {
+          sign = 'Cáncer';
+          element = 'Agua';
+          quality = 'Cardinal';
+        } else {
+          sign = 'Leo';
+          element = 'Fuego';
+          quality = 'Fijo';
+        }
       case 8:
-        return day < 23
-            ? ('Leo', 'Fuego', 'Fijo')
-            : ('Virgo', 'Tierra', 'Mutable');
+        if (day < 23) {
+          sign = 'Leo';
+          element = 'Fuego';
+          quality = 'Fijo';
+        } else {
+          sign = 'Virgo';
+          element = 'Tierra';
+          quality = 'Mutable';
+        }
       case 9:
-        return day < 23
-            ? ('Virgo', 'Tierra', 'Mutable')
-            : ('Libra', 'Aire', 'Cardinal');
+        if (day < 23) {
+          sign = 'Virgo';
+          element = 'Tierra';
+          quality = 'Mutable';
+        } else {
+          sign = 'Libra';
+          element = 'Aire';
+          quality = 'Cardinal';
+        }
       case 10:
-        return day < 23
-            ? ('Libra', 'Aire', 'Cardinal')
-            : ('Escorpio', 'Agua', 'Fijo');
+        if (day < 23) {
+          sign = 'Libra';
+          element = 'Aire';
+          quality = 'Cardinal';
+        } else {
+          sign = 'Escorpio';
+          element = 'Agua';
+          quality = 'Fijo';
+        }
       case 11:
-        return day < 22
-            ? ('Escorpio', 'Agua', 'Fijo')
-            : ('Sagitario', 'Fuego', 'Mutable');
+        if (day < 22) {
+          sign = 'Escorpio';
+          element = 'Agua';
+          quality = 'Fijo';
+        } else {
+          sign = 'Sagitario';
+          element = 'Fuego';
+          quality = 'Mutable';
+        }
       case 12:
-        return day < 22
-            ? ('Sagitario', 'Fuego', 'Mutable')
-            : ('Capricornio', 'Tierra', 'Cardinal');
+        if (day < 22) {
+          sign = 'Sagitario';
+          element = 'Fuego';
+          quality = 'Mutable';
+        } else {
+          sign = 'Capricornio';
+          element = 'Tierra';
+          quality = 'Cardinal';
+        }
       default:
-        return ('Error', 'Error', 'Error');
+        sign = 'Error';
+        element = 'Error';
+        quality = 'Error';
     }
+
+    // Generate avatar filename
+    final signForFile = _getSignForFilename(sign);
+    final avatar = '$signForFile${gender?.toUpperCase() ?? 'F'}.webp';
+
+    return (sign, element, quality, avatar);
+  }
+
+  String _getSignForFilename(String sign) {
+    final signMap = {
+      'Aries': 'aries',
+      'Tauro': 'taurus',
+      'Géminis': 'geminis',
+      'Cáncer': 'cancer',
+      'Leo': 'leo',
+      'Virgo': 'virgo',
+      'Libra': 'libra',
+      'Escorpio': 'scorpio',
+      'Sagitario': 'sagitario',
+      'Capricornio': 'capricorn',
+      'Acuario': 'aquarius',
+      'Piscis': 'piscis',
+    };
+    return signMap[sign] ?? 'aries';
   }
 
   String _getZodiacSymbol(String sign) {
@@ -83,9 +188,14 @@ class ZodiacInfo extends StatelessWidget {
     return symbols[sign] ?? '';
   }
 
+  String getAvatarFilename() {
+    final (_, _, _, avatar) = _calculateZodiacInfo(birthDate);
+    return avatar;
+  }
+
   @override
   Widget build(BuildContext context) {
-    final (sign, element, quality) = _calculateZodiacSign(birthDate);
+    final (sign, element, quality, _) = _calculateZodiacInfo(birthDate);
     final symbol = _getZodiacSymbol(sign);
 
     return Container(

@@ -3,6 +3,7 @@ import '../widgets/cosmic_background.dart';
 import '../services/json_profile_storage_service.dart';
 import '../widgets/custom_app_bar.dart';
 import 'SCR_05_HomeContent.dart';
+import '../widgets/ZodiacInfo.dart';
 
 class HomeContainer extends StatefulWidget {
   final String profileName;
@@ -18,7 +19,7 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
   late TabController _tabController;
   bool _isLoading = true;
   String? _errorMessage;
-  final String _avatarPath = 'assets/avatar/ariesF.webp'; // Default avatar
+  String _avatarPath = 'ariesF.webp'; // Remove assets/avatar/ prefix
 
   @override
   void initState() {
@@ -30,9 +31,14 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
   Future<void> _loadProfileData() async {
     try {
       final data = await JsonProfileStorageService.readProfileData(widget.profileName);
+      final zodiacInfo = ZodiacInfo(
+          birthDate: data['birthDate'],
+          gender: data['gender'] ?? 'F'
+      );
       setState(() {
         _profileData = data;
         _isLoading = false;
+        _avatarPath = data['selectedAvatar'] ?? zodiacInfo.getAvatarFilename();
       });
     } catch (e) {
       setState(() {
@@ -48,7 +54,12 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
       extendBodyBehindAppBar: true,
       appBar: CustomAppBar(
         profileName: widget.profileName,
-        avatarPath: _avatarPath,
+        avatarPath: 'assets/avatar/$_avatarPath',
+        onAvatarChanged: (newAvatar) {
+          setState(() {
+            _avatarPath = newAvatar;
+          });
+        },
       ),
       body: CosmicBackground(
         child: Column(
@@ -91,10 +102,8 @@ class _HomeContainerState extends State<HomeContainer> with SingleTickerProvider
     } else if (_errorMessage != null) {
       return Center(child: Text(_errorMessage!, style: const TextStyle(color: Colors.white)));
     } else if (_profileData != null) {
-      // Verificar si chartData y chartImage existen en _profileData
       final chartData = _profileData!['chartData'];
       final base64Image = _profileData!['chartImage'] as String? ?? '';
-      print("Longitud de base64Image en _buildTabBarView: ${base64Image.length}");
 
       if (chartData == null) {
         return const Center(child: Text("Datos de la carta no disponibles", style: TextStyle(color: Colors.white)));

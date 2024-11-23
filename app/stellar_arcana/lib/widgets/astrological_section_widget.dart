@@ -93,7 +93,6 @@ class AstrologicalSectionWidget extends StatelessWidget {
       try {
         data = json.decode(chartData);
       } catch (e) {
-        print('Error al decodificar chartData: $e');
       }
     } else if (chartData is Map<String, dynamic>) {
       data = chartData;

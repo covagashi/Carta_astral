@@ -13,7 +13,6 @@ class LocationData {
       final String response = await rootBundle.loadString('assets/countries_index.json');
       _countryData = json.decode(response);
     } catch (e) {
-      print('Error loading country index: $e');
       _countryData = {"countries": []};
     }
   }
@@ -55,7 +54,6 @@ class LocationData {
 
       return cities;
     } catch (e) {
-      print('Error loading cities for country $countryCode: $e');
       return [];
     }
   }

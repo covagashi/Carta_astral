@@ -6,11 +6,13 @@ import '../screens/SCR_01_HubTarot.dart';
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   final String profileName;
   final String avatarPath;
+  final Function(String)? onAvatarChanged;  // Añadir esto
 
   const CustomAppBar({
     super.key,
     required this.profileName,
     required this.avatarPath,
+    this.onAvatarChanged,  // Añadir esto
   });
 
   @override
@@ -34,10 +36,10 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           filter: ImageFilter.blur(sigmaX: 8, sigmaY: 8),
           child: Container(
             padding: EdgeInsets.only(
-              top: padding.top + 4, // Reducido de 8 a 4
-              bottom: 4, // Reducido de 8 a 4
-              left: 12, // Reducido de 16 a 12
-              right: 12, // Reducido de 16 a 12
+              top: padding.top + 4,
+              bottom: 4,
+              left: 12,
+              right: 12,
             ),
             decoration: BoxDecoration(
               border: Border(
@@ -67,7 +69,8 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           context,
           MaterialPageRoute(
             builder: (context) => Scr01Perfil(
-              profileName: profileName, // Añadimos el profileName requerido
+              profileName: profileName,
+              onAvatarChanged: onAvatarChanged,  // Añadir esto
             ),
           ),
         );
@@ -93,7 +96,6 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
             CircleAvatar(
               backgroundImage: AssetImage(avatarPath),
               onBackgroundImageError: (exception, stackTrace) {
-                print('Error loading avatar image: $exception');
               },
               radius: 14,
               child: avatarPath.isEmpty

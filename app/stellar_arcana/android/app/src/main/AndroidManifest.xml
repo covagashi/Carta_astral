@@ -1,13 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.astral.arcana">
-    
+
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:label="stellar_arcana"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-        
+
         <activity
             android:name=".MainActivity"
             android:exported="true"

@@ -123,7 +123,6 @@ class HomeContent extends StatelessWidget {
         ),
       );
     } catch (e) {
-      print('Error al decodificar la imagen: $e');
       return const SizedBox.shrink();
     }
   }
