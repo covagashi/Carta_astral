@@ -1,0 +1,146 @@
+Nov 19 19:13:00 network-stellar gunicorn[80422]: INFO:app:Datos recibidos: {'nombre': 'junio', 'dia': '23', 'mes': '12', 'ano': '1994', 'hora': '12', 'minutos': '00', 'pais': 'PHILIPPINES', 'estado': 'BACOLOD', 'ciudad': 'MANILLA', 'latitud': '0.0', 'longitud': '0.0'}
+Nov 19 19:13:02 network-stellar gunicorn[80422]: INFO:carta_natal:Formulario enviado. Status code: 200
+Nov 19 19:13:02 network-stellar gunicorn[80422]: INFO:carta_natal:URL final: https://www.losarcanos.com/carta-astral-resu-m.php
+Nov 19 19:13:03 network-stellar gunicorn[80422]: INFO:carta_natal:JSON guardado como 'carta_natal_1732043583298_803f58c1.json'
+Nov 19 19:13:08 network-stellar gunicorn[80422]: INFO:carta_natal:Generando PNG con: Lat: 0.0, Long: 0.0, Fecha: 1994-12-23, Hora: 12:00:00
+Nov 19 19:13:10 network-stellar gunicorn[80422]: INFO:carta_natal:HTML cargado correctamente
+Nov 19 19:13:10 network-stellar gunicorn[80422]: INFO:carta_natal:Body encontrado
+Nov 19 19:13:11 network-stellar gunicorn[80422]: INFO:carta_natal:Script ejecutado correctamente
+Nov 19 19:13:30 network-stellar gunicorn[80419]: [2024-11-19 19:13:30 +0000] [80419] [CRITICAL] WORKER TIMEOUT (pid:80422)
+Nov 19 19:13:30 network-stellar gunicorn[80422]: INFO:carta_natal:Driver cerrado correctamente
+Nov 19 19:13:30 network-stellar gunicorn[80422]: [2024-11-19 19:13:30 +0000] [80422] [ERROR] Error handling request /generate_carta_natal
+Nov 19 19:13:30 network-stellar gunicorn[80422]: Traceback (most recent call last):
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     self.handle_request(listener, req, client, addr)
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 177, in handle_request
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     respiter = self.wsgi(environ, resp.start_response)
+Nov 19 19:13:30 network-stellar gunicorn[80422]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/flask/app.py", line 1498, in __call__
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     return self.wsgi_app(environ, start_response)
+Nov 19 19:13:30 network-stellar gunicorn[80422]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     response = self.full_dispatch_request()
+Nov 19 19:13:30 network-stellar gunicorn[80422]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     rv = self.dispatch_request()
+Nov 19 19:13:30 network-stellar gunicorn[80422]:          ^^^^^^^^^^^^^^^^^^^^^^^
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+Nov 19 19:13:30 network-stellar gunicorn[80422]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/app.py", line 18, in generate_carta_natal_endpoint
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     json_file, png_file = generate_carta_natal(data)
+Nov 19 19:13:30 network-stellar gunicorn[80422]:                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/carta_natal.py", line 292, in main
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     png_path = generate_png_from_data(data)
+Nov 19 19:13:30 network-stellar gunicorn[80422]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/carta_natal.py", line 223, in generate_png_from_data
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, "svg")))
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 104, in until
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     time.sleep(self._poll)
+Nov 19 19:13:30 network-stellar gunicorn[80422]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+Nov 19 19:13:30 network-stellar gunicorn[80422]:     sys.exit(1)
+Nov 19 19:13:30 network-stellar gunicorn[80422]: SystemExit: 1
+Nov 19 19:13:30 network-stellar gunicorn[80422]: [2024-11-19 19:13:30 +0000] [80422] [INFO] Worker exiting (pid: 80422)
+Nov 19 19:13:31 network-stellar gunicorn[215982]: [2024-11-19 19:13:31 +0000] [215982] [INFO] Booting worker with pid: 215982
+Nov 19 19:14:03 network-stellar gunicorn[215982]: INFO:app:Datos recibidos: {'nombre': 'junio', 'dia': '23', 'mes': '12', 'ano': '1994', 'hora': '12', 'minutos': '00', 'pais': 'PHILIPPINES', 'estado': 'BACOLOD', 'ciudad': 'MANILLA', 'latitud': '0.0', 'longitud': '0.0'}
+Nov 19 19:14:05 network-stellar gunicorn[215982]: INFO:carta_natal:Formulario enviado. Status code: 200
+Nov 19 19:14:05 network-stellar gunicorn[215982]: INFO:carta_natal:URL final: https://www.losarcanos.com/carta-astral-resu-m.php
+Nov 19 19:14:06 network-stellar gunicorn[215982]: INFO:carta_natal:JSON guardado como 'carta_natal_1732043646392_803f58c1.json'
+Nov 19 19:14:08 network-stellar gunicorn[215982]: INFO:carta_natal:Generando PNG con: Lat: 0.0, Long: 0.0, Fecha: 1994-12-23, Hora: 12:00:00
+Nov 19 19:14:09 network-stellar gunicorn[215982]: INFO:carta_natal:HTML cargado correctamente
+Nov 19 19:14:09 network-stellar gunicorn[215982]: INFO:carta_natal:Body encontrado
+Nov 19 19:14:10 network-stellar gunicorn[215982]: INFO:carta_natal:Script ejecutado correctamente
+Nov 19 19:14:30 network-stellar gunicorn[215982]: ERROR:carta_natal:Timeout esperando el SVG: Message:
+Nov 19 19:14:30 network-stellar gunicorn[215982]: Stacktrace:
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #0 0x56cfacfcb7f9 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #1 0x56cfacf6b3b3 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #2 0x56cfaccb3016 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #3 0x56cfacce781e <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #4 0x56cfacd1d8fb <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #5 0x56cfacd0aded <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #6 0x56cfacd1b9e1 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #7 0x56cfacd0ac93 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #8 0x56cfaccdcce4 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #9 0x56cfaccde4d2 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #10 0x56cfacf97542 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #11 0x56cfacfa6ce7 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #12 0x56cfacfa69e4 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #13 0x56cfacfab13a <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #14 0x56cfacfa75b9 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #15 0x56cfacf8ce00 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #16 0x56cfacfbe5d2 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #17 0x56cfacfbe778 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #18 0x56cfacfd6a1f <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #19 0x70241809ca94 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #20 0x702418129c3c <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: ERROR:carta_natal:Error al generar PNG: Message:
+Nov 19 19:14:30 network-stellar gunicorn[215982]: Stacktrace:
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #0 0x56cfacfcb7f9 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #1 0x56cfacf6b3b3 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #2 0x56cfaccb3016 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #3 0x56cfacce781e <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #4 0x56cfacd1d8fb <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #5 0x56cfacd0aded <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #6 0x56cfacd1b9e1 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #7 0x56cfacd0ac93 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #8 0x56cfaccdcce4 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #9 0x56cfaccde4d2 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #10 0x56cfacf97542 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #11 0x56cfacfa6ce7 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #12 0x56cfacfa69e4 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #13 0x56cfacfab13a <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #14 0x56cfacfa75b9 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #15 0x56cfacf8ce00 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #16 0x56cfacfbe5d2 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #17 0x56cfacfbe778 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #18 0x56cfacfd6a1f <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #19 0x70241809ca94 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #20 0x702418129c3c <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: ERROR:carta_natal:Traceback completo: Traceback (most recent call last):
+Nov 19 19:14:30 network-stellar gunicorn[215982]:   File "/home/ubuntu/carta_astral/carta_natal.py", line 223, in generate_png_from_data
+Nov 19 19:14:30 network-stellar gunicorn[215982]:     WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, "svg")))
+Nov 19 19:14:30 network-stellar gunicorn[215982]:   File "/home/ubuntu/carta_astral/venv/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+Nov 19 19:14:30 network-stellar gunicorn[215982]:     raise TimeoutException(message, screen, stacktrace)
+Nov 19 19:14:30 network-stellar gunicorn[215982]: selenium.common.exceptions.TimeoutException: Message:
+Nov 19 19:14:30 network-stellar gunicorn[215982]: Stacktrace:
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #0 0x56cfacfcb7f9 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #1 0x56cfacf6b3b3 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #2 0x56cfaccb3016 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #3 0x56cfacce781e <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #4 0x56cfacd1d8fb <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #5 0x56cfacd0aded <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #6 0x56cfacd1b9e1 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #7 0x56cfacd0ac93 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #8 0x56cfaccdcce4 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #9 0x56cfaccde4d2 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #10 0x56cfacf97542 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #11 0x56cfacfa6ce7 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #12 0x56cfacfa69e4 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #13 0x56cfacfab13a <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #14 0x56cfacfa75b9 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #15 0x56cfacf8ce00 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #16 0x56cfacfbe5d2 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #17 0x56cfacfbe778 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #18 0x56cfacfd6a1f <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #19 0x70241809ca94 <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: #20 0x702418129c3c <unknown>
+Nov 19 19:14:30 network-stellar gunicorn[215982]: INFO:carta_natal:Driver cerrado correctamente
+Nov 19 19:14:30 network-stellar gunicorn[215982]: ERROR:carta_natal:No se pudo generar el PNG
+Nov 19 19:14:30 network-stellar gunicorn[215982]: ERROR:app:No se pudo generar la carta natal
+Nov 19 19:14:54 network-stellar gunicorn[215143]: INFO:app:Datos recibidos: {'nombre': 'Test', 'dia': '01', 'mes': '01', 'ano': '2000', 'hora': '12', 'minutos': '00', 'pais': 'España', 'estado': 'Madrid', 'ciudad': 'Madrid', 'latitud': '40.4168', 'longitud': '-3.7038'}
+Nov 19 19:14:56 network-stellar gunicorn[215143]: INFO:carta_natal:Formulario enviado. Status code: 200
+Nov 19 19:14:56 network-stellar gunicorn[215143]: INFO:carta_natal:URL final: https://www.losarcanos.com/carta-astral-resu-m.php
+Nov 19 19:14:56 network-stellar gunicorn[215143]: INFO:carta_natal:JSON guardado como 'carta_natal_1732043696919_5ae3efe1.json'
+Nov 19 19:14:58 network-stellar gunicorn[215143]: INFO:carta_natal:Generando PNG con: Lat: 40.4168, Long: -3.7038, Fecha: 2000-01-01, Hora: 12:00:00
+Nov 19 19:14:59 network-stellar gunicorn[215143]: INFO:carta_natal:HTML cargado correctamente
+Nov 19 19:15:00 network-stellar gunicorn[215143]: INFO:carta_natal:Body encontrado
+Nov 19 19:15:00 network-stellar gunicorn[215143]: INFO:carta_natal:Script ejecutado correctamente
+Nov 19 19:15:01 network-stellar gunicorn[215143]: INFO:carta_natal:SVG encontrado
+Nov 19 19:15:01 network-stellar gunicorn[215143]: INFO:carta_natal:SVG extraído correctamente
+Nov 19 19:15:01 network-stellar gunicorn[215143]: INFO:carta_natal:SVG convertido a PNG correctamente
+Nov 19 19:15:01 network-stellar gunicorn[215143]: INFO:carta_natal:PNG guardado como '/home/ubuntu/carta_astral/carta_natal_1732043701410.png'
+Nov 19 19:15:02 network-stellar gunicorn[215143]: INFO:carta_natal:Driver cerrado correctamente
+Nov 19 19:15:02 network-stellar gunicorn[215143]: INFO:carta_natal:PNG generado correctamente: carta_natal_1732043701410.png
+Nov 19 19:15:02 network-stellar gunicorn[215143]: INFO:app:Carta natal generada exitosamente. JSON: carta_natal_1732043696919_5ae3efe1.json, PNG: carta_natal_1732043701410.png
+Nov 19 19:15:02 network-stellar gunicorn[215143]: INFO:app:Archivos temporales eliminados
+
