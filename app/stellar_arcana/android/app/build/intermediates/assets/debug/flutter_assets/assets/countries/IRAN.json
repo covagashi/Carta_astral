@@ -1,0 +1,160 @@
+{
+  "name": "IRAN",
+  "code": "53",
+  "provinces": [
+    {
+      "name": "ABADAN",
+      "code": "5",
+      "cities": [],
+      "latitude": 30.3636097,
+      "longitude": 48.2591475
+    },
+    {
+      "name": "AHVAZ",
+      "code": "30",
+      "cities": [],
+      "latitude": 31.3230637,
+      "longitude": 48.67932
+    },
+    {
+      "name": "AHWAZ",
+      "code": "31",
+      "cities": [],
+      "latitude": 31.3230637,
+      "longitude": 48.67932
+    },
+    {
+      "name": "BAKHTARAN",
+      "code": "223",
+      "cities": [],
+      "latitude": 34.3239414,
+      "longitude": 47.0735891
+    },
+    {
+      "name": "HAMADAN",
+      "code": "1418",
+      "cities": [],
+      "latitude": 34.9726302,
+      "longitude": 48.6563818
+    },
+    {
+      "name": "ISFAHAN",
+      "code": "1609",
+      "cities": [],
+      "latitude": 32.6707877,
+      "longitude": 51.6650002
+    },
+    {
+      "name": "KERMANSHAH",
+      "code": "1746",
+      "cities": [],
+      "latitude": 34.486732,
+      "longitude": 46.80872698861859
+    },
+    {
+      "name": "MASHHAD",
+      "code": "2167",
+      "cities": [],
+      "latitude": 36.2974945,
+      "longitude": 59.6059232
+    },
+    {
+      "name": "MESHED",
+      "code": "2230",
+      "cities": [],
+      "latitude": 36.2974945,
+      "longitude": 59.6059232
+    },
+    {
+      "name": "MESTED",
+      "code": "2234",
+      "cities": [],
+      "latitude": 30.3636097,
+      "longitude": 48.2591475
+    },
+    {
+      "name": "QOM",
+      "code": "2858",
+      "cities": [],
+      "latitude": 34.6422939,
+      "longitude": 50.8801184
+    },
+    {
+      "name": "QUM",
+      "code": "2866",
+      "cities": [],
+      "latitude": 34.6422939,
+      "longitude": 50.8801184
+    },
+    {
+      "name": "RAI",
+      "code": "2875",
+      "cities": [],
+      "latitude": 37.3843717,
+      "longitude": 49.65504605379622
+    },
+    {
+      "name": "RESHT",
+      "code": "2928",
+      "cities": [],
+      "latitude": 37.2793607,
+      "longitude": 49.5846102
+    },
+    {
+      "name": "REZA'IYEH",
+      "code": "2936",
+      "cities": [],
+      "latitude": 30.3636097,
+      "longitude": 48.2591475
+    },
+    {
+      "name": "REZAIEH",
+      "code": "2937",
+      "cities": [],
+      "latitude": 35.6938952,
+      "longitude": 51.4141633
+    },
+    {
+      "name": "SHIRAZ",
+      "code": "3215",
+      "cities": [],
+      "latitude": 29.6060218,
+      "longitude": 52.5378041
+    },
+    {
+      "name": "TABRIZ",
+      "code": "3419",
+      "cities": [],
+      "latitude": 38.0738612,
+      "longitude": 46.2978789
+    },
+    {
+      "name": "TAJRISH",
+      "code": "3424",
+      "cities": [],
+      "latitude": 35.804937,
+      "longitude": 51.4409634
+    },
+    {
+      "name": "TEHERAN",
+      "code": "3461",
+      "cities": [],
+      "latitude": 35.6892523,
+      "longitude": 51.3896004
+    },
+    {
+      "name": "URMIA",
+      "code": "3626",
+      "cities": [],
+      "latitude": 37.548341,
+      "longitude": 45.0667111
+    },
+    {
+      "name": "YEZD",
+      "code": "3897",
+      "cities": [],
+      "latitude": 32.0406164,
+      "longitude": 54.6657189
+    }
+  ]
+}

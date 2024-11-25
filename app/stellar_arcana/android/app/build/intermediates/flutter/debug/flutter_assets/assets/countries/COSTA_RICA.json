@@ -1,0 +1,60 @@
+{
+  "name": "COSTA RICA",
+  "code": "22",
+  "provinces": [
+    {
+      "name": "Alajuela",
+      "code": "77",
+      "cities": [],
+      "latitude": 10.45233165,
+      "longitude": -84.46632842680263
+    },
+    {
+      "name": "Cartago",
+      "code": "78",
+      "cities": [],
+      "latitude": 9.8159326,
+      "longitude": -83.69428210490865
+    },
+    {
+      "name": "Guanacaste",
+      "code": "79",
+      "cities": [],
+      "latitude": 10.378844050000001,
+      "longitude": -85.43382874573226
+    },
+    {
+      "name": "Heredia",
+      "code": "80",
+      "cities": [],
+      "latitude": 10.376781300000001,
+      "longitude": -84.01397213865732
+    },
+    {
+      "name": "Limón",
+      "code": "81",
+      "cities": [],
+      "latitude": 10.099908899999999,
+      "longitude": -83.34318729447185
+    },
+    {
+      "name": "Puntarenas",
+      "code": "82",
+      "cities": [],
+      "latitude": 9.09532795,
+      "longitude": -84.20030379242806
+    },
+    {
+      "name": "San José",
+      "code": "83",
+      "cities": [],
+      "latitude": 9.9325427,
+      "longitude": -84.0795782
+    },
+    {
+      "name": "UT-6:00",
+      "code": "84",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62614415307",
+    "project_id": "stellararcana-3a983",
+    "storage_bucket": "stellararcana-3a983.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62614415307:android:56aafffeb1ddf6a284f84e",
+        "android_client_info": {
+          "package_name": "com.covaga.stellar_arcana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDam3wgly8EI6tqGFRIcKN7JJNiYZv-VsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

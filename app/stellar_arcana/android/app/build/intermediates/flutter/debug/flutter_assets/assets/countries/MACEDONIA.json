@@ -1,0 +1,48 @@
+{
+  "name": "MACEDONIA",
+  "code": "74",
+  "provinces": [
+    {
+      "name": "BITOLA",
+      "code": "388",
+      "cities": [],
+      "latitude": 41.0316005,
+      "longitude": 21.3302511
+    },
+    {
+      "name": "KUMANOVO",
+      "code": "1831",
+      "cities": [],
+      "latitude": 42.1359459,
+      "longitude": 21.7177635
+    },
+    {
+      "name": "PRILEP",
+      "code": "2832",
+      "cities": [],
+      "latitude": 41.3444984,
+      "longitude": 21.5527115
+    },
+    {
+      "name": "SKOPJE",
+      "code": "3245",
+      "cities": [],
+      "latitude": 41.9961816,
+      "longitude": 21.4319213
+    },
+    {
+      "name": "TETOVO",
+      "code": "3476",
+      "cities": [],
+      "latitude": 42.0068297,
+      "longitude": 20.9728556
+    },
+    {
+      "name": "TITOV VELES",
+      "code": "3507",
+      "cities": [],
+      "latitude": 41.718869,
+      "longitude": 21.7705695
+    }
+  ]
+}

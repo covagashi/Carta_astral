@@ -1,0 +1,223 @@
+{
+  "name": "DENMARK",
+  "code": "27",
+  "provinces": [
+    {
+      "name": "ALBORG",
+      "code": "49",
+      "cities": [],
+      "latitude": 57.0462626,
+      "longitude": 9.9215263
+    },
+    {
+      "name": "ARHUS",
+      "code": "147",
+      "cities": [],
+      "latitude": 56.1496278,
+      "longitude": 10.2134046
+    },
+    {
+      "name": "COPENHAGEN",
+      "code": "823",
+      "cities": [],
+      "latitude": 55.6867243,
+      "longitude": 12.5700724
+    },
+    {
+      "name": "ESBJERG",
+      "code": "1100",
+      "cities": [],
+      "latitude": 55.4664892,
+      "longitude": 8.4520751
+    },
+    {
+      "name": "FREDERICIA",
+      "code": "1201",
+      "cities": [],
+      "latitude": 55.565268,
+      "longitude": 9.7562169
+    },
+    {
+      "name": "FREDERIKSBORG",
+      "code": "1205",
+      "cities": [],
+      "latitude": 55.9351046,
+      "longitude": 12.30174349027778
+    },
+    {
+      "name": "FREDERIKSHAVN",
+      "code": "1206",
+      "cities": [],
+      "latitude": 57.4412134,
+      "longitude": 10.5336225
+    },
+    {
+      "name": "GENTOFTE",
+      "code": "1270",
+      "cities": [],
+      "latitude": 55.7459656,
+      "longitude": 12.5510249
+    },
+    {
+      "name": "HADERSLEV",
+      "code": "1401",
+      "cities": [],
+      "latitude": 55.2500715,
+      "longitude": 9.4997871
+    },
+    {
+      "name": "HELSINGOR",
+      "code": "1483",
+      "cities": [],
+      "latitude": 56.0348739,
+      "longitude": 12.6130073
+    },
+    {
+      "name": "HERNING",
+      "code": "1500",
+      "cities": [],
+      "latitude": 56.1379757,
+      "longitude": 8.9746623
+    },
+    {
+      "name": "HILLEROD",
+      "code": "1513",
+      "cities": [],
+      "latitude": 55.9285735,
+      "longitude": 12.3063909
+    },
+    {
+      "name": "HJORRING",
+      "code": "1522",
+      "cities": [],
+      "latitude": 57.457183,
+      "longitude": 9.9855998
+    },
+    {
+      "name": "HOLBAEK",
+      "code": "1527",
+      "cities": [],
+      "latitude": 55.7186117,
+      "longitude": 11.7135474
+    },
+    {
+      "name": "HOLSTEBRO",
+      "code": "1534",
+      "cities": [],
+      "latitude": 56.3590324,
+      "longitude": 8.6159188
+    },
+    {
+      "name": "HORSENS",
+      "code": "1544",
+      "cities": [],
+      "latitude": 55.8611696,
+      "longitude": 9.8444774
+    },
+    {
+      "name": "KOLDING",
+      "code": "1795",
+      "cities": [],
+      "latitude": 55.4894999,
+      "longitude": 9.47905
+    },
+    {
+      "name": "KORSOR",
+      "code": "1808",
+      "cities": [],
+      "latitude": 55.3266045,
+      "longitude": 11.1425876
+    },
+    {
+      "name": "LYNGBY",
+      "code": "2073",
+      "cities": [],
+      "latitude": 55.7718649,
+      "longitude": 12.5051413
+    },
+    {
+      "name": "NAEVSTVED",
+      "code": "2373",
+      "cities": [],
+      "latitude": 55.7718649,
+      "longitude": 12.5051413
+    },
+    {
+      "name": "NAKSKOV",
+      "code": "2382",
+      "cities": [],
+      "latitude": 54.8304979,
+      "longitude": 11.1493517
+    },
+    {
+      "name": "ODENSE",
+      "code": "2534",
+      "cities": [],
+      "latitude": 55.3997225,
+      "longitude": 10.3852104
+    },
+    {
+      "name": "RANDERS",
+      "code": "2886",
+      "cities": [],
+      "latitude": 56.4355428,
+      "longitude": 10.0425957
+    },
+    {
+      "name": "SILKEBORG",
+      "code": "3228",
+      "cities": [],
+      "latitude": 56.169453,
+      "longitude": 9.5495141
+    },
+    {
+      "name": "SKIVE",
+      "code": "3243",
+      "cities": [],
+      "latitude": 56.6459244,
+      "longitude": 8.932732160154906
+    },
+    {
+      "name": "SLAGESE",
+      "code": "3247",
+      "cities": [],
+      "latitude": 55.7718649,
+      "longitude": 12.5051413
+    },
+    {
+      "name": "SONDERBORG",
+      "code": "3264",
+      "cities": [],
+      "latitude": 54.9089186,
+      "longitude": 9.7897999
+    },
+    {
+      "name": "SVENDBORG",
+      "code": "3398",
+      "cities": [],
+      "latitude": 55.0636926,
+      "longitude": 10.6085377
+    },
+    {
+      "name": "TARNBY",
+      "code": "3446",
+      "cities": [],
+      "latitude": 55.6246457,
+      "longitude": 12.6006252
+    },
+    {
+      "name": "TASTRUP",
+      "code": "3451",
+      "cities": [],
+      "latitude": 55.6522136,
+      "longitude": 12.292049
+    },
+    {
+      "name": "VEJLE",
+      "code": "3659",
+      "cities": [],
+      "latitude": 55.7000057,
+      "longitude": 9.5333238
+    }
+  ]
+}

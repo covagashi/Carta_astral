@@ -1,0 +1,1602 @@
+{
+  "name": "CANADA",
+  "code": "17",
+  "provinces": [
+    {
+      "name": "ALBERTON",
+      "code": "48",
+      "cities": [],
+      "latitude": 46.8127482,
+      "longitude": -64.0649989
+    },
+    {
+      "name": "ALMA",
+      "code": "76",
+      "cities": [],
+      "latitude": 48.548887,
+      "longitude": -71.651459
+    },
+    {
+      "name": "AMHERST",
+      "code": "97",
+      "cities": [],
+      "latitude": 45.8286903,
+      "longitude": -64.2040548
+    },
+    {
+      "name": "ANJOU",
+      "code": "116",
+      "cities": [],
+      "latitude": 45.6048982,
+      "longitude": -73.5466723
+    },
+    {
+      "name": "ANTIGONISH",
+      "code": "127",
+      "cities": [],
+      "latitude": 45.6213607,
+      "longitude": -61.9904928
+    },
+    {
+      "name": "ARVIDA",
+      "code": "160",
+      "cities": [],
+      "latitude": 48.425897,
+      "longitude": -71.1821701
+    },
+    {
+      "name": "ASBESTOS",
+      "code": "163",
+      "cities": [],
+      "latitude": 45.776623,
+      "longitude": -71.932297
+    },
+    {
+      "name": "ASSINIBOIA",
+      "code": "174",
+      "cities": [],
+      "latitude": 49.6311192,
+      "longitude": -105.9926494
+    },
+    {
+      "name": "AURORA",
+      "code": "198",
+      "cities": [],
+      "latitude": 43.99973,
+      "longitude": -79.467545
+    },
+    {
+      "name": "BAIE-COMEAU",
+      "code": "220",
+      "cities": [],
+      "latitude": 49.2118373,
+      "longitude": -68.1801406
+    },
+    {
+      "name": "BARRIE",
+      "code": "259",
+      "cities": [],
+      "latitude": 44.3893208,
+      "longitude": -79.6901302
+    },
+    {
+      "name": "BATHURST",
+      "code": "275",
+      "cities": [],
+      "latitude": 47.6208671,
+      "longitude": -65.6537546
+    },
+    {
+      "name": "BEACONSFIELD",
+      "code": "286",
+      "cities": [],
+      "latitude": 45.4289766,
+      "longitude": -73.8654387
+    },
+    {
+      "name": "BELLEVILLE",
+      "code": "314",
+      "cities": [],
+      "latitude": 44.1633264,
+      "longitude": -77.3852556
+    },
+    {
+      "name": "BELOEIL",
+      "code": "324",
+      "cities": [],
+      "latitude": 45.5643183,
+      "longitude": -73.2040066
+    },
+    {
+      "name": "BLAINVILLE",
+      "code": "397",
+      "cities": [],
+      "latitude": 45.67932,
+      "longitude": -73.87619
+    },
+    {
+      "name": "BONAVISTA",
+      "code": "422",
+      "cities": [],
+      "latitude": 48.6541763,
+      "longitude": -53.110338
+    },
+    {
+      "name": "BOTWOOD",
+      "code": "435",
+      "cities": [],
+      "latitude": 49.14219,
+      "longitude": -55.343628
+    },
+    {
+      "name": "BOUCHERVILLE",
+      "code": "436",
+      "cities": [],
+      "latitude": 45.6050197,
+      "longitude": -73.4526144
+    },
+    {
+      "name": "BRAMPTON",
+      "code": "455",
+      "cities": [],
+      "latitude": 43.685832,
+      "longitude": -79.7599366
+    },
+    {
+      "name": "BRANDON",
+      "code": "458",
+      "cities": [],
+      "latitude": 49.8511143,
+      "longitude": -99.9608924
+    },
+    {
+      "name": "BRANTFORD",
+      "code": "460",
+      "cities": [],
+      "latitude": 43.1408157,
+      "longitude": -80.2631733
+    },
+    {
+      "name": "BROCKVILLE",
+      "code": "494",
+      "cities": [],
+      "latitude": 44.5895925,
+      "longitude": -75.6843332
+    },
+    {
+      "name": "BROSSARD",
+      "code": "505",
+      "cities": [],
+      "latitude": 45.4554579,
+      "longitude": -73.4678695
+    },
+    {
+      "name": "BURLINGTON",
+      "code": "536",
+      "cities": [],
+      "latitude": 43.3248924,
+      "longitude": -79.7966835
+    },
+    {
+      "name": "BURNABY",
+      "code": "538",
+      "cities": [],
+      "latitude": 49.2433804,
+      "longitude": -122.972545
+    },
+    {
+      "name": "CALEDON",
+      "code": "563",
+      "cities": [],
+      "latitude": 43.832069849999996,
+      "longitude": -79.90668711186211
+    },
+    {
+      "name": "CALGARY",
+      "code": "565",
+      "cities": [],
+      "latitude": 51.0456064,
+      "longitude": -114.057541
+    },
+    {
+      "name": "CAMPBELLTON",
+      "code": "583",
+      "cities": [],
+      "latitude": 48.0046634,
+      "longitude": -66.6765986
+    },
+    {
+      "name": "CAMROSE",
+      "code": "588",
+      "cities": [],
+      "latitude": 53.013131,
+      "longitude": -112.840576
+    },
+    {
+      "name": "CARBONEAR",
+      "code": "605",
+      "cities": [],
+      "latitude": 47.733123,
+      "longitude": -53.2366225
+    },
+    {
+      "name": "CHAMBLY",
+      "code": "666",
+      "cities": [],
+      "latitude": 45.4483467,
+      "longitude": -73.2936944
+    },
+    {
+      "name": "CHARLEMAGNE",
+      "code": "673",
+      "cities": [],
+      "latitude": 45.725519649999995,
+      "longitude": -73.4896922220162
+    },
+    {
+      "name": "CHARLESBOURG",
+      "code": "676",
+      "cities": [],
+      "latitude": 46.89564985,
+      "longitude": -71.2908285897658
+    },
+    {
+      "name": "CHARLOTTETOWN",
+      "code": "682",
+      "cities": [],
+      "latitude": 46.234953,
+      "longitude": -63.132935
+    },
+    {
+      "name": "CHATEAUGUAY",
+      "code": "684",
+      "cities": [],
+      "latitude": 45.3602416,
+      "longitude": -73.749364
+    },
+    {
+      "name": "CHATHAM",
+      "code": "688",
+      "cities": [],
+      "latitude": 42.4057219,
+      "longitude": -82.1853837
+    },
+    {
+      "name": "CHATHAM",
+      "code": "689",
+      "cities": [],
+      "latitude": 42.4057219,
+      "longitude": -82.1853837
+    },
+    {
+      "name": "CHICOUTIMI",
+      "code": "727",
+      "cities": [],
+      "latitude": 48.3370248,
+      "longitude": -71.12352613559267
+    },
+    {
+      "name": "CHILLIWHACK",
+      "code": "733",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "COQUITLAM",
+      "code": "827",
+      "cities": [],
+      "latitude": 49.2842958,
+      "longitude": -122.793281
+    },
+    {
+      "name": "CORNER BROOK",
+      "code": "836",
+      "cities": [],
+      "latitude": 48.95317,
+      "longitude": -57.947388
+    },
+    {
+      "name": "CORNWALL",
+      "code": "837",
+      "cities": [],
+      "latitude": 45.0469989,
+      "longitude": -74.7333845
+    },
+    {
+      "name": "COWANSVILLE",
+      "code": "854",
+      "cities": [],
+      "latitude": 45.2076125,
+      "longitude": -72.7479195
+    },
+    {
+      "name": "DALHOUSIE",
+      "code": "887",
+      "cities": [],
+      "latitude": 48.0634448,
+      "longitude": -66.369555
+    },
+    {
+      "name": "DARTMOUTH",
+      "code": "908",
+      "cities": [],
+      "latitude": 44.6799707,
+      "longitude": -63.5720232
+    },
+    {
+      "name": "DAUPHIN",
+      "code": "910",
+      "cities": [],
+      "latitude": 51.153509,
+      "longitude": -100.04425
+    },
+    {
+      "name": "DEER LAKE",
+      "code": "924",
+      "cities": [],
+      "latitude": 49.1830366,
+      "longitude": -57.4320002
+    },
+    {
+      "name": "DIEPPE",
+      "code": "948",
+      "cities": [],
+      "latitude": 46.0966797,
+      "longitude": -64.7357347
+    },
+    {
+      "name": "DOLLARD D.O.",
+      "code": "956",
+      "cities": [],
+      "latitude": 45.6420862,
+      "longitude": -73.2994294
+    },
+    {
+      "name": "DRUMHELLER",
+      "code": "977",
+      "cities": [],
+      "latitude": 51.4169325,
+      "longitude": -112.6402382
+    },
+    {
+      "name": "DRUMMONDVILLE",
+      "code": "978",
+      "cities": [],
+      "latitude": 45.8864303,
+      "longitude": -72.5018764
+    },
+    {
+      "name": "DUNDAS",
+      "code": "995",
+      "cities": [],
+      "latitude": 43.2661904,
+      "longitude": -79.9546341
+    },
+    {
+      "name": "E.KILDONAN",
+      "code": "1014",
+      "cities": [],
+      "latitude": 49.9209415,
+      "longitude": -97.0881378
+    },
+    {
+      "name": "EDMONTON",
+      "code": "1040",
+      "cities": [],
+      "latitude": 53.5462055,
+      "longitude": -113.491241
+    },
+    {
+      "name": "EDMUNDSTON",
+      "code": "1041",
+      "cities": [],
+      "latitude": 47.3637203,
+      "longitude": -68.3288825
+    },
+    {
+      "name": "ESTEVAN",
+      "code": "1113",
+      "cities": [],
+      "latitude": 49.1428076,
+      "longitude": -102.991075
+    },
+    {
+      "name": "FLIN FLON",
+      "code": "1164",
+      "cities": [],
+      "latitude": 54.769801,
+      "longitude": -101.878967
+    },
+    {
+      "name": "FORT ERIE",
+      "code": "1182",
+      "cities": [],
+      "latitude": 42.91308,
+      "longitude": -78.918611
+    },
+    {
+      "name": "FREDERICTON",
+      "code": "1204",
+      "cities": [],
+      "latitude": 45.963233,
+      "longitude": -66.6432356
+    },
+    {
+      "name": "FT. GARRY",
+      "code": "1221",
+      "cities": [],
+      "latitude": 49.88784425,
+      "longitude": -97.13523291677625
+    },
+    {
+      "name": "FT. MCMURRAY",
+      "code": "1223",
+      "cities": [],
+      "latitude": 56.7291997,
+      "longitude": -111.3885221
+    },
+    {
+      "name": "FT. SASKATCHEWAN",
+      "code": "1224",
+      "cities": [],
+      "latitude": 53.7128571,
+      "longitude": -113.214894
+    },
+    {
+      "name": "GANDER",
+      "code": "1246",
+      "cities": [],
+      "latitude": 48.9592291,
+      "longitude": -54.6187879
+    },
+    {
+      "name": "GASPE",
+      "code": "1255",
+      "cities": [],
+      "latitude": 48.6146774,
+      "longitude": -66.066572550089
+    },
+    {
+      "name": "GATINEAU",
+      "code": "1257",
+      "cities": [],
+      "latitude": 45.4277659,
+      "longitude": -75.710976
+    },
+    {
+      "name": "GEORGETOWN",
+      "code": "1271",
+      "cities": [],
+      "latitude": 46.1844077,
+      "longitude": -62.5315437
+    },
+    {
+      "name": "GIFFARD",
+      "code": "1280",
+      "cities": [],
+      "latitude": 46.8534527,
+      "longitude": -71.2089756
+    },
+    {
+      "name": "GLACE BAY",
+      "code": "1286",
+      "cities": [],
+      "latitude": 46.1949393,
+      "longitude": -59.9561999
+    },
+    {
+      "name": "GRANBY",
+      "code": "1324",
+      "cities": [],
+      "latitude": 45.3990409,
+      "longitude": -72.721834
+    },
+    {
+      "name": "GRAND FALLS",
+      "code": "1325",
+      "cities": [],
+      "latitude": 47.047563,
+      "longitude": -67.7407527
+    },
+    {
+      "name": "GRAND FALLS",
+      "code": "1326",
+      "cities": [],
+      "latitude": 47.047563,
+      "longitude": -67.7407527
+    },
+    {
+      "name": "GRAND MERE",
+      "code": "1330",
+      "cities": [],
+      "latitude": 46.612894,
+      "longitude": -72.69516
+    },
+    {
+      "name": "GRAND PRAIRIE",
+      "code": "1331",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "GRIMSBY",
+      "code": "1366",
+      "cities": [],
+      "latitude": 43.1931661,
+      "longitude": -79.560677
+    },
+    {
+      "name": "GUELPH",
+      "code": "1380",
+      "cities": [],
+      "latitude": 43.5460516,
+      "longitude": -80.2493276
+    },
+    {
+      "name": "HALIFAX",
+      "code": "1411",
+      "cities": [],
+      "latitude": 44.648618,
+      "longitude": -63.5859487
+    },
+    {
+      "name": "HAMILTON",
+      "code": "1426",
+      "cities": [],
+      "latitude": 43.2560802,
+      "longitude": -79.8728583
+    },
+    {
+      "name": "HAUTERIVE",
+      "code": "1462",
+      "cities": [],
+      "latitude": 49.1929593,
+      "longitude": -68.2570763
+    },
+    {
+      "name": "HAWKESBURY",
+      "code": "1470",
+      "cities": [],
+      "latitude": 45.610281,
+      "longitude": -74.6055611
+    },
+    {
+      "name": "HINTON",
+      "code": "1520",
+      "cities": [],
+      "latitude": 53.3990512,
+      "longitude": -117.5886772
+    },
+    {
+      "name": "HULL",
+      "code": "1557",
+      "cities": [],
+      "latitude": 45.4405842,
+      "longitude": -75.7326823
+    },
+    {
+      "name": "JOLIETTE",
+      "code": "1663",
+      "cities": [],
+      "latitude": 46.0239798,
+      "longitude": -73.4419936
+    },
+    {
+      "name": "JONQUIERE",
+      "code": "1665",
+      "cities": [],
+      "latitude": 48.405959,
+      "longitude": -71.069183
+    },
+    {
+      "name": "KAMLOOPS",
+      "code": "1691",
+      "cities": [],
+      "latitude": 50.6758269,
+      "longitude": -120.339415
+    },
+    {
+      "name": "KELOWNA",
+      "code": "1734",
+      "cities": [],
+      "latitude": 49.8879177,
+      "longitude": -119.495902
+    },
+    {
+      "name": "KINGSTON",
+      "code": "1769",
+      "cities": [],
+      "latitude": 44.230687,
+      "longitude": -76.481323
+    },
+    {
+      "name": "KITCHENER",
+      "code": "1784",
+      "cities": [],
+      "latitude": 43.451291,
+      "longitude": -80.4927815
+    },
+    {
+      "name": "LA TUQUE",
+      "code": "1863",
+      "cities": [],
+      "latitude": 47.441092,
+      "longitude": -72.78511
+    },
+    {
+      "name": "LACHINE",
+      "code": "1865",
+      "cities": [],
+      "latitude": 45.435114,
+      "longitude": -73.6837987
+    },
+    {
+      "name": "LACHUTE",
+      "code": "1866",
+      "cities": [],
+      "latitude": 45.6560478,
+      "longitude": -74.3401388
+    },
+    {
+      "name": "LADYSMITH",
+      "code": "1867",
+      "cities": [],
+      "latitude": 48.9936579,
+      "longitude": -123.8157964
+    },
+    {
+      "name": "LANGLEY",
+      "code": "1890",
+      "cities": [],
+      "latitude": 49.1039289,
+      "longitude": -122.657047
+    },
+    {
+      "name": "LAUZON",
+      "code": "1905",
+      "cities": [],
+      "latitude": 46.8256382,
+      "longitude": -71.1654982
+    },
+    {
+      "name": "LAVAL ILE JESUS",
+      "code": "1906",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "LAVAL NICOLET",
+      "code": "1907",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "LENNOXVILLE",
+      "code": "1939",
+      "cities": [],
+      "latitude": 45.3661982,
+      "longitude": -71.8564428
+    },
+    {
+      "name": "LETHBRIDGE",
+      "code": "1950",
+      "cities": [],
+      "latitude": 49.6945782,
+      "longitude": -112.8331033
+    },
+    {
+      "name": "LEVIS",
+      "code": "1955",
+      "cities": [],
+      "latitude": 46.8033114,
+      "longitude": -71.1778792
+    },
+    {
+      "name": "LINCOLN",
+      "code": "1985",
+      "cities": [],
+      "latitude": 49.280376,
+      "longitude": -122.7940685
+    },
+    {
+      "name": "LIVERPOOL",
+      "code": "1995",
+      "cities": [],
+      "latitude": 44.036104,
+      "longitude": -64.7172992
+    },
+    {
+      "name": "LLYODMINSTER",
+      "code": "2001",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "LONDON",
+      "code": "2017",
+      "cities": [],
+      "latitude": 42.9832406,
+      "longitude": -81.243372
+    },
+    {
+      "name": "LUNENBURG",
+      "code": "2062",
+      "cities": [],
+      "latitude": 44.3774954,
+      "longitude": -64.3154816
+    },
+    {
+      "name": "MAGOG",
+      "code": "2096",
+      "cities": [],
+      "latitude": 45.2658014,
+      "longitude": -72.1480686
+    },
+    {
+      "name": "MARKHAM",
+      "code": "2153",
+      "cities": [],
+      "latitude": 43.8563707,
+      "longitude": -79.3376825
+    },
+    {
+      "name": "MARYSTOWN",
+      "code": "2164",
+      "cities": [],
+      "latitude": 47.1658498,
+      "longitude": -55.1579778
+    },
+    {
+      "name": "MATANE",
+      "code": "2172",
+      "cities": [],
+      "latitude": 48.8468773,
+      "longitude": -67.5295498
+    },
+    {
+      "name": "MEDECINE HAT",
+      "code": "2194",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "MELFORT",
+      "code": "2205",
+      "cities": [],
+      "latitude": 52.8613707,
+      "longitude": -104.6135544
+    },
+    {
+      "name": "MELVILLE",
+      "code": "2209",
+      "cities": [],
+      "latitude": 50.9307241,
+      "longitude": -102.807296
+    },
+    {
+      "name": "MISSISSAUGA",
+      "code": "2276",
+      "cities": [],
+      "latitude": 43.5896231,
+      "longitude": -79.6443879
+    },
+    {
+      "name": "MONCTON",
+      "code": "2291",
+      "cities": [],
+      "latitude": 46.0985679,
+      "longitude": -64.8004265
+    },
+    {
+      "name": "MONTAGUE",
+      "code": "2297",
+      "cities": [],
+      "latitude": 46.1708855,
+      "longitude": -62.6538278
+    },
+    {
+      "name": "MONTMAGNY",
+      "code": "2308",
+      "cities": [],
+      "latitude": 46.8529223,
+      "longitude": -70.3551125
+    },
+    {
+      "name": "MONTREAL",
+      "code": "2311",
+      "cities": [],
+      "latitude": 45.5031824,
+      "longitude": -73.5698065
+    },
+    {
+      "name": "MOOSEJAW",
+      "code": "2318",
+      "cities": [],
+      "latitude": 49.4867611,
+      "longitude": -119.5998163
+    },
+    {
+      "name": "N.BATTLEFORD",
+      "code": "2368",
+      "cities": [],
+      "latitude": 52.776186,
+      "longitude": -108.300476
+    },
+    {
+      "name": "NANAIMO",
+      "code": "2384",
+      "cities": [],
+      "latitude": 49.163877,
+      "longitude": -123.938122
+    },
+    {
+      "name": "NEW GLASGOW",
+      "code": "2428",
+      "cities": [],
+      "latitude": 45.5869474,
+      "longitude": -62.6483547
+    },
+    {
+      "name": "NEW WATERFORD",
+      "code": "2436",
+      "cities": [],
+      "latitude": 46.2483846,
+      "longitude": -60.0873491
+    },
+    {
+      "name": "NEW WESTMINSTER",
+      "code": "2437",
+      "cities": [],
+      "latitude": 49.2067726,
+      "longitude": -122.9108818
+    },
+    {
+      "name": "NEWCASTLE",
+      "code": "2448",
+      "cities": [],
+      "latitude": 47.139565250000004,
+      "longitude": -65.53312306559766
+    },
+    {
+      "name": "NIAGARA FALLS",
+      "code": "2463",
+      "cities": [],
+      "latitude": 43.1065603,
+      "longitude": -79.0639039
+    },
+    {
+      "name": "NORTH BAY",
+      "code": "2488",
+      "cities": [],
+      "latitude": 46.3092115,
+      "longitude": -79.4607617
+    },
+    {
+      "name": "NORTH SYDNEY",
+      "code": "2493",
+      "cities": [],
+      "latitude": 46.2105845,
+      "longitude": -60.2470914
+    },
+    {
+      "name": "OAK BAY",
+      "code": "2517",
+      "cities": [],
+      "latitude": 48.4261126,
+      "longitude": -123.3170727
+    },
+    {
+      "name": "OAKVILLE",
+      "code": "2527",
+      "cities": [],
+      "latitude": 43.447436,
+      "longitude": -79.666672
+    },
+    {
+      "name": "ORILLIA",
+      "code": "2581",
+      "cities": [],
+      "latitude": 44.6092059,
+      "longitude": -79.4175587
+    },
+    {
+      "name": "OSHAWA",
+      "code": "2592",
+      "cities": [],
+      "latitude": 43.8975558,
+      "longitude": -78.8635324
+    },
+    {
+      "name": "OTTAWA",
+      "code": "2602",
+      "cities": [],
+      "latitude": 45.4208777,
+      "longitude": -75.6901106
+    },
+    {
+      "name": "OWEN SOUND",
+      "code": "2608",
+      "cities": [],
+      "latitude": 44.5678105,
+      "longitude": -80.9430094
+    },
+    {
+      "name": "PARKDALE",
+      "code": "2660",
+      "cities": [],
+      "latitude": 43.6402914,
+      "longitude": -79.43729824338857
+    },
+    {
+      "name": "PEACE RIVER",
+      "code": "2685",
+      "cities": [],
+      "latitude": 56.23253295,
+      "longitude": -117.32067067804391
+    },
+    {
+      "name": "PEMBROKE",
+      "code": "2691",
+      "cities": [],
+      "latitude": 45.8209741,
+      "longitude": -77.1115433
+    },
+    {
+      "name": "PENTICTON",
+      "code": "2697",
+      "cities": [],
+      "latitude": 49.5003268,
+      "longitude": -119.593249
+    },
+    {
+      "name": "PETERBOROUGH",
+      "code": "2716",
+      "cities": [],
+      "latitude": 44.3048009,
+      "longitude": -78.3199496
+    },
+    {
+      "name": "PICTOU",
+      "code": "2728",
+      "cities": [],
+      "latitude": 45.5855373,
+      "longitude": -62.7283219
+    },
+    {
+      "name": "PIERREFONDS",
+      "code": "2729",
+      "cities": [],
+      "latitude": 45.4955083,
+      "longitude": -73.8471749
+    },
+    {
+      "name": "POINTE CLAIRE",
+      "code": "2772",
+      "cities": [],
+      "latitude": 45.4566767,
+      "longitude": -73.8067442
+    },
+    {
+      "name": "PORT ALBERNI",
+      "code": "2788",
+      "cities": [],
+      "latitude": 49.2343668,
+      "longitude": -124.8056517
+    },
+    {
+      "name": "PORT COLBORNE",
+      "code": "2792",
+      "cities": [],
+      "latitude": 42.8862392,
+      "longitude": -79.2513905
+    },
+    {
+      "name": "PORT COQUITLAM",
+      "code": "2793",
+      "cities": [],
+      "latitude": 49.2621643,
+      "longitude": -122.780542
+    },
+    {
+      "name": "PORT HAWKESBURY",
+      "code": "2796",
+      "cities": [],
+      "latitude": 45.6180851,
+      "longitude": -61.3574589
+    },
+    {
+      "name": "PORTAGE L.",
+      "code": "2801",
+      "cities": [],
+      "latitude": 45.9733542,
+      "longitude": -64.1589107
+    },
+    {
+      "name": "PRINCE ALBERT",
+      "code": "2833",
+      "cities": [],
+      "latitude": 53.201097,
+      "longitude": -105.748901
+    },
+    {
+      "name": "PRINCE GEORGE",
+      "code": "2834",
+      "cities": [],
+      "latitude": 53.9128645,
+      "longitude": -122.7453699
+    },
+    {
+      "name": "PRINCE RUPERT",
+      "code": "2835",
+      "cities": [],
+      "latitude": 54.3126572,
+      "longitude": -130.32549
+    },
+    {
+      "name": "PTE.A.TREMBLES",
+      "code": "2840",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "QUEBEC",
+      "code": "2859",
+      "cities": [],
+      "latitude": 52.4760892,
+      "longitude": -71.8258668
+    },
+    {
+      "name": "RED DEER",
+      "code": "2904",
+      "cities": [],
+      "latitude": 52.2690628,
+      "longitude": -113.8141464
+    },
+    {
+      "name": "REGINA",
+      "code": "2917",
+      "cities": [],
+      "latitude": 50.4479733,
+      "longitude": -104.6158764
+    },
+    {
+      "name": "REPENTIGNY",
+      "code": "2927",
+      "cities": [],
+      "latitude": 45.7326055,
+      "longitude": -73.4528307
+    },
+    {
+      "name": "RICHMOND",
+      "code": "2949",
+      "cities": [],
+      "latitude": 49.163168,
+      "longitude": -123.137414
+    },
+    {
+      "name": "RICHMOND HILL",
+      "code": "2947",
+      "cities": [],
+      "latitude": 43.8801166,
+      "longitude": -79.4392925
+    },
+    {
+      "name": "RIMOUSKI",
+      "code": "2963",
+      "cities": [],
+      "latitude": 48.450155,
+      "longitude": -68.529968
+    },
+    {
+      "name": "RIVIERE-DU-LOUP",
+      "code": "2970",
+      "cities": [],
+      "latitude": 47.8358164,
+      "longitude": -69.5368025
+    },
+    {
+      "name": "SAANICH",
+      "code": "3027",
+      "cities": [],
+      "latitude": 48.4594315,
+      "longitude": -123.376494
+    },
+    {
+      "name": "SACKVILLE",
+      "code": "3030",
+      "cities": [],
+      "latitude": 45.8999177,
+      "longitude": -64.3655256
+    },
+    {
+      "name": "SAINT ALBERT",
+      "code": "3038",
+      "cities": [],
+      "latitude": 46.0003622,
+      "longitude": -72.0885118
+    },
+    {
+      "name": "SAINT JOHN",
+      "code": "3039",
+      "cities": [],
+      "latitude": 45.2787992,
+      "longitude": -66.0585188
+    },
+    {
+      "name": "SAINTE FOY",
+      "code": "3044",
+      "cities": [],
+      "latitude": 46.7743268,
+      "longitude": -71.2994438
+    },
+    {
+      "name": "SARNIA",
+      "code": "3147",
+      "cities": [],
+      "latitude": 42.9743821,
+      "longitude": -82.403533
+    },
+    {
+      "name": "SASKATOON",
+      "code": "3149",
+      "cities": [],
+      "latitude": 52.131802,
+      "longitude": -106.660767
+    },
+    {
+      "name": "SAULT ST. MARIE",
+      "code": "3152",
+      "cities": [],
+      "latitude": 46.3236518,
+      "longitude": -79.4963343
+    },
+    {
+      "name": "SCARBOROUGH",
+      "code": "3159",
+      "cities": [],
+      "latitude": 43.7729744,
+      "longitude": -79.2576479
+    },
+    {
+      "name": "SELKIRK",
+      "code": "3180",
+      "cities": [],
+      "latitude": 50.146986,
+      "longitude": -96.880188
+    },
+    {
+      "name": "SHAWINIGAN",
+      "code": "3197",
+      "cities": [],
+      "latitude": 46.5396581,
+      "longitude": -72.7518637
+    },
+    {
+      "name": "SHERBROOKE",
+      "code": "3209",
+      "cities": [],
+      "latitude": 45.403271,
+      "longitude": -71.889038
+    },
+    {
+      "name": "SHERWOOD",
+      "code": "3213",
+      "cities": [],
+      "latitude": 53.5291234,
+      "longitude": -113.584063
+    },
+    {
+      "name": "SHERWOOD PARK",
+      "code": "3212",
+      "cities": [],
+      "latitude": 53.5256963,
+      "longitude": -113.296631
+    },
+    {
+      "name": "SOREL",
+      "code": "3268",
+      "cities": [],
+      "latitude": 46.044404,
+      "longitude": -73.104744
+    },
+    {
+      "name": "SPRINGHILL",
+      "code": "3301",
+      "cities": [],
+      "latitude": 46.5626031,
+      "longitude": -64.0046691
+    },
+    {
+      "name": "ST. BONIFACE",
+      "code": "3307",
+      "cities": [],
+      "latitude": 46.505246,
+      "longitude": -72.828712
+    },
+    {
+      "name": "ST. CATHERINES",
+      "code": "3309",
+      "cities": [],
+      "latitude": 46.192008,
+      "longitude": -63.2973814
+    },
+    {
+      "name": "ST. HUBERT",
+      "code": "3313",
+      "cities": [],
+      "latitude": 45.5042755,
+      "longitude": -73.4216976
+    },
+    {
+      "name": "ST. HYACINTHE",
+      "code": "3314",
+      "cities": [],
+      "latitude": 45.627484,
+      "longitude": -72.940636
+    },
+    {
+      "name": "ST. JAMES",
+      "code": "3315",
+      "cities": [],
+      "latitude": 49.882432,
+      "longitude": -97.2262639
+    },
+    {
+      "name": "ST. JEAN",
+      "code": "3316",
+      "cities": [],
+      "latitude": 47.5614705,
+      "longitude": -52.7126162
+    },
+    {
+      "name": "ST. JEROME",
+      "code": "3317",
+      "cities": [],
+      "latitude": 42.30196545,
+      "longitude": -82.97671201442603
+    },
+    {
+      "name": "ST. JOHN'S",
+      "code": "3318",
+      "cities": [],
+      "latitude": 47.5614705,
+      "longitude": -52.7126162
+    },
+    {
+      "name": "ST. THOMAS",
+      "code": "3326",
+      "cities": [],
+      "latitude": 42.779022,
+      "longitude": -81.1929882
+    },
+    {
+      "name": "ST. VITAL",
+      "code": "3327",
+      "cities": [],
+      "latitude": 49.8237577,
+      "longitude": -97.0996409
+    },
+    {
+      "name": "STE. THERESE",
+      "code": "3340",
+      "cities": [],
+      "latitude": 45.6342923,
+      "longitude": -73.8362379
+    },
+    {
+      "name": "STEINBACH",
+      "code": "3341",
+      "cities": [],
+      "latitude": 49.530557,
+      "longitude": -96.69342
+    },
+    {
+      "name": "STELLARTON",
+      "code": "3342",
+      "cities": [],
+      "latitude": 45.5574527,
+      "longitude": -62.6591139
+    },
+    {
+      "name": "STEPHENVILLE",
+      "code": "3343",
+      "cities": [],
+      "latitude": 48.5452022,
+      "longitude": -58.5871146
+    },
+    {
+      "name": "STRATFORD",
+      "code": "3365",
+      "cities": [],
+      "latitude": 43.3700899,
+      "longitude": -80.9818016
+    },
+    {
+      "name": "SUDBURY",
+      "code": "3372",
+      "cities": [],
+      "latitude": 46.49272,
+      "longitude": -80.991211
+    },
+    {
+      "name": "SUMMERSIDE",
+      "code": "3379",
+      "cities": [],
+      "latitude": 46.394259,
+      "longitude": -63.7892386
+    },
+    {
+      "name": "SURREY",
+      "code": "3393",
+      "cities": [],
+      "latitude": 49.1913033,
+      "longitude": -122.849143
+    },
+    {
+      "name": "SWIFT CURRENT",
+      "code": "3401",
+      "cities": [],
+      "latitude": 50.2849138,
+      "longitude": -107.7984496
+    },
+    {
+      "name": "SYDNEY",
+      "code": "3404",
+      "cities": [],
+      "latitude": 46.1382112,
+      "longitude": -60.1941912
+    },
+    {
+      "name": "SYDNEY MINES",
+      "code": "3403",
+      "cities": [],
+      "latitude": 46.2340189,
+      "longitude": -60.2239916
+    },
+    {
+      "name": "TABER",
+      "code": "3417",
+      "cities": [],
+      "latitude": 49.8895343,
+      "longitude": -112.0488074
+    },
+    {
+      "name": "THE PAS",
+      "code": "3482",
+      "cities": [],
+      "latitude": 53.8224172,
+      "longitude": -101.2405153
+    },
+    {
+      "name": "THETFORD MINES",
+      "code": "3485",
+      "cities": [],
+      "latitude": 46.091329,
+      "longitude": -71.30127
+    },
+    {
+      "name": "THOMPSON",
+      "code": "3488",
+      "cities": [],
+      "latitude": 55.743347,
+      "longitude": -97.863464
+    },
+    {
+      "name": "THOROLD",
+      "code": "3490",
+      "cities": [],
+      "latitude": 43.1249127,
+      "longitude": -79.2005935
+    },
+    {
+      "name": "THUNDERBAY",
+      "code": "3493",
+      "cities": [],
+      "latitude": 42.3289943,
+      "longitude": -82.9163282
+    },
+    {
+      "name": "TIMMINS",
+      "code": "3502",
+      "cities": [],
+      "latitude": 48.477473,
+      "longitude": -81.330414
+    },
+    {
+      "name": "TORONTO",
+      "code": "3526",
+      "cities": [],
+      "latitude": 43.6534817,
+      "longitude": -79.3839347
+    },
+    {
+      "name": "TRANSCOMA",
+      "code": "3543",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "TRENTON",
+      "code": "3548",
+      "cities": [],
+      "latitude": 44.1019126,
+      "longitude": -77.57539
+    },
+    {
+      "name": "TRENTON",
+      "code": "3549",
+      "cities": [],
+      "latitude": 44.1019126,
+      "longitude": -77.57539
+    },
+    {
+      "name": "TROIS RIVIERES",
+      "code": "3560",
+      "cities": [],
+      "latitude": 46.3432325,
+      "longitude": -72.5428485
+    },
+    {
+      "name": "TRURO",
+      "code": "3567",
+      "cities": [],
+      "latitude": 45.366668,
+      "longitude": -63.300006
+    },
+    {
+      "name": "VALLEYFIELD",
+      "code": "3646",
+      "cities": [],
+      "latitude": 46.1293847,
+      "longitude": -62.7358361
+    },
+    {
+      "name": "VANCOUVER",
+      "code": "3648",
+      "cities": [],
+      "latitude": 49.2608724,
+      "longitude": -123.113952
+    },
+    {
+      "name": "VANIER",
+      "code": "3650",
+      "cities": [],
+      "latitude": 45.4364072,
+      "longitude": -75.6619152
+    },
+    {
+      "name": "VAUGHAN",
+      "code": "3657",
+      "cities": [],
+      "latitude": 43.7941544,
+      "longitude": -79.5268023
+    },
+    {
+      "name": "VICTORIA",
+      "code": "3677",
+      "cities": [],
+      "latitude": 48.4283182,
+      "longitude": -123.364953
+    },
+    {
+      "name": "VICTORIAVILLE",
+      "code": "3679",
+      "cities": [],
+      "latitude": 46.0554948,
+      "longitude": -71.9598586
+    },
+    {
+      "name": "W.KILDONAN",
+      "code": "3717",
+      "cities": [],
+      "latitude": 49.9433509,
+      "longitude": -97.1301761
+    },
+    {
+      "name": "WALLACEBURG",
+      "code": "3728",
+      "cities": [],
+      "latitude": 42.5928652,
+      "longitude": -82.3873866
+    },
+    {
+      "name": "WATERLOO",
+      "code": "3758",
+      "cities": [],
+      "latitude": 43.4652699,
+      "longitude": -80.5222961
+    },
+    {
+      "name": "WELLAND",
+      "code": "3779",
+      "cities": [],
+      "latitude": 42.9922181,
+      "longitude": -79.2484192
+    },
+    {
+      "name": "WETASKIWIN",
+      "code": "3806",
+      "cities": [],
+      "latitude": 52.968492,
+      "longitude": -113.36792
+    },
+    {
+      "name": "WEYBURN",
+      "code": "3810",
+      "cities": [],
+      "latitude": 49.6651238,
+      "longitude": -103.854034
+    },
+    {
+      "name": "WHITBY",
+      "code": "3819",
+      "cities": [],
+      "latitude": 43.87982,
+      "longitude": -78.9421751
+    },
+    {
+      "name": "WINDSOR",
+      "code": "3848",
+      "cities": [],
+      "latitude": 42.2858536,
+      "longitude": -82.9780695
+    },
+    {
+      "name": "WINDSOR",
+      "code": "3849",
+      "cities": [],
+      "latitude": 42.2858536,
+      "longitude": -82.9780695
+    },
+    {
+      "name": "WINDSOR",
+      "code": "3850",
+      "cities": [],
+      "latitude": 42.2858536,
+      "longitude": -82.9780695
+    },
+    {
+      "name": "WINNEPEG",
+      "code": "3851",
+      "latitude": 46.8127482,
+      "longitude": -64.0649989,
+      "cities": []
+    },
+    {
+      "name": "WOODSTOCK",
+      "code": "3871",
+      "cities": [],
+      "latitude": 49.96551395,
+      "longitude": -55.91396714674725
+    },
+    {
+      "name": "YARMOUTH",
+      "code": "3893",
+      "cities": [],
+      "latitude": 43.8372648,
+      "longitude": -66.1157
+    },
+    {
+      "name": "YORK",
+      "code": "3904",
+      "cities": [],
+      "latitude": 44.0007518,
+      "longitude": -79.4372217
+    },
+    {
+      "name": "YORKTON",
+      "code": "3907",
+      "cities": [],
+      "latitude": 51.212045,
+      "longitude": -102.461243
+    }
+  ]
+}

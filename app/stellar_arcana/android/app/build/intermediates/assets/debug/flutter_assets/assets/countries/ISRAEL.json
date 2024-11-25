@@ -1,0 +1,174 @@
+{
+  "name": "ISRAEL",
+  "code": "56",
+  "provinces": [
+    {
+      "name": "ACRE",
+      "code": "15",
+      "cities": [],
+      "latitude": 32.9281731,
+      "longitude": 35.0756378
+    },
+    {
+      "name": "AKKO",
+      "code": "38",
+      "cities": [],
+      "latitude": 32.9281731,
+      "longitude": 35.0756378
+    },
+    {
+      "name": "ASHQELON",
+      "code": "169",
+      "cities": [],
+      "latitude": 31.6644874,
+      "longitude": 34.5730157
+    },
+    {
+      "name": "BAT YAM",
+      "code": "270",
+      "cities": [],
+      "latitude": 32.0154565,
+      "longitude": 34.7505283
+    },
+    {
+      "name": "BE'ER SHEVA'",
+      "code": "285",
+      "cities": [],
+      "latitude": 31.25088285,
+      "longitude": 34.791280348955596
+    },
+    {
+      "name": "BEERSHEBA",
+      "code": "297",
+      "cities": [],
+      "latitude": 31.2457442,
+      "longitude": 34.7925181
+    },
+    {
+      "name": "ER RAMLE",
+      "code": "1094",
+      "cities": [],
+      "latitude": 31.6644874,
+      "longitude": 34.5730157
+    },
+    {
+      "name": "GIV'ATAYIM",
+      "code": "1285",
+      "cities": [],
+      "latitude": 32.065716,
+      "longitude": 34.811659
+    },
+    {
+      "name": "HADERA",
+      "code": "1400",
+      "cities": [],
+      "latitude": 32.43699,
+      "longitude": 34.9198258
+    },
+    {
+      "name": "HAIFA",
+      "code": "1405",
+      "cities": [],
+      "latitude": 32.799313,
+      "longitude": 34.989571715728204
+    },
+    {
+      "name": "HERZELIYYA",
+      "code": "1501",
+      "cities": [],
+      "latitude": 31.6644874,
+      "longitude": 34.5730157
+    },
+    {
+      "name": "HOLON",
+      "code": "1533",
+      "cities": [],
+      "latitude": 32.01599895,
+      "longitude": 34.78595635978459
+    },
+    {
+      "name": "JAFFA",
+      "code": "1634",
+      "cities": [],
+      "latitude": 32.0443395,
+      "longitude": 34.7509908
+    },
+    {
+      "name": "JERUSALEM",
+      "code": "1654",
+      "cities": [],
+      "latitude": 31.7788242,
+      "longitude": 35.2257626
+    },
+    {
+      "name": "LOD",
+      "code": "2006",
+      "cities": [],
+      "latitude": 31.9497609,
+      "longitude": 34.88803955888815
+    },
+    {
+      "name": "LYDDA",
+      "code": "2070",
+      "cities": [],
+      "latitude": 31.9497609,
+      "longitude": 34.88803955888815
+    },
+    {
+      "name": "NAZARETH",
+      "code": "2406",
+      "cities": [],
+      "latitude": 32.7066301,
+      "longitude": 35.3048161
+    },
+    {
+      "name": "NETANYA",
+      "code": "2414",
+      "cities": [],
+      "latitude": 32.3286181,
+      "longitude": 34.8566246
+    },
+    {
+      "name": "PETAH TIQWA",
+      "code": "2713",
+      "cities": [],
+      "latitude": 32.0877639,
+      "longitude": 34.8859985
+    },
+    {
+      "name": "RAMAT GAN",
+      "code": "2879",
+      "cities": [],
+      "latitude": 32.0686867,
+      "longitude": 34.8246812
+    },
+    {
+      "name": "RAMLA",
+      "code": "2881",
+      "cities": [],
+      "latitude": 31.9279988,
+      "longitude": 34.8623473
+    },
+    {
+      "name": "REHOVOT",
+      "code": "2918",
+      "cities": [],
+      "latitude": 31.8952532,
+      "longitude": 34.8105616
+    },
+    {
+      "name": "RISHON L.Z.",
+      "code": "2967",
+      "cities": [],
+      "latitude": 31.7930467,
+      "longitude": 35.200138
+    },
+    {
+      "name": "TEL AVIV",
+      "code": "3462",
+      "cities": [],
+      "latitude": 32.0852997,
+      "longitude": 34.7818064
+    }
+  ]
+}

@@ -1,0 +1,4394 @@
+{
+  "name": "URUGUAY",
+  "code": "117",
+  "provinces": [
+    {
+      "name": "Artigas Dpto",
+      "code": "656",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Artigas Dpto",
+          "code": "656",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Canelones Dpto",
+          "code": "657",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Cerro Largo Dpto",
+          "code": "658",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Colonia Dpto",
+          "code": "659",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Durazno",
+          "code": "660",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Flores",
+          "code": "661",
+          "latitude": -33.6518845,
+          "longitude": -56.8393553
+        },
+        {
+          "name": "Florida Dpto",
+          "code": "662",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Lavalleja Dpto",
+          "code": "663",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Maldonado Dpto",
+          "code": "664",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Montevideo",
+          "code": "665",
+          "latitude": -34.9058916,
+          "longitude": -56.1913095
+        },
+        {
+          "name": "Paysandú",
+          "code": "666",
+          "latitude": -32.3217257,
+          "longitude": -58.0892136
+        },
+        {
+          "name": "Río Negro",
+          "code": "667",
+          "latitude": -32.7257419,
+          "longitude": -57.387578
+        },
+        {
+          "name": "Rivera",
+          "code": "668",
+          "latitude": -30.900058,
+          "longitude": -55.5408151
+        },
+        {
+          "name": "Rocha",
+          "code": "669",
+          "latitude": -34.0,
+          "longitude": -54.0
+        },
+        {
+          "name": "Salto",
+          "code": "670",
+          "latitude": -31.38889,
+          "longitude": -57.9608876
+        },
+        {
+          "name": "San José",
+          "code": "671",
+          "latitude": -34.455,
+          "longitude": -56.616944
+        },
+        {
+          "name": "Soriano Dpto",
+          "code": "672",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Tacuarembó",
+          "code": "673",
+          "latitude": -32.166667,
+          "longitude": -55.5
+        },
+        {
+          "name": "Treinta y Tres",
+          "code": "674",
+          "latitude": -33.0,
+          "longitude": -54.25
+        }
+      ]
+    },
+    {
+      "name": "Canelones Dpto",
+      "code": "657",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Aguas Corrientes",
+          "code": "450796",
+          "latitude": -34.5227043,
+          "longitude": -56.3941179
+        },
+        {
+          "name": "Arenal",
+          "code": "450813",
+          "latitude": -34.3955104,
+          "longitude": -55.8342225
+        },
+        {
+          "name": "Atlántida",
+          "code": "450826",
+          "latitude": -34.7743888,
+          "longitude": -55.7605883
+        },
+        {
+          "name": "Barra de Carrasco",
+          "code": "450833",
+          "latitude": -34.8686988,
+          "longitude": -56.0287292
+        },
+        {
+          "name": "Canelones",
+          "code": "450866",
+          "latitude": -34.6222482,
+          "longitude": -55.9903797
+        },
+        {
+          "name": "Cap. Juan A. Artigas",
+          "code": "450874",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Colonia Nicolich",
+          "code": "450931",
+          "latitude": -34.8173358,
+          "longitude": -56.0209729
+        },
+        {
+          "name": "Cruz de los Caminos",
+          "code": "450949",
+          "latitude": -32.2323893,
+          "longitude": -54.9660212
+        },
+        {
+          "name": "Echevarría",
+          "code": "450972",
+          "latitude": -34.5340223,
+          "longitude": -56.3150633
+        },
+        {
+          "name": "El Dorado",
+          "code": "450982",
+          "latitude": -34.6640293,
+          "longitude": -55.9941979
+        },
+        {
+          "name": "Empalme Olmos",
+          "code": "450994",
+          "latitude": -34.6954579,
+          "longitude": -55.8948676
+        },
+        {
+          "name": "Empalme Sauce",
+          "code": "450995",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Estación Migues",
+          "code": "451000",
+          "latitude": -34.5241134,
+          "longitude": -55.6252955
+        },
+        {
+          "name": "Joanicó",
+          "code": "451044",
+          "latitude": -34.8808472,
+          "longitude": -56.1525745
+        },
+        {
+          "name": "Joaquín Suárez",
+          "code": "451045",
+          "latitude": -34.7355165,
+          "longitude": -56.0350642
+        },
+        {
+          "name": "La Floresta",
+          "code": "451068",
+          "latitude": -34.7537689,
+          "longitude": -55.675739
+        },
+        {
+          "name": "La Paz",
+          "code": "451079",
+          "latitude": -34.7632835,
+          "longitude": -56.22327
+        },
+        {
+          "name": "La Querencia",
+          "code": "451083",
+          "latitude": -34.7387835,
+          "longitude": -56.4418174
+        },
+        {
+          "name": "Las Brujas",
+          "code": "451090",
+          "latitude": -34.6906736,
+          "longitude": -56.3996001
+        },
+        {
+          "name": "Las Piedras",
+          "code": "451096",
+          "latitude": -34.7274904,
+          "longitude": -56.2164982
+        },
+        {
+          "name": "Las Toscas",
+          "code": "451098",
+          "latitude": -34.7730052,
+          "longitude": -55.7387989
+        },
+        {
+          "name": "Los Cerrillos",
+          "code": "451114",
+          "latitude": -34.6071478,
+          "longitude": -56.3590339
+        },
+        {
+          "name": "Mataojo",
+          "code": "451143",
+          "latitude": -34.887768,
+          "longitude": -56.1212984
+        },
+        {
+          "name": "Migues",
+          "code": "451155",
+          "latitude": -34.4885052,
+          "longitude": -55.630224
+        },
+        {
+          "name": "Montes",
+          "code": "451164",
+          "latitude": -34.4927322,
+          "longitude": -55.561799
+        },
+        {
+          "name": "Pando",
+          "code": "451194",
+          "latitude": -34.721323,
+          "longitude": -55.959447
+        },
+        {
+          "name": "Paso de Carrasco",
+          "code": "451200",
+          "latitude": -34.8639983,
+          "longitude": -56.0537853
+        },
+        {
+          "name": "Paso de la Cadena",
+          "code": "451202",
+          "latitude": -34.4414365,
+          "longitude": -56.1516241
+        },
+        {
+          "name": "Paso de Pache",
+          "code": "451211",
+          "latitude": -34.4289537,
+          "longitude": -56.281542
+        },
+        {
+          "name": "Paso Francos",
+          "code": "451219",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Paso Toscas",
+          "code": "451223",
+          "latitude": -34.6703354,
+          "longitude": -56.3548949
+        },
+        {
+          "name": "Pedernal",
+          "code": "451226",
+          "latitude": -34.3640825,
+          "longitude": -55.6666891
+        },
+        {
+          "name": "Pedrera",
+          "code": "451227",
+          "latitude": -34.5974698,
+          "longitude": -54.1343218
+        },
+        {
+          "name": "Piedra del Toro",
+          "code": "451232",
+          "latitude": -34.7023048,
+          "longitude": -55.8871391
+        },
+        {
+          "name": "Piedras de Afilar",
+          "code": "451236",
+          "latitude": -34.6655115,
+          "longitude": -55.5955279
+        },
+        {
+          "name": "Piedritas",
+          "code": "451237",
+          "latitude": -34.7166302,
+          "longitude": -56.0160713
+        },
+        {
+          "name": "Progreso",
+          "code": "451304",
+          "latitude": -34.6798644,
+          "longitude": -56.2154727
+        },
+        {
+          "name": "Riffó",
+          "code": "451343",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Rincón de Velázquez",
+          "code": "451355",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Rincón de Vidal",
+          "code": "451356",
+          "latitude": -34.4327429,
+          "longitude": -56.3698886
+        },
+        {
+          "name": "San Antonio",
+          "code": "451375",
+          "latitude": -34.5501988,
+          "longitude": -54.0794108
+        },
+        {
+          "name": "San Bautista",
+          "code": "451376",
+          "latitude": -34.4410211,
+          "longitude": -55.9595114
+        },
+        {
+          "name": "San Jacinto",
+          "code": "451384",
+          "latitude": -34.5435855,
+          "longitude": -55.8710299
+        },
+        {
+          "name": "San Ramón",
+          "code": "451395",
+          "latitude": -34.2900689,
+          "longitude": -55.9574463
+        },
+        {
+          "name": "Santa Lucía",
+          "code": "451403",
+          "latitude": -34.4550929,
+          "longitude": -56.3893012
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "451404",
+          "latitude": -34.4982333,
+          "longitude": -56.040947
+        },
+        {
+          "name": "Sauce",
+          "code": "451417",
+          "latitude": -34.6496661,
+          "longitude": -56.0649654
+        },
+        {
+          "name": "Soca",
+          "code": "451429",
+          "latitude": -34.6834361,
+          "longitude": -55.704475
+        },
+        {
+          "name": "Tala",
+          "code": "451437",
+          "latitude": -34.3442958,
+          "longitude": -55.7617585
+        },
+        {
+          "name": "Tapia",
+          "code": "451440",
+          "latitude": -34.5657364,
+          "longitude": -55.7505504
+        },
+        {
+          "name": "Toledo",
+          "code": "451447",
+          "latitude": -34.7398043,
+          "longitude": -56.0892924
+        },
+        {
+          "name": "Totoral",
+          "code": "451452",
+          "latitude": -34.5418625,
+          "longitude": -56.2325461
+        },
+        {
+          "name": "Villa Nueva",
+          "code": "451485",
+          "latitude": -34.1811891,
+          "longitude": -58.9756501
+        }
+      ]
+    },
+    {
+      "name": "Cerro Largo Dpto",
+      "code": "658",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Aceguá",
+          "code": "450790",
+          "latitude": -31.8718318,
+          "longitude": -54.1627778
+        },
+        {
+          "name": "Águila",
+          "code": "450797",
+          "latitude": -34.9127914,
+          "longitude": -54.9871613
+        },
+        {
+          "name": "Aguirre",
+          "code": "450799",
+          "latitude": -34.6528032,
+          "longitude": -54.1929978
+        },
+        {
+          "name": "Arbolito",
+          "code": "450811",
+          "latitude": -32.225221,
+          "longitude": -56.4783975
+        },
+        {
+          "name": "Arévalo",
+          "code": "450816",
+          "latitude": -32.6390006,
+          "longitude": -55.0783849
+        },
+        {
+          "name": "Bañado de Medina",
+          "code": "450830",
+          "latitude": -32.403435,
+          "longitude": -54.3503804
+        },
+        {
+          "name": "Buena Vista",
+          "code": "450856",
+          "latitude": -34.2421984,
+          "longitude": -55.2181492
+        },
+        {
+          "name": "Cañada Sauce",
+          "code": "450871",
+          "latitude": -33.9904498,
+          "longitude": -54.3386984
+        },
+        {
+          "name": "Cañitas",
+          "code": "450873",
+          "latitude": -31.6967064,
+          "longitude": -56.3822544
+        },
+        {
+          "name": "Centurión",
+          "code": "450894",
+          "latitude": -32.1450574,
+          "longitude": -53.7891237
+        },
+        {
+          "name": "Cruz de Piedra",
+          "code": "450950",
+          "latitude": -32.050238,
+          "longitude": -54.1492112
+        },
+        {
+          "name": "Cuchilla Grande",
+          "code": "450957",
+          "latitude": -33.2576041,
+          "longitude": -55.1063128
+        },
+        {
+          "name": "Fernández",
+          "code": "451005",
+          "latitude": -31.1782989,
+          "longitude": -56.3668545
+        },
+        {
+          "name": "Isidoro Noblía",
+          "code": "451036",
+          "latitude": -31.9606382,
+          "longitude": -54.1228939
+        },
+        {
+          "name": "La Cuchilla",
+          "code": "451065",
+          "latitude": -31.6723962,
+          "longitude": -55.7304487
+        },
+        {
+          "name": "La Esperanza",
+          "code": "451066",
+          "latitude": -34.8218581,
+          "longitude": -56.1245087
+        },
+        {
+          "name": "La Lata",
+          "code": "451070",
+          "latitude": -32.7495184,
+          "longitude": -54.2334381
+        },
+        {
+          "name": "La Micaela",
+          "code": "451073",
+          "latitude": -5.5682815,
+          "longitude": -80.8168469
+        },
+        {
+          "name": "La Mina",
+          "code": "451074",
+          "latitude": -31.8771159,
+          "longitude": -54.1548246
+        },
+        {
+          "name": "La Pedrera",
+          "code": "451081",
+          "latitude": -32.3861456,
+          "longitude": -54.0843368
+        },
+        {
+          "name": "Las Ratas",
+          "code": "451097",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Mangrullo",
+          "code": "451133",
+          "latitude": -34.5836783,
+          "longitude": -56.8395087
+        },
+        {
+          "name": "María Isabel",
+          "code": "451136",
+          "latitude": -32.9926893,
+          "longitude": -54.5613617
+        },
+        {
+          "name": "Mederos",
+          "code": "451145",
+          "latitude": -32.9470402,
+          "longitude": -53.9340849
+        },
+        {
+          "name": "Melo",
+          "code": "451147",
+          "latitude": -32.3680849,
+          "longitude": -54.1697146
+        },
+        {
+          "name": "Minuano",
+          "code": "451158",
+          "latitude": -34.3690091,
+          "longitude": -57.4708473
+        },
+        {
+          "name": "Nando",
+          "code": "451170",
+          "latitude": -32.1738935,
+          "longitude": -54.0853528
+        },
+        {
+          "name": "Paso de las Piedras",
+          "code": "451206",
+          "latitude": -31.0923931,
+          "longitude": -57.347757
+        },
+        {
+          "name": "Paso del Centurión",
+          "code": "451214",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Paso Pereira",
+          "code": "451220",
+          "latitude": -34.6214332,
+          "longitude": -55.1915195
+        },
+        {
+          "name": "Peñarol",
+          "code": "451229",
+          "latitude": -34.8291967,
+          "longitude": -56.1981622
+        },
+        {
+          "name": "Plácido Rosas",
+          "code": "451245",
+          "latitude": -32.7570191,
+          "longitude": -53.7189243
+        },
+        {
+          "name": "Puerto Amaro",
+          "code": "451314",
+          "latitude": -32.7484096,
+          "longitude": -53.4765315
+        },
+        {
+          "name": "Puntas del Parao",
+          "code": "451324",
+          "latitude": -32.7266313,
+          "longitude": -54.3802761
+        },
+        {
+          "name": "Quebracho",
+          "code": "451329",
+          "latitude": -32.6230717,
+          "longitude": -54.7521726
+        },
+        {
+          "name": "Ramón Trigo",
+          "code": "451336",
+          "latitude": -32.3490674,
+          "longitude": -54.6379487
+        },
+        {
+          "name": "Rincón de Coronel",
+          "code": "451345",
+          "latitude": -31.2809725,
+          "longitude": -57.1960286
+        },
+        {
+          "name": "Rincón de Py",
+          "code": "451353",
+          "latitude": -25.4014914,
+          "longitude": -57.5211207
+        },
+        {
+          "name": "Río Branco",
+          "code": "451361",
+          "latitude": -32.588689,
+          "longitude": -53.3780831
+        },
+        {
+          "name": "San Servando",
+          "code": "451396",
+          "latitude": -32.6142592,
+          "longitude": -53.3831817
+        },
+        {
+          "name": "Sarandí",
+          "code": "451408",
+          "latitude": -30.7546477,
+          "longitude": -57.7510607
+        },
+        {
+          "name": "Sarandí de Aceguá",
+          "code": "451410",
+          "latitude": -32.0485235,
+          "longitude": -54.1919368
+        },
+        {
+          "name": "Soto",
+          "code": "451435",
+          "latitude": -31.9751391,
+          "longitude": -57.5549958
+        },
+        {
+          "name": "Toledo",
+          "code": "451446",
+          "latitude": -34.7398043,
+          "longitude": -56.0892924
+        },
+        {
+          "name": "Uruguay",
+          "code": "451465",
+          "latitude": -32.8755548,
+          "longitude": -56.0201525
+        },
+        {
+          "name": "Villa Viñoles",
+          "code": "451490",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        }
+      ]
+    },
+    {
+      "name": "Colonia Dpto",
+      "code": "659",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Artilleros",
+          "code": "450825",
+          "latitude": -34.4259381,
+          "longitude": -57.5744117
+        },
+        {
+          "name": "Barker",
+          "code": "450832",
+          "latitude": -34.2605013,
+          "longitude": -57.4593488
+        },
+        {
+          "name": "Boca del Rosario",
+          "code": "450850",
+          "latitude": -34.4337468,
+          "longitude": -57.3338403
+        },
+        {
+          "name": "Boné",
+          "code": "450852",
+          "latitude": -33.9806281,
+          "longitude": -58.2796941
+        },
+        {
+          "name": "Buenahora",
+          "code": "450857",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Campana",
+          "code": "450863",
+          "latitude": -34.032615,
+          "longitude": -57.9029104
+        },
+        {
+          "name": "Carmelo",
+          "code": "450885",
+          "latitude": -33.9967827,
+          "longitude": -58.2836485
+        },
+        {
+          "name": "Cerro de las Armas",
+          "code": "450904",
+          "latitude": -34.0660945,
+          "longitude": -57.7220724
+        },
+        {
+          "name": "Colla",
+          "code": "450919",
+          "latitude": -34.2977876,
+          "longitude": -57.3567074
+        },
+        {
+          "name": "Colonia Arrué",
+          "code": "450923",
+          "latitude": -33.9868499,
+          "longitude": -58.2163572
+        },
+        {
+          "name": "Colonia del Sacramento",
+          "code": "450924",
+          "latitude": -34.4698592,
+          "longitude": -57.8433679
+        },
+        {
+          "name": "Colonia Española",
+          "code": "450927",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Colonia Estrella",
+          "code": "450928",
+          "latitude": -30.4467165,
+          "longitude": -57.429825
+        },
+        {
+          "name": "Colonia Rosario",
+          "code": "450933",
+          "latitude": -34.3108488,
+          "longitude": -57.3516171
+        },
+        {
+          "name": "Colonia Suiza",
+          "code": "450935",
+          "latitude": -33.9991558,
+          "longitude": -57.1097209
+        },
+        {
+          "name": "Conchillas",
+          "code": "450936",
+          "latitude": -34.1643275,
+          "longitude": -58.0332804
+        },
+        {
+          "name": "Costa de Víboras",
+          "code": "450947",
+          "latitude": -33.9332865,
+          "longitude": -58.1696293
+        },
+        {
+          "name": "El Caño",
+          "code": "450975",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "El Cerro",
+          "code": "450978",
+          "latitude": -33.9880241,
+          "longitude": -58.2373199
+        },
+        {
+          "name": "El General",
+          "code": "450984",
+          "latitude": -34.4409657,
+          "longitude": -57.8072085
+        },
+        {
+          "name": "El Semillero",
+          "code": "450990",
+          "latitude": -34.3377674,
+          "longitude": -57.6891144
+        },
+        {
+          "name": "Estanzuela",
+          "code": "451001",
+          "latitude": -34.3286343,
+          "longitude": -57.72548
+        },
+        {
+          "name": "Florencio Sánchez",
+          "code": "451008",
+          "latitude": -33.8763719,
+          "longitude": -57.3703478
+        },
+        {
+          "name": "Ismael Cortinas",
+          "code": "451038",
+          "latitude": -33.9602504,
+          "longitude": -57.0903714
+        },
+        {
+          "name": "Juan L. Lacaze",
+          "code": "451052",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "La Estanzuela",
+          "code": "451067",
+          "latitude": -34.3286343,
+          "longitude": -57.72548
+        },
+        {
+          "name": "La Paz",
+          "code": "451078",
+          "latitude": -34.7632835,
+          "longitude": -56.22327
+        },
+        {
+          "name": "Lomas de Carmelo",
+          "code": "451108",
+          "latitude": -34.0158996,
+          "longitude": -58.2777273
+        },
+        {
+          "name": "Los Cerros de San Juan",
+          "code": "451115",
+          "latitude": -34.2216084,
+          "longitude": -57.9327795
+        },
+        {
+          "name": "Martín Chico",
+          "code": "451140",
+          "latitude": -34.1633986,
+          "longitude": -58.20797936826304
+        },
+        {
+          "name": "Miguelete",
+          "code": "451154",
+          "latitude": -34.0068496,
+          "longitude": -57.6472815
+        },
+        {
+          "name": "Minuano",
+          "code": "451159",
+          "latitude": -34.3690091,
+          "longitude": -57.4708473
+        },
+        {
+          "name": "Nueva Helvecia",
+          "code": "451173",
+          "latitude": -34.2849689,
+          "longitude": -57.2336726
+        },
+        {
+          "name": "Nueva Palmira",
+          "code": "451174",
+          "latitude": -33.8710911,
+          "longitude": -58.4068884
+        },
+        {
+          "name": "Ombúes de Lavalle",
+          "code": "451178",
+          "latitude": -33.940575,
+          "longitude": -57.8083627
+        },
+        {
+          "name": "Paso de Antolín",
+          "code": "451199",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Paso de la Horqueta",
+          "code": "451203",
+          "latitude": -34.6443478,
+          "longitude": -55.2481735
+        },
+        {
+          "name": "Puerto Platero",
+          "code": "451315",
+          "latitude": -34.4475255,
+          "longitude": -57.66882196878565
+        },
+        {
+          "name": "Radial Conchillas",
+          "code": "451332",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Real de San Carlos",
+          "code": "451339",
+          "latitude": -34.4385215,
+          "longitude": -57.8648206
+        },
+        {
+          "name": "Riachuelo",
+          "code": "451342",
+          "latitude": -34.4323256,
+          "longitude": -57.7108299
+        },
+        {
+          "name": "Rosario",
+          "code": "451369",
+          "latitude": -34.3115588,
+          "longitude": -57.3512918
+        },
+        {
+          "name": "San Juan",
+          "code": "451389",
+          "latitude": -31.4278671,
+          "longitude": -68.4936942
+        },
+        {
+          "name": "San Pedro",
+          "code": "451394",
+          "latitude": -34.2936869,
+          "longitude": -57.8285444
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "451405",
+          "latitude": -30.9190091,
+          "longitude": -55.5745052
+        },
+        {
+          "name": "Sarandí",
+          "code": "451409",
+          "latitude": -30.7546477,
+          "longitude": -57.7510607
+        },
+        {
+          "name": "Tarariras",
+          "code": "451441",
+          "latitude": -34.2648285,
+          "longitude": -57.6143416
+        },
+        {
+          "name": "Tres Esquinas",
+          "code": "451460",
+          "latitude": -33.6994574,
+          "longitude": -65.4398124
+        },
+        {
+          "name": "Valdense",
+          "code": "451466",
+          "latitude": -34.8644427,
+          "longitude": -56.1971814
+        }
+      ]
+    },
+    {
+      "name": "Durazno",
+      "code": "660",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Aguas Buenas",
+          "code": "450795",
+          "latitude": -32.8854219,
+          "longitude": -55.855954
+        },
+        {
+          "name": "Baygorria",
+          "code": "450837",
+          "latitude": -32.8779682,
+          "longitude": -56.811054
+        },
+        {
+          "name": "Blanquillo",
+          "code": "450848",
+          "latitude": -32.8868081,
+          "longitude": -55.6153834
+        },
+        {
+          "name": "Capilla de Farruco",
+          "code": "450875",
+          "latitude": -32.9114731,
+          "longitude": -55.4482886
+        },
+        {
+          "name": "Carlos Reyles",
+          "code": "450884",
+          "latitude": -33.0571295,
+          "longitude": -56.4766763
+        },
+        {
+          "name": "Carpintería",
+          "code": "450886",
+          "latitude": -34.8718073,
+          "longitude": -56.1228492
+        },
+        {
+          "name": "Ceibal",
+          "code": "450893",
+          "latitude": -34.8744572,
+          "longitude": -56.1814934
+        },
+        {
+          "name": "Cerrezuelo",
+          "code": "450895",
+          "latitude": -32.8892709,
+          "longitude": -55.477492
+        },
+        {
+          "name": "Cerro Convento",
+          "code": "450903",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Colonia Rossell y Rius",
+          "code": "450934",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Durazno",
+          "code": "450971",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "El Chaco",
+          "code": "450980",
+          "latitude": -26.5369608,
+          "longitude": -59.3383407
+        },
+        {
+          "name": "González",
+          "code": "451023",
+          "latitude": -34.2291805,
+          "longitude": -56.8761515
+        },
+        {
+          "name": "Jiménez",
+          "code": "451043",
+          "latitude": -34.8460588,
+          "longitude": -56.1135608
+        },
+        {
+          "name": "La Alegría",
+          "code": "451057",
+          "latitude": -30.9182105,
+          "longitude": -55.5340814
+        },
+        {
+          "name": "La Mazamorra",
+          "code": "451072",
+          "latitude": -32.5147282,
+          "longitude": -55.5356027
+        },
+        {
+          "name": "La Paloma",
+          "code": "451076",
+          "latitude": -34.6631811,
+          "longitude": -54.155092
+        },
+        {
+          "name": "Las Cañas",
+          "code": "451091",
+          "latitude": -33.1646369,
+          "longitude": -58.3559346
+        },
+        {
+          "name": "Los Agregados",
+          "code": "451110",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Los Mezquitas",
+          "code": "451119",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Machado",
+          "code": "451128",
+          "latitude": -34.8672382,
+          "longitude": -56.1984647
+        },
+        {
+          "name": "María Cejas",
+          "code": "451135",
+          "latitude": -33.0278112,
+          "longitude": -56.1655358
+        },
+        {
+          "name": "Molles",
+          "code": "451161",
+          "latitude": -31.8038131,
+          "longitude": -56.0185732
+        },
+        {
+          "name": "Mouriño",
+          "code": "451168",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Ombúes de Oribe",
+          "code": "451179",
+          "latitude": -33.2959574,
+          "longitude": -56.356239
+        },
+        {
+          "name": "Paso de los Toros",
+          "code": "451210",
+          "latitude": -32.8108095,
+          "longitude": -56.5174948
+        },
+        {
+          "name": "Poblado de Castro",
+          "code": "451253",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Pueblo Centenario",
+          "code": "451305",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Pueblo de la Arena",
+          "code": "451310",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Rancherío Tejera",
+          "code": "451338",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Reynold",
+          "code": "451341",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Rincón de Cuadra",
+          "code": "451346",
+          "latitude": -33.3455239,
+          "longitude": -56.414252
+        },
+        {
+          "name": "Rincón del Bonete",
+          "code": "451358",
+          "latitude": -32.8331153,
+          "longitude": -56.426042
+        },
+        {
+          "name": "Roja",
+          "code": "451366",
+          "latitude": -34.9031083,
+          "longitude": -55.0377214
+        },
+        {
+          "name": "Rolón",
+          "code": "451368",
+          "latitude": -32.2946355,
+          "longitude": -55.9445274
+        },
+        {
+          "name": "San Gregorio de Polanco",
+          "code": "451383",
+          "latitude": -32.6180516,
+          "longitude": -55.8345547
+        },
+        {
+          "name": "San Jorge",
+          "code": "451386",
+          "latitude": -32.8446509,
+          "longitude": -55.8963803
+        },
+        {
+          "name": "San José de las Cañas",
+          "code": "451387",
+          "latitude": -30.9896816,
+          "longitude": -64.0917168
+        },
+        {
+          "name": "Santa Bernardina",
+          "code": "451399",
+          "latitude": -33.3581694,
+          "longitude": -56.5158356
+        },
+        {
+          "name": "Sarandí del Yi",
+          "code": "451415",
+          "latitude": -33.3442144,
+          "longitude": -55.6313253
+        },
+        {
+          "name": "Sauce",
+          "code": "451418",
+          "latitude": -34.6496661,
+          "longitude": -56.0649654
+        },
+        {
+          "name": "Verdún",
+          "code": "451474",
+          "latitude": -34.867488,
+          "longitude": -56.2709627
+        },
+        {
+          "name": "Villa del Carmen",
+          "code": "451479",
+          "latitude": -33.2410373,
+          "longitude": -56.0131446
+        }
+      ]
+    },
+    {
+      "name": "Flores",
+      "code": "661",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Ahogados",
+          "code": "450800",
+          "latitude": -33.7997625,
+          "longitude": -56.524508
+        },
+        {
+          "name": "Aldecoa",
+          "code": "450803",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Andresito",
+          "code": "450808",
+          "latitude": -33.1677169,
+          "longitude": -57.1302181
+        },
+        {
+          "name": "Arroyo Grande",
+          "code": "450820",
+          "latitude": -33.5157164,
+          "longitude": -57.2495775
+        },
+        {
+          "name": "Arroyo Malo",
+          "code": "450821",
+          "latitude": -32.1892876,
+          "longitude": -56.036067
+        },
+        {
+          "name": "Corral de Piedra",
+          "code": "450942",
+          "latitude": -33.8832632,
+          "longitude": -56.4268303
+        },
+        {
+          "name": "Costa de San José",
+          "code": "450946",
+          "latitude": -34.9069638,
+          "longitude": -56.19625378079975
+        },
+        {
+          "name": "El Tala",
+          "code": "450991",
+          "latitude": -33.2036283,
+          "longitude": -57.4124493
+        },
+        {
+          "name": "Juan José Castro",
+          "code": "451051",
+          "latitude": -33.4931979,
+          "longitude": -56.7436027
+        },
+        {
+          "name": "La Pedrera",
+          "code": "451082",
+          "latitude": -32.3861456,
+          "longitude": -54.0843368
+        },
+        {
+          "name": "Las Violetas",
+          "code": "451100",
+          "latitude": -34.7452583,
+          "longitude": -56.4224599
+        },
+        {
+          "name": "Los Ahogados",
+          "code": "451111",
+          "latitude": -33.7997625,
+          "longitude": -56.524508
+        },
+        {
+          "name": "Marincho",
+          "code": "451137",
+          "latitude": -34.9106613,
+          "longitude": -56.1599191
+        },
+        {
+          "name": "Pintos",
+          "code": "451241",
+          "latitude": -34.1975201,
+          "longitude": -53.8587653
+        },
+        {
+          "name": "Puntas del Sauce",
+          "code": "451325",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Trinidad",
+          "code": "451462",
+          "latitude": -33.5173479,
+          "longitude": -56.8979718
+        }
+      ]
+    },
+    {
+      "name": "Florida Dpto",
+      "code": "662",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Alejandro Gallinal",
+          "code": "450804",
+          "latitude": -33.8617347,
+          "longitude": -55.5439733
+        },
+        {
+          "name": "Arroyo de la Virgen",
+          "code": "450819",
+          "latitude": -34.4228592,
+          "longitude": -56.4007079
+        },
+        {
+          "name": "Candil",
+          "code": "450865",
+          "latitude": -34.0015601,
+          "longitude": -56.3039684
+        },
+        {
+          "name": "Capilla del Sauce",
+          "code": "450876",
+          "latitude": -33.4694385,
+          "longitude": -55.630689
+        },
+        {
+          "name": "Cardal",
+          "code": "450880",
+          "latitude": -34.2914025,
+          "longitude": -56.3916077
+        },
+        {
+          "name": "Casupá",
+          "code": "450890",
+          "latitude": -34.1005881,
+          "longitude": -55.6514175
+        },
+        {
+          "name": "Cerro Colorado",
+          "code": "450902",
+          "latitude": -33.72586,
+          "longitude": -56.7991288
+        },
+        {
+          "name": "Chilcas",
+          "code": "450915",
+          "latitude": -33.476062,
+          "longitude": -55.6339025
+        },
+        {
+          "name": "El Hueco",
+          "code": "450986",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "El Infiernillo",
+          "code": "450987",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Ferrer",
+          "code": "451007",
+          "latitude": -33.4838829,
+          "longitude": -55.5686336
+        },
+        {
+          "name": "Florida",
+          "code": "451010",
+          "latitude": -33.833333,
+          "longitude": -55.916667
+        },
+        {
+          "name": "Goñi",
+          "code": "451021",
+          "latitude": -33.5202277,
+          "longitude": -56.4116879
+        },
+        {
+          "name": "Illescas",
+          "code": "451032",
+          "latitude": -33.6131433,
+          "longitude": -55.33374216767538
+        },
+        {
+          "name": "Independencia",
+          "code": "451033",
+          "latitude": -34.3541414,
+          "longitude": -56.3984947
+        },
+        {
+          "name": "Kilómetro 71",
+          "code": "451055",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "La Cruz",
+          "code": "451064",
+          "latitude": -33.9302121,
+          "longitude": -56.2367996
+        },
+        {
+          "name": "La Macana",
+          "code": "451071",
+          "latitude": -34.0350667,
+          "longitude": -56.1923454
+        },
+        {
+          "name": "Mendoza",
+          "code": "451150",
+          "latitude": -34.2823049,
+          "longitude": -56.2144898
+        },
+        {
+          "name": "Mendoza Chico",
+          "code": "451151",
+          "latitude": -34.2406272,
+          "longitude": -56.2144813
+        },
+        {
+          "name": "Molles Chico",
+          "code": "451162",
+          "latitude": -33.0816057,
+          "longitude": -56.3740468
+        },
+        {
+          "name": "Molles del Pescado",
+          "code": "451163",
+          "latitude": -33.404451,
+          "longitude": -55.362713
+        },
+        {
+          "name": "Pintado",
+          "code": "451239",
+          "latitude": -33.8340639,
+          "longitude": -56.3053651
+        },
+        {
+          "name": "Polanco del Yi",
+          "code": "451301",
+          "latitude": -33.4863302,
+          "longitude": -56.1564039
+        },
+        {
+          "name": "Puntas de Maciel",
+          "code": "451322",
+          "latitude": -33.6223854,
+          "longitude": -56.3624812
+        },
+        {
+          "name": "Reboledo",
+          "code": "451340",
+          "latitude": -33.9939813,
+          "longitude": -55.6488831
+        },
+        {
+          "name": "San Gabriel",
+          "code": "451380",
+          "latitude": -34.0381818,
+          "longitude": -55.8863283
+        },
+        {
+          "name": "Sarandí Grande",
+          "code": "451416",
+          "latitude": -33.7228206,
+          "longitude": -56.3273963
+        },
+        {
+          "name": "Sauce del Yi",
+          "code": "451421",
+          "latitude": -33.4939732,
+          "longitude": -56.3335123
+        },
+        {
+          "name": "Veinticinco de Agosto",
+          "code": "451469",
+          "latitude": -34.4123302,
+          "longitude": -56.4001637
+        },
+        {
+          "name": "Veinticinco de Mayo",
+          "code": "451470",
+          "latitude": -27.1770075,
+          "longitude": -54.7019166
+        },
+        {
+          "name": "Villa Vieja",
+          "code": "451489",
+          "latitude": -34.9032229,
+          "longitude": -56.1903953
+        }
+      ]
+    },
+    {
+      "name": "Lavalleja Dpto",
+      "code": "663",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Achiras",
+          "code": "450792",
+          "latitude": -34.8300975,
+          "longitude": -55.9589781
+        },
+        {
+          "name": "Bolívar",
+          "code": "450851",
+          "latitude": -34.223103,
+          "longitude": -55.7281957
+        },
+        {
+          "name": "Canepa",
+          "code": "450867",
+          "latitude": -34.9083971,
+          "longitude": -54.9591432
+        },
+        {
+          "name": "Chamizo",
+          "code": "450912",
+          "latitude": -34.2436011,
+          "longitude": -55.9170096
+        },
+        {
+          "name": "Colón",
+          "code": "450920",
+          "latitude": -33.8768183,
+          "longitude": -54.7208963
+        },
+        {
+          "name": "Corrales",
+          "code": "450943",
+          "latitude": -33.4480695,
+          "longitude": -54.4869582
+        },
+        {
+          "name": "De los Pastores",
+          "code": "450965",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Díaz",
+          "code": "450967",
+          "latitude": -34.5588979,
+          "longitude": -56.205132
+        },
+        {
+          "name": "Espinillar",
+          "code": "450998",
+          "latitude": -31.0226577,
+          "longitude": -57.7873766
+        },
+        {
+          "name": "Falagian",
+          "code": "451003",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Fray Marcos",
+          "code": "451014",
+          "latitude": -34.1960802,
+          "longitude": -55.7395224
+        },
+        {
+          "name": "Ingeniero Andreoni",
+          "code": "451034",
+          "latitude": -34.8790489,
+          "longitude": -56.0457314
+        },
+        {
+          "name": "José Batlle y Ordóñez",
+          "code": "451046",
+          "latitude": -33.4733345,
+          "longitude": -55.1469361
+        },
+        {
+          "name": "José Pedro Varela",
+          "code": "451050",
+          "latitude": -33.4564695,
+          "longitude": -54.5353454
+        },
+        {
+          "name": "Ladrillos",
+          "code": "451086",
+          "latitude": -33.7360209,
+          "longitude": -55.2627597
+        },
+        {
+          "name": "Larrosa",
+          "code": "451089",
+          "latitude": -34.7343763,
+          "longitude": -56.0892988
+        },
+        {
+          "name": "Los Talas",
+          "code": "451123",
+          "latitude": -34.0926128,
+          "longitude": -54.4926301
+        },
+        {
+          "name": "Maguna",
+          "code": "451129",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Mariscala",
+          "code": "451138",
+          "latitude": -34.0418823,
+          "longitude": -54.7770375
+        },
+        {
+          "name": "Minas",
+          "code": "451156",
+          "latitude": -34.3773987,
+          "longitude": -55.2382144
+        },
+        {
+          "name": "Nico Pérez",
+          "code": "451171",
+          "latitude": -33.4815291,
+          "longitude": -55.1542503
+        },
+        {
+          "name": "Pirarajá",
+          "code": "451243",
+          "latitude": -33.740851,
+          "longitude": -54.7573012
+        },
+        {
+          "name": "Polanco",
+          "code": "451299",
+          "latitude": -33.874931,
+          "longitude": -55.1220942
+        },
+        {
+          "name": "Polanco de Ibargoyen",
+          "code": "451300",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Polanco Sur",
+          "code": "451302",
+          "latitude": -33.899469,
+          "longitude": -55.1675463
+        },
+        {
+          "name": "Pueblo del Sauce",
+          "code": "451311",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Ramón Saravia",
+          "code": "451335",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Sarandí de Cebollatí",
+          "code": "451411",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Sarandí de Gutiérrez",
+          "code": "451413",
+          "latitude": -33.5321388,
+          "longitude": -54.6512801
+        },
+        {
+          "name": "Solís",
+          "code": "451430",
+          "latitude": -34.7923733,
+          "longitude": -55.3837161
+        },
+        {
+          "name": "Solís de Mataojo",
+          "code": "451431",
+          "latitude": -34.5991619,
+          "longitude": -55.4665676
+        },
+        {
+          "name": "Vejigas",
+          "code": "451471",
+          "latitude": -34.2820608,
+          "longitude": -55.5741141
+        },
+        {
+          "name": "Villa Serrana",
+          "code": "451488",
+          "latitude": -34.3223672,
+          "longitude": -54.9893614
+        },
+        {
+          "name": "Zapicán",
+          "code": "451498",
+          "latitude": -33.527751,
+          "longitude": -54.9389546
+        }
+      ]
+    },
+    {
+      "name": "Maldonado Dpto",
+      "code": "664",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Aiguá",
+          "code": "450801",
+          "latitude": -34.2019671,
+          "longitude": -54.7671567
+        },
+        {
+          "name": "Balneario Solís",
+          "code": "450828",
+          "latitude": -34.7964652,
+          "longitude": -55.38576360989691
+        },
+        {
+          "name": "Barra de Maldonado",
+          "code": "450834",
+          "latitude": -34.8859647,
+          "longitude": -55.1993379
+        },
+        {
+          "name": "Garzón",
+          "code": "451016",
+          "latitude": -34.5930292,
+          "longitude": -54.5454828
+        },
+        {
+          "name": "Gerona",
+          "code": "451019",
+          "latitude": -34.7675622,
+          "longitude": -55.2548138
+        },
+        {
+          "name": "Gregorio Aznárez",
+          "code": "451025",
+          "latitude": -34.7474726,
+          "longitude": -55.3993241
+        },
+        {
+          "name": "José Ignacio",
+          "code": "451049",
+          "latitude": -34.8448208,
+          "longitude": -54.6376934
+        },
+        {
+          "name": "Las Flores",
+          "code": "451092",
+          "latitude": -31.0565196,
+          "longitude": -57.0345584
+        },
+        {
+          "name": "Los Talas",
+          "code": "451124",
+          "latitude": -34.0926128,
+          "longitude": -54.4926301
+        },
+        {
+          "name": "Maldonado",
+          "code": "451131",
+          "latitude": -34.9087162,
+          "longitude": -54.9582718
+        },
+        {
+          "name": "Nueva Carrara",
+          "code": "451172",
+          "latitude": -34.7182418,
+          "longitude": -55.260082
+        },
+        {
+          "name": "Pan de Azúcar",
+          "code": "451193",
+          "latitude": -34.7755603,
+          "longitude": -55.224032
+        },
+        {
+          "name": "Piriápolis",
+          "code": "451244",
+          "latitude": -34.8689037,
+          "longitude": -55.2724472
+        },
+        {
+          "name": "Punta del Este",
+          "code": "451317",
+          "latitude": -34.9632342,
+          "longitude": -54.9439981
+        },
+        {
+          "name": "Salamanca",
+          "code": "451372",
+          "latitude": -34.8343493,
+          "longitude": -56.1986183
+        },
+        {
+          "name": "San Carlos",
+          "code": "451377",
+          "latitude": -34.7920447,
+          "longitude": -54.9207502
+        }
+      ]
+    },
+    {
+      "name": "Montevideo",
+      "code": "665",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Abayuba",
+          "code": "450788",
+          "latitude": -34.8830649,
+          "longitude": -55.2506355
+        },
+        {
+          "name": "Bella Italia",
+          "code": "450840",
+          "latitude": -34.832627450000004,
+          "longitude": -56.11727375519091
+        },
+        {
+          "name": "Bella Vista",
+          "code": "450842",
+          "latitude": -34.8747959,
+          "longitude": -56.1996044
+        },
+        {
+          "name": "Buceo",
+          "code": "450854",
+          "latitude": -34.8978004,
+          "longitude": -56.1286576
+        },
+        {
+          "name": "Cerrito",
+          "code": "464618",
+          "latitude": -34.8530713,
+          "longitude": -56.1701038
+        },
+        {
+          "name": "Cerro de las Cuentas",
+          "code": "450905",
+          "latitude": -32.6201495,
+          "longitude": -54.5938134
+        },
+        {
+          "name": "Chacarita",
+          "code": "450910",
+          "latitude": -31.3853032,
+          "longitude": -57.9101944
+        },
+        {
+          "name": "Ciudad Viaje",
+          "code": "450917",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Colón",
+          "code": "450921",
+          "latitude": -33.8768183,
+          "longitude": -54.7208963
+        },
+        {
+          "name": "Fraile Muerto",
+          "code": "451011",
+          "latitude": -32.5132703,
+          "longitude": -54.5234426
+        },
+        {
+          "name": "Ituzaingó",
+          "code": "451041",
+          "latitude": -34.8477309,
+          "longitude": -56.1436365
+        },
+        {
+          "name": "La Blanqueada",
+          "code": "464616",
+          "latitude": -34.8877002,
+          "longitude": -56.1545179
+        },
+        {
+          "name": "La Unión",
+          "code": "464619",
+          "latitude": -16.447666,
+          "longitude": -71.5201573
+        },
+        {
+          "name": "Lavaderos",
+          "code": "451105",
+          "latitude": -34.6397739,
+          "longitude": -55.2131448
+        },
+        {
+          "name": "Manga",
+          "code": "451132",
+          "latitude": -34.8097451,
+          "longitude": -56.1469498
+        },
+        {
+          "name": "Maroñas",
+          "code": "451139",
+          "latitude": -34.8649441,
+          "longitude": -56.1268931
+        },
+        {
+          "name": "Montevideo",
+          "code": "451165",
+          "latitude": -34.9058916,
+          "longitude": -56.1913095
+        },
+        {
+          "name": "Nuevo París",
+          "code": "451176",
+          "latitude": -34.8395352,
+          "longitude": -56.2438392
+        },
+        {
+          "name": "Pajas Blancas",
+          "code": "451186",
+          "latitude": -34.8678843,
+          "longitude": -56.3340017
+        },
+        {
+          "name": "Peñarol",
+          "code": "451228",
+          "latitude": -34.8291967,
+          "longitude": -56.1981622
+        },
+        {
+          "name": "Pueblo Conciliación",
+          "code": "451306",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Pueblo Ferrocarril",
+          "code": "451312",
+          "latitude": -34.80882565,
+          "longitude": -56.21525496001095
+        },
+        {
+          "name": "Santiago Vázquez",
+          "code": "451406",
+          "latitude": -34.7901199,
+          "longitude": -56.3511188
+        },
+        {
+          "name": "Sayago",
+          "code": "451425",
+          "latitude": -34.8357377,
+          "longitude": -56.2125672
+        },
+        {
+          "name": "Simón Bolívar",
+          "code": "464617",
+          "latitude": -34.9071265,
+          "longitude": -56.1599106
+        },
+        {
+          "name": "Toledo",
+          "code": "451445",
+          "latitude": -34.7398043,
+          "longitude": -56.0892924
+        },
+        {
+          "name": "Tres Islas",
+          "code": "451461",
+          "latitude": -32.5135241,
+          "longitude": -54.687798
+        },
+        {
+          "name": "Victoria",
+          "code": "451477",
+          "latitude": -34.4831637,
+          "longitude": -58.5882233
+        },
+        {
+          "name": "Villa del Cerro",
+          "code": "451480",
+          "latitude": -34.8898165,
+          "longitude": -56.2526245
+        },
+        {
+          "name": "Villa Don Bosco",
+          "code": "451481",
+          "latitude": -34.803695950000005,
+          "longitude": -56.08033520329994
+        },
+        {
+          "name": "Villa García",
+          "code": "451483",
+          "latitude": -34.7976689,
+          "longitude": -56.0952085
+        },
+        {
+          "name": "Wenceslao Silveira",
+          "code": "451492",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        }
+      ]
+    },
+    {
+      "name": "Paysandú",
+      "code": "666",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Ansina",
+          "code": "450809",
+          "latitude": -31.878069,
+          "longitude": -55.4625905
+        },
+        {
+          "name": "Araújo",
+          "code": "450810",
+          "latitude": -31.9960972,
+          "longitude": -57.7443656
+        },
+        {
+          "name": "Arbolito",
+          "code": "450812",
+          "latitude": -32.225221,
+          "longitude": -56.4783975
+        },
+        {
+          "name": "Arenitas Blancas",
+          "code": "450815",
+          "latitude": -31.4171635,
+          "longitude": -58.0026155
+        },
+        {
+          "name": "Cañada del Pueblo",
+          "code": "450869",
+          "latitude": -31.9473637,
+          "longitude": -57.1802492
+        },
+        {
+          "name": "Casa Blanca",
+          "code": "450887",
+          "latitude": -34.909049749999994,
+          "longitude": -54.863900369481804
+        },
+        {
+          "name": "Cerro Chato",
+          "code": "450900",
+          "latitude": -33.09837055,
+          "longitude": -55.13565912147752
+        },
+        {
+          "name": "Chapicuy",
+          "code": "450914",
+          "latitude": -31.6606188,
+          "longitude": -57.8886871
+        },
+        {
+          "name": "Colonia Diecinueve de Abril",
+          "code": "450925",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Colonia Nuevo Paysandú",
+          "code": "450932",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Constancia",
+          "code": "450938",
+          "latitude": -32.2039074,
+          "longitude": -58.0058847
+        },
+        {
+          "name": "Daymán",
+          "code": "450964",
+          "latitude": -34.8675213,
+          "longitude": -56.0406125
+        },
+        {
+          "name": "El Chaco",
+          "code": "450979",
+          "latitude": -26.5369608,
+          "longitude": -59.3383407
+        },
+        {
+          "name": "El Eucaliptus",
+          "code": "450983",
+          "latitude": -31.9022249,
+          "longitude": -57.2675727
+        },
+        {
+          "name": "El Horno",
+          "code": "450985",
+          "latitude": -34.0000302,
+          "longitude": -58.2843816
+        },
+        {
+          "name": "El Tarugo",
+          "code": "450992",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Esperanza",
+          "code": "450997",
+          "latitude": -32.9219581,
+          "longitude": -54.9797621
+        },
+        {
+          "name": "Federaciõn",
+          "code": "451004",
+          "latitude": -32.0364647,
+          "longitude": -57.3161793
+        },
+        {
+          "name": "Guayabos",
+          "code": "451027",
+          "latitude": -30.4135884,
+          "longitude": -56.4854957
+        },
+        {
+          "name": "Guichón",
+          "code": "451029",
+          "latitude": -32.3603815,
+          "longitude": -57.2002983
+        },
+        {
+          "name": "La Tentaciõn",
+          "code": "451084",
+          "latitude": -32.4868809,
+          "longitude": -57.7450074
+        },
+        {
+          "name": "Las Flores",
+          "code": "451093",
+          "latitude": -31.0565196,
+          "longitude": -57.0345584
+        },
+        {
+          "name": "Lorenzo Geyres",
+          "code": "451109",
+          "latitude": -32.0790713,
+          "longitude": -57.9191119
+        },
+        {
+          "name": "Los Ceballos",
+          "code": "451113",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Montevideo Chico",
+          "code": "451166",
+          "latitude": -32.2169125,
+          "longitude": -55.5746949
+        },
+        {
+          "name": "Morató",
+          "code": "451167",
+          "latitude": -32.3786079,
+          "longitude": -56.7030466
+        },
+        {
+          "name": "Orgoroso",
+          "code": "451182",
+          "latitude": -32.3802859,
+          "longitude": -57.5177595
+        },
+        {
+          "name": "Palmar de Quebracho",
+          "code": "451190",
+          "latitude": -31.8895327,
+          "longitude": -57.8499363
+        },
+        {
+          "name": "Paso de los Carros",
+          "code": "451208",
+          "latitude": -33.2385081,
+          "longitude": -54.480341
+        },
+        {
+          "name": "Paysandú",
+          "code": "451225",
+          "latitude": -32.3217257,
+          "longitude": -58.0892136
+        },
+        {
+          "name": "Piedra Sola",
+          "code": "451234",
+          "latitude": -32.0801955,
+          "longitude": -56.3085018
+        },
+        {
+          "name": "Piedras Coloradas",
+          "code": "451235",
+          "latitude": -32.3730042,
+          "longitude": -57.6087097
+        },
+        {
+          "name": "Poblado Los Rodríguez",
+          "code": "451279",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Rincón de la Laguna",
+          "code": "451286",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Porvenir",
+          "code": "451303",
+          "latitude": -32.3932041,
+          "longitude": -57.9678882
+        },
+        {
+          "name": "Pueblo Cuchilla",
+          "code": "451307",
+          "latitude": -32.3839341,
+          "longitude": -56.7097341
+        },
+        {
+          "name": "Puntas de Buricayupí",
+          "code": "451318",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Quebracho",
+          "code": "451328",
+          "latitude": -32.6230717,
+          "longitude": -54.7521726
+        },
+        {
+          "name": "Saca Chispas",
+          "code": "451370",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "San Félix",
+          "code": "451379",
+          "latitude": -32.3511177,
+          "longitude": -58.1016822
+        },
+        {
+          "name": "Sauce de Queguay",
+          "code": "451420",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Soto",
+          "code": "451434",
+          "latitude": -31.9751391,
+          "longitude": -57.5549958
+        },
+        {
+          "name": "Tiatucurá",
+          "code": "451444",
+          "latitude": -32.3440775,
+          "longitude": -56.5444114
+        },
+        {
+          "name": "Tomás Paz",
+          "code": "451449",
+          "latitude": -31.6369957,
+          "longitude": -57.6538682
+        },
+        {
+          "name": "Tres Bocas",
+          "code": "451457",
+          "latitude": -33.1453772,
+          "longitude": -53.705834
+        }
+      ]
+    },
+    {
+      "name": "Río Negro",
+      "code": "667",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Algorta",
+          "code": "450805",
+          "latitude": -32.4230984,
+          "longitude": -57.3924836
+        },
+        {
+          "name": "Beisso",
+          "code": "450838",
+          "latitude": -32.3185545,
+          "longitude": -57.0525491
+        },
+        {
+          "name": "Bellaco",
+          "code": "450844",
+          "latitude": -32.763117,
+          "longitude": -57.8813276
+        },
+        {
+          "name": "Caraballo",
+          "code": "450878",
+          "latitude": -34.8859448,
+          "longitude": -56.1942739
+        },
+        {
+          "name": "Conde",
+          "code": "450937",
+          "latitude": 38.3635016,
+          "longitude": -0.4929542
+        },
+        {
+          "name": "El Sauce",
+          "code": "450989",
+          "latitude": -34.0437016,
+          "longitude": -53.5451518
+        },
+        {
+          "name": "Fray Bentos",
+          "code": "451013",
+          "latitude": -33.1165167,
+          "longitude": -58.3130977
+        },
+        {
+          "name": "General Borges",
+          "code": "451017",
+          "latitude": -32.55823,
+          "longitude": -57.3883021
+        },
+        {
+          "name": "Grecco",
+          "code": "451024",
+          "latitude": -32.815622,
+          "longitude": -57.0430812
+        },
+        {
+          "name": "La Florida",
+          "code": "451069",
+          "latitude": -3.9850571,
+          "longitude": -79.349681
+        },
+        {
+          "name": "La Unión",
+          "code": "451085",
+          "latitude": -16.447666,
+          "longitude": -71.5201573
+        },
+        {
+          "name": "Menafra",
+          "code": "451148",
+          "latitude": -32.5612683,
+          "longitude": -57.4833767
+        },
+        {
+          "name": "Merinos",
+          "code": "451153",
+          "latitude": -32.3880583,
+          "longitude": -56.90863914420342
+        },
+        {
+          "name": "Nuevo Berlín",
+          "code": "451175",
+          "latitude": -32.9803448,
+          "longitude": -58.0569456
+        },
+        {
+          "name": "Paso de los Mellizos",
+          "code": "451209",
+          "latitude": -32.52001,
+          "longitude": -57.1614609
+        },
+        {
+          "name": "Paso Soca",
+          "code": "451222",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Piñera",
+          "code": "451242",
+          "latitude": -32.3296412,
+          "longitude": -57.0487468
+        },
+        {
+          "name": "Rincón de los Negros",
+          "code": "451349",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Rolón",
+          "code": "451367",
+          "latitude": -32.2946355,
+          "longitude": -55.9445274
+        },
+        {
+          "name": "San Javier",
+          "code": "451385",
+          "latitude": -32.6664272,
+          "longitude": -58.1330431
+        },
+        {
+          "name": "Sánchez",
+          "code": "451397",
+          "latitude": -34.818662,
+          "longitude": -56.2234147
+        },
+        {
+          "name": "Sánchez Grande",
+          "code": "451398",
+          "latitude": -32.7814947,
+          "longitude": -57.6902085
+        },
+        {
+          "name": "Sarandí de Navarro",
+          "code": "451414",
+          "latitude": -32.5439177,
+          "longitude": -56.8684517
+        },
+        {
+          "name": "Tres Árboles",
+          "code": "451455",
+          "latitude": -34.2420376,
+          "longitude": -55.9140091
+        },
+        {
+          "name": "Tres Bocas",
+          "code": "451456",
+          "latitude": -33.1453772,
+          "longitude": -53.705834
+        },
+        {
+          "name": "Villa Elisa",
+          "code": "451482",
+          "latitude": -32.1684568,
+          "longitude": -58.4105722
+        },
+        {
+          "name": "Young",
+          "code": "451494",
+          "latitude": -32.6995318,
+          "longitude": -57.6341992
+        }
+      ]
+    },
+    {
+      "name": "Rivera",
+      "code": "668",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Abrojal",
+          "code": "450789",
+          "latitude": -31.88354,
+          "longitude": -54.9970147
+        },
+        {
+          "name": "Arroyo Blanco",
+          "code": "450818",
+          "latitude": -31.636896,
+          "longitude": -54.7911242
+        },
+        {
+          "name": "Buena Unión",
+          "code": "450855",
+          "latitude": -31.2462462,
+          "longitude": -55.6607224
+        },
+        {
+          "name": "Caraguatá",
+          "code": "450879",
+          "latitude": -32.2323893,
+          "longitude": -54.9660212
+        },
+        {
+          "name": "Cerrillada",
+          "code": "450897",
+          "latitude": -31.4381166,
+          "longitude": -54.714837
+        },
+        {
+          "name": "Cerro Caqueira",
+          "code": "450899",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Cerro Pelado del Este",
+          "code": "450906",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Cerros Blancos",
+          "code": "450908",
+          "latitude": -31.7384849,
+          "longitude": -54.7696059
+        },
+        {
+          "name": "Cortume",
+          "code": "450945",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Cuchilla Manguera",
+          "code": "450958",
+          "latitude": -30.9159086,
+          "longitude": -55.5330481
+        },
+        {
+          "name": "Cuñapirú",
+          "code": "450960",
+          "latitude": -30.4330293,
+          "longitude": -56.4589809
+        },
+        {
+          "name": "Curticeras",
+          "code": "450961",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Guaviyú",
+          "code": "451026",
+          "latitude": -31.4419531,
+          "longitude": -54.8387978
+        },
+        {
+          "name": "Hospital",
+          "code": "451031",
+          "latitude": -31.426548,
+          "longitude": -62.0693766
+        },
+        {
+          "name": "La Calera",
+          "code": "451061",
+          "latitude": -33.19959815,
+          "longitude": -54.383123822516765
+        },
+        {
+          "name": "Lapuente",
+          "code": "451087",
+          "latitude": -31.4687955,
+          "longitude": -54.9631455
+        },
+        {
+          "name": "Laureles",
+          "code": "451102",
+          "latitude": -32.9898709,
+          "longitude": -54.946881
+        },
+        {
+          "name": "Los Potreros",
+          "code": "451121",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Lunarejo",
+          "code": "451126",
+          "latitude": -31.2488628,
+          "longitude": -55.8254912
+        },
+        {
+          "name": "Minas de Corrales",
+          "code": "451157",
+          "latitude": -31.5691608,
+          "longitude": -55.4730233
+        },
+        {
+          "name": "Moirones",
+          "code": "451160",
+          "latitude": -31.6041336,
+          "longitude": -54.9839544
+        },
+        {
+          "name": "Paso Ataques",
+          "code": "451197",
+          "latitude": -31.207419,
+          "longitude": -55.3585327
+        },
+        {
+          "name": "Paso del Tapado",
+          "code": "451218",
+          "latitude": -31.2475037,
+          "longitude": -55.3645534
+        },
+        {
+          "name": "Platón",
+          "code": "451246",
+          "latitude": -34.9292387,
+          "longitude": -54.9198983
+        },
+        {
+          "name": "Poblado Berruti",
+          "code": "451248",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado la Villa",
+          "code": "451267",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Segarra",
+          "code": "451294",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Zapucay",
+          "code": "451298",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Puntas de Corrales",
+          "code": "451321",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Rincón de Moraes",
+          "code": "451351",
+          "latitude": -31.1316443,
+          "longitude": -55.7530701
+        },
+        {
+          "name": "Rivera",
+          "code": "451363",
+          "latitude": -30.900058,
+          "longitude": -55.5408151
+        },
+        {
+          "name": "San Luis",
+          "code": "451391",
+          "latitude": -33.6043198,
+          "longitude": -53.7171477
+        },
+        {
+          "name": "Santa Fernandina",
+          "code": "451402",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Sauzal",
+          "code": "451424",
+          "latitude": -31.1766577,
+          "longitude": -55.789615
+        },
+        {
+          "name": "Sierra de Lunarejo",
+          "code": "451428",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Tranqueras",
+          "code": "451453",
+          "latitude": -31.1939884,
+          "longitude": -55.7649238
+        },
+        {
+          "name": "Tres Cerros",
+          "code": "451459",
+          "latitude": -34.8847438,
+          "longitude": -56.1026721
+        },
+        {
+          "name": "Vichadero",
+          "code": "451476",
+          "latitude": -31.7789553,
+          "longitude": -54.6923583
+        },
+        {
+          "name": "Zanja Honda",
+          "code": "451496",
+          "latitude": -31.9506883,
+          "longitude": -54.131576
+        }
+      ]
+    },
+    {
+      "name": "Rocha",
+      "code": "669",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Arrozal Victoria",
+          "code": "450823",
+          "latitude": -33.3525872,
+          "longitude": -53.8906942
+        },
+        {
+          "name": "Averías",
+          "code": "450827",
+          "latitude": -33.2197032,
+          "longitude": -54.9706697
+        },
+        {
+          "name": "Barrancas",
+          "code": "450836",
+          "latitude": -33.6885092,
+          "longitude": -53.9079742
+        },
+        {
+          "name": "Cabo Polonio",
+          "code": "450858",
+          "latitude": -34.4028524,
+          "longitude": -53.7825007
+        },
+        {
+          "name": "Castillos",
+          "code": "450889",
+          "latitude": -34.2003023,
+          "longitude": -53.8608364
+        },
+        {
+          "name": "Cebollatí",
+          "code": "450892",
+          "latitude": -33.2682531,
+          "longitude": -53.7960583
+        },
+        {
+          "name": "Cerros de los Rochas",
+          "code": "450909",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Chuy",
+          "code": "450916",
+          "latitude": -33.6937948,
+          "longitude": -53.4561114
+        },
+        {
+          "name": "Correa",
+          "code": "450944",
+          "latitude": -31.7307226,
+          "longitude": -55.9819139
+        },
+        {
+          "name": "Diecinueve de Abril",
+          "code": "450968",
+          "latitude": -32.3816689,
+          "longitude": -54.1455458
+        },
+        {
+          "name": "Dieciocho de Julio",
+          "code": "450969",
+          "latitude": 28.4682544,
+          "longitude": -16.2580437
+        },
+        {
+          "name": "El Ceibo",
+          "code": "450977",
+          "latitude": -34.5296201,
+          "longitude": -56.3971462
+        },
+        {
+          "name": "El Maturrango",
+          "code": "450988",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "General Enrique Martínez",
+          "code": "451018",
+          "latitude": -33.2053846,
+          "longitude": -53.8059356
+        },
+        {
+          "name": "Gervasio",
+          "code": "451020",
+          "latitude": -34.90651475,
+          "longitude": -56.19979187711881
+        },
+        {
+          "name": "Horqueta",
+          "code": "451030",
+          "latitude": -34.2375738,
+          "longitude": -57.8816115
+        },
+        {
+          "name": "La Barra",
+          "code": "451058",
+          "latitude": -34.914587,
+          "longitude": -54.8614131
+        },
+        {
+          "name": "La Coronilla",
+          "code": "451063",
+          "latitude": -33.8961359,
+          "longitude": -53.5154737
+        },
+        {
+          "name": "La Paloma",
+          "code": "451075",
+          "latitude": -34.6631811,
+          "longitude": -54.155092
+        },
+        {
+          "name": "La Pedrera",
+          "code": "451080",
+          "latitude": -31.7401552,
+          "longitude": -56.0280005
+        },
+        {
+          "name": "Lascano",
+          "code": "451101",
+          "latitude": -33.6738454,
+          "longitude": -54.2078542
+        },
+        {
+          "name": "Oratorio",
+          "code": "451180",
+          "latitude": -34.0233452,
+          "longitude": -53.9987629
+        },
+        {
+          "name": "Palmar de Castillos",
+          "code": "451189",
+          "latitude": -34.1984491,
+          "longitude": -53.8592435
+        },
+        {
+          "name": "Parallé",
+          "code": "451196",
+          "latitude": -34.2223561,
+          "longitude": -54.315181
+        },
+        {
+          "name": "Paso del Bañado",
+          "code": "451213",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Punta del Diablo",
+          "code": "451316",
+          "latitude": -34.0449102,
+          "longitude": -53.5398091
+        },
+        {
+          "name": "Rincón de los Oliveras",
+          "code": "451350",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Rocha",
+          "code": "451364",
+          "latitude": -34.0,
+          "longitude": -54.0
+        },
+        {
+          "name": "San Luis Al Medio",
+          "code": "451392",
+          "latitude": -33.6043198,
+          "longitude": -53.7171477
+        },
+        {
+          "name": "Velázquez",
+          "code": "451472",
+          "latitude": -34.0376975,
+          "longitude": -54.2821383
+        },
+        {
+          "name": "Vuelta del Palmar",
+          "code": "451491",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        }
+      ]
+    },
+    {
+      "name": "Salto",
+      "code": "670",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Albisu",
+          "code": "450802",
+          "latitude": -31.3842312,
+          "longitude": -57.8146463
+        },
+        {
+          "name": "Barra Tapado",
+          "code": "450835",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Belén",
+          "code": "450839",
+          "latitude": -30.789358,
+          "longitude": -57.7790732
+        },
+        {
+          "name": "Biassini",
+          "code": "450846",
+          "latitude": -31.2776239,
+          "longitude": -57.1262997
+        },
+        {
+          "name": "Cambará",
+          "code": "450860",
+          "latitude": -34.8886733,
+          "longitude": -56.0582638
+        },
+        {
+          "name": "Campo de Todos",
+          "code": "450864",
+          "latitude": -31.5592942,
+          "longitude": -57.6145818
+        },
+        {
+          "name": "Cayetano",
+          "code": "450891",
+          "latitude": -31.2414444,
+          "longitude": -56.77195
+        },
+        {
+          "name": "Cerrillada",
+          "code": "450896",
+          "latitude": -31.4381166,
+          "longitude": -54.714837
+        },
+        {
+          "name": "Colonia Dieciocho de Julio",
+          "code": "450926",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Colonia Lavalleja",
+          "code": "450930",
+          "latitude": -31.0958324,
+          "longitude": -57.0249751
+        },
+        {
+          "name": "Constitución",
+          "code": "450939",
+          "latitude": -31.0671956,
+          "longitude": -57.8493627
+        },
+        {
+          "name": "El Tropiezo",
+          "code": "450993",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Ferreira",
+          "code": "451006",
+          "latitude": -31.1027821,
+          "longitude": -56.9570291
+        },
+        {
+          "name": "Florentino",
+          "code": "451009",
+          "latitude": -34.8487759,
+          "longitude": -56.1889273
+        },
+        {
+          "name": "Garibaldi",
+          "code": "451015",
+          "latitude": -31.3394184,
+          "longitude": -57.8289095
+        },
+        {
+          "name": "Itapebí",
+          "code": "451039",
+          "latitude": -31.4026594,
+          "longitude": -57.9696264
+        },
+        {
+          "name": "La Bolsa",
+          "code": "451059",
+          "latitude": -30.8465373,
+          "longitude": -56.3363011
+        },
+        {
+          "name": "Laureles",
+          "code": "451103",
+          "latitude": -32.9898709,
+          "longitude": -54.946881
+        },
+        {
+          "name": "Lluveras",
+          "code": "451107",
+          "latitude": -31.1026107,
+          "longitude": -57.0633003
+        },
+        {
+          "name": "Mataojo",
+          "code": "451142",
+          "latitude": -34.887768,
+          "longitude": -56.1212984
+        },
+        {
+          "name": "Mataojo Chico",
+          "code": "451144",
+          "latitude": -31.4543729,
+          "longitude": -56.2830472
+        },
+        {
+          "name": "Musi",
+          "code": "451169",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Olivera",
+          "code": "451177",
+          "latitude": -31.1226885,
+          "longitude": -56.8766831
+        },
+        {
+          "name": "Oribe",
+          "code": "451183",
+          "latitude": -33.0563823,
+          "longitude": -56.4767244
+        },
+        {
+          "name": "Palomas",
+          "code": "451192",
+          "latitude": -31.081055,
+          "longitude": -57.6098141
+        },
+        {
+          "name": "Parada Herrería",
+          "code": "451195",
+          "latitude": -31.3715655,
+          "longitude": -57.7898361
+        },
+        {
+          "name": "Paso Cementerio",
+          "code": "451198",
+          "latitude": -31.4029227,
+          "longitude": -56.7412466
+        },
+        {
+          "name": "Paso de la Laguna",
+          "code": "451204",
+          "latitude": -30.7387311,
+          "longitude": -56.1288621
+        },
+        {
+          "name": "Paso de las Piedras",
+          "code": "451207",
+          "latitude": -31.0923931,
+          "longitude": -57.347757
+        },
+        {
+          "name": "Paso Potrero",
+          "code": "451221",
+          "latitude": -31.1752201,
+          "longitude": -56.3639165
+        },
+        {
+          "name": "Pinchazo",
+          "code": "451238",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Celeste",
+          "code": "451249",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Guaviyú",
+          "code": "451262",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Sosa",
+          "code": "451295",
+          "latitude": -32.5974553,
+          "longitude": -53.405337
+        },
+        {
+          "name": "Poblado Varese",
+          "code": "451296",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Puntas de Cañas",
+          "code": "451320",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Quintana",
+          "code": "451331",
+          "latitude": -31.3493894,
+          "longitude": -56.3949381
+        },
+        {
+          "name": "Ramos",
+          "code": "451337",
+          "latitude": -34.8938166,
+          "longitude": -56.1219662
+        },
+        {
+          "name": "Rincón de Valentines",
+          "code": "451354",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Salto",
+          "code": "451373",
+          "latitude": -31.3571565,
+          "longitude": -57.004446
+        },
+        {
+          "name": "San Antonio",
+          "code": "451374",
+          "latitude": -34.5501988,
+          "longitude": -54.0794108
+        },
+        {
+          "name": "San Luis",
+          "code": "451390",
+          "latitude": -33.6043198,
+          "longitude": -53.7171477
+        },
+        {
+          "name": "Sarandí",
+          "code": "451407",
+          "latitude": -30.7752125,
+          "longitude": -57.7566752
+        },
+        {
+          "name": "Sauce",
+          "code": "451419",
+          "latitude": -34.6496661,
+          "longitude": -56.0649654
+        },
+        {
+          "name": "Saucedo",
+          "code": "451423",
+          "latitude": -31.1072062,
+          "longitude": -57.5291445
+        },
+        {
+          "name": "Sequeira",
+          "code": "451427",
+          "latitude": -31.0013384,
+          "longitude": -56.8771169
+        },
+        {
+          "name": "Soto",
+          "code": "451433",
+          "latitude": -31.9751391,
+          "longitude": -57.5549958
+        },
+        {
+          "name": "Termas del Arapey",
+          "code": "451443",
+          "latitude": -30.9474241,
+          "longitude": -57.5232084
+        },
+        {
+          "name": "Toro Negro",
+          "code": "451451",
+          "latitude": -31.3387104,
+          "longitude": -56.5905974
+        },
+        {
+          "name": "Valentín",
+          "code": "451467",
+          "latitude": -31.3985926,
+          "longitude": -57.9846571
+        },
+        {
+          "name": "Veras",
+          "code": "451473",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        }
+      ]
+    },
+    {
+      "name": "San José",
+      "code": "671",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Bella Vista",
+          "code": "450843",
+          "latitude": -34.8747959,
+          "longitude": -56.1996044
+        },
+        {
+          "name": "Bifurcación",
+          "code": "450847",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Capurro",
+          "code": "450877",
+          "latitude": -34.869293,
+          "longitude": -56.2149998
+        },
+        {
+          "name": "Chamizo",
+          "code": "450913",
+          "latitude": -34.2436011,
+          "longitude": -55.9170096
+        },
+        {
+          "name": "Colonia América",
+          "code": "450922",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Cruz de los Caminos",
+          "code": "450948",
+          "latitude": -32.2323893,
+          "longitude": -54.9660212
+        },
+        {
+          "name": "Cufré",
+          "code": "450959",
+          "latitude": -34.4103273,
+          "longitude": -57.350215
+        },
+        {
+          "name": "Delta del Tigre",
+          "code": "450966",
+          "latitude": -34.7638129,
+          "longitude": -56.365268
+        },
+        {
+          "name": "Ecilda Paullier",
+          "code": "450973",
+          "latitude": -34.3606955,
+          "longitude": -57.0501049
+        },
+        {
+          "name": "Escudero",
+          "code": "450996",
+          "latitude": -34.8592399,
+          "longitude": -54.8046665
+        },
+        {
+          "name": "González",
+          "code": "451022",
+          "latitude": -34.2291805,
+          "longitude": -56.8761515
+        },
+        {
+          "name": "Ituzaingó",
+          "code": "451040",
+          "latitude": -34.8477309,
+          "longitude": -56.1436365
+        },
+        {
+          "name": "José Ignacio",
+          "code": "451048",
+          "latitude": -34.8448208,
+          "longitude": -54.6376934
+        },
+        {
+          "name": "Juan Soler",
+          "code": "451053",
+          "latitude": -34.3225677,
+          "longitude": -56.8054874
+        },
+        {
+          "name": "Kiyú",
+          "code": "451056",
+          "latitude": -34.8049457,
+          "longitude": -55.921486
+        },
+        {
+          "name": "Libertad",
+          "code": "451106",
+          "latitude": -34.6310156,
+          "longitude": -56.6164899
+        },
+        {
+          "name": "Mal Abrigo",
+          "code": "451130",
+          "latitude": -34.1463991,
+          "longitude": -56.9528729
+        },
+        {
+          "name": "Ordeig",
+          "code": "451181",
+          "latitude": -34.6989711,
+          "longitude": -56.7359646
+        },
+        {
+          "name": "Pavón",
+          "code": "451224",
+          "latitude": -33.2541017,
+          "longitude": -60.3902228
+        },
+        {
+          "name": "Pueblo Nuevo",
+          "code": "451313",
+          "latitude": -34.4415725,
+          "longitude": -56.4433688
+        },
+        {
+          "name": "Puntas de Cañada Grande",
+          "code": "451319",
+          "latitude": -34.62599,
+          "longitude": -55.8475783
+        },
+        {
+          "name": "Puntas de Valdez",
+          "code": "451323",
+          "latitude": -34.5858403,
+          "longitude": -56.7006824
+        },
+        {
+          "name": "Rafael Perazza",
+          "code": "451333",
+          "latitude": -34.5238374,
+          "longitude": -56.7969845
+        },
+        {
+          "name": "Raigón",
+          "code": "451334",
+          "latitude": -34.3405707,
+          "longitude": -56.6642101
+        },
+        {
+          "name": "Rincón del Pino",
+          "code": "451360",
+          "latitude": -34.503131,
+          "longitude": -56.8341549
+        },
+        {
+          "name": "Rodríguez",
+          "code": "451365",
+          "latitude": -34.3806737,
+          "longitude": -56.539069
+        },
+        {
+          "name": "San Gregorio",
+          "code": "451382",
+          "latitude": -33.9384872,
+          "longitude": -56.7521008
+        },
+        {
+          "name": "San José de Mayo",
+          "code": "451388",
+          "latitude": -34.3396521,
+          "longitude": -56.7143155
+        },
+        {
+          "name": "Scavino",
+          "code": "451426",
+          "latitude": -34.3694808,
+          "longitude": -57.0482166
+        },
+        {
+          "name": "Tropezón",
+          "code": "451463",
+          "latitude": -31.4730488,
+          "longitude": -57.8219086
+        },
+        {
+          "name": "Villa Libertad",
+          "code": "451484",
+          "latitude": -34.7023285,
+          "longitude": -58.6924903
+        }
+      ]
+    },
+    {
+      "name": "Soriano Dpto",
+      "code": "672",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Agraciada",
+          "code": "450794",
+          "latitude": -33.8104304,
+          "longitude": -58.2651925
+        },
+        {
+          "name": "Águila",
+          "code": "450798",
+          "latitude": -34.910216,
+          "longitude": -54.9835276
+        },
+        {
+          "name": "Arenales",
+          "code": "450814",
+          "latitude": -34.8194796,
+          "longitude": -55.9628429
+        },
+        {
+          "name": "Came",
+          "code": "450861",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Cañada Nieto",
+          "code": "450870",
+          "latitude": -33.6985655,
+          "longitude": -58.1094373
+        },
+        {
+          "name": "Cardona",
+          "code": "450881",
+          "latitude": -33.8707543,
+          "longitude": -57.3671369
+        },
+        {
+          "name": "Castillos",
+          "code": "450888",
+          "latitude": -34.2003023,
+          "longitude": -53.8608364
+        },
+        {
+          "name": "Cerro Alegre",
+          "code": "450898",
+          "latitude": -31.3032646,
+          "longitude": -55.6743053
+        },
+        {
+          "name": "Cerro Vera",
+          "code": "450907",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Coquimbo",
+          "code": "450940",
+          "latitude": -29.8810384,
+          "longitude": -71.2284197
+        },
+        {
+          "name": "Cuchilla del Perdido",
+          "code": "450956",
+          "latitude": -33.7208534,
+          "longitude": -57.2646317
+        },
+        {
+          "name": "Darwin",
+          "code": "450963",
+          "latitude": -34.8604507,
+          "longitude": -56.182652
+        },
+        {
+          "name": "Dolores",
+          "code": "450970",
+          "latitude": -33.5300696,
+          "longitude": -58.2170674
+        },
+        {
+          "name": "Egaña",
+          "code": "450974",
+          "latitude": -33.601464,
+          "longitude": -57.6292329
+        },
+        {
+          "name": "Espinillo",
+          "code": "450999",
+          "latitude": -32.4078436,
+          "longitude": -56.1787431
+        },
+        {
+          "name": "Guerrero",
+          "code": "451028",
+          "latitude": 16.8731894,
+          "longitude": -99.8779334
+        },
+        {
+          "name": "José Enrique Rodó",
+          "code": "451047",
+          "latitude": -33.6980493,
+          "longitude": -57.5320234
+        },
+        {
+          "name": "La Paraguaya",
+          "code": "451077",
+          "latitude": -34.8163066,
+          "longitude": -55.9900392
+        },
+        {
+          "name": "Machado",
+          "code": "451127",
+          "latitude": -34.8672382,
+          "longitude": -56.1984647
+        },
+        {
+          "name": "Mercedes",
+          "code": "451152",
+          "latitude": -33.2484204,
+          "longitude": -58.0298671
+        },
+        {
+          "name": "Palmitas",
+          "code": "451191",
+          "latitude": -33.5091893,
+          "longitude": -57.8006663
+        },
+        {
+          "name": "Puntas del Tala",
+          "code": "451326",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Puntas Duraznito",
+          "code": "451327",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Rincón del Cololó",
+          "code": "451359",
+          "latitude": -33.1926202,
+          "longitude": -57.9253586
+        },
+        {
+          "name": "Risso",
+          "code": "451362",
+          "latitude": -33.6233122,
+          "longitude": -57.5717318
+        },
+        {
+          "name": "Saca Chispas",
+          "code": "451371",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "San Dios",
+          "code": "451378",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "San Martín",
+          "code": "451393",
+          "latitude": -31.3946921,
+          "longitude": -57.9791486
+        },
+        {
+          "name": "Santa Catalina",
+          "code": "451400",
+          "latitude": -34.8891392,
+          "longitude": -56.2927688
+        },
+        {
+          "name": "Soriano",
+          "code": "451432",
+          "latitude": -33.4921266,
+          "longitude": -57.7893105
+        },
+        {
+          "name": "Villa Alejandrina",
+          "code": "451478",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Zanja Honda",
+          "code": "451495",
+          "latitude": -31.9506883,
+          "longitude": -54.131576
+        }
+      ]
+    },
+    {
+      "name": "Tacuarembó",
+      "code": "673",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Achar",
+          "code": "450791",
+          "latitude": -32.4074011,
+          "longitude": -56.1823412
+        },
+        {
+          "name": "Arriera",
+          "code": "450817",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Bañado de Rocha",
+          "code": "450831",
+          "latitude": -31.5827032,
+          "longitude": -55.8579254
+        },
+        {
+          "name": "Blanquillos",
+          "code": "450849",
+          "latitude": -32.8280831,
+          "longitude": -53.8286902
+        },
+        {
+          "name": "Cañas",
+          "code": "450872",
+          "latitude": -34.849696,
+          "longitude": -56.2413774
+        },
+        {
+          "name": "Cardoso",
+          "code": "450882",
+          "latitude": -32.6432114,
+          "longitude": -56.3281993
+        },
+        {
+          "name": "Cardozo Chico",
+          "code": "450883",
+          "latitude": -32.4547102,
+          "longitude": -56.3017607
+        },
+        {
+          "name": "Chamberlain",
+          "code": "450911",
+          "latitude": -32.6879374,
+          "longitude": -56.4770298
+        },
+        {
+          "name": "Clara",
+          "code": "450918",
+          "latitude": -32.2241422,
+          "longitude": -55.7362422
+        },
+        {
+          "name": "Coronilla",
+          "code": "450941",
+          "latitude": -32.5990781,
+          "longitude": -53.3908276
+        },
+        {
+          "name": "Cuaró",
+          "code": "450952",
+          "latitude": -30.6117341,
+          "longitude": -56.9045982
+        },
+        {
+          "name": "Cuchilla Caraguatá",
+          "code": "450953",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Cuchilla de Peralta",
+          "code": "450954",
+          "latitude": -32.4939149,
+          "longitude": -56.3555793
+        },
+        {
+          "name": "Cuchilla del Ombú",
+          "code": "450955",
+          "latitude": -31.7770363,
+          "longitude": -55.6943228
+        },
+        {
+          "name": "Curtina",
+          "code": "450962",
+          "latitude": -32.1496109,
+          "longitude": -56.1171604
+        },
+        {
+          "name": "Larrayos",
+          "code": "451088",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Las Flores",
+          "code": "451094",
+          "latitude": -31.0565196,
+          "longitude": -57.0345584
+        },
+        {
+          "name": "Las Toscas",
+          "code": "451099",
+          "latitude": -34.7730052,
+          "longitude": -55.7387989
+        },
+        {
+          "name": "Laureles",
+          "code": "451104",
+          "latitude": -32.9898709,
+          "longitude": -54.946881
+        },
+        {
+          "name": "Los Feos",
+          "code": "451116",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Los Furtado",
+          "code": "451117",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Los Furtados",
+          "code": "451118",
+          "latitude": -32.2618207,
+          "longitude": -55.8553425
+        },
+        {
+          "name": "Los Novillos",
+          "code": "451120",
+          "latitude": -33.0719169,
+          "longitude": -54.9112207
+        },
+        {
+          "name": "Los Rosanos",
+          "code": "451122",
+          "latitude": -31.8005259,
+          "longitude": -56.1645339
+        },
+        {
+          "name": "Los Vásquez",
+          "code": "451125",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Paso de Ceferino",
+          "code": "451201",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Paso de las Carretas",
+          "code": "451205",
+          "latitude": -34.247426,
+          "longitude": -54.7947192
+        },
+        {
+          "name": "Paso del Cerro",
+          "code": "451215",
+          "latitude": -31.4790522,
+          "longitude": -55.8322326
+        },
+        {
+          "name": "Paso del Parque",
+          "code": "451217",
+          "latitude": -32.097847,
+          "longitude": -57.3773073
+        },
+        {
+          "name": "Pepe Núñez",
+          "code": "451230",
+          "latitude": -31.4538714,
+          "longitude": -56.3867341
+        },
+        {
+          "name": "Peralta",
+          "code": "451231",
+          "latitude": -32.4939149,
+          "longitude": -56.3555793
+        },
+        {
+          "name": "Poblado Batoví",
+          "code": "451247",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Cerro Batoví",
+          "code": "451250",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Cerro Chato",
+          "code": "451251",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Cerro del Pastoreo",
+          "code": "451252",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado de Heriberto",
+          "code": "451254",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado de los Cuadrados",
+          "code": "451255",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado de los Morales",
+          "code": "451256",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado del Minuano",
+          "code": "451257",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado del Turupí",
+          "code": "451258",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Echeverry",
+          "code": "451259",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Godoy",
+          "code": "451260",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Goyo Martínez",
+          "code": "451261",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado La Chilca",
+          "code": "451263",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado La Hilera",
+          "code": "451264",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado La Humedad",
+          "code": "451265",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado La Morcona",
+          "code": "451266",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Lambari",
+          "code": "451268",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Las Arenas",
+          "code": "451269",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Las Chircas",
+          "code": "451270",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Laura",
+          "code": "451271",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Laureles",
+          "code": "451272",
+          "latitude": -31.3626448,
+          "longitude": -55.8718265
+        },
+        {
+          "name": "Poblado Lavalleja",
+          "code": "451273",
+          "latitude": -33.6392648,
+          "longitude": -54.6176068
+        },
+        {
+          "name": "Poblado Los Coitinhos",
+          "code": "451274",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Los García",
+          "code": "451275",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Los Gómez",
+          "code": "451276",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Los Grozos",
+          "code": "451277",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Los Laureles",
+          "code": "451278",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado los Silveira",
+          "code": "451280",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Martinote",
+          "code": "451281",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Montevideo Chico",
+          "code": "451282",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Paso Hondo",
+          "code": "451283",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Rincón de Giloca",
+          "code": "451284",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Rincón de la Bolsa",
+          "code": "451285",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Rincón de los Muchadas",
+          "code": "451287",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Rivera Chico",
+          "code": "451288",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Rolón",
+          "code": "451289",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado San Benito",
+          "code": "451290",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado San Ramón",
+          "code": "451291",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Sauce de Batoví",
+          "code": "451292",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Sause de Tranqueras",
+          "code": "451293",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Poblado Zambullón",
+          "code": "451297",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Pueblo de Arriba",
+          "code": "451308",
+          "latitude": -31.8621893,
+          "longitude": -55.4370978
+        },
+        {
+          "name": "Pueblo de Barro",
+          "code": "451309",
+          "latitude": -31.9652198,
+          "longitude": -55.4091679
+        },
+        {
+          "name": "Quiebra Yugos",
+          "code": "451330",
+          "latitude": -31.6587367,
+          "longitude": -56.1165455
+        },
+        {
+          "name": "Rincón de la Aldea",
+          "code": "451348",
+          "latitude": -31.7107542,
+          "longitude": -56.0340158
+        },
+        {
+          "name": "Rincón de Yaguarí",
+          "code": "451357",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Sauce Solo de Río Negro",
+          "code": "451422",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Tacuarembó",
+          "code": "451436",
+          "latitude": -32.166667,
+          "longitude": -55.5
+        },
+        {
+          "name": "Tambores",
+          "code": "451439",
+          "latitude": -31.8747113,
+          "longitude": -56.2432745
+        },
+        {
+          "name": "Zapará",
+          "code": "451497",
+          "latitude": -34.8511885,
+          "longitude": -56.2435575
+        },
+        {
+          "name": "Zapucay",
+          "code": "451499",
+          "latitude": -31.5766124,
+          "longitude": -55.473711
+        }
+      ]
+    },
+    {
+      "name": "Treinta y Tres",
+      "code": "674",
+      "latitude": -33.0833329,
+      "longitude": -56.0833331,
+      "cities": [
+        {
+          "name": "Acosta",
+          "code": "450793",
+          "latitude": -33.2418329,
+          "longitude": -53.8424738
+        },
+        {
+          "name": "Anastasia",
+          "code": "450807",
+          "latitude": -34.8433874,
+          "longitude": -54.6812303
+        },
+        {
+          "name": "Arrozal Treinta y Tres",
+          "code": "450822",
+          "latitude": -33.0429948,
+          "longitude": -53.695811
+        },
+        {
+          "name": "Cañada Chica",
+          "code": "450868",
+          "latitude": -33.3204999,
+          "longitude": -53.9788765
+        },
+        {
+          "name": "Cerro Chato",
+          "code": "450901",
+          "latitude": -33.09837055,
+          "longitude": -55.13565912147752
+        },
+        {
+          "name": "Colonia Jefferies",
+          "code": "450929",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "El Catete",
+          "code": "450976",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "El Chajá",
+          "code": "450981",
+          "latitude": -34.7897707,
+          "longitude": -56.2320584
+        },
+        {
+          "name": "Ingenio José Serrato",
+          "code": "451035",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Isla Patrulla",
+          "code": "451037",
+          "latitude": -32.9926893,
+          "longitude": -54.5613617
+        },
+        {
+          "name": "Julio María Sanz",
+          "code": "451054",
+          "latitude": -33.1658852,
+          "longitude": -54.1657053
+        },
+        {
+          "name": "La Calavera",
+          "code": "451060",
+          "latitude": -34.3962748,
+          "longitude": -53.782265796809526
+        },
+        {
+          "name": "La Chiva",
+          "code": "451062",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Los Camejos",
+          "code": "451112",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "María Albina",
+          "code": "451134",
+          "latitude": -33.3894394,
+          "longitude": -54.678041
+        },
+        {
+          "name": "Medina",
+          "code": "451146",
+          "latitude": -34.318654,
+          "longitude": -57.355088
+        },
+        {
+          "name": "Mendizabal",
+          "code": "451149",
+          "latitude": -33.0530967,
+          "longitude": -54.1551315
+        },
+        {
+          "name": "Padula",
+          "code": "451184",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Paso de Piriz",
+          "code": "451212",
+          "latitude": -32.9995209,
+          "longitude": -53.8723568
+        },
+        {
+          "name": "Rincón",
+          "code": "451344",
+          "latitude": -32.8335242,
+          "longitude": -53.8324905
+        },
+        {
+          "name": "Rincón de Gutiérrez",
+          "code": "451347",
+          "latitude": -33.0833329,
+          "longitude": -56.0833331
+        },
+        {
+          "name": "Santa Clara de Olimar",
+          "code": "451401",
+          "latitude": -32.9235413,
+          "longitude": -54.9444982
+        },
+        {
+          "name": "Treinta y Tres",
+          "code": "451454",
+          "latitude": -33.0,
+          "longitude": -54.25
+        },
+        {
+          "name": "Tupambaé",
+          "code": "451464",
+          "latitude": -32.8363645,
+          "longitude": -54.7632651
+        },
+        {
+          "name": "Valentines",
+          "code": "451468",
+          "latitude": -33.25833405,
+          "longitude": -55.10339577309455
+        },
+        {
+          "name": "Vergara",
+          "code": "451475",
+          "latitude": -32.9376731,
+          "longitude": -53.9377544
+        },
+        {
+          "name": "Villa Passano",
+          "code": "451486",
+          "latitude": -33.2902171,
+          "longitude": -53.9011547
+        },
+        {
+          "name": "Villa Sara",
+          "code": "451487",
+          "latitude": -33.2539778,
+          "longitude": -54.4140731
+        }
+      ]
+    }
+  ]
+}

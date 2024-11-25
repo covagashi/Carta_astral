@@ -1,0 +1,265 @@
+{
+  "name": "AUSTRIA",
+  "code": "8",
+  "provinces": [
+    {
+      "name": "BADEN",
+      "code": "212",
+      "cities": [],
+      "latitude": 48.0076713,
+      "longitude": 16.2343693
+    },
+    {
+      "name": "BERNDORF",
+      "code": "355",
+      "cities": [],
+      "latitude": 47.9455876,
+      "longitude": 16.1093585
+    },
+    {
+      "name": "BISCHOFSHOFEN",
+      "code": "386",
+      "cities": [],
+      "latitude": 47.40920615,
+      "longitude": 13.218436152000923
+    },
+    {
+      "name": "BLUDENZ",
+      "code": "405",
+      "cities": [],
+      "latitude": 47.153037,
+      "longitude": 9.8219314
+    },
+    {
+      "name": "BRAUNAU",
+      "code": "464",
+      "cities": [],
+      "latitude": 48.253136,
+      "longitude": 13.039506
+    },
+    {
+      "name": "BREGENZ",
+      "code": "470",
+      "cities": [],
+      "latitude": 47.5025779,
+      "longitude": 9.7472924
+    },
+    {
+      "name": "BRUCK",
+      "code": "509",
+      "cities": [],
+      "latitude": 48.0255094,
+      "longitude": 16.7790041
+    },
+    {
+      "name": "DORNBIRN",
+      "code": "963",
+      "cities": [],
+      "latitude": 47.4136351,
+      "longitude": 9.7423762
+    },
+    {
+      "name": "EFERDING",
+      "code": "1042",
+      "cities": [],
+      "latitude": 48.3082607,
+      "longitude": 14.0203999
+    },
+    {
+      "name": "EGGENBURG",
+      "code": "1044",
+      "cities": [],
+      "latitude": 48.6432222,
+      "longitude": 15.8162695
+    },
+    {
+      "name": "ENNS",
+      "code": "1089",
+      "cities": [],
+      "latitude": 47.554442,
+      "longitude": 14.2212551
+    },
+    {
+      "name": "FELDKIRCH",
+      "code": "1154",
+      "cities": [],
+      "latitude": 47.2375671,
+      "longitude": 9.5981724
+    },
+    {
+      "name": "GRAZ",
+      "code": "1341",
+      "cities": [],
+      "latitude": 47.0708678,
+      "longitude": 15.4382786
+    },
+    {
+      "name": "GREIN",
+      "code": "1361",
+      "cities": [],
+      "latitude": 48.2271779,
+      "longitude": 14.8551948
+    },
+    {
+      "name": "HALLEIN",
+      "code": "1413",
+      "cities": [],
+      "latitude": 47.6821521,
+      "longitude": 13.0956313
+    },
+    {
+      "name": "INNSBRUCK",
+      "code": "1591",
+      "cities": [],
+      "latitude": 47.2654296,
+      "longitude": 11.3927685
+    },
+    {
+      "name": "KAPFENBURG",
+      "code": "1703",
+      "cities": [],
+      "latitude": 48.0076713,
+      "longitude": 16.2343693
+    },
+    {
+      "name": "KLAGENFURT",
+      "code": "1785",
+      "cities": [],
+      "latitude": 46.623943,
+      "longitude": 14.3075976
+    },
+    {
+      "name": "KLAGENFURT",
+      "code": "1786",
+      "cities": [],
+      "latitude": 46.623943,
+      "longitude": 14.3075976
+    },
+    {
+      "name": "KREMS",
+      "code": "1824",
+      "cities": [],
+      "latitude": 48.4108382,
+      "longitude": 15.6003717
+    },
+    {
+      "name": "KUFSTEIN",
+      "code": "1829",
+      "cities": [],
+      "latitude": 47.582996,
+      "longitude": 12.1692134
+    },
+    {
+      "name": "LEOBEN",
+      "code": "1942",
+      "cities": [],
+      "latitude": 47.3805128,
+      "longitude": 15.0947756
+    },
+    {
+      "name": "LIENZ",
+      "code": "1971",
+      "cities": [],
+      "latitude": 46.8298662,
+      "longitude": 12.7681269
+    },
+    {
+      "name": "LIESING",
+      "code": "1973",
+      "cities": [],
+      "latitude": 48.141106050000005,
+      "longitude": 16.293916139283585
+    },
+    {
+      "name": "LINZ",
+      "code": "1987",
+      "cities": [],
+      "latitude": 48.3059078,
+      "longitude": 14.286198
+    },
+    {
+      "name": "PASSAU",
+      "code": "2673",
+      "cities": [],
+      "latitude": 46.6806662,
+      "longitude": 12.9481688
+    },
+    {
+      "name": "RIED",
+      "code": "2958",
+      "cities": [],
+      "latitude": 47.0576269,
+      "longitude": 10.658961868466367
+    },
+    {
+      "name": "SALZBURG",
+      "code": "3065",
+      "cities": [],
+      "latitude": 47.7981346,
+      "longitude": 13.0464806
+    },
+    {
+      "name": "SCHWAZ",
+      "code": "3167",
+      "cities": [],
+      "latitude": 47.3449529,
+      "longitude": 11.7084253
+    },
+    {
+      "name": "ST. POLTEN",
+      "code": "3325",
+      "cities": [],
+      "latitude": 48.2043985,
+      "longitude": 15.6229118
+    },
+    {
+      "name": "STEYR",
+      "code": "3349",
+      "cities": [],
+      "latitude": 48.0390046,
+      "longitude": 14.4191276
+    },
+    {
+      "name": "TULIN",
+      "code": "3575",
+      "cities": [],
+      "latitude": 48.0076713,
+      "longitude": 16.2343693
+    },
+    {
+      "name": "URFAHR",
+      "code": "3625",
+      "cities": [],
+      "latitude": 48.3138122,
+      "longitude": 14.2804026
+    },
+    {
+      "name": "VIENNA",
+      "code": "3680",
+      "cities": [],
+      "latitude": 48.2083537,
+      "longitude": 16.3725042
+    },
+    {
+      "name": "VILLACH",
+      "code": "3687",
+      "cities": [],
+      "latitude": 46.6167284,
+      "longitude": 13.8500268
+    },
+    {
+      "name": "WEIS",
+      "code": "3777",
+      "cities": [],
+      "latitude": 47.9500316,
+      "longitude": 13.8186028
+    },
+    {
+      "name": "WIENER NEUSTADT",
+      "code": "3825",
+      "cities": [],
+      "latitude": 47.8131847,
+      "longitude": 16.2441166
+    }
+  ]
+}

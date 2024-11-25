@@ -1,0 +1,13 @@
+{
+  "name": "LIBYA",
+  "code": "70",
+  "provinces": [
+    {
+      "name": "TRIPOLI",
+      "code": "3556",
+      "cities": [],
+      "latitude": 32.896672,
+      "longitude": 13.1777923
+    }
+  ]
+}

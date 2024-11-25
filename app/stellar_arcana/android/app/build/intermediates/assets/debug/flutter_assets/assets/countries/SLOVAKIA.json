@@ -1,0 +1,132 @@
+{
+  "name": "SLOVAKIA",
+  "code": "97",
+  "provinces": [
+    {
+      "name": "BANSKA BYSTRICA",
+      "code": "242",
+      "cities": [],
+      "latitude": 48.7383895,
+      "longitude": 19.1585805
+    },
+    {
+      "name": "BRATISLAVA",
+      "code": "462",
+      "cities": [],
+      "latitude": 48.1516988,
+      "longitude": 17.1093063
+    },
+    {
+      "name": "KOMARNO",
+      "code": "1800",
+      "cities": [],
+      "latitude": 47.7574079,
+      "longitude": 18.1298249
+    },
+    {
+      "name": "KOSICE",
+      "code": "1810",
+      "cities": [],
+      "latitude": 48.7172272,
+      "longitude": 21.2496774
+    },
+    {
+      "name": "LEVICE",
+      "code": "1954",
+      "cities": [],
+      "latitude": 48.2163194,
+      "longitude": 18.6000869
+    },
+    {
+      "name": "LUCENEC",
+      "code": "2047",
+      "cities": [],
+      "latitude": 48.3303886,
+      "longitude": 19.6634149
+    },
+    {
+      "name": "MARTIN",
+      "code": "2161",
+      "cities": [],
+      "latitude": 49.0724921,
+      "longitude": 18.929193
+    },
+    {
+      "name": "MICHALOVCE",
+      "code": "2244",
+      "cities": [],
+      "latitude": 48.4374238,
+      "longitude": 20.2115576
+    },
+    {
+      "name": "NITRA",
+      "code": "2475",
+      "cities": [],
+      "latitude": 48.31295,
+      "longitude": 18.0894593
+    },
+    {
+      "name": "NOVE ZAMKY",
+      "code": "2507",
+      "cities": [],
+      "latitude": 47.9861843,
+      "longitude": 18.1631415
+    },
+    {
+      "name": "PIESTANY",
+      "code": "2730",
+      "cities": [],
+      "latitude": 48.5895247,
+      "longitude": 17.8213848
+    },
+    {
+      "name": "PRESOV",
+      "code": "2828",
+      "cities": [],
+      "latitude": 48.979496600000004,
+      "longitude": 21.205876813932328
+    },
+    {
+      "name": "RUZOMBEROK",
+      "code": "3021",
+      "cities": [],
+      "latitude": 49.0815718,
+      "longitude": 19.3034168
+    },
+    {
+      "name": "SPISSKA NOVA",
+      "code": "3289",
+      "cities": [],
+      "latitude": 48.9435344,
+      "longitude": 20.562964
+    },
+    {
+      "name": "TRENCIN",
+      "code": "3545",
+      "cities": [],
+      "latitude": 48.8922719,
+      "longitude": 18.0387465
+    },
+    {
+      "name": "TRNAVA",
+      "code": "3559",
+      "cities": [],
+      "latitude": 48.37421795,
+      "longitude": 17.58092991222602
+    },
+    {
+      "name": "ZILINA",
+      "code": "3933",
+      "cities": [],
+      "latitude": 49.2234674,
+      "longitude": 18.7393139
+    },
+    {
+      "name": "ZVOLEN",
+      "code": "3935",
+      "cities": [],
+      "latitude": 48.5782517,
+      "longitude": 19.1247135
+    }
+  ]
+}

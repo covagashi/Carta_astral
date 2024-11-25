@@ -1,0 +1,13 @@
+{
+  "name": "NORTH KOREA",
+  "code": "63",
+  "provinces": [
+    {
+      "name": "P'YONGYANG",
+      "code": "2615",
+      "cities": [],
+      "latitude": 39.0167979,
+      "longitude": 125.7473609
+    }
+  ]
+}

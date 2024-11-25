@@ -1,0 +1,34 @@
+{
+  "name": "SYRIA",
+  "code": "104",
+  "provinces": [
+    {
+      "name": "ALEPPO",
+      "code": "57",
+      "cities": [],
+      "latitude": 36.19924,
+      "longitude": 37.1637253
+    },
+    {
+      "name": "ANTIOCH",
+      "code": "129",
+      "cities": [],
+      "latitude": 36.1948991,
+      "longitude": 37.1510636
+    },
+    {
+      "name": "DAMASCUS",
+      "code": "891",
+      "cities": [],
+      "latitude": 33.5130695,
+      "longitude": 36.3095814
+    },
+    {
+      "name": "HAMA",
+      "code": "1417",
+      "cities": [],
+      "latitude": 35.309489,
+      "longitude": 37.27042218168726
+    }
+  ]
+}

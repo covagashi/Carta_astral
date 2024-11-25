@@ -1,0 +1,13 @@
+{
+  "name": "LUXEMBOURG",
+  "code": "73",
+  "provinces": [
+    {
+      "name": "LUXEMBOURG",
+      "code": "2065",
+      "cities": [],
+      "latitude": 49.8158683,
+      "longitude": 6.1296751
+    }
+  ]
+}

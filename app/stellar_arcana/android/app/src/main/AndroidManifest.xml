@@ -1,10 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.astral.arcana">
+    package="com.covaga.stellar_arcana">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:label="stellar_arcana"
+        android:label="Stellar Arcana"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 

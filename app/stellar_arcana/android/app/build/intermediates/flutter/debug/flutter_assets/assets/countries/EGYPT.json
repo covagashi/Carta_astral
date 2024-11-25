@@ -1,0 +1,150 @@
+{
+  "name": "EGYPT",
+  "code": "30",
+  "provinces": [
+    {
+      "name": "AKHMIM",
+      "code": "36",
+      "cities": [
+        {
+          "name": "AKHMIM",
+          "code": "36",
+          "latitude": 26.562663,
+          "longitude": 31.743443
+        },
+        {
+          "name": "AL UQSUR",
+          "code": "40",
+          "latitude": 25.702096,
+          "longitude": 32.647186
+        },
+        {
+          "name": "ALEXANDRIA",
+          "code": "59",
+          "latitude": 31.1991806,
+          "longitude": 29.8951716
+        },
+        {
+          "name": "ASWAN",
+          "code": "177",
+          "latitude": 24.091071,
+          "longitude": 32.897306
+        },
+        {
+          "name": "ASYUT",
+          "code": "178",
+          "latitude": 27.1832822,
+          "longitude": 31.1853836
+        },
+        {
+          "name": "BENI SAUF",
+          "code": "332",
+          "latitude": 26.562663,
+          "longitude": 31.743443
+        },
+        {
+          "name": "BUR SA'ID",
+          "code": "527",
+          "latitude": 31.1821275,
+          "longitude": 32.37258196500135
+        },
+        {
+          "name": "CAIRO",
+          "code": "557",
+          "latitude": 30.0443879,
+          "longitude": 31.2357257
+        },
+        {
+          "name": "DAMIETTA",
+          "code": "892",
+          "latitude": 31.4167427,
+          "longitude": 31.8213657
+        },
+        {
+          "name": "DUMYAT",
+          "code": "988",
+          "latitude": 31.4113331,
+          "longitude": 31.755711474103997
+        },
+        {
+          "name": "EL FAIYUM",
+          "code": "1051",
+          "latitude": 29.340736999999997,
+          "longitude": 30.620104467964623
+        },
+        {
+          "name": "EL ISKANDARIYA",
+          "code": "1053",
+          "latitude": 26.562663,
+          "longitude": 31.743443
+        },
+        {
+          "name": "EL MINYA",
+          "code": "1054",
+          "latitude": 28.2125404,
+          "longitude": 30.912374098545786
+        },
+        {
+          "name": "EL QAHIRA",
+          "code": "1057",
+          "latitude": 30.0443879,
+          "longitude": 31.2357257
+        },
+        {
+          "name": "ISMALIA",
+          "code": "1613",
+          "latitude": 30.04708965,
+          "longitude": 31.234694361221443
+        },
+        {
+          "name": "KAYNA",
+          "code": "1724",
+          "latitude": 26.562663,
+          "longitude": 31.743443
+        },
+        {
+          "name": "LUXOR",
+          "code": "2066",
+          "latitude": 25.702096,
+          "longitude": 32.647186
+        },
+        {
+          "name": "PORT SAID",
+          "code": "2799",
+          "latitude": 31.263235,
+          "longitude": 32.305505
+        },
+        {
+          "name": "QENA",
+          "code": "2856",
+          "latitude": 26.01055795,
+          "longitude": 33.12992108817383
+        },
+        {
+          "name": "QINA",
+          "code": "2857",
+          "latitude": 26.01055795,
+          "longitude": 33.12992108817383
+        },
+        {
+          "name": "SOHAG",
+          "code": "3260",
+          "latitude": 26.76246285,
+          "longitude": 32.090993613434186
+        },
+        {
+          "name": "SUEZ",
+          "code": "3373",
+          "latitude": 29.974498,
+          "longitude": 32.537086
+        },
+        {
+          "name": "TANTA",
+          "code": "3441",
+          "latitude": 30.7833666,
+          "longitude": 30.9982536
+        }
+      ]
+    }
+  ]
+}

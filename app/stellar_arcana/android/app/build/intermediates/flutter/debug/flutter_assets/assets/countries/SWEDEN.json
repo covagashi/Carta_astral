@@ -1,0 +1,181 @@
+{
+  "name": "SWEDEN",
+  "code": "102",
+  "provinces": [
+    {
+      "name": "BORAS",
+      "code": "426",
+      "cities": [],
+      "latitude": 57.7210839,
+      "longitude": 12.9407407
+    },
+    {
+      "name": "BORLANGE",
+      "code": "431",
+      "cities": [],
+      "latitude": 60.4856426,
+      "longitude": 15.4234561
+    },
+    {
+      "name": "ESKILSTUNA",
+      "code": "1106",
+      "cities": [],
+      "latitude": 59.3717379,
+      "longitude": 16.5051474
+    },
+    {
+      "name": "FALUN",
+      "code": "1141",
+      "cities": [],
+      "latitude": 60.6070068,
+      "longitude": 15.6323059
+    },
+    {
+      "name": "GAVLE",
+      "code": "1259",
+      "cities": [],
+      "latitude": 60.6750132,
+      "longitude": 17.1467019
+    },
+    {
+      "name": "GOTEBORG",
+      "code": "1317",
+      "cities": [],
+      "latitude": 57.7072326,
+      "longitude": 11.9670171
+    },
+    {
+      "name": "HALMSTAD",
+      "code": "1414",
+      "cities": [],
+      "latitude": 56.6739826,
+      "longitude": 12.8574827
+    },
+    {
+      "name": "HALSINGBORG",
+      "code": "1415",
+      "cities": [],
+      "latitude": 56.0442098,
+      "longitude": 12.703706
+    },
+    {
+      "name": "KALMAR",
+      "code": "1687",
+      "cities": [],
+      "latitude": 56.6628826,
+      "longitude": 16.3662382
+    },
+    {
+      "name": "KARLSTAD",
+      "code": "1714",
+      "cities": [],
+      "latitude": 59.3809146,
+      "longitude": 13.5027631
+    },
+    {
+      "name": "KIRUNA",
+      "code": "1779",
+      "cities": [],
+      "latitude": 68.166667,
+      "longitude": 19.5
+    },
+    {
+      "name": "LULEA",
+      "code": "2058",
+      "cities": [],
+      "latitude": 65.5831187,
+      "longitude": 22.1459535
+    },
+    {
+      "name": "LUND",
+      "code": "2060",
+      "cities": [],
+      "latitude": 55.7029296,
+      "longitude": 13.1929449
+    },
+    {
+      "name": "MALMO",
+      "code": "2109",
+      "cities": [],
+      "latitude": 55.6052931,
+      "longitude": 13.0001566
+    },
+    {
+      "name": "NORRKOPING",
+      "code": "2487",
+      "cities": [],
+      "latitude": 58.5909124,
+      "longitude": 16.1903511
+    },
+    {
+      "name": "NYKOPING",
+      "code": "2516",
+      "cities": [],
+      "latitude": 58.7545409,
+      "longitude": 17.0120656
+    },
+    {
+      "name": "OREBRO",
+      "code": "2576",
+      "cities": [],
+      "latitude": 59.2747287,
+      "longitude": 15.2151181
+    },
+    {
+      "name": "SKELLEFTEA",
+      "code": "3240",
+      "cities": [],
+      "latitude": 64.7520185,
+      "longitude": 20.959339
+    },
+    {
+      "name": "STOCKHOLM",
+      "code": "3352",
+      "cities": [],
+      "latitude": 59.3251172,
+      "longitude": 18.0710935
+    },
+    {
+      "name": "SUNDSVALL",
+      "code": "3385",
+      "cities": [],
+      "latitude": 62.3907552,
+      "longitude": 17.3071024
+    },
+    {
+      "name": "UDDEVALLA",
+      "code": "3600",
+      "cities": [],
+      "latitude": 58.3490555,
+      "longitude": 11.9382855
+    },
+    {
+      "name": "UMEA",
+      "code": "3609",
+      "cities": [],
+      "latitude": 63.8256568,
+      "longitude": 20.2630745
+    },
+    {
+      "name": "UPPSALA",
+      "code": "3621",
+      "cities": [],
+      "latitude": 59.8586126,
+      "longitude": 17.6387436
+    },
+    {
+      "name": "VASTERAS",
+      "code": "3656",
+      "cities": [],
+      "latitude": 59.6110992,
+      "longitude": 16.5463679
+    },
+    {
+      "name": "VAXJO",
+      "code": "3658",
+      "cities": [],
+      "latitude": 56.8765384,
+      "longitude": 14.8050364
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "stellar_arcana"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "stellar_arcana-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

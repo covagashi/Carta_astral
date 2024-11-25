@@ -1,0 +1,90 @@
+{
+  "name": "NIGERIA",
+  "code": "83",
+  "provinces": [
+    {
+      "name": "ABEOKUTA",
+      "code": "7",
+      "cities": [
+        {
+          "name": "ABEOKUTA",
+          "code": "7",
+          "latitude": 7.161,
+          "longitude": 3.348
+        },
+        {
+          "name": "BENIN",
+          "code": "334",
+          "latitude": 6.3330586,
+          "longitude": 5.6221058
+        },
+        {
+          "name": "ENUGU",
+          "code": "1092",
+          "latitude": 6.5536094,
+          "longitude": 7.4143061
+        },
+        {
+          "name": "IBADAN",
+          "code": "1573",
+          "latitude": 7.3786064,
+          "longitude": 3.8969928
+        },
+        {
+          "name": "ILORIN",
+          "code": "1578",
+          "latitude": 8.4963657,
+          "longitude": 4.5480484
+        },
+        {
+          "name": "KADUNA",
+          "code": "1677",
+          "latitude": 10.3825318,
+          "longitude": 7.8533226
+        },
+        {
+          "name": "KANO",
+          "code": "1697",
+          "latitude": 11.8948389,
+          "longitude": 8.5364136
+        },
+        {
+          "name": "LAGOS",
+          "code": "1871",
+          "latitude": 6.4550575,
+          "longitude": 3.3941795
+        },
+        {
+          "name": "OGBOMOSHO",
+          "code": "2539",
+          "latitude": 8.133,
+          "longitude": 4.25
+        },
+        {
+          "name": "ONITSHA",
+          "code": "2563",
+          "latitude": 6.1461619,
+          "longitude": 6.8019088
+        },
+        {
+          "name": "OSHOGBO",
+          "code": "2594",
+          "latitude": 7.7791666,
+          "longitude": 4.5538891
+        },
+        {
+          "name": "PORT HARCOURT",
+          "code": "2795",
+          "latitude": 4.7676576,
+          "longitude": 7.0188527
+        },
+        {
+          "name": "ZARIA",
+          "code": "3926",
+          "latitude": 11.0248119,
+          "longitude": 7.651853311586596
+        }
+      ]
+    }
+  ]
+}

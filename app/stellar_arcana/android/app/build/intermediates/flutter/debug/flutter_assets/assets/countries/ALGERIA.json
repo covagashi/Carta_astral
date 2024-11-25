@@ -1,0 +1,144 @@
+{
+  "name": "ALGERIA",
+  "code": "3",
+  "provinces": [
+    {
+      "name": "ALGIERS",
+      "code": "64",
+      "cities": [
+        {
+          "name": "ALGIERS",
+          "code": "64",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "ANNABA",
+          "code": "119",
+          "latitude": 36.7309861,
+          "longitude": 3.1357203
+        },
+        {
+          "name": "BECHAR",
+          "code": "293",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "BEJAIA",
+          "code": "302",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "BLIDA",
+          "code": "398",
+          "latitude": 36.694365,
+          "longitude": 3.139237
+        },
+        {
+          "name": "CONSTANTINE",
+          "code": "819",
+          "latitude": 36.6941524,
+          "longitude": 3.1659863
+        },
+        {
+          "name": "GHARDAIA",
+          "code": "1277",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "GUELMA",
+          "code": "1379",
+          "latitude": 36.7357601,
+          "longitude": 3.1655814
+        },
+        {
+          "name": "MASCARA",
+          "code": "2166",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "MONDOVI",
+          "code": "2292",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "MOSTAGANEM",
+          "code": "2333",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "MOSTAGANEM",
+          "code": "2334",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "ORAN",
+          "code": "2571",
+          "latitude": 36.694365,
+          "longitude": 3.139237
+        },
+        {
+          "name": "ORLEANSVILLE",
+          "code": "2587",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "PHILIPPEVILLE",
+          "code": "2722",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "RELIZANE",
+          "code": "2921",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "SETIF",
+          "code": "3188",
+          "latitude": 36.7301257,
+          "longitude": 3.1415494
+        },
+        {
+          "name": "SIDI-BEL-ABES",
+          "code": "3224",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "SKIKDA",
+          "code": "3242",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "TBESSA",
+          "code": "3457",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "TIEMCEN",
+          "code": "3495",
+          "latitude": 36.7729309,
+          "longitude": 3.0588291
+        },
+        {
+          "name": "TIZI-OUZOU",
+          "code": "3509",
+          "latitude": 36.7195948,
+          "longitude": 3.253144
+        }
+      ]
+    }
+  ]
+}

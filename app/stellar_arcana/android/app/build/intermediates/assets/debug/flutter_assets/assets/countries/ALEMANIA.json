@@ -1,0 +1,1280 @@
+{
+  "name": "ALEMANIA",
+  "code": "36",
+  "provinces": [
+    {
+      "name": "AACHEN",
+      "code": "1",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "AALEN",
+      "code": "2",
+      "cities": [],
+      "latitude": 48.8362705,
+      "longitude": 10.0931765
+    },
+    {
+      "name": "AHLEN",
+      "code": "27",
+      "cities": [],
+      "latitude": 51.7627633,
+      "longitude": 7.8909086
+    },
+    {
+      "name": "AMBERG",
+      "code": "93",
+      "cities": [],
+      "latitude": 49.4454211,
+      "longitude": 11.858728
+    },
+    {
+      "name": "ANSBACH",
+      "code": "122",
+      "cities": [],
+      "latitude": 49.234563300000005,
+      "longitude": 10.379304225672094
+    },
+    {
+      "name": "ASCHAFFENBURG",
+      "code": "165",
+      "cities": [],
+      "latitude": 49.9740542,
+      "longitude": 9.1493636
+    },
+    {
+      "name": "AUGSBURG",
+      "code": "193",
+      "cities": [],
+      "latitude": 48.3690341,
+      "longitude": 10.8979522
+    },
+    {
+      "name": "BAD KREUZNACH",
+      "code": "211",
+      "cities": [],
+      "latitude": 49.8490413,
+      "longitude": 7.8626661
+    },
+    {
+      "name": "BADEN-BADEN",
+      "code": "214",
+      "cities": [],
+      "latitude": 48.7610716,
+      "longitude": 8.239959
+    },
+    {
+      "name": "BAMBERG",
+      "code": "232",
+      "cities": [],
+      "latitude": 49.8916044,
+      "longitude": 10.8868478
+    },
+    {
+      "name": "BAYREUTH",
+      "code": "283",
+      "cities": [],
+      "latitude": 49.9427202,
+      "longitude": 11.5763079
+    },
+    {
+      "name": "BERGISCH GLAD.",
+      "code": "350",
+      "cities": [],
+      "latitude": 50.9929303,
+      "longitude": 7.1277379
+    },
+    {
+      "name": "BERLIN",
+      "code": "352",
+      "cities": [],
+      "latitude": 52.510885,
+      "longitude": 13.3989367
+    },
+    {
+      "name": "BERNBURG",
+      "code": "354",
+      "cities": [],
+      "latitude": 51.7930788,
+      "longitude": 11.7391606
+    },
+    {
+      "name": "BIELEFELD",
+      "code": "373",
+      "cities": [],
+      "latitude": 52.0191005,
+      "longitude": 8.531007
+    },
+    {
+      "name": "BOCHOLT",
+      "code": "413",
+      "cities": [],
+      "latitude": 51.8382715,
+      "longitude": 6.6148669
+    },
+    {
+      "name": "BOCHUM",
+      "code": "414",
+      "cities": [],
+      "latitude": 51.4818111,
+      "longitude": 7.2196635
+    },
+    {
+      "name": "BONN",
+      "code": "424",
+      "cities": [],
+      "latitude": 50.735851,
+      "longitude": 7.10066
+    },
+    {
+      "name": "BOTTROP",
+      "code": "434",
+      "cities": [],
+      "latitude": 51.521581,
+      "longitude": 6.929204
+    },
+    {
+      "name": "BRANDENBURG",
+      "code": "456",
+      "cities": [],
+      "latitude": 52.8455492,
+      "longitude": 13.2461296
+    },
+    {
+      "name": "BRAUNSCHWEIG",
+      "code": "465",
+      "cities": [],
+      "latitude": 52.2646577,
+      "longitude": 10.5236066
+    },
+    {
+      "name": "BREMEN",
+      "code": "471",
+      "cities": [],
+      "latitude": 53.0758196,
+      "longitude": 8.8071646
+    },
+    {
+      "name": "BREMERHAVEN",
+      "code": "472",
+      "cities": [],
+      "latitude": 53.5505392,
+      "longitude": 8.5851945
+    },
+    {
+      "name": "BRUHL",
+      "code": "511",
+      "cities": [],
+      "latitude": 50.8291313,
+      "longitude": 6.9037057
+    },
+    {
+      "name": "CELLE",
+      "code": "656",
+      "cities": [],
+      "latitude": 52.624056,
+      "longitude": 10.081052
+    },
+    {
+      "name": "CHEMNITZ",
+      "code": "702",
+      "cities": [],
+      "latitude": 50.8323531,
+      "longitude": 12.918914
+    },
+    {
+      "name": "COBURG",
+      "code": "782",
+      "cities": [],
+      "latitude": 50.2582226,
+      "longitude": 10.964561
+    },
+    {
+      "name": "COLOGNE",
+      "code": "795",
+      "cities": [],
+      "latitude": 50.938361,
+      "longitude": 6.959974
+    },
+    {
+      "name": "COTTBUS",
+      "code": "847",
+      "cities": [],
+      "latitude": 51.7567447,
+      "longitude": 14.3357307
+    },
+    {
+      "name": "CUXHAVEN",
+      "code": "883",
+      "cities": [],
+      "latitude": 53.86878,
+      "longitude": 8.698286
+    },
+    {
+      "name": "DARMSTADT",
+      "code": "906",
+      "cities": [],
+      "latitude": 49.872775,
+      "longitude": 8.651177
+    },
+    {
+      "name": "DELMENHORST",
+      "code": "930",
+      "cities": [],
+      "latitude": 53.0528092,
+      "longitude": 8.6294626
+    },
+    {
+      "name": "DESSAU",
+      "code": "940",
+      "cities": [],
+      "latitude": 51.8309956,
+      "longitude": 12.2430723
+    },
+    {
+      "name": "DORSTSEN",
+      "code": "964",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "DORTMUND",
+      "code": "965",
+      "cities": [],
+      "latitude": 51.5142273,
+      "longitude": 7.4652789
+    },
+    {
+      "name": "DRESDEN",
+      "code": "974",
+      "cities": [],
+      "latitude": 51.0493286,
+      "longitude": 13.7381437
+    },
+    {
+      "name": "DUISBURG",
+      "code": "985",
+      "cities": [],
+      "latitude": 51.434999,
+      "longitude": 6.759562
+    },
+    {
+      "name": "DUREN",
+      "code": "1006",
+      "cities": [],
+      "latitude": 50.8031684,
+      "longitude": 6.4820806
+    },
+    {
+      "name": "DUSSELDORF",
+      "code": "1011",
+      "cities": [],
+      "latitude": 51.2254018,
+      "longitude": 6.7763137
+    },
+    {
+      "name": "EISENACH",
+      "code": "1046",
+      "cities": [],
+      "latitude": 50.9747134,
+      "longitude": 10.3193565
+    },
+    {
+      "name": "ELMSHORN",
+      "code": "1072",
+      "cities": [],
+      "latitude": 53.7532486,
+      "longitude": 9.6524559
+    },
+    {
+      "name": "EMDEN",
+      "code": "1079",
+      "cities": [],
+      "latitude": 53.3670541,
+      "longitude": 7.2058304
+    },
+    {
+      "name": "ERFURT",
+      "code": "1096",
+      "cities": [],
+      "latitude": 50.9777974,
+      "longitude": 11.0287364
+    },
+    {
+      "name": "ERLANGEN",
+      "code": "1098",
+      "cities": [],
+      "latitude": 49.5928616,
+      "longitude": 11.0056
+    },
+    {
+      "name": "ESCHWEILER",
+      "code": "1102",
+      "cities": [],
+      "latitude": 50.8175029,
+      "longitude": 6.2630894
+    },
+    {
+      "name": "ESSEN",
+      "code": "1107",
+      "cities": [],
+      "latitude": 51.4582235,
+      "longitude": 7.0158171
+    },
+    {
+      "name": "ESSLINGEN NEC.",
+      "code": "1112",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "EUSKIRCHEN",
+      "code": "1121",
+      "cities": [],
+      "latitude": 50.6612623,
+      "longitude": 6.7871219
+    },
+    {
+      "name": "FRANKENTHAL",
+      "code": "1194",
+      "cities": [],
+      "latitude": 49.5445804,
+      "longitude": 8.3540061
+    },
+    {
+      "name": "FRANKFURT",
+      "code": "1198",
+      "cities": [],
+      "latitude": 50.1106444,
+      "longitude": 8.6820917
+    },
+    {
+      "name": "FRANKFURT MAIN",
+      "code": "1196",
+      "cities": [],
+      "latitude": 50.1106444,
+      "longitude": 8.6820917
+    },
+    {
+      "name": "FRANKFURT ODER",
+      "code": "1197",
+      "cities": [],
+      "latitude": 52.3412273,
+      "longitude": 14.549452
+    },
+    {
+      "name": "FREIBERG",
+      "code": "1210",
+      "cities": [],
+      "latitude": 50.9169415,
+      "longitude": 13.3428889
+    },
+    {
+      "name": "FREIBERG",
+      "code": "1211",
+      "cities": [],
+      "latitude": 50.9169415,
+      "longitude": 13.3428889
+    },
+    {
+      "name": "FRIEDRICHSHAFEN",
+      "code": "1220",
+      "cities": [],
+      "latitude": 47.6500279,
+      "longitude": 9.4800858
+    },
+    {
+      "name": "FUIDA",
+      "code": "1225",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "FURTH",
+      "code": "1233",
+      "cities": [],
+      "latitude": 48.5915163,
+      "longitude": 12.0212216
+    },
+    {
+      "name": "GEISENKIRCHEN",
+      "code": "1264",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "GERA",
+      "code": "1272",
+      "cities": [],
+      "latitude": 50.8765537,
+      "longitude": 12.0832666
+    },
+    {
+      "name": "GIEZEN",
+      "code": "1279",
+      "cities": [],
+      "latitude": 50.8220619,
+      "longitude": 6.811927
+    },
+    {
+      "name": "GOPPINGEN",
+      "code": "1310",
+      "cities": [],
+      "latitude": 48.7031377,
+      "longitude": 9.6541116
+    },
+    {
+      "name": "GORLITZ",
+      "code": "1314",
+      "cities": [],
+      "latitude": 51.1563185,
+      "longitude": 14.991018
+    },
+    {
+      "name": "GOSLAR",
+      "code": "1315",
+      "cities": [],
+      "latitude": 51.9059936,
+      "longitude": 10.4266284
+    },
+    {
+      "name": "GOTHA",
+      "code": "1318",
+      "cities": [],
+      "latitude": 50.9494849,
+      "longitude": 10.7014435
+    },
+    {
+      "name": "GOTTINGEN",
+      "code": "1319",
+      "cities": [],
+      "latitude": 51.5328328,
+      "longitude": 9.9351811
+    },
+    {
+      "name": "GREIFSWALD",
+      "code": "1360",
+      "cities": [],
+      "latitude": 54.095791,
+      "longitude": 13.3815238
+    },
+    {
+      "name": "GUMMERSBACH",
+      "code": "1386",
+      "cities": [],
+      "latitude": 51.0277658,
+      "longitude": 7.5630545
+    },
+    {
+      "name": "GUTERSLOH",
+      "code": "1388",
+      "cities": [],
+      "latitude": 51.9063997,
+      "longitude": 8.3782078
+    },
+    {
+      "name": "HAGEN",
+      "code": "1402",
+      "cities": [],
+      "latitude": 51.3582945,
+      "longitude": 7.473296
+    },
+    {
+      "name": "HALBERSHTADT",
+      "code": "1408",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "HALLE",
+      "code": "1412",
+      "cities": [],
+      "latitude": 51.4825041,
+      "longitude": 11.9705452
+    },
+    {
+      "name": "HAMBURG",
+      "code": "1420",
+      "cities": [],
+      "latitude": 53.550341,
+      "longitude": 10.000654
+    },
+    {
+      "name": "HAMELN",
+      "code": "1422",
+      "cities": [],
+      "latitude": 52.1039941,
+      "longitude": 9.3561569
+    },
+    {
+      "name": "HAMM",
+      "code": "1428",
+      "cities": [],
+      "latitude": 50.0165178,
+      "longitude": 6.4184628
+    },
+    {
+      "name": "HANAU",
+      "code": "1433",
+      "cities": [],
+      "latitude": 50.132881,
+      "longitude": 8.9169797
+    },
+    {
+      "name": "HANNOVER",
+      "code": "1436",
+      "cities": [],
+      "latitude": 52.3744779,
+      "longitude": 9.7385532
+    },
+    {
+      "name": "HEIDELBERG",
+      "code": "1477",
+      "cities": [],
+      "latitude": 49.4093582,
+      "longitude": 8.694724
+    },
+    {
+      "name": "HEIDENHEIM BRE.",
+      "code": "1478",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "HEILBRONN",
+      "code": "1479",
+      "cities": [],
+      "latitude": 49.142291,
+      "longitude": 9.218655
+    },
+    {
+      "name": "HERFORD",
+      "code": "1496",
+      "cities": [],
+      "latitude": 52.1152245,
+      "longitude": 8.6711118
+    },
+    {
+      "name": "HERNE",
+      "code": "1499",
+      "cities": [],
+      "latitude": 51.5380394,
+      "longitude": 7.219985
+    },
+    {
+      "name": "HILDESHEIM",
+      "code": "1511",
+      "cities": [],
+      "latitude": 52.1521636,
+      "longitude": 9.9513046
+    },
+    {
+      "name": "HOF",
+      "code": "1526",
+      "cities": [],
+      "latitude": 50.3219015,
+      "longitude": 11.9178807
+    },
+    {
+      "name": "INGOLSTADT",
+      "code": "1589",
+      "cities": [],
+      "latitude": 48.7630165,
+      "longitude": 11.4250395
+    },
+    {
+      "name": "ISERLOHN",
+      "code": "1608",
+      "cities": [],
+      "latitude": 51.3746778,
+      "longitude": 7.6999713
+    },
+    {
+      "name": "JENA",
+      "code": "1651",
+      "cities": [],
+      "latitude": 50.9281717,
+      "longitude": 11.5879359
+    },
+    {
+      "name": "KAISERSLAUTERN",
+      "code": "1680",
+      "cities": [],
+      "latitude": 49.4432174,
+      "longitude": 7.7689951
+    },
+    {
+      "name": "KARL MARX SDT.",
+      "code": "1709",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "KARLSRUHE",
+      "code": "1713",
+      "cities": [],
+      "latitude": 49.0068705,
+      "longitude": 8.4034195
+    },
+    {
+      "name": "KASSEL",
+      "code": "1715",
+      "cities": [],
+      "latitude": 51.3154546,
+      "longitude": 9.4924096
+    },
+    {
+      "name": "KAUFBEUREN",
+      "code": "1719",
+      "cities": [],
+      "latitude": 47.8803788,
+      "longitude": 10.622246
+    },
+    {
+      "name": "KEMPTEN",
+      "code": "1735",
+      "cities": [],
+      "latitude": 47.7267063,
+      "longitude": 10.3168835
+    },
+    {
+      "name": "KIEL",
+      "code": "1761",
+      "cities": [],
+      "latitude": 54.3227085,
+      "longitude": 10.135555
+    },
+    {
+      "name": "KLEYE",
+      "code": "1789",
+      "cities": [],
+      "latitude": 52.6350072,
+      "longitude": 10.719943
+    },
+    {
+      "name": "KOBLENZ",
+      "code": "1792",
+      "cities": [],
+      "latitude": 50.3533278,
+      "longitude": 7.5943951
+    },
+    {
+      "name": "KOLN",
+      "code": "1798",
+      "cities": [],
+      "latitude": 50.938361,
+      "longitude": 6.959974
+    },
+    {
+      "name": "KONSTANZ",
+      "code": "1803",
+      "cities": [],
+      "latitude": 47.659216,
+      "longitude": 9.1750718
+    },
+    {
+      "name": "KREFELD",
+      "code": "1821",
+      "cities": [],
+      "latitude": 51.3331205,
+      "longitude": 6.5623343
+    },
+    {
+      "name": "LANDSHUT",
+      "code": "1889",
+      "cities": [],
+      "latitude": 48.536217,
+      "longitude": 12.1516551
+    },
+    {
+      "name": "LEER",
+      "code": "1925",
+      "cities": [],
+      "latitude": 53.20509275,
+      "longitude": 7.459463962492224
+    },
+    {
+      "name": "LEIPZIG",
+      "code": "1932",
+      "cities": [],
+      "latitude": 51.3406321,
+      "longitude": 12.3747329
+    },
+    {
+      "name": "LEVERKUSEN",
+      "code": "1953",
+      "cities": [],
+      "latitude": 51.0324743,
+      "longitude": 6.9881194
+    },
+    {
+      "name": "LICHTENBERG",
+      "code": "1968",
+      "cities": [],
+      "latitude": 52.5321606,
+      "longitude": 13.5118927
+    },
+    {
+      "name": "LIPPSTADT",
+      "code": "1988",
+      "cities": [],
+      "latitude": 51.6747074,
+      "longitude": 8.347194
+    },
+    {
+      "name": "LUBECKE",
+      "code": "2044",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "LUDENSCHEID",
+      "code": "2050",
+      "cities": [],
+      "latitude": 51.218137,
+      "longitude": 7.6396975
+    },
+    {
+      "name": "LUDWIGSBURG",
+      "code": "2052",
+      "cities": [],
+      "latitude": 48.8953937,
+      "longitude": 9.1895147
+    },
+    {
+      "name": "LUDWIGSHAFFEN",
+      "code": "2053",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "LUNEN",
+      "code": "2061",
+      "cities": [],
+      "latitude": 51.6142482,
+      "longitude": 7.5228088
+    },
+    {
+      "name": "MAGDEBURG",
+      "code": "2094",
+      "cities": [],
+      "latitude": 52.1315889,
+      "longitude": 11.6399609
+    },
+    {
+      "name": "MAINZ",
+      "code": "2099",
+      "cities": [],
+      "latitude": 50.0012314,
+      "longitude": 8.2762513
+    },
+    {
+      "name": "MANNHEIM",
+      "code": "2126",
+      "cities": [],
+      "latitude": 49.4892913,
+      "longitude": 8.4673098
+    },
+    {
+      "name": "MARBURG LAHN",
+      "code": "2140",
+      "cities": [],
+      "latitude": 50.8192169,
+      "longitude": 8.7750878
+    },
+    {
+      "name": "MARL",
+      "code": "2154",
+      "cities": [],
+      "latitude": 51.6485843,
+      "longitude": 7.0829054
+    },
+    {
+      "name": "MEISSEN",
+      "code": "2201",
+      "cities": [],
+      "latitude": 51.1630871,
+      "longitude": 13.4704939
+    },
+    {
+      "name": "MERSBURG",
+      "code": "2227",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "MINDEN",
+      "code": "2266",
+      "cities": [],
+      "latitude": 52.2881045,
+      "longitude": 8.9168852
+    },
+    {
+      "name": "MONCHENGLADBAH",
+      "code": "2290",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "MUHLHAUSEN",
+      "code": "2349",
+      "cities": [],
+      "latitude": 51.2094255,
+      "longitude": 10.4589044
+    },
+    {
+      "name": "MULHEIM RUHR",
+      "code": "2351",
+      "cities": [],
+      "latitude": 51.4272925,
+      "longitude": 6.8829192
+    },
+    {
+      "name": "MUNICH",
+      "code": "2355",
+      "cities": [],
+      "latitude": 48.1371079,
+      "longitude": 11.5753822
+    },
+    {
+      "name": "MUNSTER",
+      "code": "2356",
+      "cities": [],
+      "latitude": 51.9625101,
+      "longitude": 7.6251879
+    },
+    {
+      "name": "NEUMUNSTER",
+      "code": "2416",
+      "cities": [],
+      "latitude": 54.0757442,
+      "longitude": 9.9815377
+    },
+    {
+      "name": "NEUNKIRCHEN",
+      "code": "2417",
+      "cities": [],
+      "latitude": 50.5456179,
+      "longitude": 8.1025344
+    },
+    {
+      "name": "NEUSS",
+      "code": "2418",
+      "cities": [],
+      "latitude": 51.1981778,
+      "longitude": 6.6916476
+    },
+    {
+      "name": "NORDHORN",
+      "code": "2481",
+      "cities": [],
+      "latitude": 52.4359731,
+      "longitude": 7.0707659
+    },
+    {
+      "name": "NURNBURG",
+      "code": "2513",
+      "cities": [],
+      "latitude": 50.776351,
+      "longitude": 6.083862
+    },
+    {
+      "name": "OBERHAUSEN",
+      "code": "2529",
+      "cities": [],
+      "latitude": 51.4696137,
+      "longitude": 6.8514435
+    },
+    {
+      "name": "OFFENBACH MAIN",
+      "code": "2538",
+      "cities": [],
+      "latitude": 50.1055002,
+      "longitude": 8.7610698
+    },
+    {
+      "name": "OLDENBURG",
+      "code": "2551",
+      "cities": [],
+      "latitude": 53.1389753,
+      "longitude": 8.2146017
+    },
+    {
+      "name": "OSNABRUCK",
+      "code": "2597",
+      "cities": [],
+      "latitude": 52.37265095,
+      "longitude": 8.161049572938472
+    },
+    {
+      "name": "PADERBORN",
+      "code": "2622",
+      "cities": [],
+      "latitude": 51.7177044,
+      "longitude": 8.752653
+    },
+    {
+      "name": "PANKOW",
+      "code": "2643",
+      "cities": [],
+      "latitude": 52.5979174,
+      "longitude": 13.435316
+    },
+    {
+      "name": "PFORZHEIM",
+      "code": "2719",
+      "cities": [],
+      "latitude": 48.8908846,
+      "longitude": 8.7029532
+    },
+    {
+      "name": "PIRMASENS",
+      "code": "2743",
+      "cities": [],
+      "latitude": 49.1996961,
+      "longitude": 7.6087847
+    },
+    {
+      "name": "PLAUEN",
+      "code": "2759",
+      "cities": [],
+      "latitude": 50.4950632,
+      "longitude": 12.1346523
+    },
+    {
+      "name": "POTSDAM",
+      "code": "2817",
+      "cities": [],
+      "latitude": 52.4009309,
+      "longitude": 13.0591397
+    },
+    {
+      "name": "RATINGEN",
+      "code": "2892",
+      "cities": [],
+      "latitude": 51.2973261,
+      "longitude": 6.8493503
+    },
+    {
+      "name": "RECKLINGHAUSEN",
+      "code": "2902",
+      "cities": [],
+      "latitude": 51.6143815,
+      "longitude": 7.1978546
+    },
+    {
+      "name": "REGENSBURG",
+      "code": "2914",
+      "cities": [],
+      "latitude": 49.0195333,
+      "longitude": 12.0974869
+    },
+    {
+      "name": "REMSCHEID",
+      "code": "2922",
+      "cities": [],
+      "latitude": 51.184517,
+      "longitude": 7.228287474564793
+    },
+    {
+      "name": "RENDSBURG",
+      "code": "2923",
+      "cities": [],
+      "latitude": 54.3000225,
+      "longitude": 9.6516356
+    },
+    {
+      "name": "REUTLINGEN",
+      "code": "2933",
+      "cities": [],
+      "latitude": 48.4919508,
+      "longitude": 9.2114144
+    },
+    {
+      "name": "RHEINE",
+      "code": "2938",
+      "cities": [],
+      "latitude": 52.2797707,
+      "longitude": 7.4373615
+    },
+    {
+      "name": "RHEINHAUSEN",
+      "code": "2939",
+      "cities": [],
+      "latitude": 48.2338362,
+      "longitude": 7.7144924
+    },
+    {
+      "name": "RHEYDT",
+      "code": "2940",
+      "cities": [],
+      "latitude": 51.1675275,
+      "longitude": 6.4458391
+    },
+    {
+      "name": "ROSTOK",
+      "code": "3001",
+      "cities": [],
+      "latitude": 54.0886707,
+      "longitude": 12.1400211
+    },
+    {
+      "name": "SAARBRUCKEN",
+      "code": "3028",
+      "cities": [],
+      "latitude": 49.234362,
+      "longitude": 6.996379
+    },
+    {
+      "name": "SCHWABISCH GMU.",
+      "code": "3165",
+      "cities": [],
+      "latitude": 48.8670727,
+      "longitude": 9.8505755
+    },
+    {
+      "name": "SCHWABISCH HAL.",
+      "code": "3166",
+      "cities": [],
+      "latitude": 49.1123963,
+      "longitude": 9.7369047
+    },
+    {
+      "name": "SCHWEINFURT",
+      "code": "3168",
+      "cities": [],
+      "latitude": 50.0499945,
+      "longitude": 10.233302
+    },
+    {
+      "name": "SCHWERIN",
+      "code": "3169",
+      "cities": [],
+      "latitude": 53.6288297,
+      "longitude": 11.4148038
+    },
+    {
+      "name": "SIEGEN",
+      "code": "3225",
+      "cities": [],
+      "latitude": 50.8751175,
+      "longitude": 8.0256131
+    },
+    {
+      "name": "SOEST",
+      "code": "3257",
+      "cities": [],
+      "latitude": 51.5725501,
+      "longitude": 8.1061259
+    },
+    {
+      "name": "SOLINGEN",
+      "code": "3262",
+      "cities": [],
+      "latitude": 51.1721629,
+      "longitude": 7.0845893
+    },
+    {
+      "name": "SPEYER",
+      "code": "3288",
+      "cities": [],
+      "latitude": 49.3165553,
+      "longitude": 8.433615
+    },
+    {
+      "name": "STADE",
+      "code": "3329",
+      "cities": [],
+      "latitude": 53.599794,
+      "longitude": 9.475438
+    },
+    {
+      "name": "STOLBERG",
+      "code": "3357",
+      "cities": [],
+      "latitude": 50.7702908,
+      "longitude": 6.2295504
+    },
+    {
+      "name": "STRALSUND",
+      "code": "3362",
+      "cities": [],
+      "latitude": 54.3096314,
+      "longitude": 13.0820846
+    },
+    {
+      "name": "STRAUBING",
+      "code": "3366",
+      "cities": [],
+      "latitude": 48.8819801,
+      "longitude": 12.569716
+    },
+    {
+      "name": "STUTTGART",
+      "code": "3370",
+      "cities": [],
+      "latitude": 48.7784485,
+      "longitude": 9.1800132
+    },
+    {
+      "name": "TRIER",
+      "code": "3551",
+      "cities": [],
+      "latitude": 49.7596208,
+      "longitude": 6.6441878
+    },
+    {
+      "name": "TUBINGEN",
+      "code": "3569",
+      "cities": [],
+      "latitude": 48.5236164,
+      "longitude": 9.0535531
+    },
+    {
+      "name": "ULM",
+      "code": "3607",
+      "cities": [],
+      "latitude": 48.3984968,
+      "longitude": 9.9912458
+    },
+    {
+      "name": "VIERSEN",
+      "code": "3681",
+      "cities": [],
+      "latitude": 51.2562118,
+      "longitude": 6.3905476
+    },
+    {
+      "name": "WANNE-EICKEL",
+      "code": "3739",
+      "cities": [],
+      "latitude": 51.5317553,
+      "longitude": 7.1644354
+    },
+    {
+      "name": "WEIDEN",
+      "code": "3774",
+      "cities": [],
+      "latitude": 49.8068258,
+      "longitude": 7.3007004
+    },
+    {
+      "name": "WEIMAR",
+      "code": "3775",
+      "cities": [],
+      "latitude": 50.9769686,
+      "longitude": 11.3275394
+    },
+    {
+      "name": "WEISSENFELS",
+      "code": "3778",
+      "cities": [],
+      "latitude": 51.1999793,
+      "longitude": 11.9667857
+    },
+    {
+      "name": "WESEL",
+      "code": "3785",
+      "cities": [],
+      "latitude": 51.6576909,
+      "longitude": 6.617087
+    },
+    {
+      "name": "WETZLAR",
+      "code": "3807",
+      "cities": [],
+      "latitude": 50.5525346,
+      "longitude": 8.5074406
+    },
+    {
+      "name": "WIESBADEN",
+      "code": "3826",
+      "cities": [],
+      "latitude": 50.0820384,
+      "longitude": 8.2416556
+    },
+    {
+      "name": "WILHELMSHAVEN",
+      "code": "3829",
+      "cities": [],
+      "latitude": 53.5278793,
+      "longitude": 8.106301
+    },
+    {
+      "name": "WISMAR",
+      "code": "3858",
+      "cities": [],
+      "latitude": 53.8909832,
+      "longitude": 11.4647932
+    },
+    {
+      "name": "WITTEN",
+      "code": "3859",
+      "cities": [],
+      "latitude": 51.4370171,
+      "longitude": 7.335124
+    },
+    {
+      "name": "WITTENBERG",
+      "code": "3860",
+      "cities": [],
+      "latitude": 51.8666527,
+      "longitude": 12.646761
+    },
+    {
+      "name": "WOLFENBUTTEL",
+      "code": "3864",
+      "cities": [],
+      "latitude": 52.1625283,
+      "longitude": 10.5348215
+    },
+    {
+      "name": "WOLFSBURG",
+      "code": "3865",
+      "cities": [],
+      "latitude": 52.4205588,
+      "longitude": 10.7861682
+    },
+    {
+      "name": "WORMS",
+      "code": "3876",
+      "cities": [],
+      "latitude": 49.6302618,
+      "longitude": 8.3620898
+    },
+    {
+      "name": "WUPPERTAL",
+      "code": "3881",
+      "cities": [],
+      "latitude": 51.264018,
+      "longitude": 7.1780374
+    },
+    {
+      "name": "WURZBURG",
+      "code": "3882",
+      "cities": [],
+      "latitude": 49.7933723,
+      "longitude": 9.9309779
+    },
+    {
+      "name": "ZWICKAU",
+      "code": "3936",
+      "cities": [],
+      "latitude": 50.7185043,
+      "longitude": 12.4939267
+    }
+  ]
+}

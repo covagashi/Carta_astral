@@ -1,0 +1,83 @@
+{
+  "name": "ICELAND",
+  "code": "50",
+  "provinces": [
+    {
+      "name": "Akureyri",
+      "code": "4016",
+      "cities": [],
+      "latitude": 65.68390355,
+      "longitude": -18.11217559813441
+    },
+    {
+      "name": "Akurnes",
+      "code": "4017",
+      "cities": [],
+      "latitude": 64.3101395,
+      "longitude": -15.2173102
+    },
+    {
+      "name": "Dalatangi",
+      "code": "4022",
+      "cities": [],
+      "latitude": 65.2684572,
+      "longitude": -13.57599
+    },
+    {
+      "name": "Egilsstadir",
+      "code": "4018",
+      "cities": [],
+      "latitude": 65.2620412,
+      "longitude": -14.4035258
+    },
+    {
+      "name": "Grimsey",
+      "code": "4019",
+      "cities": [],
+      "latitude": 66.54615665,
+      "longitude": -18.00435200149534
+    },
+    {
+      "name": "Keflavikurflugvollur",
+      "code": "4013",
+      "cities": [],
+      "latitude": 63.9850476,
+      "longitude": -22.626722326354926
+    },
+    {
+      "name": "Kirkjubaejarklaustur",
+      "code": "4021",
+      "cities": [],
+      "latitude": 63.793065,
+      "longitude": -18.0418591
+    },
+    {
+      "name": "Raufarhofn",
+      "code": "4023",
+      "cities": [],
+      "latitude": 66.4529957,
+      "longitude": -15.9509426
+    },
+    {
+      "name": "Reykjavik",
+      "code": "4014",
+      "cities": [],
+      "latitude": 64.145981,
+      "longitude": -21.9422367
+    },
+    {
+      "name": "Stykkisholmur",
+      "code": "4020",
+      "cities": [],
+      "latitude": 65.0742584,
+      "longitude": -22.7302954
+    },
+    {
+      "name": "Vestmannaeyjar",
+      "code": "4015",
+      "cities": [],
+      "latitude": 63.426664599999995,
+      "longitude": -20.26988158464468
+    }
+  ]
+}

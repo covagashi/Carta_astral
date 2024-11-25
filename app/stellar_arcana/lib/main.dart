@@ -4,10 +4,18 @@ import 'package:intl/date_symbol_data_local.dart';
 import 'screens/SCR_ONB_01_Welcome.dart';
 import 'screens/SCR_ONB_02_BirthInfo.dart';
 import 'screens/SCR_01_Home.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'services/remote_config_service.dart';
 
 
-void main() {
-  initializeDateFormatting('es_ES', null).then((_) => runApp(const AstrologiaApp()));
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+
+  final remoteConfig = RemoteConfigService();
+  await remoteConfig.initialize();
+
+  runApp(const AstrologiaApp());
 }
 
 class AstrologiaApp extends StatelessWidget {

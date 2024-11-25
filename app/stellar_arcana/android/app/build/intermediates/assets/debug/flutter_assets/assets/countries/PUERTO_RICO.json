@@ -1,0 +1,150 @@
+{
+  "name": "PUERTO RICO",
+  "code": "126",
+  "provinces": [
+    {
+      "name": "AGUADILLA",
+      "code": "3943",
+      "cities": [
+        {
+          "name": "AGUADILLA",
+          "code": "3943",
+          "latitude": 18.4297923,
+          "longitude": -67.1542201
+        },
+        {
+          "name": "ARECIBO",
+          "code": "3944",
+          "latitude": 18.471975,
+          "longitude": -66.7161704
+        },
+        {
+          "name": "BAYAMON",
+          "code": "4025",
+          "latitude": 18.3990551,
+          "longitude": -66.1560326
+        },
+        {
+          "name": "CABO ROJO",
+          "code": "4035",
+          "latitude": 18.0870192,
+          "longitude": -67.1459114
+        },
+        {
+          "name": "CAGUAS",
+          "code": "4027",
+          "latitude": 18.2345399,
+          "longitude": -66.0351316
+        },
+        {
+          "name": "CANOVANAS",
+          "code": "4039",
+          "latitude": 18.3791932,
+          "longitude": -65.9010221
+        },
+        {
+          "name": "CAROLINA",
+          "code": "4026",
+          "latitude": 18.3808516,
+          "longitude": -65.9570244
+        },
+        {
+          "name": "CAYEY",
+          "code": "4040",
+          "latitude": 18.1127526,
+          "longitude": -66.1663362
+        },
+        {
+          "name": "CIDRA",
+          "code": "4042",
+          "latitude": 18.1757164,
+          "longitude": -66.1609235
+        },
+        {
+          "name": "GUAYNABO",
+          "code": "4028",
+          "latitude": 18.3578671,
+          "longitude": -66.1120141
+        },
+        {
+          "name": "GURABO",
+          "code": "4041",
+          "latitude": 18.2555647,
+          "longitude": -65.9723799
+        },
+        {
+          "name": "HUMACAO",
+          "code": "4034",
+          "latitude": 18.1502554,
+          "longitude": -65.8264835
+        },
+        {
+          "name": "ISABELA",
+          "code": "4038",
+          "latitude": 18.5007536,
+          "longitude": -67.0237422
+        },
+        {
+          "name": "JUANA DIAS",
+          "code": "4037",
+          "latitude": 18.4297923,
+          "longitude": -67.1542201
+        },
+        {
+          "name": "MANATI",
+          "code": "4043",
+          "latitude": 18.4271372,
+          "longitude": -66.4929477
+        },
+        {
+          "name": "MAYAGUEZ",
+          "code": "4030",
+          "latitude": 18.2011161,
+          "longitude": -67.1391124
+        },
+        {
+          "name": "PONCE",
+          "code": "3945",
+          "latitude": 18.011564,
+          "longitude": -66.613958
+        },
+        {
+          "name": "RIO GRANDE",
+          "code": "4036",
+          "latitude": 18.3606321,
+          "longitude": -67.23687225928968
+        },
+        {
+          "name": "SAN JUAN",
+          "code": "3946",
+          "latitude": 18.465299,
+          "longitude": -66.116666
+        },
+        {
+          "name": "TOA ALTA",
+          "code": "4032",
+          "latitude": 18.3887052,
+          "longitude": -66.247968
+        },
+        {
+          "name": "TOA BAJA",
+          "code": "4029",
+          "latitude": 18.4426255,
+          "longitude": -66.2545652
+        },
+        {
+          "name": "TRUJILLO ALTO",
+          "code": "4031",
+          "latitude": 18.3542408,
+          "longitude": -66.007377
+        },
+        {
+          "name": "VEGA BAJA",
+          "code": "4033",
+          "latitude": 18.4445314,
+          "longitude": -66.387587
+        }
+      ]
+    }
+  ]
+}

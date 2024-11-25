@@ -1,0 +1,146 @@
+{
+  "name": "SWITZERLAND",
+  "code": "103",
+  "provinces": [
+    {
+      "name": "AARAU",
+      "code": "4",
+      "cities": [],
+      "latitude": 47.3927146,
+      "longitude": 8.0444448
+    },
+    {
+      "name": "BADEN",
+      "code": "213",
+      "cities": [],
+      "latitude": 47.4736827,
+      "longitude": 8.3086822
+    },
+    {
+      "name": "BASEL",
+      "code": "264",
+      "cities": [],
+      "latitude": 47.5581077,
+      "longitude": 7.5878261
+    },
+    {
+      "name": "BERN",
+      "code": "353",
+      "cities": [],
+      "latitude": 46.9484742,
+      "longitude": 7.4521749
+    },
+    {
+      "name": "BIEL",
+      "code": "372",
+      "cities": [],
+      "latitude": 47.1402077,
+      "longitude": 7.2439029
+    },
+    {
+      "name": "CHUR",
+      "code": "744",
+      "cities": [],
+      "latitude": 46.854747,
+      "longitude": 9.5264904
+    },
+    {
+      "name": "FRIBOURG",
+      "code": "1218",
+      "cities": [],
+      "latitude": 46.8055656,
+      "longitude": 7.1612669
+    },
+    {
+      "name": "GENEVA",
+      "code": "1266",
+      "cities": [],
+      "latitude": 46.2017559,
+      "longitude": 6.1466014
+    },
+    {
+      "name": "LAUZANNE",
+      "code": "1904",
+      "cities": [],
+      "latitude": 47.3927146,
+      "longitude": 8.0444448
+    },
+    {
+      "name": "LUCERNE",
+      "code": "2048",
+      "cities": [],
+      "latitude": 47.0505452,
+      "longitude": 8.3054682
+    },
+    {
+      "name": "LUGANO",
+      "code": "2055",
+      "cities": [],
+      "latitude": 46.0050102,
+      "longitude": 8.9520281
+    },
+    {
+      "name": "LUZERN",
+      "code": "2067",
+      "cities": [],
+      "latitude": 47.0505452,
+      "longitude": 8.3054682
+    },
+    {
+      "name": "NEUCHATEL",
+      "code": "2415",
+      "cities": [],
+      "latitude": 46.9895828,
+      "longitude": 6.9292641
+    },
+    {
+      "name": "OLTEN",
+      "code": "2556",
+      "cities": [],
+      "latitude": 47.3496571,
+      "longitude": 7.903787
+    },
+    {
+      "name": "SANKTGALLEN",
+      "code": "3111",
+      "cities": [],
+      "latitude": 47.3927146,
+      "longitude": 8.0444448
+    },
+    {
+      "name": "SCHAFFHAUSEN",
+      "code": "3161",
+      "cities": [],
+      "latitude": 47.6971082,
+      "longitude": 8.6347214
+    },
+    {
+      "name": "THUN",
+      "code": "3492",
+      "cities": [],
+      "latitude": 46.7582827,
+      "longitude": 7.628086
+    },
+    {
+      "name": "VEVEY",
+      "code": "3672",
+      "cities": [],
+      "latitude": 46.4602978,
+      "longitude": 6.8418655
+    },
+    {
+      "name": "WINTERTHUR",
+      "code": "3856",
+      "cities": [],
+      "latitude": 47.4991723,
+      "longitude": 8.7291498
+    },
+    {
+      "name": "ZURICH",
+      "code": "3934",
+      "cities": [],
+      "latitude": 47.3744489,
+      "longitude": 8.5410422
+    }
+  ]
+}

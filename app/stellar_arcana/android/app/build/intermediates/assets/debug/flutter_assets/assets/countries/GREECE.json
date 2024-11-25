@@ -1,0 +1,412 @@
+{
+  "name": "GREECE",
+  "code": "44",
+  "provinces": [
+    {
+      "name": "AGRINION",
+      "code": "26",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "AIYION",
+      "code": "35",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "ALEXANDROUPOLIS",
+      "code": "62",
+      "cities": [],
+      "latitude": 36.4234286,
+      "longitude": 28.2103364
+    },
+    {
+      "name": "AMALIAS",
+      "code": "90",
+      "cities": [],
+      "latitude": 39.6394685,
+      "longitude": 22.4196557
+    },
+    {
+      "name": "ARGOS",
+      "code": "146",
+      "cities": [],
+      "latitude": 37.6349668,
+      "longitude": 22.7285084
+    },
+    {
+      "name": "ARTA",
+      "code": "157",
+      "cities": [],
+      "latitude": 39.1613205,
+      "longitude": 20.986264
+    },
+    {
+      "name": "ATHENS",
+      "code": "180",
+      "cities": [],
+      "latitude": 37.9755648,
+      "longitude": 23.7348324
+    },
+    {
+      "name": "CORINTH",
+      "code": "834",
+      "cities": [],
+      "latitude": 37.9385413,
+      "longitude": 22.9273768
+    },
+    {
+      "name": "DRAMA",
+      "code": "972",
+      "cities": [],
+      "latitude": 41.1499443,
+      "longitude": 24.1468286
+    },
+    {
+      "name": "EDHESSA",
+      "code": "1034",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "FLORINA",
+      "code": "1170",
+      "cities": [],
+      "latitude": 40.7829027,
+      "longitude": 21.4138858
+    },
+    {
+      "name": "IOANNINA",
+      "code": "1595",
+      "cities": [],
+      "latitude": 39.6639818,
+      "longitude": 20.8522784
+    },
+    {
+      "name": "IRAKLION",
+      "code": "1601",
+      "cities": [],
+      "latitude": 35.33908,
+      "longitude": 25.1332843
+    },
+    {
+      "name": "KALAMAI",
+      "code": "1681",
+      "cities": [],
+      "latitude": 37.0372714,
+      "longitude": 22.110707
+    },
+    {
+      "name": "KARDHITSA",
+      "code": "1708",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "KASTORIA",
+      "code": "1716",
+      "cities": [],
+      "latitude": 40.5216297,
+      "longitude": 21.2636522
+    },
+    {
+      "name": "KATERINI",
+      "code": "1717",
+      "cities": [],
+      "latitude": 40.2713616,
+      "longitude": 22.5087618
+    },
+    {
+      "name": "KAVALLA",
+      "code": "1721",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "KERKIRA",
+      "code": "1745",
+      "cities": [],
+      "latitude": 39.49515435,
+      "longitude": 19.832205001361572
+    },
+    {
+      "name": "KHALKIS",
+      "code": "1752",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "KHALKIS",
+      "code": "1753",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "KHANIA",
+      "code": "1754",
+      "cities": [],
+      "latitude": 37.6039395,
+      "longitude": 21.8173397
+    },
+    {
+      "name": "KHIOS",
+      "code": "1758",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "KILKIS",
+      "code": "1764",
+      "cities": [],
+      "latitude": 40.9935874,
+      "longitude": 22.8741455
+    },
+    {
+      "name": "KOMOTINI",
+      "code": "1802",
+      "cities": [],
+      "latitude": 41.1182,
+      "longitude": 25.4035708
+    },
+    {
+      "name": "KORINTHOS",
+      "code": "1806",
+      "cities": [],
+      "latitude": 37.9385413,
+      "longitude": 22.9273768
+    },
+    {
+      "name": "KOZANI",
+      "code": "1816",
+      "cities": [],
+      "latitude": 40.3007259,
+      "longitude": 21.7883119
+    },
+    {
+      "name": "LAMIA",
+      "code": "1884",
+      "cities": [],
+      "latitude": 38.8993832,
+      "longitude": 22.433582
+    },
+    {
+      "name": "LARISA",
+      "code": "1896",
+      "cities": [],
+      "latitude": 39.6383092,
+      "longitude": 22.4160706
+    },
+    {
+      "name": "LEVADHIA",
+      "code": "1952",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "MEGARA",
+      "code": "2200",
+      "cities": [],
+      "latitude": 37.9965887,
+      "longitude": 23.3445017
+    },
+    {
+      "name": "MESOLONGION",
+      "code": "2231",
+      "cities": [],
+      "latitude": 38.39274605,
+      "longitude": 21.392827586173844
+    },
+    {
+      "name": "MITILINI",
+      "code": "2280",
+      "cities": [],
+      "latitude": 39.1037355,
+      "longitude": 26.554788
+    },
+    {
+      "name": "NAOUSA",
+      "code": "2392",
+      "cities": [],
+      "latitude": 40.630574,
+      "longitude": 22.0696057
+    },
+    {
+      "name": "PATRAI",
+      "code": "2678",
+      "cities": [],
+      "latitude": 38.246242,
+      "longitude": 21.7350847
+    },
+    {
+      "name": "PATRAS",
+      "code": "2679",
+      "cities": [],
+      "latitude": 38.246242,
+      "longitude": 21.7350847
+    },
+    {
+      "name": "PIRAEUS",
+      "code": "2741",
+      "cities": [],
+      "latitude": 37.9431594,
+      "longitude": 23.6470593
+    },
+    {
+      "name": "PIRGOS",
+      "code": "2742",
+      "cities": [],
+      "latitude": 37.6722103,
+      "longitude": 21.4392124
+    },
+    {
+      "name": "RETHIMNON",
+      "code": "2931",
+      "cities": [],
+      "latitude": 35.3676472,
+      "longitude": 24.4736079
+    },
+    {
+      "name": "RHODES",
+      "code": "2941",
+      "cities": [],
+      "latitude": 36.4437233,
+      "longitude": 28.227369
+    },
+    {
+      "name": "RODHOS",
+      "code": "2988",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "SALAMIS",
+      "code": "3047",
+      "cities": [],
+      "latitude": 37.9383706,
+      "longitude": 23.508373587712107
+    },
+    {
+      "name": "SALONIKA",
+      "code": "3060",
+      "cities": [],
+      "latitude": 40.65432465,
+      "longitude": 22.931475273464873
+    },
+    {
+      "name": "SERRAI",
+      "code": "3186",
+      "cities": [],
+      "latitude": 41.0910711,
+      "longitude": 23.5498031
+    },
+    {
+      "name": "SPARTA",
+      "code": "3285",
+      "cities": [],
+      "latitude": 37.0744494,
+      "longitude": 22.4301778
+    },
+    {
+      "name": "SPARTI",
+      "code": "3287",
+      "cities": [],
+      "latitude": 37.0744494,
+      "longitude": 22.4301778
+    },
+    {
+      "name": "THEBES",
+      "code": "3483",
+      "cities": [],
+      "latitude": 38.3200705,
+      "longitude": 23.3175613
+    },
+    {
+      "name": "THESSALONIKI",
+      "code": "3484",
+      "cities": [],
+      "latitude": 40.6403167,
+      "longitude": 22.9352716
+    },
+    {
+      "name": "THIVAI",
+      "code": "3486",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "TIRNAVOS",
+      "code": "3506",
+      "cities": [],
+      "latitude": 39.7388604,
+      "longitude": 22.2882216
+    },
+    {
+      "name": "TRIKKALA",
+      "code": "3553",
+      "cities": [],
+      "latitude": 39.60977455,
+      "longitude": 21.74158785591318
+    },
+    {
+      "name": "TRIPOLIS",
+      "code": "3557",
+      "cities": [],
+      "latitude": 37.52646585,
+      "longitude": 22.34874426880834
+    },
+    {
+      "name": "VEROIA",
+      "code": "3668",
+      "cities": [],
+      "latitude": 40.5215342,
+      "longitude": 22.2036834
+    },
+    {
+      "name": "VOLOS",
+      "code": "3710",
+      "cities": [],
+      "latitude": 39.3624833,
+      "longitude": 22.9401864
+    },
+    {
+      "name": "XANTHI",
+      "code": "3884",
+      "cities": [],
+      "latitude": 41.13805,
+      "longitude": 24.8864089
+    },
+    {
+      "name": "YANNINA",
+      "code": "3891",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "YIANNITSA",
+      "code": "3898",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    },
+    {
+      "name": "ZAKINTHOS",
+      "code": "3919",
+      "cities": [],
+      "latitude": 38.6248275,
+      "longitude": 21.4094206
+    }
+  ]
+}

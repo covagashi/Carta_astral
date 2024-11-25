@@ -1,0 +1,195 @@
+{
+  "name": "IRELAND",
+  "code": "55",
+  "provinces": [
+    {
+      "name": "ARMAGH",
+      "code": "154",
+      "cities": [],
+      "latitude": 54.2358295,
+      "longitude": -7.1194156322515
+    },
+    {
+      "name": "BALLYMENA",
+      "code": "230",
+      "cities": [],
+      "latitude": 54.8662966,
+      "longitude": -6.2760159
+    },
+    {
+      "name": "BANGOR",
+      "code": "236",
+      "cities": [],
+      "latitude": 54.15485505,
+      "longitude": -9.721192781713398
+    },
+    {
+      "name": "BELFAST",
+      "code": "305",
+      "cities": [],
+      "latitude": 54.596391,
+      "longitude": -5.9301829
+    },
+    {
+      "name": "BRAY",
+      "code": "466",
+      "cities": [],
+      "latitude": 53.2014604,
+      "longitude": -6.1105049
+    },
+    {
+      "name": "CARRICKFERGUS",
+      "code": "619",
+      "cities": [],
+      "latitude": 54.7136165,
+      "longitude": -5.8073112
+    },
+    {
+      "name": "COLERAINE",
+      "code": "789",
+      "cities": [],
+      "latitude": 52.5189445,
+      "longitude": -7.806051442835251
+    },
+    {
+      "name": "CORK",
+      "code": "835",
+      "cities": [],
+      "latitude": 51.897077,
+      "longitude": -8.4654674
+    },
+    {
+      "name": "DROGHEDA",
+      "code": "975",
+      "cities": [],
+      "latitude": 53.7149877,
+      "longitude": -6.3524183
+    },
+    {
+      "name": "DUBLIN",
+      "code": "980",
+      "cities": [],
+      "latitude": 53.3493795,
+      "longitude": -6.2605593
+    },
+    {
+      "name": "DUN LAOGHAIRE",
+      "code": "989",
+      "cities": [],
+      "latitude": 53.2922794,
+      "longitude": -6.1360079
+    },
+    {
+      "name": "DUNDALK",
+      "code": "993",
+      "cities": [],
+      "latitude": 54.0046033,
+      "longitude": -6.4008879
+    },
+    {
+      "name": "ENNIS",
+      "code": "1088",
+      "cities": [],
+      "latitude": 52.8435152,
+      "longitude": -8.983747
+    },
+    {
+      "name": "GALWAY",
+      "code": "1244",
+      "cities": [],
+      "latitude": 53.2744122,
+      "longitude": -9.0490601
+    },
+    {
+      "name": "KILKENNY",
+      "code": "1763",
+      "cities": [],
+      "latitude": 52.6506255,
+      "longitude": -7.2514438
+    },
+    {
+      "name": "KINGSTOWN",
+      "code": "1771",
+      "cities": [],
+      "latitude": 53.2922794,
+      "longitude": -6.1360079
+    },
+    {
+      "name": "LARNE",
+      "code": "1897",
+      "cities": [],
+      "latitude": 51.4913468,
+      "longitude": -9.226475
+    },
+    {
+      "name": "LIMERICK",
+      "code": "1978",
+      "cities": [],
+      "latitude": 52.661252,
+      "longitude": -8.6301239
+    },
+    {
+      "name": "LISBURN",
+      "code": "1990",
+      "cities": [],
+      "latitude": 53.40325595,
+      "longitude": -8.324792247860636
+    },
+    {
+      "name": "LONDONDERRY",
+      "code": "2018",
+      "cities": [],
+      "latitude": 54.9978678,
+      "longitude": -7.3213056
+    },
+    {
+      "name": "NEWRY",
+      "code": "2456",
+      "cities": [],
+      "latitude": 52.72749665,
+      "longitude": -6.61751670286729
+    },
+    {
+      "name": "NEWTOWNABBEY",
+      "code": "2459",
+      "cities": [],
+      "latitude": 54.6778816,
+      "longitude": -5.9249199
+    },
+    {
+      "name": "NEWTOWNARDS",
+      "code": "2460",
+      "cities": [],
+      "latitude": 54.5933779,
+      "longitude": -5.6960935
+    },
+    {
+      "name": "OMAGH",
+      "code": "2559",
+      "cities": [],
+      "latitude": 54.5992486,
+      "longitude": -7.3029907
+    },
+    {
+      "name": "TRALEE",
+      "code": "3541",
+      "cities": [],
+      "latitude": 52.2692116,
+      "longitude": -9.7057047
+    },
+    {
+      "name": "WATEFORD",
+      "code": "3754",
+      "cities": [],
+      "latitude": 54.2358295,
+      "longitude": -7.1194156322515
+    },
+    {
+      "name": "WEXFORD",
+      "code": "3808",
+      "cities": [],
+      "latitude": 52.3367671,
+      "longitude": -6.4601397
+    }
+  ]
+}

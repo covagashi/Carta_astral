@@ -1,0 +1,97 @@
+{
+  "name": "BELARUS",
+  "code": "9",
+  "provinces": [
+    {
+      "name": "BOBRUYSK",
+      "code": "411",
+      "cities": [],
+      "latitude": 53.188152849999994,
+      "longitude": 29.207534490365603
+    },
+    {
+      "name": "BORISOV",
+      "code": "430",
+      "cities": [],
+      "latitude": 54.2240665,
+      "longitude": 28.5117849
+    },
+    {
+      "name": "GOMEL",
+      "code": "1307",
+      "cities": [],
+      "latitude": 52.4238936,
+      "longitude": 31.0131698
+    },
+    {
+      "name": "GRODNO",
+      "code": "1367",
+      "cities": [],
+      "latitude": 53.6834599,
+      "longitude": 23.8342648
+    },
+    {
+      "name": "LIDA",
+      "code": "1969",
+      "cities": [],
+      "latitude": 53.8949515,
+      "longitude": 25.295719
+    },
+    {
+      "name": "MINSK",
+      "code": "2271",
+      "cities": [],
+      "latitude": 53.9024716,
+      "longitude": 27.5618225
+    },
+    {
+      "name": "MOGILEV",
+      "code": "2286",
+      "cities": [],
+      "latitude": 53.9090245,
+      "longitude": 30.3429838
+    },
+    {
+      "name": "MOZYR",
+      "code": "2345",
+      "cities": [],
+      "latitude": 52.0475482,
+      "longitude": 29.2667179
+    },
+    {
+      "name": "ORSHA",
+      "code": "2589",
+      "cities": [],
+      "latitude": 54.5119008,
+      "longitude": 30.4254486
+    },
+    {
+      "name": "PINSK",
+      "code": "2737",
+      "cities": [],
+      "latitude": 52.1113862,
+      "longitude": 26.1025274
+    },
+    {
+      "name": "POLOTSK",
+      "code": "2774",
+      "cities": [],
+      "latitude": 55.4854656,
+      "longitude": 28.7682339
+    },
+    {
+      "name": "SLUTSK",
+      "code": "3251",
+      "cities": [],
+      "latitude": 53.0277354,
+      "longitude": 27.5519747
+    },
+    {
+      "name": "VITEBSK",
+      "code": "3699",
+      "cities": [],
+      "latitude": 55.1930197,
+      "longitude": 30.2070437
+    }
+  ]
+}

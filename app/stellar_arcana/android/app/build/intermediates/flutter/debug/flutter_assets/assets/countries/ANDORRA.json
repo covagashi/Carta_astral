@@ -1,0 +1,126 @@
+{
+  "name": "ANDORRA",
+  "code": "128",
+  "provinces": [
+    {
+      "name": "Andorra la Vieja",
+      "code": "710",
+      "cities": [
+        {
+          "name": "Andorra la Vieja",
+          "code": "710",
+          "latitude": 42.50132325,
+          "longitude": 1.5139185029158804
+        },
+        {
+          "name": "Canillo",
+          "code": "706",
+          "latitude": 42.50132325,
+          "longitude": 1.5139185029158804
+        },
+        {
+          "name": "Encamp",
+          "code": "707",
+          "latitude": 42.50132325,
+          "longitude": 1.5139185029158804
+        },
+        {
+          "name": "La Massana",
+          "code": "709",
+          "latitude": 42.5171862,
+          "longitude": 1.5262256
+        },
+        {
+          "name": "Las Escaldas-Engordany",
+          "code": "712",
+          "latitude": 42.50132325,
+          "longitude": 1.5139185029158804
+        },
+        {
+          "name": "Ordino",
+          "code": "708",
+          "latitude": 42.50132325,
+          "longitude": 1.5139185029158804
+        },
+        {
+          "name": "San Julián de Loria",
+          "code": "711",
+          "latitude": 42.50132325,
+          "longitude": 1.5139185029158804
+        }
+      ]
+    },
+    {
+      "name": "Canillo",
+      "code": "706",
+      "cities": [
+        {
+          "name": "Canillo",
+          "code": "464626",
+          "latitude": 42.5668305,
+          "longitude": 1.5977647
+        }
+      ]
+    },
+    {
+      "name": "Encamp",
+      "code": "707",
+      "cities": [
+        {
+          "name": "Encamp",
+          "code": "464627",
+          "latitude": 42.5321146,
+          "longitude": 1.5741201
+        }
+      ]
+    },
+    {
+      "name": "La Massana",
+      "code": "709",
+      "cities": [
+        {
+          "name": "La Massana",
+          "code": "464628",
+          "latitude": 42.5436783,
+          "longitude": 1.5228165
+        }
+      ]
+    },
+    {
+      "name": "Las Escaldas-Engordany",
+      "code": "712",
+      "cities": [
+        {
+          "name": "Las Escaldas-Engordany",
+          "code": "464631",
+          "latitude": 42.50132325,
+          "longitude": 1.5139185029158804
+        }
+      ]
+    },
+    {
+      "name": "Ordino",
+      "code": "708",
+      "cities": [
+        {
+          "name": "Ordino",
+          "code": "464629",
+          "latitude": 42.55615,
+          "longitude": 1.5334945
+        }
+      ]
+    },
+    {
+      "name": "San Julián de Loria",
+      "code": "711",
+      "cities": [
+        {
+          "name": "San Julián de Loria",
+          "code": "464630",
+          "latitude": 42.50132325,
+          "longitude": 1.5139185029158804
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "name": "ROMANIA",
+  "code": "91",
+  "provinces": [
+    {
+      "name": "ARAD",
+      "code": "139",
+      "cities": [],
+      "latitude": 46.1753793,
+      "longitude": 21.3196342
+    },
+    {
+      "name": "BAIA MARE",
+      "code": "219",
+      "cities": [],
+      "latitude": 47.6565584,
+      "longitude": 23.5719843
+    },
+    {
+      "name": "BRAILA",
+      "code": "452",
+      "cities": [],
+      "latitude": 45.2716092,
+      "longitude": 27.9742932
+    },
+    {
+      "name": "BRASOV",
+      "code": "461",
+      "cities": [],
+      "latitude": 45.6525105,
+      "longitude": 25.6105654
+    },
+    {
+      "name": "BUCHAREST",
+      "code": "518",
+      "cities": [],
+      "latitude": 44.4361414,
+      "longitude": 26.1027202
+    },
+    {
+      "name": "CLUJ-NAPOCA",
+      "code": "777",
+      "cities": [],
+      "latitude": 46.769379,
+      "longitude": 23.5899542
+    },
+    {
+      "name": "CONSTANTA",
+      "code": "818",
+      "cities": [],
+      "latitude": 44.1767161,
+      "longitude": 28.6507598
+    },
+    {
+      "name": "CRAIOVA",
+      "code": "857",
+      "cities": [],
+      "latitude": 44.3190159,
+      "longitude": 23.7965614
+    },
+    {
+      "name": "GALATI",
+      "code": "1239",
+      "cities": [],
+      "latitude": 45.4338215,
+      "longitude": 28.0549395
+    },
+    {
+      "name": "IASI",
+      "code": "1572",
+      "cities": [],
+      "latitude": 47.1615598,
+      "longitude": 27.5837814
+    },
+    {
+      "name": "ORADEA",
+      "code": "2570",
+      "cities": [],
+      "latitude": 47.0549163,
+      "longitude": 21.9285231
+    },
+    {
+      "name": "PLOIESTI",
+      "code": "2764",
+      "cities": [],
+      "latitude": 44.9417468,
+      "longitude": 26.0236504
+    },
+    {
+      "name": "TIMISOARA",
+      "code": "3501",
+      "cities": [],
+      "latitude": 45.7538355,
+      "longitude": 21.2257474
+    },
+    {
+      "name": "TIRGU MUREZ",
+      "code": "3505",
+      "cities": [],
+      "latitude": 46.1753793,
+      "longitude": 21.3196342
+    }
+  ]
+}

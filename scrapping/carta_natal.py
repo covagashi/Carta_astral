@@ -172,7 +172,6 @@ def generate_png_from_data(data):
     chrome_options.add_argument("--disable-web-security")
     chrome_options.add_argument('--remote-debugging-port=9222')
 
-    # Usar la ruta exacta verificada
     chrome_options.binary_location = "/usr/bin/chromium"
 
     try:
@@ -182,9 +181,10 @@ def generate_png_from_data(data):
         )
         
         driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.set_script_timeout(10)
 
-        latitude = data['latitud']
-        longitude = data['longitud']
+        latitude = str(float(data['latitud']))  # Asegurar formato numérico
+        longitude = str(float(data['longitud']))
         date = f"{data['ano']}-{data['mes'].zfill(2)}-{data['dia'].zfill(2)}"
         time_str = f"{data['hora'].zfill(2)}:{data['minutos'].zfill(2)}:00"
 
@@ -197,55 +197,79 @@ def generate_png_from_data(data):
         driver.get(f"file:///{html_path}")
         logger.info("HTML cargado correctamente")
 
-        
         try:
-            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
-            logger.info("Body encontrado")
-        except Exception as e:
-            logger.error(f"Timeout esperando el body: {str(e)}")
-            raise
- 
-        try:
-            driver.execute_script(f"""
-                document.getElementById('latitude').value = '{latitude}';
-                document.getElementById('longitude').value = '{longitude}';
-                document.getElementById('date').value = '{date}';
-                document.getElementById('time').value = '{time_str}';
-                document.querySelector('button[type="submit"]').click();
-            """)
-            logger.info("Script ejecutado correctamente")
-        except Exception as e:
-            logger.error(f"Error ejecutando script: {str(e)}")
-            raise
+            # Esperar que la página esté lista
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.ID, "form"))
+            )
+            logger.info("form encontrado")
 
-       
-        try:
-            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, "svg")))
-            logger.info("SVG encontrado")
-        except Exception as e:
-            logger.error(f"Timeout esperando el SVG: {str(e)}")
-            raise
+            # Llenar el formulario con JavaScript
+            driver.execute_script("""
+                const setFieldValue = (id, value) => {
+                    const field = document.getElementById(id);
+                    if (field) {
+                        field.value = value;
+                        const event = new Event('change', { bubbles: true });
+                        field.dispatchEvent(event);
+                    }
+                };
 
-        svg_content = driver.find_element(By.TAG_NAME, "svg").get_attribute("outerHTML")
-        logger.info("SVG extraído correctamente")
+                setFieldValue('latitude', arguments[0]);
+                setFieldValue('longitude', arguments[1]);
+                setFieldValue('date', arguments[2]);
+                setFieldValue('time', arguments[3]);
+                
+                
+                // Simular click después de un breve delay
+                setTimeout(() => {
+                    const button = document.querySelector('button[type="submit"]');
+                    if (button) button.click();
+                }, 500);
+            """, latitude, longitude, date, time_str)
+            
+            logger.info("Formulario llenado y botón clickeado")
 
-        
-        try:
+
+            # Esperar que el SVG se genere
+            for attempt in range(3):
+                try:
+                    logger.info(f"Intento {attempt + 1} de obtener SVG")
+                    time.sleep(2)  # Dar tiempo para la generación
+                    
+                    svg = driver.find_element(By.CSS_SELECTOR, "#chart svg")
+                    if svg and svg.get_attribute("innerHTML").strip():
+                        svg_content = svg.get_attribute("outerHTML")
+                        logger.info("SVG extraído correctamente")
+                        break
+                except Exception as e:
+                    if attempt == 2:  # Último intento
+                        raise
+                    logger.warning(f"Intento {attempt + 1} falló: {str(e)}")
+                    continue
+
+            # Convertir SVG a PNG
             png_data = cairosvg.svg2png(bytestring=svg_content.encode('utf-8'))
             logger.info("SVG convertido a PNG correctamente")
+
+            timestamp = int(time.time() * 1000)
+            png_filename = f'carta_natal_{timestamp}.png'
+            png_path = Path(png_filename)
+
+            with png_path.open('wb') as f:
+                f.write(png_data)
+
+            logger.info(f"PNG guardado como '{png_path.absolute()}'")
+            return png_path
+
         except Exception as e:
-            logger.error(f"Error convirtiendo SVG a PNG: {str(e)}")
+            # Capturar y loggear el estado actual de la página
+            logger.error(f"Error durante la generación del chart: {str(e)}")
+            error_screenshot = f"error_{int(time.time())}.png"
+            driver.save_screenshot(error_screenshot)
+            logger.error(f"Screenshot guardado como {error_screenshot}")
+            logger.error(f"HTML actual: {driver.page_source}")
             raise
-
-        timestamp = int(time.time() * 1000)
-        png_filename = f'carta_natal_{timestamp}.png'
-        png_path = Path(png_filename)
-
-        with png_path.open('wb') as f:
-            f.write(png_data)
-
-        logger.info(f"PNG guardado como '{png_path.absolute()}'")
-        return png_path
 
     except Exception as e:
         logger.error(f"Error al generar PNG: {str(e)}")
@@ -253,12 +277,12 @@ def generate_png_from_data(data):
         return None
 
     finally:
-            if 'driver' in locals():
-                try:
-                    driver.quit()
-                    logger.info("Driver cerrado correctamente")
-                except Exception as e:
-                    logger.error(f"Error al cerrar el driver: {str(e)}")
+        if 'driver' in locals():
+            try:
+                driver.quit()
+                logger.info("Driver cerrado correctamente")
+            except Exception as e:
+                logger.error(f"Error al cerrar el driver: {str(e)}")
 
 
 def main(data):

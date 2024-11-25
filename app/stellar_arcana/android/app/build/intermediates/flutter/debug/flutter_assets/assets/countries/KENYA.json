@@ -1,0 +1,20 @@
+{
+  "name": "KENYA",
+  "code": "62",
+  "provinces": [
+    {
+      "name": "MOMBASA",
+      "code": "2289",
+      "cities": [],
+      "latitude": -4.05052,
+      "longitude": 39.667169
+    },
+    {
+      "name": "NAIROBI",
+      "code": "2381",
+      "cities": [],
+      "latitude": -1.3026148499999999,
+      "longitude": 36.82884201813725
+    }
+  ]
+}

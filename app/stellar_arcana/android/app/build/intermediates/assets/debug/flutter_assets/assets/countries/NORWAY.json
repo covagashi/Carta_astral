@@ -1,0 +1,69 @@
+{
+  "name": "NORWAY",
+  "code": "84",
+  "provinces": [
+    {
+      "name": "BERGEN",
+      "code": "348",
+      "cities": [],
+      "latitude": 60.3943055,
+      "longitude": 5.3259192
+    },
+    {
+      "name": "DRAMMEN",
+      "code": "973",
+      "cities": [],
+      "latitude": 59.6964936,
+      "longitude": 10.175641950012762
+    },
+    {
+      "name": "FREDRIKSTAD",
+      "code": "1207",
+      "cities": [],
+      "latitude": 59.2133614,
+      "longitude": 10.9361604
+    },
+    {
+      "name": "HAUGESUND",
+      "code": "1461",
+      "cities": [],
+      "latitude": 59.413807,
+      "longitude": 5.2681249
+    },
+    {
+      "name": "KRISTIANSAND",
+      "code": "1825",
+      "cities": [],
+      "latitude": 58.085627599999995,
+      "longitude": 7.93185802875815
+    },
+    {
+      "name": "OSLO",
+      "code": "2596",
+      "cities": [],
+      "latitude": 59.9133301,
+      "longitude": 10.7389701
+    },
+    {
+      "name": "SKIEN",
+      "code": "3241",
+      "cities": [],
+      "latitude": 59.2662883,
+      "longitude": 9.531135447537467
+    },
+    {
+      "name": "STAVENGER",
+      "code": "3339",
+      "cities": [],
+      "latitude": 60.3943055,
+      "longitude": 5.3259192
+    },
+    {
+      "name": "TRONDHEIM",
+      "code": "3561",
+      "cities": [],
+      "latitude": 63.4304475,
+      "longitude": 10.3952118
+    }
+  ]
+}

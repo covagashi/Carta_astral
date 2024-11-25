@@ -1,0 +1,13 @@
+{
+  "name": "ETHIOPIA",
+  "code": "33",
+  "provinces": [
+    {
+      "name": "ADDIS ABABA",
+      "code": "18",
+      "cities": [],
+      "latitude": 9.0358287,
+      "longitude": 38.7524127
+    }
+  ]
+}

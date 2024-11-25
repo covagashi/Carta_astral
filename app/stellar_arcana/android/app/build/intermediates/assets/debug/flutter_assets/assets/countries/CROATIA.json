@@ -1,0 +1,90 @@
+{
+  "name": "CROATIA",
+  "code": "23",
+  "provinces": [
+    {
+      "name": "BJELOVAR",
+      "code": "390",
+      "cities": [],
+      "latitude": 45.8986869,
+      "longitude": 16.8421977
+    },
+    {
+      "name": "DUBROVNIK",
+      "code": "982",
+      "cities": [],
+      "latitude": 42.64873625,
+      "longitude": 18.094680152605108
+    },
+    {
+      "name": "KARLOVAC",
+      "code": "1710",
+      "cities": [],
+      "latitude": 45.4892522,
+      "longitude": 15.5486303
+    },
+    {
+      "name": "KOPRIVNICA",
+      "code": "1804",
+      "cities": [],
+      "latitude": 46.1623512,
+      "longitude": 16.8307893
+    },
+    {
+      "name": "OSIJEK",
+      "code": "2595",
+      "cities": [],
+      "latitude": 45.5548793,
+      "longitude": 18.6953685
+    },
+    {
+      "name": "RIJEKA",
+      "code": "2960",
+      "cities": [],
+      "latitude": 45.3267976,
+      "longitude": 14.442208
+    },
+    {
+      "name": "SIBENIK",
+      "code": "3223",
+      "cities": [],
+      "latitude": 43.7340647,
+      "longitude": 15.8944767
+    },
+    {
+      "name": "SISAK",
+      "code": "3238",
+      "cities": [],
+      "latitude": 45.4891806,
+      "longitude": 16.374592
+    },
+    {
+      "name": "SPLIT",
+      "code": "3290",
+      "cities": [],
+      "latitude": 43.5116383,
+      "longitude": 16.4399659
+    },
+    {
+      "name": "VARAZDIN",
+      "code": "3652",
+      "cities": [],
+      "latitude": 46.3079645,
+      "longitude": 16.3378198
+    },
+    {
+      "name": "ZADAR",
+      "code": "3915",
+      "cities": [],
+      "latitude": 44.1168594,
+      "longitude": 15.2353257
+    },
+    {
+      "name": "ZAGREB",
+      "code": "3918",
+      "cities": [],
+      "latitude": 45.8130967,
+      "longitude": 15.9772795
+    }
+  ]
+}

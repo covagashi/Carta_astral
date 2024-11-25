@@ -1,0 +1,160 @@
+{
+  "name": "SCOTLAND",
+  "code": "94",
+  "provinces": [
+    {
+      "name": "ABERDEEN",
+      "code": "8",
+      "cities": [],
+      "latitude": 57.1482429,
+      "longitude": -2.0928095
+    },
+    {
+      "name": "AIRDRIE",
+      "code": "33",
+      "cities": [],
+      "latitude": 55.8657845,
+      "longitude": -3.9795866
+    },
+    {
+      "name": "AYR",
+      "code": "206",
+      "cities": [],
+      "latitude": 55.4628044,
+      "longitude": -4.6302502
+    },
+    {
+      "name": "CLYDEBANK",
+      "code": "778",
+      "cities": [],
+      "latitude": 55.9026837,
+      "longitude": -4.4034151
+    },
+    {
+      "name": "COATBRIDGE",
+      "code": "779",
+      "cities": [],
+      "latitude": 55.8622848,
+      "longitude": -4.0273166
+    },
+    {
+      "name": "CUMBERNAULD",
+      "code": "879",
+      "cities": [],
+      "latitude": 55.9477764,
+      "longitude": -3.9882568
+    },
+    {
+      "name": "DUMFRIES",
+      "code": "987",
+      "cities": [],
+      "latitude": 55.0691397,
+      "longitude": -3.6107936
+    },
+    {
+      "name": "DUNDEE",
+      "code": "996",
+      "cities": [],
+      "latitude": 56.4605938,
+      "longitude": -2.97019
+    },
+    {
+      "name": "DUNFERMLINE",
+      "code": "999",
+      "cities": [],
+      "latitude": 56.0713724,
+      "longitude": -3.4616183
+    },
+    {
+      "name": "EAST KILBRIDE",
+      "code": "1019",
+      "cities": [],
+      "latitude": 55.7601174,
+      "longitude": -4.1796401
+    },
+    {
+      "name": "EDINBURGH",
+      "code": "1037",
+      "cities": [],
+      "latitude": 55.9533456,
+      "longitude": -3.1883749
+    },
+    {
+      "name": "GLASGOW",
+      "code": "1288",
+      "cities": [],
+      "latitude": 55.861155,
+      "longitude": -4.2501687
+    },
+    {
+      "name": "GREENOCK",
+      "code": "1348",
+      "cities": [],
+      "latitude": 55.9473423,
+      "longitude": -4.7564721
+    },
+    {
+      "name": "HAMILTON",
+      "code": "1424",
+      "cities": [],
+      "latitude": 55.7759095,
+      "longitude": -4.033442
+    },
+    {
+      "name": "INVERNESS",
+      "code": "1594",
+      "cities": [],
+      "latitude": 57.4790124,
+      "longitude": -4.225739
+    },
+    {
+      "name": "IRVINE",
+      "code": "1604",
+      "cities": [],
+      "latitude": 55.6143121,
+      "longitude": -4.6655591
+    },
+    {
+      "name": "KIRKCALDY",
+      "code": "1775",
+      "cities": [],
+      "latitude": 56.1110218,
+      "longitude": -3.1582296
+    },
+    {
+      "name": "MOTHERWELL",
+      "code": "2337",
+      "cities": [],
+      "latitude": 55.7902072,
+      "longitude": -3.9920191
+    },
+    {
+      "name": "PAISLEY",
+      "code": "2626",
+      "cities": [],
+      "latitude": 55.8455828,
+      "longitude": -4.4239646
+    },
+    {
+      "name": "PERTH",
+      "code": "2706",
+      "cities": [],
+      "latitude": 56.3958186,
+      "longitude": -3.4286805
+    },
+    {
+      "name": "STIRLING",
+      "code": "3351",
+      "cities": [],
+      "latitude": 56.1181242,
+      "longitude": -3.9360012
+    },
+    {
+      "name": "WISHAW",
+      "code": "3857",
+      "cities": [],
+      "latitude": 55.7743458,
+      "longitude": -3.9184134
+    }
+  ]
+}

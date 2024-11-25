@@ -1,0 +1,125 @@
+{
+  "name": "BULGARIA",
+  "code": "14",
+  "provinces": [
+    {
+      "name": "Blagóevgrad",
+      "code": "4049",
+      "cities": [],
+      "latitude": 41.750287,
+      "longitude": 23.48734109762355
+    },
+    {
+      "name": "BURGAS",
+      "code": "529",
+      "cities": [],
+      "latitude": 42.444553,
+      "longitude": 27.208264534658166
+    },
+    {
+      "name": "GABROVO",
+      "code": "1234",
+      "cities": [],
+      "latitude": 42.9638895,
+      "longitude": 25.211953846464205
+    },
+    {
+      "name": "KAZANIUK",
+      "code": "1726",
+      "cities": [],
+      "latitude": 42.9638895,
+      "longitude": 25.211953846464205
+    },
+    {
+      "name": "KHASKOVO",
+      "code": "1756",
+      "cities": [],
+      "latitude": 41.9345727,
+      "longitude": 25.5556639
+    },
+    {
+      "name": "PAZARDZHIK",
+      "code": "2683",
+      "cities": [],
+      "latitude": 42.1884549,
+      "longitude": 24.3318993
+    },
+    {
+      "name": "PERNIK",
+      "code": "2703",
+      "cities": [],
+      "latitude": 42.628442,
+      "longitude": 22.882311866811484
+    },
+    {
+      "name": "PLEVEN",
+      "code": "2762",
+      "cities": [],
+      "latitude": 43.409022,
+      "longitude": 24.6180123
+    },
+    {
+      "name": "PLOVDIV",
+      "code": "2765",
+      "cities": [],
+      "latitude": 42.1418541,
+      "longitude": 24.7499297
+    },
+    {
+      "name": "RUSE",
+      "code": "3017",
+      "cities": [],
+      "latitude": 43.69840905,
+      "longitude": 26.080381765324482
+    },
+    {
+      "name": "SHUMEN",
+      "code": "3222",
+      "cities": [],
+      "latitude": 43.2703797,
+      "longitude": 26.9247362
+    },
+    {
+      "name": "SLIVEN",
+      "code": "3248",
+      "cities": [],
+      "latitude": 42.6817633,
+      "longitude": 26.3153528
+    },
+    {
+      "name": "SOFIA",
+      "code": "3258",
+      "cities": [],
+      "latitude": 42.6977028,
+      "longitude": 23.3217359
+    },
+    {
+      "name": "STARA ZAGORA",
+      "code": "3334",
+      "cities": [],
+      "latitude": 42.4248111,
+      "longitude": 25.6257479
+    },
+    {
+      "name": "VARNA",
+      "code": "3654",
+      "cities": [],
+      "latitude": 43.2073873,
+      "longitude": 27.9166653
+    },
+    {
+      "name": "VRATSA",
+      "code": "3714",
+      "cities": [],
+      "latitude": 43.2028209,
+      "longitude": 23.548027
+    },
+    {
+      "name": "YAMBOL",
+      "code": "3890",
+      "cities": [],
+      "latitude": 42.483935,
+      "longitude": 26.5105553
+    }
+  ]
+}

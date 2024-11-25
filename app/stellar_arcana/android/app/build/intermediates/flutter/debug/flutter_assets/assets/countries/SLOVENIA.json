@@ -1,0 +1,20 @@
+{
+  "name": "SLOVENIA",
+  "code": "98",
+  "provinces": [
+    {
+      "name": "LJUBLJANA",
+      "code": "2000",
+      "cities": [],
+      "latitude": 46.0500268,
+      "longitude": 14.5069289
+    },
+    {
+      "name": "MARIBOR",
+      "code": "2145",
+      "cities": [],
+      "latitude": 46.5576439,
+      "longitude": 15.6455854
+    }
+  ]
+}

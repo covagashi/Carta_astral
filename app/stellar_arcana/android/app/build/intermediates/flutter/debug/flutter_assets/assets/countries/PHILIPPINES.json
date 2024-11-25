@@ -1,0 +1,69 @@
+{
+  "name": "PHILIPPINES",
+  "code": "88",
+  "provinces": [
+    {
+      "name": "BACOLOD",
+      "code": "210",
+      "cities": [],
+      "latitude": 10.6762836,
+      "longitude": 122.9513786
+    },
+    {
+      "name": "BATANGAS",
+      "code": "271",
+      "cities": [],
+      "latitude": 13.9146826,
+      "longitude": 121.0867566
+    },
+    {
+      "name": "BUTUAN",
+      "code": "548",
+      "cities": [],
+      "latitude": 8.9483324,
+      "longitude": 125.5369442
+    },
+    {
+      "name": "CEBU",
+      "code": "650",
+      "cities": [],
+      "latitude": 10.47,
+      "longitude": 123.83
+    },
+    {
+      "name": "DAVAO",
+      "code": "911",
+      "cities": [],
+      "latitude": 7.0648306,
+      "longitude": 125.6080623
+    },
+    {
+      "name": "ILOILO",
+      "code": "1577",
+      "cities": [],
+      "latitude": 10.9522168,
+      "longitude": 122.5799456
+    },
+    {
+      "name": "MANILLA",
+      "code": "2122",
+      "cities": [],
+      "latitude": 14.5906346,
+      "longitude": 120.9799964
+    },
+    {
+      "name": "TARLAC",
+      "code": "3445",
+      "cities": [],
+      "latitude": 15.4937252,
+      "longitude": 120.4964091
+    },
+    {
+      "name": "ZAMBOANGA",
+      "code": "3921",
+      "cities": [],
+      "latitude": 18.1888705,
+      "longitude": 120.547657
+    }
+  ]
+}
