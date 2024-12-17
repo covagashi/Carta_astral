@@ -4,18 +4,10 @@ import 'package:intl/date_symbol_data_local.dart';
 import 'screens/SCR_ONB_01_Welcome.dart';
 import 'screens/SCR_ONB_02_BirthInfo.dart';
 import 'screens/SCR_01_Home.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'services/remote_config_service.dart';
+import 'screens/SCR_01_AstrosAhora.dart';
 
-
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
-
-  final remoteConfig = RemoteConfigService();
-  await remoteConfig.initialize();
-
-  runApp(const AstrologiaApp());
+void main() {
+  initializeDateFormatting('es_ES', null).then((_) => runApp(const AstrologiaApp()));
 }
 
 class AstrologiaApp extends StatelessWidget {
@@ -27,7 +19,6 @@ class AstrologiaApp extends StatelessWidget {
       title: 'Astrología App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        // Puedes personalizar más el tema aquí
       ),
       localizationsDelegates: const [
         GlobalMaterialLocalizations.delegate,
@@ -75,7 +66,7 @@ class DevHomeScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             ElevatedButton(
-              child: const Text('Pantalla main'),
+              child: const Text('Pantalla Principal'),
               onPressed: () => Navigator.push(
                 context,
                 MaterialPageRoute(
@@ -85,9 +76,16 @@ class DevHomeScreen extends StatelessWidget {
                 ),
               ),
             ),
-
-
-            // Añade más botones aquí para otras pantallas que quieras probar
+            const SizedBox(height: 20),
+            ElevatedButton(
+              child: const Text('Astros Ahora'),
+              onPressed: () => Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const AstrosAhora(),
+                ),
+              ),
+            ),
           ],
         ),
       ),
